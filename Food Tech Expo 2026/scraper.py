@@ -71,6 +71,8 @@ def record_from_item(item):
         "event_location": EVENT_LOCATION,
         "profile_url": "",
         "event_source": CATALOG_URL,
+        "result_type": "Exhibitor",
+        "parent_exhibitor_name": "",
     }
 
 
@@ -125,17 +127,38 @@ def main():
     response = requests.get(DATA_URL, headers=HEADERS, timeout=60)
     response.raise_for_status()
     items = [item for item in response.json() if item.get("catalog_id") == 160]
-    records = [record_from_item(item) for item in items]
-    records = list({record["exhibitor_name"].casefold(): record for record in records}.values())
-    print(f"Found {len(records)} Food Tech Expo 2026 exhibitors")
+    exhibitor_records = [record_from_item(item) for item in items]
+    print(f"Found {len(exhibitor_records)} Food Tech Expo 2026 exhibitors")
     with ThreadPoolExecutor(max_workers=10) as pool:
-        records = list(pool.map(enrich_domain, records))
+        exhibitor_records = list(pool.map(enrich_domain, exhibitor_records))
+    records = []
+    for item, parent in zip(items, exhibitor_records):
+        records.append(parent)
+        parent_name = parent["exhibitor_name"]
+        info = item.get("companyInfo") or {}
+        for brand in info.get("brands") or []:
+            record = parent.copy()
+            record["exhibitor_name"] = clean(brand)
+            record["result_type"] = "Brand"
+            record["parent_exhibitor_name"] = parent_name
+            record["desc"] = ""
+            records.append(record)
+        for product in item.get("products") or []:
+            if not isinstance(product, dict):
+                continue
+            record = parent.copy()
+            record["exhibitor_name"] = clean(product.get("name", ""))
+            record["result_type"] = "Product"
+            record["parent_exhibitor_name"] = parent_name
+            record["desc"] = clean(product.get("description", ""))
+            records.append(record)
     records.sort(key=lambda item: item["exhibitor_name"].casefold())
     OUT.mkdir(parents=True, exist_ok=True)
     fields = [
         "exhibitor_name", "domain", "contact_number", "mail", "location",
         "country", "booth_no", "desc", "linkedin_url", "city",
         "event_location", "profile_url", "event_source",
+        "result_type", "parent_exhibitor_name",
     ]
     base = OUT / f"{EVENT}_exhibitors"
     with base.with_suffix(".csv").open("w", newline="", encoding="utf-8-sig") as handle:

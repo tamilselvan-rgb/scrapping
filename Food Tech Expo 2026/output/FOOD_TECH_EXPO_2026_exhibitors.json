@@ -12,7 +12,9 @@
     "city": "BYDGOSZCZ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"BUSCH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -27,7 +29,9 @@
     "city": "Nowa Wieś",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"DADAUX POLSKA\" SP. Z O.O.",
@@ -42,7 +46,9 @@
     "city": "WIELUŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"LEVEN GROUP\" SP. Z O.O.",
@@ -57,7 +63,9 @@
     "city": "SADY",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"MOESCHLE POLSKA\" SP. Z O.O.",
@@ -72,7 +80,9 @@
     "city": "DYNÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"NOMA\" Sp. z o.o",
@@ -87,7 +97,9 @@
     "city": "PODLAS",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"NOMA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -102,7 +114,9 @@
     "city": "Podlas",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"SPOMASZ\" BEŁŻYCE S.A.",
@@ -117,7 +131,26 @@
     "city": "BEŁŻYCE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "\"UNIROB\" MARCIN I PAWEŁ KUBICCY SPÓŁKA JAWNA",
+    "domain": "",
+    "contact_number": "",
+    "mail": "",
+    "location": "AL. WOJSKA POLSKIEGO 31/20 01-515 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F4.14",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "\"UNIROB\" MARCIN I PAWEŁ KUBICCY SPÓŁKA JAWNA",
@@ -132,7 +165,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "'ELESA + GANTER POLSKA' SP. Z O.O.",
@@ -147,7 +182,9 @@
     "city": "STARA IWICZNA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "'FACH-PAK' Sp. z o.o. Sp.K.",
@@ -162,7 +199,43 @@
     "city": "SŁUPSK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "3A",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "NGI A/S"
+  },
+  {
+    "exhibitor_name": "Agenci AI",
+    "domain": "csb.com",
+    "contact_number": "+ 48 602 699 390",
+    "mail": "info.pl@csb.com",
+    "location": "STRZEGOMSKA 140A 54-429 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.24A",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/csb-system-polska",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "AICON X-RAY",
@@ -177,7 +250,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "AIR LIQUIDE POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -192,7 +267,9 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "AIR PRODUCTS SP. Z O.O.",
@@ -207,7 +284,26 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "AMES",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "AMFI Sp. z o.o.",
@@ -222,7 +318,9 @@
     "city": "MIKOŁÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "AMJADI INTERNATIONAL-POL",
@@ -237,7 +335,9 @@
     "city": "KASZCZOR",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ARGELITH POLSKA-POŁUDNIE EDYTA BOGACKA",
@@ -252,7 +352,9 @@
     "city": "KATOWICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ARGOSPAW Tomasz Kaczor",
@@ -267,7 +369,9 @@
     "city": "GUZÓWKA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ARMAPOL PPHU R., M. KUBSIK SPÓŁKA JAWNA",
@@ -282,7 +386,26 @@
     "city": "PLEWISKA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "ASM Skewer machine",
+    "domain": "",
+    "contact_number": "",
+    "mail": "",
+    "location": "3882 TR PUTTEN 00040 HOGE ENG-WEST Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.19b",
+    "desc": "Automatic skewer production",
+    "linkedin_url": "",
+    "city": "HOGE ENG-WEST",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "JANSEN TECHNIEK MACHINEBOUW B.V"
   },
   {
     "exhibitor_name": "ASTAT SP. Z O.O.",
@@ -297,7 +420,26 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Asystent AI Cesy",
+    "domain": "csb.com",
+    "contact_number": "+ 48 602 699 390",
+    "mail": "info.pl@csb.com",
+    "location": "STRZEGOMSKA 140A 54-429 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.24A",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/csb-system-polska",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "AUTOCOOK SP. Z O.O.",
@@ -312,7 +454,9 @@
     "city": "CHOMĘCICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "AVENTES Sp. z o.o.",
@@ -327,7 +471,9 @@
     "city": "SZCZECIN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Aviaris by Weindich",
@@ -342,7 +488,26 @@
     "city": "CHORZÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Baader",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "BAADER Food Systems Denmark A/S",
@@ -357,7 +522,9 @@
     "city": "Trige",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "BACHA B. GUZICKI I W. GUZICKA SP.J.",
@@ -372,7 +539,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "BACHA B. GUZICKI I W. GUZICKA SPÓŁKA JAWNA",
@@ -387,7 +556,26 @@
     "city": "Warszawa",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Bando",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "BECK CLIP SYSTEMS SP. Z O.O.",
@@ -402,7 +590,9 @@
     "city": "PLEWISKA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "BECKER POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -417,11 +607,13 @@
     "city": "Pianowo",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "BENT IRON ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "bentiron.energy",
+    "domain": "",
     "contact_number": "",
     "mail": "",
     "location": "Golfowa 38/2 41-907 Bytom Poland",
@@ -432,7 +624,43 @@
     "city": "Bytom",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Betex",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Bezobsługowe zespoły łożyskowe",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "Higieniczne zespoły łożyskowe NGI zostały stworzone z myślą o bezobsługowej i niezawodnej pracy w wymagających warunkach produkcji i intensywnego mycia. Konstrukcja nie wymaga smarowania, co ogranicza konserwację i ryzyko awarii, zapewniając mniej nieplanowanych przestojów, niższe koszty utrzymania i większy uptime linii produkcyjnej. Certyfikowana higieniczna konstrukcja EHEDG, 3-A i USDA oraz szczelność IP69K ułatwiają skuteczne mycie i eliminują ryzyko zanieczyszczenia produktu smarem.",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "BIURO TECHNICZNO-HANDLOWE PRO-MAC MACIEJ SAŁASIŃSKI",
@@ -447,7 +675,26 @@
     "city": "Łódź",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Bizerba",
+    "domain": "bizerba.com",
+    "contact_number": "+48 512 198 003",
+    "mail": "agata.bochenek@bizerba.com",
+    "location": "ANNY WALENTYNOWICZ 10 20-328 LUBLIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.06",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/bizerba-polska-sp-z-o-o",
+    "city": "LUBLIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BIZERBA POLSKA"
   },
   {
     "exhibitor_name": "BIZERBA POLSKA",
@@ -462,7 +709,9 @@
     "city": "LUBLIN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Blucher Metal",
@@ -477,7 +726,9 @@
     "city": "Gliwice",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "BOGUMIŁ RAJDA",
@@ -492,7 +743,43 @@
     "city": "ANDRYCHÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Branżowy CSB ERP",
+    "domain": "csb.com",
+    "contact_number": "+ 48 602 699 390",
+    "mail": "info.pl@csb.com",
+    "location": "STRZEGOMSKA 140A 54-429 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.24A",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/csb-system-polska",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "Brokelmann",
+    "domain": "brokelmann.eu",
+    "contact_number": "+48713842584",
+    "mail": "brokelmann@brokelmann.eu",
+    "location": "STAWNA 6 56-300 MILICZ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.05",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/brokelmanneu",
+    "city": "MILICZ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BROKELMANN SP. Z O.O."
   },
   {
     "exhibitor_name": "BROKELMANN SP. Z O.O.",
@@ -507,7 +794,43 @@
     "city": "MILICZ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "BST - Narzędzie wykrywalne",
+    "domain": "aventes.pl",
+    "contact_number": "",
+    "mail": "",
+    "location": "KRESOWA 24 71-770 SZCZECIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / e3.25",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "SZCZECIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AVENTES Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Busch Vacuum Solutions",
+    "domain": "buschvacuum.com",
+    "contact_number": "+48 789 091 760",
+    "mail": "ewa.modrzejewska@busch.com.pl",
+    "location": "Dedala 7 87-853 Nowa Wieś Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.31",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/busch-vacuum-solutions/?viewAsMember=true",
+    "city": "Nowa Wieś",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "\"BUSCH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "Casa Blanca Communication GmbH & Co. KG",
@@ -522,7 +845,9 @@
     "city": "Hamburg",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "CHEMAXPOL SP. Z O.O. SP.K.",
@@ -537,7 +862,26 @@
     "city": "OSTASZEWO",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Chiaravalli",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "CHIORINO",
@@ -552,7 +896,9 @@
     "city": "BYDGOSZCZ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "CLEANACCESS Sp. z o.o",
@@ -567,7 +913,43 @@
     "city": "KIELCE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "CLEANETIC",
+    "domain": "noma.tech",
+    "contact_number": "+48 46 814 55 00",
+    "mail": "info@noma.tech",
+    "location": "TOMASZOWSKA 90 96-200 PODLAS Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.23",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "PODLAS",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "\"NOMA\" Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "CRC",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "CRC Industries Europe",
@@ -582,7 +964,26 @@
     "city": "Warszawa",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "CSB Vision",
+    "domain": "csb.com",
+    "contact_number": "+ 48 602 699 390",
+    "mail": "info.pl@csb.com",
+    "location": "STRZEGOMSKA 140A 54-429 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.24A",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/csb-system-polska",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -597,7 +998,9 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "CUTLERY SOLUTIONS MICHAŁ BRZESKI",
@@ -612,7 +1015,9 @@
     "city": "DYSZÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Dariusz Jezierski Dar Ogrodu",
@@ -627,7 +1032,9 @@
     "city": "BRUDZEW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "DARIUSZ KUSZKOWSKI DAREX",
@@ -642,7 +1049,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "DESPOL SP. Z O.O.",
@@ -657,7 +1066,26 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "DICHTOMATIK",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "DITEX SP. Z O.O.",
@@ -672,7 +1100,9 @@
     "city": "DOBROSZYCE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "DOBOPACK TRADING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -687,7 +1117,43 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Donghua",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "DS6 Dekontaktory dla przemysłu",
+    "domain": "promac.com.pl",
+    "contact_number": "505246024",
+    "mail": "w.rutkowski@promac.com.pl",
+    "location": "Generała Bema 55 91-492 Łódź Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.09a",
+    "desc": "DS6 to rozłączalne urządzenie wtykowe wg IEC/EN 60309-1. Rozłączalne przez naciśnięcie przycisku. Zwarta obudowa. Materiał obudowy: tworzywo sztuczne (IK08) lub metal (IK09). Srebrne styki z dociskiem czołowym. Możliwość kodowania 24 pozycji. Zabezpieczenie przed porażeniem przez obrotową tarczę zabezpieczającą. Stopień ochrony: IP66/67. Prąd znamionowy (In): 90A. Napięcie maksymalne (Umax): 1000V AC / 250V DC. Przekrój przewodu (min-maks): 10-35 mm² (drut), 10-25 mm² (linka).",
+    "linkedin_url": "https://www.linkedin.com/company/18493190/",
+    "city": "Łódź",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "BIURO TECHNICZNO-HANDLOWE PRO-MAC MACIEJ SAŁASIŃSKI"
   },
   {
     "exhibitor_name": "EAPOL SP. Z O.O.",
@@ -702,7 +1168,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ECO-CLEAN TOMASZ MALANOWICZ",
@@ -717,7 +1185,43 @@
     "city": "ZIEMIĘCICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "EHEDG",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "NGI A/S"
+  },
+  {
+    "exhibitor_name": "eich",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "Eilersen Electric",
@@ -732,7 +1236,9 @@
     "city": "Kokkedal",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "EKOMEX-PILŚNIAK SP. Z O.O. SP.K.",
@@ -747,7 +1253,9 @@
     "city": "PANKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ELPRESS POLAND",
@@ -762,7 +1270,9 @@
     "city": "AV Boxmeer",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Empra MARIUSZ KUCHARCZYK",
@@ -777,7 +1287,9 @@
     "city": "WINNICA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ENRECO SP. Z O.O.",
@@ -792,7 +1304,9 @@
     "city": "WOŁOMIN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ERY FOOD MACHINERY",
@@ -807,7 +1321,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "EXA22 Sp. z o.o.",
@@ -822,7 +1338,9 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "F.H. Najbar",
@@ -837,7 +1355,26 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "FAG",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "FAIR PLAY PLUS",
@@ -852,7 +1389,9 @@
     "city": "ZĄBKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FAM - STUMABO POLSKA Sp. z o.o.",
@@ -867,7 +1406,9 @@
     "city": "PLEWISKA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FANUC POLSKA Sp. z o.o.",
@@ -882,7 +1423,9 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FC FOODCONCEPT Sp. z o. o.",
@@ -897,7 +1440,9 @@
     "city": "KOLBUDY",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FFT FUTURE FOOD TECHNOLOGIES",
@@ -912,7 +1457,9 @@
     "city": "MYSŁOWICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Fiinu Prosta Spółka Akcyjna [dawniej: Everfex]",
@@ -927,7 +1474,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FOLPOL",
@@ -942,7 +1491,9 @@
     "city": "WÓLKA ZAŁĘSKA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "FORBOX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
@@ -957,7 +1508,26 @@
     "city": "TORUŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "FPP",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "FPS FOOD PROCESS SOLUTIONS EUROPE B.V.",
@@ -972,7 +1542,43 @@
     "city": "GOES",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Freshline",
+    "domain": "airproducts.com.pl",
+    "contact_number": "801 100 107",
+    "mail": "infopl@airproducts.com",
+    "location": "KOMITETU OBRONY ROBOTNIKÓW 48 02-146 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.29",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/air-products-poland/?viewAsMember=true",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AIR PRODUCTS SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Freudenberg Sealing Technologies",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "GARDENIA FOOD SKROBOL SPÓŁKA KOMANDYTOWA",
@@ -987,7 +1593,9 @@
     "city": "PSZCZYNA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "GAROS Sp. z o. o.",
@@ -1002,7 +1610,43 @@
     "city": "BYDGOSZCZ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Gates",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Ghibli",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "GOMIKO CAPITAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1017,7 +1661,43 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Goudsmit Magnetics",
+    "domain": "matykiewicz.com",
+    "contact_number": "504034175",
+    "mail": "michal@matykiewicz.com",
+    "location": "WŁADYSŁAWA ŁOKIETKA 1/74 61-616 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.07b",
+    "desc": "",
+    "linkedin_url": "www.linkedin.com/in/matykiewicz",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "MICHAŁ MATYKIEWICZ \"MATYKIEWICZ.COM\""
+  },
+  {
+    "exhibitor_name": "Grasselli",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "Grote Company",
@@ -1032,7 +1712,9 @@
     "city": "NIJVERDAL",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "HABASIT POLSKA Sp. z o. o.",
@@ -1047,7 +1729,26 @@
     "city": "CZELADŹ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "HACPP",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "HANDTMANN POLSKA Sp. z o.o.",
@@ -1062,7 +1763,26 @@
     "city": "JAWCZYCE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "HeatMaster",
+    "domain": "brokelmann.eu",
+    "contact_number": "+48713842584",
+    "mail": "brokelmann@brokelmann.eu",
+    "location": "STAWNA 6 56-300 MILICZ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.05",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/brokelmanneu",
+    "city": "MILICZ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BROKELMANN SP. Z O.O."
   },
   {
     "exhibitor_name": "HEISSLUFTTECHNIK FLOCKE SP. Z O.O.",
@@ -1077,7 +1797,9 @@
     "city": "KATOWICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "HERT Sp. z o.o.",
@@ -1092,7 +1814,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "HHS CHEMICALS Sp. z o. o.",
@@ -1107,7 +1831,43 @@
     "city": "DĘBLIN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Hillbrush Higiena",
+    "domain": "aventes.pl",
+    "contact_number": "",
+    "mail": "",
+    "location": "KRESOWA 24 71-770 SZCZECIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / e3.25",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "SZCZECIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AVENTES Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "HIWIN",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "HOCKER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1122,7 +1882,9 @@
     "city": "CHOJNÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "HOENLE UV UK LTD",
@@ -1137,7 +1899,26 @@
     "city": "ABERDEEN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "HSM",
+    "domain": "eu.hsm.eu",
+    "contact_number": "+48 22 8622369",
+    "mail": "handlowy@hsm.eu",
+    "location": "EMALIOWA 28 02-295 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.22a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/hsm-polska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "HSM POLSKA"
   },
   {
     "exhibitor_name": "HSM POLSKA",
@@ -1152,7 +1933,26 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "IFEC B.V.",
+    "domain": "ifec.nl",
+    "contact_number": "",
+    "mail": "",
+    "location": "Rontgenstraat 18 3261 OUD-BEIJERLAND Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.36",
+    "desc": "Our company may be brand new, but our founders are veterans of the poultry processing industry. Their decades of experience are supplemented by the out-of-the-box thinking of a young and enthusiastic team. This combination allows IFEC to add value to a market that is dominated by mass production where profit is found in volume. Our aim is to bring innovation to this market and allow producers to open new avenues of revenue while minimizing the need for extra manpower and changes to their daily production. To achieve this we develop small and specialized machines for automated processing of standard products into specialty products.",
+    "linkedin_url": "",
+    "city": "OUD-BEIJERLAND",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "IFEC B.V.",
@@ -1167,7 +1967,9 @@
     "city": "OUD-BEIJERLAND",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "IGLOSZRON CHMIELEWSCY SP.K.",
@@ -1182,7 +1984,26 @@
     "city": "OSZKINIE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "IGUS",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "IMPEXMASH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1197,7 +2018,26 @@
     "city": "DOMASŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "INA",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "INDASOL Piotr Nowak/ ZANELLI Srl",
@@ -1212,7 +2052,60 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Innowacje",
+    "domain": "exa22.com",
+    "contact_number": "+48 789 801 940",
+    "mail": "info@exa22.com",
+    "location": "ZAKOPIAŃSKA 175 30-435 KRAKÓW Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.15",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/exa22/",
+    "city": "KRAKÓW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "EXA22 Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Innowacje",
+    "domain": "lornix.eu",
+    "contact_number": "+48517336355",
+    "mail": "m.kramar@lornix.eu",
+    "location": "KSIĘCIA JÓZEFA PONIATOWSKIEGO 4/19 50-326 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.25",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lornix/",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LORNIX SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Innowacje",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "INOXA",
@@ -1227,7 +2120,9 @@
     "city": "Jaworzno",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "INTER ARMA Sp. z o. o.",
@@ -1242,7 +2137,9 @@
     "city": "RUDAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "INVESTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1257,7 +2154,9 @@
     "city": "WAŁCZ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "INVO VENTURES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1272,7 +2171,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "JANSEN TECHNIEK MACHINEBOUW B.V",
@@ -1287,7 +2188,9 @@
     "city": "HOGE ENG-WEST",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "JARVIS POLSKA LIMITED SP. Z O.O.",
@@ -1302,7 +2205,9 @@
     "city": "STARA DĄBROWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "JELUX POLSKA Sp.z o.o.",
@@ -1317,7 +2222,9 @@
     "city": "ŻORY",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "KA-GRA SP.J.",
@@ -1332,7 +2239,77 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Katrin",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
+  },
+  {
+    "exhibitor_name": "Kiehl",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
+  },
+  {
+    "exhibitor_name": "Kluber Lubrication",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Komputer przemysłowy CSB Rack",
+    "domain": "csb.com",
+    "contact_number": "+ 48 602 699 390",
+    "mail": "info.pl@csb.com",
+    "location": "STRZEGOMSKA 140A 54-429 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.24A",
+    "desc": "CSB Rack, seria 3, doskonale sprawdza się w trudnych warunkach panujących w przemyśle spożywczym. Jako interfejs człowiek-maszyna służy nie tylko do rejestracji danych, ale też do wizualizacji i sterowania procesami - nawet w ekstremalnych temperaturach, przy wysokiej wilgotności powietrza i dużym zapyleniu. Wszystkie elementy CSB Rack są odporne na wilgoć i mogą być czyszczone myjką wysokociśnieniową. Ekran dotykowy można obsługiwać również w rękawicach. Zaprojektowany zgodnie z zasadami higienicznego designu, dzięki czemu spełnia surowe wymagania norm higienicznych.",
+    "linkedin_url": "https://pl.linkedin.com/company/csb-system-polska",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "CSB-SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "KUBASIK Wyroby ze stali nierdzewnej",
@@ -1347,7 +2324,43 @@
     "city": "MIŁOCHOWICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Kukko",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Laska",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "Leanpio Polska sp z o.o.",
@@ -1362,7 +2375,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "LEOSMAK S.A.",
@@ -1377,7 +2392,43 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Listwa myjąca CiP",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "Higieniczna jednostka CIP automatyzuje proces mycia taśmy, zapewniając skuteczne i powtarzalne czyszczenie przy znacząco mniejszym zużyciu wody. To rozwiązanie typu add-on, które można łatwo zainstalować na istniejącym przenośniku bez konieczności przebudowy jego konstrukcji, automatyzując dotychczasowe czasochłonne mycie ręczne. Mniej zużytej wody i szybszy proces mycia oznaczają niższe koszty, krótszy przestój i więcej czasu na produkcję.",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "NGI A/S"
+  },
+  {
+    "exhibitor_name": "Loctite",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "Loma Systems",
@@ -1392,7 +2443,9 @@
     "city": "DOBRANY",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1407,7 +2460,26 @@
     "city": "CZECHOWICE-DZIEDZICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Lornix",
+    "domain": "lornix.eu",
+    "contact_number": "+48517336355",
+    "mail": "m.kramar@lornix.eu",
+    "location": "KSIĘCIA JÓZEFA PONIATOWSKIEGO 4/19 50-326 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.25",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lornix/",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LORNIX SP. Z O.O."
   },
   {
     "exhibitor_name": "LORNIX SP. Z O.O.",
@@ -1422,7 +2494,9 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "LS TECH SP. Z O.O.",
@@ -1437,7 +2511,9 @@
     "city": "PSTRĄGOWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "LUBRICANT POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1452,7 +2528,9 @@
     "city": "CZECHOWICE-DZIEDZICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "M&M WYROBY ZE STALI NIERDZEWNEJ SPÓŁKA CYWILNA MARCIN POPIELAS-SOBKOWIAK MICHAŁ POPIELAS",
@@ -1467,7 +2545,111 @@
     "city": "SUŁÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Made in Germany",
+    "domain": "eu.hsm.eu",
+    "contact_number": "+48 22 8622369",
+    "mail": "handlowy@hsm.eu",
+    "location": "EMALIOWA 28 02-295 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.22a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/hsm-polska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "HSM POLSKA"
+  },
+  {
+    "exhibitor_name": "Made in Poland",
+    "domain": "exa22.com",
+    "contact_number": "+48 789 801 940",
+    "mail": "info@exa22.com",
+    "location": "ZAKOPIAŃSKA 175 30-435 KRAKÓW Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.15",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/exa22/",
+    "city": "KRAKÓW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "EXA22 Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Made in Poland",
+    "domain": "trademysak.pl",
+    "contact_number": "789 571 281",
+    "mail": "d.witkiewicz@trademysak.pl",
+    "location": "STRZESZYŃSKA 125 60-479 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.25",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/trade-mysak-group",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "Made in Poland",
+    "domain": "unidoz.com",
+    "contact_number": "+48 516 673 946",
+    "mail": "info@unidoz.com",
+    "location": "PLAC GEN. JÓZEFA HALLERA 5/14A 03-464 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.19a",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "UNIDOZ Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "Marechal Electric",
+    "domain": "promac.com.pl",
+    "contact_number": "505246024",
+    "mail": "w.rutkowski@promac.com.pl",
+    "location": "Generała Bema 55 91-492 Łódź Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.09a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/18493190/",
+    "city": "Łódź",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BIURO TECHNICZNO-HANDLOWE PRO-MAC MACIEJ SAŁASIŃSKI"
+  },
+  {
+    "exhibitor_name": "Marel",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "MAS-POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1482,7 +2664,9 @@
     "city": "TARNÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MAYEKAWA POLSKA SP. Z O.O.",
@@ -1497,7 +2681,9 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Meshnex",
@@ -1512,7 +2698,9 @@
     "city": "Utrecht",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "METROOPACK SP. Z O.O.",
@@ -1527,7 +2715,9 @@
     "city": "NYSA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MICHAŁ CIASTOŃ bePROTO",
@@ -1542,7 +2732,9 @@
     "city": "GDYNIA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MICHAŁ MATYKIEWICZ \"MATYKIEWICZ.COM\"",
@@ -1557,7 +2749,9 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "miesięcznik \"RZEŹNIK POLSKI\"",
@@ -1572,7 +2766,9 @@
     "city": "BIAŁYSTOK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MIKSTER SP. Z O.O.",
@@ -1587,7 +2783,9 @@
     "city": "CZELADŹ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MP PROCESS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1602,7 +2800,43 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "MultiControl",
+    "domain": "aiconxray.com",
+    "contact_number": "+48518298397",
+    "mail": "t.ochnik@aiconxray.com",
+    "location": "POLECZKI 32 02-822 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.37",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/aicon-x-ray-gmbh",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AICON X-RAY"
+  },
+  {
+    "exhibitor_name": "MultiIntegrator",
+    "domain": "aiconxray.com",
+    "contact_number": "+48518298397",
+    "mail": "t.ochnik@aiconxray.com",
+    "location": "POLECZKI 32 02-822 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.37",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/aicon-x-ray-gmbh",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AICON X-RAY"
   },
   {
     "exhibitor_name": "MULTIVAC SP. Z O.O.",
@@ -1617,7 +2851,9 @@
     "city": "NATALIN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "MYSAK GROUP SP. Z O.O. SP. K.",
@@ -1632,7 +2868,26 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "N&N NADRATOWSKI S. J.",
+    "domain": "nadratowski.com",
+    "contact_number": "",
+    "mail": "",
+    "location": "AKACJOWA 3 09-230 BIELSK Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.13",
+    "desc": "Firma N&N Nadratowski to rodzinna firma z siedzibą w Bielsku (ul. Akacjowa 3, 09-230 Bielsk), założona w 2001 roku. Specjalizuje się w projektowaniu, produkcji i dystrybucji wysokiej jakości maszyn oraz kompletnych linii technologicznych dla przetwórstwa spożywczego — m.in. mieszałki, podajniki, wilko-mieszałki — z eksportem do kilkudziesięciu krajów na pięciu kontynentach. Ponadto firma oferuje serwis oraz pełną obsługę swoich urządzeń, aby zapewnić ich wydajną i bezawaryjną eksploatację.",
+    "linkedin_url": "",
+    "city": "BIELSK",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "N&N NADRATOWSKI S. J.",
@@ -1647,7 +2902,26 @@
     "city": "BIELSK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "NADELLA",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "NARS POLSKA Sp. z o.o.",
@@ -1662,7 +2936,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "NEVSA Konrad Sołtysek",
@@ -1677,7 +2953,26 @@
     "city": "KATOWICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "NGI",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "NGI A/S",
@@ -1692,7 +2987,9 @@
     "city": "Norresundby",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "NIAGARA-SYSTEM DRĄŻKOWSKI & SZULC S.C.",
@@ -1707,7 +3004,9 @@
     "city": "NOWE DĄBIE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "NIRO - TECH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1722,7 +3021,43 @@
     "city": "JAWORZNO",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "NOMA",
+    "domain": "noma.tech",
+    "contact_number": "+48 46 814 55 00",
+    "mail": "info@noma.tech",
+    "location": "TOMASZOWSKA 90 96-200 PODLAS Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.23",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "PODLAS",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "\"NOMA\" Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "NOMA Nowicki",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "NOVA PPROCESS GRZEGORZ JĘDRASZCZYK",
@@ -1737,7 +3072,9 @@
     "city": "NOWA SÓL",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "NT GROUP SYSTEMY INFORMATYCZNE Sp. z o.o",
@@ -1752,7 +3089,26 @@
     "city": "ŁÓDŹ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "NTN SNR",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "Ocean Systems",
@@ -1767,7 +3123,9 @@
     "city": "STARA IWICZNA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ORFID",
@@ -1782,7 +3140,9 @@
     "city": "POLESIE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "PERFEKT BACKER POLSKA Sp. z o.o",
@@ -1797,7 +3157,43 @@
     "city": "BOBROWIEC",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "PERMAGLIDE",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Pfeiffer Vacuum+Fab Solutions",
+    "domain": "buschvacuum.com",
+    "contact_number": "+48 789 091 760",
+    "mail": "ewa.modrzejewska@busch.com.pl",
+    "location": "Dedala 7 87-853 Nowa Wieś Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.31",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/busch-vacuum-solutions/?viewAsMember=true",
+    "city": "Nowa Wieś",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "\"BUSCH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "PFTECHNOLOGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1812,7 +3208,26 @@
     "city": "WIERZBICA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Play",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "PND COSTRUZIONI ELETTROMECCANICHE S.R.L.",
@@ -1827,7 +3242,9 @@
     "city": "SCAFATI SA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "POLSKA IZBA OPAKOWAŃ",
@@ -1842,7 +3259,43 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Poly-clip System",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
+  },
+  {
+    "exhibitor_name": "Pompa próżniowa RA 0305 D",
+    "domain": "buschvacuum.com",
+    "contact_number": "+48 789 091 760",
+    "mail": "ewa.modrzejewska@busch.com.pl",
+    "location": "Dedala 7 87-853 Nowa Wieś Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.31",
+    "desc": "Busch R5 RA 0305 D ECOTORQUE Inteligentna pompa próżniowa dla nowoczesnego przemysłu Busch R5 RA 0305 D ECOTORQUE to wysokowydajna, olejowa pompa próżniowa łopatkowa wyposażona w napęd o zmiennej prędkości obrotowej (ECOTORQUE), który automatycznie dostosowuje wydajność do aktualnego zapotrzebowania procesu. Dzięki temu zapewnia znaczące oszczędności energii, stabilną pracę oraz niezawodność nawet w wymagających aplikacjach przemysłowych. Najważniejsze korzyści: ✅ Do 360 m³/h wydajności pompowania ✅ Wysoka efektywność energetyczna dzięki technologii ECOTORQUE ✅ Funkcja Ecomode z automatycznym startem i zatrzymaniem ✅ Precyzyjna regulacja poziomu próżni i prędkości pracy ✅ Niezawodna, sprawdzona technologia łopatkowa Busch ✅ Przystosowana do pracy ciągłej w warunkach przemysłowych ✅ Możliwość monitorowania i sterowania pracą pomp w systemie Zastosowania: Pakowanie próżniowe, przemysł spożywczy, przetwórstwo tworzyw sztucznych, drukarnie, transport pneumatyczny, obróbka drewna oraz wszędzie tam, gdzie wymagana jest stabilna i energooszczędna próżnia.",
+    "linkedin_url": "https://www.linkedin.com/company/busch-vacuum-solutions/?viewAsMember=true",
+    "city": "Nowa Wieś",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "\"BUSCH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "POWER Rubber Robert Piotrowski",
@@ -1857,7 +3310,26 @@
     "city": "MOSZNA-PARCELA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Połączenia elastyczne",
+    "domain": "trademysak.pl",
+    "contact_number": "789 571 281",
+    "mail": "d.witkiewicz@trademysak.pl",
+    "location": "STRZESZYŃSKA 125 60-479 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.25",
+    "desc": "Połączenia elastyczne do instalacji przemysłowych Połączenia elastyczne to elementy stosowane do łączenia rurociągów, urządzeń i innych części instalacji, w których występują drgania, niewielkie przemieszczenia lub różnice w położeniu poszczególnych elementów. Ich zadaniem jest zapewnienie szczelnego połączenia przy jednoczesnym umożliwieniu niewielkiego ruchu instalacji. Dzięki temu ograniczają przenoszenie drgań i naprężeń pomiędzy połączonymi urządzeniami oraz pomagają kompensować drobne różnice w ustawieniu elementów. Połączenia elastyczne znajdują zastosowanie m.in. w instalacjach do transportu i przetwarzania materiałów sypkich, układach dozowania, przesypywania i ważenia, a także przy połączeniach urządzeń z rurociągami. W zależności od zastosowania mogą być wykonane z różnych materiałów i w różnych wariantach konstrukcyjnych, z uwzględnieniem takich wymagań jak temperatura pracy, właściwości transportowanego materiału, higiena instalacji, odporność chemiczna czy wymagania ATEX. Dobrze dobrane połączenie elastyczne pozwala połączyć dwa elementy instalacji bez tworzenia sztywnego połączenia, które mogłoby przenosić niepożądane drgania i naprężenia.",
+    "linkedin_url": "https://pl.linkedin.com/company/trade-mysak-group",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o"
   },
   {
     "exhibitor_name": "PROBON Sp. z o.o.",
@@ -1872,7 +3344,94 @@
     "city": "KOMORNIKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Produkcje maszyn",
+    "domain": "bizerba.com",
+    "contact_number": "+48 512 198 003",
+    "mail": "agata.bochenek@bizerba.com",
+    "location": "ANNY WALENTYNOWICZ 10 20-328 LUBLIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.06",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/bizerba-polska-sp-z-o-o",
+    "city": "LUBLIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BIZERBA POLSKA"
+  },
+  {
+    "exhibitor_name": "Produkcje maszyn",
+    "domain": "exa22.com",
+    "contact_number": "+48 789 801 940",
+    "mail": "info@exa22.com",
+    "location": "ZAKOPIAŃSKA 175 30-435 KRAKÓW Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.15",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/exa22/",
+    "city": "KRAKÓW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "EXA22 Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Produkcje maszyn",
+    "domain": "lornix.eu",
+    "contact_number": "+48517336355",
+    "mail": "m.kramar@lornix.eu",
+    "location": "KSIĘCIA JÓZEFA PONIATOWSKIEGO 4/19 50-326 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.25",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lornix/",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LORNIX SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Produkcje przemysłowe",
+    "domain": "exa22.com",
+    "contact_number": "+48 789 801 940",
+    "mail": "info@exa22.com",
+    "location": "ZAKOPIAŃSKA 175 30-435 KRAKÓW Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.15",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/exa22/",
+    "city": "KRAKÓW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "EXA22 Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Produkcje przemysłowe",
+    "domain": "lornix.eu",
+    "contact_number": "+48517336355",
+    "mail": "m.kramar@lornix.eu",
+    "location": "KSIĘCIA JÓZEFA PONIATOWSKIEGO 4/19 50-326 WROCŁAW Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.25",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lornix/",
+    "city": "WROCŁAW",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LORNIX SP. Z O.O."
   },
   {
     "exhibitor_name": "PROFI- LINE EWELINA DĄBROWSKA",
@@ -1887,7 +3446,9 @@
     "city": "DĘBNIKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ProfilGate® I HEUTE Maschinenfabrik GmbH & KG",
@@ -1902,7 +3463,9 @@
     "city": "Solingen",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Przedsiębiorstwo Produkcyjno - Usługowo - Handlowe \"KARPOWICZ\"",
@@ -1917,7 +3480,60 @@
     "city": "REDA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Przemysł 4.0",
+    "domain": "bizerba.com",
+    "contact_number": "+48 512 198 003",
+    "mail": "agata.bochenek@bizerba.com",
+    "location": "ANNY WALENTYNOWICZ 10 20-328 LUBLIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E3.06",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/bizerba-polska-sp-z-o-o",
+    "city": "LUBLIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "BIZERBA POLSKA"
+  },
+  {
+    "exhibitor_name": "Przemysł 4.0",
+    "domain": "trademysak.pl",
+    "contact_number": "789 571 281",
+    "mail": "d.witkiewicz@trademysak.pl",
+    "location": "STRZESZYŃSKA 125 60-479 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.25",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/trade-mysak-group",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "Przenośniki powietrzno-mechaniczne Floveyor",
+    "domain": "trademysak.pl",
+    "contact_number": "789 571 281",
+    "mail": "d.witkiewicz@trademysak.pl",
+    "location": "STRZESZYŃSKA 125 60-479 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.25",
+    "desc": "Floveyor to przenośnik aeromechaniczny, w którym stalowa lina z talerzykami porusza się z dużą prędkością wewnątrz zamkniętej rury. Ruch talerzyków powoduje powstanie za nimi strefy obniżonego ciśnienia, która zasysa materiał i przemieszcza go wraz z talerzykiem w kierunku wysypu. Dzięki temu materiał ma ograniczony kontakt ze ściankami rury, co pozwala na szybki i delikatny transport. Konstrukcja przenośnika jest prosta, lekka i kompaktowa. Może być wykonana w wersji stacjonarnej, trwale zamocowanej do konstrukcji, lub mobilnej, umożliwiającej łatwy transport i zmianę miejsca pracy. Układ pozwala również na zmianę kąta prowadzenia przenośnika oraz zmianę kierunku transportu pod kątem 90°. Zmiana kierunku może być zastosowana maksymalnie w dwóch miejscach, tworząc układ w kształcie litery „Z”.",
+    "linkedin_url": "https://pl.linkedin.com/company/trade-mysak-group",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o"
   },
   {
     "exhibitor_name": "PSS SVIDNIK, a. s.",
@@ -1932,7 +3548,9 @@
     "city": "Svidnik",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "PW MORYS",
@@ -1947,7 +3565,26 @@
     "city": "KRASNOBRÓD",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "QUECLINK",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
   },
   {
     "exhibitor_name": "RADEX",
@@ -1962,7 +3599,9 @@
     "city": "KAMIENIEC",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "RALEN GROUP Sp. z o.o.",
@@ -1977,7 +3616,9 @@
     "city": "CZECHOWICE-DZIEDZICE",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "RATAJ POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1992,7 +3633,43 @@
     "city": "KLUCZBORK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "REA Steam Cleaning",
+    "domain": "rea-polska.pl",
+    "contact_number": "791965995",
+    "mail": "biuro@rea-polska.pl",
+    "location": "DĘBNIKI 7 18-416 DĘBNIKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.34A",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "DĘBNIKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "PROFI- LINE EWELINA DĄBROWSKA"
+  },
+  {
+    "exhibitor_name": "RENOLD",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "RINCO ULTRASONICS AG",
@@ -2007,7 +3684,43 @@
     "city": "Romanshorn",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Rotor Clip",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
+  },
+  {
+    "exhibitor_name": "Royal",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "Rozfood LLC",
@@ -2022,7 +3735,26 @@
     "city": "Kyiv city",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Ruhle",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "RYSZARD TRACZ PPHU\"TRACZ\"",
@@ -2037,7 +3769,26 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Schaeffler",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "SCHMALZ Sp. z o.o.",
@@ -2052,7 +3803,9 @@
     "city": "KOMORNIKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "SERWOKONTROL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2067,7 +3820,26 @@
     "city": "WROCŁAW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Seydelmann",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "SIKA-POLAND Sp. z o.o",
@@ -2082,7 +3854,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "SIMUL MASZYNY",
@@ -2097,7 +3871,9 @@
     "city": "Kiełpnice",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Smakovita HoReCa",
@@ -2112,7 +3888,9 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "Smakoza / Smartpicasso",
@@ -2127,7 +3905,9 @@
     "city": "Białystok",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "SMART SOLUTIONS Sp. z o. o.",
@@ -2142,7 +3922,9 @@
     "city": "NADMA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "SMART WORK Sp. z o.o.",
@@ -2157,7 +3939,9 @@
     "city": "ŚWIDNICA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "STIGEN",
@@ -2172,7 +3956,9 @@
     "city": "Żywiec",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "STONCOR POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2187,7 +3973,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "STRATUMTEC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2202,7 +3990,26 @@
     "city": "OSTRÓWEK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Synchroniczne elektrobębny",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "Synchroniczne elektrobębny NGI to kompaktowy, całkowicie bezolejowy napęd stworzony z myślą o wymagających liniach produkcji żywności. Silnik i przekładnia są zamknięte wewnątrz bębna, co upraszcza konstrukcję przenośnika, oszczędza miejsce i eliminuje ryzyko zanieczyszczenia produktu olejem. Wysoka sprawność silnika oznacza niższe zużycie energii i mniejsze straty mocy, a bezolejowa konstrukcja ogranicza konserwację i ryzyko nieplanowanych przestojów.",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "SZLACHET-STAL SENDALSCY Sp. z o.o. Sp. k.",
@@ -2217,7 +4024,9 @@
     "city": "PIOTRKÓW TRYBUNALSKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "TARVIS Sp. z o.o",
@@ -2232,7 +4041,230 @@
     "city": "ŚWIDNICA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "TEKSON",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Black",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne wykonane z poliestru, powlekane czarnym poliuretanem, zakończone ściągaczem. Bezszwowe, bardzo elastyczne. Rękawice idealnie dopasowują się do kształtu dłoni. Struktura poliuretanu zapewnia chwytność w suchym jak i wilgotnym środowisku. Jednostka pakowania: 12/240 par Rozmiar: 7, 8, 9, 10, 11 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 4131X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Blue",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne powleczone niebieskim chropowatym lateksem. Rękawica ma poliestrową cienką wkładkę, która dokładnie przylega do dłoni. Bardzo elastyczne. Zakończone miękkim ściągaczem. Idealnie nadają się do wszelkiego rodzaju prac mechanicznych. Jednostka pakowania: 12/240 par Rozmiar: 8, 9, 10 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 3141X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Comfort",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Krótkie rękawice robocze, znane jako driver, wykonane są z licowej skóry koziej, zapewniającej trwałość i komfort. Na części grzbietowej nadgarstka posiadają gumkę, która zwiększa dopasowanie, a mankiet wykończony jest lamówką. Rękawice spełniają normę EN-388, co potwierdza ich odporność mechaniczną i wygodę użytkowania. Przeznaczone są dla techników, kierowców i monterów. Jednostka pakowania: 12/120 par Rozmiar: 9, 10 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 2122X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Durable",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Całodłonicowe rękawice ochronne wykonane z dwoiny bydlęcej z podszewką przeciwpotną. Zakończone sztywnym podgumowanym mankietem. Część chwytna wykonana z jednego kawałka skóry, co zwiększa wytrzymałość i odporność na przetarcia. Jednostka pakowania: 12/60 par Rozmiar: 10 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 4243X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON FLEET SOLUTION",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Master",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice spawalnicze dedykowane do MIGa. Długie, wykonane z dwoinowej skóry bydlęcej, zapewniają doskonałą ochronę w trudnych warunkach. Dzięki całodłonicowej konstrukcji i wkładce termicznej są wyjątkowo odporne na wysokie temperatury oraz odpryski gorących metali. Posiadają kryte szwy z nici Kevlar i gilzy wzmacniające, co zwiększa ich trwałość. Jednostka pakowania: 10/60 par Rozmiar: 10 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 3143X; EN 407:2020 412X4X; EN 12477:2001+A1:2005 TYPE A",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Nitryl Black",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne wykonane z kauczuku nitrylowego, niejałowe, teksturowane na palcach, w kolorze czarnym. Elastyczne i manualne, pasują na obie dłonie. Test przepuszczalności wody: AQL ≤ 1.5. Nie zawierają lateksu naturalnego. Bezpudrowe. Jednostka pakowania: 100 szt. w op. / 10 op. Rozmiar: S, M, L, XL Normy: EN ISO 21420:2020, CAT III EN ISO 374-1 EN ISO 374-5 EN ISO 374-2 EN ISO 374-4 EN 16523-1 EN 455—3:2015",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Nitryl Blue",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne wykonane z kauczuku nitrylowego, niejałowe, teksturowane na palcach, w kolorze niebieskim. Elastyczne i manualne, pasują na obie dłonie. Test przepuszczalności wody: AQL ≤ 1.5. Nie zawierają lateksu naturalnego. Bezpudrowe. Jednostka pakowania: 100 szt. w op. / 10 op. Rozmiar: S, M, L, XL Normy: EN ISO 21420:2020, CAT III EN ISO 374-1 EN ISO 374-5 EN ISO 374-2 EN ISO 374-4 EN 16523-1 EN 455—3:2015",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Practical",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne ze skóry licowej koziej o amerykańskim kroju, zakończone rzepem. Część wierzchnia wykonana z elastycznego czarnego dżerseju, część chwytna z jednego kawałka skóry. Bardzo dobra manualność i chwytność. Jednostka pakowania: 12/120 par Rozmiar: 8, 9, 10, 11 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 2122X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Proweld",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice spawalnicze do TIG, wykonane są z wysokiej jakości licowej skóry koziej na części chwytnej oraz z bydlęcej dwoiny, z której powstaje mankiet. Rękawice zszyto trwałymi nićmi Kevlar, co zwiększa ich odporność na uszkodzenia. Chronią nie tylko dłonie, ale również część przedramienia. Tradycyjny krój z doszywanym kciukiem gwarantuje pewny chwyt, umożliwiając pełną kontrolę podczas pracy. Jednostka pakowania: 10/60 par Rozmiar: 10 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 2122X; EN 407:2020 411X4X; EN 12477:2001+A1:2005 TYPE B",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "TEKSON Solid",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "Rękawice ochronne ze skóry licowej koziej o amerykańskim kroju. Część wierzchnia wykonana z czarnego dżerseju. Część chwytna wykonana z jednego kawałka skóry, dzięki czemu wykazują większą wytrzymałość i odporność na przetarcia. Bardzo dobra manualność i chwytność. Jednostka pakowania: 12/120 par Rozmiar: 8, 9, 10, 11 Normy: EN ISO 21420:2020; kat. II; EN 388:2019 2122X",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "Tenzi",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "TESTO Sp. z o.o",
@@ -2247,7 +4279,9 @@
     "city": "PRUSZKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "THERMOMAT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2262,7 +4296,9 @@
     "city": "ROBAKOWO",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "TI-MA Sp. z o.o",
@@ -2277,7 +4313,9 @@
     "city": "GDAŃSK",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O.",
@@ -2292,7 +4330,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "TOMAHAWK MANUFACTURING B.V.",
@@ -2307,7 +4347,9 @@
     "city": "RIJSWIJK ZH",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o",
@@ -2322,7 +4364,26 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Treif",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "TREMCO CPG POLAND Sp. z o.o",
@@ -2337,7 +4398,26 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "ULMA",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "UNIDOZ Sp. z o.o",
@@ -2352,7 +4432,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "URSCHEL INTERNATIONAL POLSKA Sp. z o.o",
@@ -2367,7 +4449,60 @@
     "city": "GÓRA KALWARIA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Utrzymanie ruchu",
+    "domain": "trademysak.pl",
+    "contact_number": "789 571 281",
+    "mail": "d.witkiewicz@trademysak.pl",
+    "location": "STRZESZYŃSKA 125 60-479 POZNAŃ Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.25",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/trade-mysak-group",
+    "city": "POZNAŃ",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TRADE MYSAK GROUP Sp. z o.o"
+  },
+  {
+    "exhibitor_name": "VDO",
+    "domain": "lontex.pl",
+    "contact_number": "+48 32 215 27 97",
+    "mail": "lontex@lontex.pl",
+    "location": "LIGOCKA 55 43-502 CZECHOWICE-DZIEDZICE Poland",
+    "country": "Poland",
+    "booth_no": "Hala F / F2.07a",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/lontex/?viewAsMember=true",
+    "city": "CZECHOWICE-DZIEDZICE",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "LONTEX GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+  },
+  {
+    "exhibitor_name": "Vemag",
+    "domain": "eryfood.com",
+    "contact_number": "+48 572057612",
+    "mail": "sm@eryfood.com",
+    "location": "DOMANIEWSKA 47/10 02-672 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.27b",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/eryfood/",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "ERY FOOD MACHINERY"
   },
   {
     "exhibitor_name": "VEMAG POLSKA Sp. z o.o",
@@ -2382,7 +4517,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "VIBROFLOORS POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2397,7 +4534,43 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Vikan Higiena",
+    "domain": "aventes.pl",
+    "contact_number": "",
+    "mail": "",
+    "location": "KRESOWA 24 71-770 SZCZECIN Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / e3.25",
+    "desc": "",
+    "linkedin_url": "",
+    "city": "SZCZECIN",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "AVENTES Sp. z o.o."
+  },
+  {
+    "exhibitor_name": "Voigt",
+    "domain": "fairplayplus.pl",
+    "contact_number": "801 000 115",
+    "mail": "biuro@fairplayplus.pl",
+    "location": "JÓZEFA PIŁSUDSKIEGO 148 05-091 ZĄBKI Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E4.35",
+    "desc": "",
+    "linkedin_url": "https://www.linkedin.com/company/fair-play-plus",
+    "city": "ZĄBKI",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "FAIR PLAY PLUS"
   },
   {
     "exhibitor_name": "VOLTAPACK Piotr Kamiński",
@@ -2412,7 +4585,9 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WALOWSKY INTERNATIONAL MASCHINENHANDEL- KRAKÓW Sp. z o.o",
@@ -2427,7 +4602,9 @@
     "city": "KRAKÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WAMMA POLAND MACEWICZ S. J.",
@@ -2442,7 +4619,9 @@
     "city": "LISI OGON",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WAVE ENERGY Kft",
@@ -2457,7 +4636,26 @@
     "city": "KESZTHELY",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Weicon",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   },
   {
     "exhibitor_name": "WEINDICH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2472,7 +4670,9 @@
     "city": "CHORZÓW",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WIEJAK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2487,7 +4687,9 @@
     "city": "LITWINKI",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WOJCIECH KRÓLIK EKSTREME",
@@ -2502,7 +4704,9 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WPOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
@@ -2517,7 +4721,9 @@
     "city": "Wierzchosławice",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "WT - POLSKA Sp. z o.o",
@@ -2532,7 +4738,9 @@
     "city": "POZNAŃ",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ZABI Sp. z o.o",
@@ -2547,7 +4755,9 @@
     "city": "CZANIEC",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
   },
   {
     "exhibitor_name": "ZAKŁAD URZĄDZEŃ TECHNICZNYCH \"UNIMASZ\" Sp. z o.o",
@@ -2562,7 +4772,26 @@
     "city": "OLSZTYN",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "Zgarniacz taśmowy z automatycznym dociskiem",
+    "domain": "ngi-global.com",
+    "contact_number": "+45 3073 7960",
+    "mail": "juo@ngi-global.com",
+    "location": "Virkelyst 5 9400 Norresundby Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E2.32",
+    "desc": "Higieniczny zgarniacz taśmowy NGI został zaprojektowany tak, aby maksymalnie skrócić czas mycia i przestoju linii produkcyjnej. System Quick-Release umożliwia szybki demontaż zgarniacza bez użycia narzędzi, zapewniając łatwy dostęp do taśmy i znacznie sprawniejsze czyszczenie całego obszaru. Mniej czasu na demontaż i mycie oznacza krótszy przestój, szybszy powrót do produkcji i wyższą dostępność linii.",
+    "linkedin_url": "https://www.linkedin.com/company/ngi-a-s/",
+    "city": "Norresundby",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Product",
+    "parent_exhibitor_name": "NGI A/S"
   },
   {
     "exhibitor_name": "ZIELONAENERGIA.NET Sp. z o. o.",
@@ -2577,6 +4806,25 @@
     "city": "WARSZAWA",
     "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
     "profile_url": "",
-    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/"
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Exhibitor",
+    "parent_exhibitor_name": ""
+  },
+  {
+    "exhibitor_name": "ZVL",
+    "domain": "tlc.pl",
+    "contact_number": "+48 784 945 986",
+    "mail": "j.komoda@tlc.pl",
+    "location": "MAZOWIECKA 35 05-077 WARSZAWA Poland",
+    "country": "Poland",
+    "booth_no": "Hala E / E5.41",
+    "desc": "",
+    "linkedin_url": "https://pl.linkedin.com/company/tlc%C5%82o%C5%BCyska",
+    "city": "WARSZAWA",
+    "event_location": "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland",
+    "profile_url": "",
+    "event_source": "https://foodtechexpo.pl/katalog-wystawcow/",
+    "result_type": "Brand",
+    "parent_exhibitor_name": "TLC ŁOŻYSKA SP. Z O.O."
   }
 ]
