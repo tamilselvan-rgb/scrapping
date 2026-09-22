@@ -48,6 +48,14 @@ def root_domain(value):
     return host
 
 
+def plausible_domain(name, domain):
+    tokens = [
+        token for token in re.findall(r"[a-z0-9]+", name.lower())
+        if len(token) >= 4 and token not in {"gmbh", "gesellschaft", "limited", "company"}
+    ]
+    return any(token in domain for token in tokens)
+
+
 def linkedin_url(value):
     value = value or ""
     href = value if value.startswith("http") else "https:" + value
@@ -192,16 +200,19 @@ def serper_domain(record):
             "https://google.serper.dev/search",
             headers={"X-API-KEY": key, "Content-Type": "application/json"},
             json={"q": f'"{record["exhibitor_name"]}" official website 2026 Ukraine'},
-            timeout=30,
+            timeout=15,
         )
         response.raise_for_status()
         data = response.json()
         graph = data.get("knowledgeGraph", {})
         record["domain"] = root_domain(graph.get("website", ""))
-        if not record["domain"]:
+        if not record["domain"] or not plausible_domain(
+            record["exhibitor_name"], record["domain"]
+        ):
+            record["domain"] = ""
             for item in data.get("organic", []):
                 candidate = root_domain(item.get("link", ""))
-                if candidate:
+                if candidate and plausible_domain(record["exhibitor_name"], candidate):
                     record["domain"] = candidate
                     break
         if not record["linkedin_url"]:
@@ -248,7 +259,7 @@ def translate_text(value):
         response = requests.get(
             "https://api.mymemory.translated.net/get",
             params={"q": value[:4500], "langpair": "uk|en"},
-            timeout=30,
+            timeout=8,
         )
         response.raise_for_status()
         translated = response.json().get("responseData", {}).get("translatedText", "")
@@ -261,7 +272,18 @@ def translate_record(record):
     record["desc"] = translate_text(record["desc"])
     record["location"] = translate_text(record["location"])
     record["address"] = record["location"]
-    record["country"] = translate_text(record["country"])
+    country_map = {
+        "Україна": "Ukraine", "Німеччина": "Germany", "Данія": "Denmark",
+        "Швейцарія": "Switzerland", "Японія": "Japan", "Австрія": "Austria",
+        "Швеція": "Sweden", "Польща": "Poland", "Франція": "France",
+        "Італія": "Italy", "Тайвань": "Taiwan", "США": "United States",
+        "Туреччина": "Türkiye", "Нідерланди": "Netherlands", "Канада": "Canada",
+        "Китай": "China", "Південна Корея": "South Korea",
+    }
+    for native, english in country_map.items():
+        if native in record["location"]:
+            record["country"] = english
+            break
     if record["location"]:
         parts = [part.strip() for part in record["location"].split(",") if part.strip()]
         record["city"] = parts[-2] if len(parts) > 1 and re.search(r"\d", parts[-1]) else (parts[-1] if parts else "")
@@ -275,10 +297,10 @@ def main():
     rows = list_companies(session)
     with ThreadPoolExecutor(max_workers=16) as pool:
         records = list(pool.map(parse_company, rows))
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=24) as pool:
         records = list(pool.map(serper_domain, records))
-    with ThreadPoolExecutor(max_workers=12) as pool:
-        records = list(pool.map(website_contacts, records))
+    with ThreadPoolExecutor(max_workers=32) as pool:
+        records = list(pool.map(translate_record, records))
     for record in records:
         record.pop("_id", None)
         record["country"] = record["country"] or "Ukraine"
