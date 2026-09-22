@@ -17,6 +17,36 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "output"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; exhibitor-research/1.0)"}
 EVENT_LOCATION = "Ptak Warsaw Expo, Al. Katowicka 62, 05-830 Nadarzyn, Poland"
+TARGET_NAMES = {
+    "DAGOYA Sp. z o.o.",
+    "Onkomed",
+    "GREEN NANO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "DORADZTWO ROLNICZE EUGENIUSZ KOCZOROWSKI",
+    "POLBIOECO POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "7Nutrition",
+    "Domowe Sanatorium Zimnoch",
+    "INSTYTUT OGRODNICTWA - PAŃSTWOWY INSTYTUT BADAWCZY",
+    "SUN VITA",
+    "KATARZYNA SICZEK Raypath International",
+    "CARGOPACK POLSKA Sp. z o.o.",
+    "Kombucha by Laurent / Rocoto",
+    "Eximia Helia? Masseria Lo Schiavetto",
+    "LIFEWELLNESS Sp. z o.o.",
+    "LYO2GO",
+    "Para Food s.r.o",
+    "Zielony Sad Pasquale &Majki",
+    "ZMIANY ZMIANY Sp. z o.o.",
+    "CECH RZEMIOSŁ SPOŻYWCZYCH W WARSZAWIE",
+    "YU MATCHA",
+    "Kozyra Stanisław przedsiębiorstwo wielobranżowe \"eska\"",
+    "Empire Holdings Limited",
+    "Harmonica",
+    "ZAKŁAD MIĘSNY WASĄG SPÓŁKA JAWNA",
+    "WARSZAWSKI ROLNO-SPOŻYWCZY RYNEK HURTOWY",
+    "DAMECO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "DOBRE Z LASU Sp. z o.o",
+    "TempeHu",
+}
 BLOCKED = {
     "facebook.com", "instagram.com", "linkedin.com", "twitter.com", "x.com",
     "youtube.com", "tiktok.com", "bioexpo.pl", "ptakwarsawexpo.com",
@@ -129,7 +159,11 @@ def main():
     response = requests.get(DATA_URL, headers=HEADERS, timeout=60)
     response.raise_for_status()
     items = [item for item in response.json() if item.get("catalog_id") == 162]
-    records = [record_from_item(item) for item in items]
+    records = [
+        record_from_item(item)
+        for item in items
+        if clean((item.get("companyInfo") or {}).get("displayName") or (item.get("companyInfo") or {}).get("name", "")) in TARGET_NAMES
+    ]
     records = list({record["exhibitor_name"].casefold(): record for record in records}.values())
     print(f"Found {len(records)} BIOEXPO Warsaw 2026 exhibitors")
     with ThreadPoolExecutor(max_workers=10) as pool:
