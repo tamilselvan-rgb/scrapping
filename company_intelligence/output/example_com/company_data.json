@@ -1,0 +1,393 @@
+{
+    "metadata": {
+        "input_url": "https://example.com",
+        "domain": "example.com",
+        "crawl_started": "2026-08-27T10:55:52.806944",
+        "crawl_completed": "2026-08-27T10:56:27.483232",
+        "pages_discovered": 1,
+        "pages_crawled": 1,
+        "pages_failed": 0
+    },
+    "company": {
+        "name": {
+            "value": "Example Domain",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "Example Domain",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "legal_name": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "description": {
+            "value": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "This domain is for use in documentation examples without needing permission. Avoid use in operations.",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "industry": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "domain name industry",
+                    "source": "Search Query: Example Domain company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "sub_industry": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "founded_year": {
+            "value": null,
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": null,
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": 2007,
+                    "source": "Search Query: Example Domain founders CEO leadership team",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "company_type": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "headquarters": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "locations": {
+            "value": [
+                "Example Domain"
+            ],
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": [
+                        "Example Domain"
+                    ],
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "employee_count": {
+            "value": null,
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": null,
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "company_size": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "revenue": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "parent_company": {
+            "value": "",
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "subsidiaries": {
+            "value": [],
+            "source": "https://example.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": [],
+                    "source": "https://example.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        }
+    },
+    "products": [],
+    "services": [],
+    "solutions": [],
+    "industries_served": [],
+    "technologies": [],
+    "customers": [],
+    "case_studies": [],
+    "partners": [],
+    "competitors": [],
+    "leadership": [],
+    "contact_information": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+    },
+    "social_media": {},
+    "news": [],
+    "events": [],
+    "certifications": [],
+    "awards": [],
+    "pages": [
+        {
+            "url": "https://example.com",
+            "canonical_url": "https://example.com",
+            "title": "Example Domain",
+            "page_type": "homepage",
+            "content": "H1: Example Domain\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\nLearn more",
+            "emails": [],
+            "phones": [],
+            "links": []
+        }
+    ],
+    "external_sources": [
+        {
+            "query": "Example Domain company overview industry headquarters",
+            "url": "https://www.icdsoft.com/blog/who-is-who-in-the-domain-name-industry/",
+            "title": "Who is Who In the Domain Name Industry",
+            "snippet": "In this article, we will look at the main players in the domain name industry. These are the organizations that govern various aspects of ...",
+            "scraped_at": "2026-08-27T10:57:34.780445"
+        },
+        {
+            "query": "Example Domain company overview industry headquarters",
+            "url": "https://derrick-app.com/business-data/find-headquarters",
+            "title": "How to Find Company Headquarters Country: Guide 2026",
+            "snippet": "Company headquarters country can be identified from an email domain, a company name, a website URL, or a LinkedIn profile. Country-code domains ...",
+            "scraped_at": "2026-08-27T10:57:34.781446"
+        },
+        {
+            "query": "Example Domain company overview industry headquarters",
+            "url": "https://www.onlydomains.com/blog/business-domain-names/",
+            "title": "Business Domain Names - OnlyDomains Blog",
+            "snippet": "Business domain names are the website name in your web address. This guide clarifies why they're so important, and how to choose the right ...",
+            "scraped_at": "2026-08-27T10:57:34.781446"
+        },
+        {
+            "query": "Example Domain company overview industry headquarters",
+            "url": "https://blog.verisign.com/domain-names/3-ways-to-use-a-domain-name-for-business-today/",
+            "title": "3 Ways To Use A Domain Name For Business Today",
+            "snippet": "3 Ways to Use a Domain Name for Business Today · 1. Set up a company-branded email address · 2. Start a website · 3. Brand your social media presence · Promote Your ...",
+            "scraped_at": "2026-08-27T10:57:34.781446"
+        },
+        {
+            "query": "Example Domain employees count revenue funding",
+            "url": "https://itrevolution.com/articles/funding-model-the-seven-domains-of-transformation/",
+            "title": "Funding Model: The Seven Domains of Transformation",
+            "snippet": "This is an excellent example of how changing the funding model domain can be very difficult at an enterprise level, requiring a large amount ...",
+            "scraped_at": "2026-08-27T10:57:36.264646"
+        },
+        {
+            "query": "Example Domain employees count revenue funding",
+            "url": "https://docs.ed-fi.org/reference/data-exchange/data-standard/model-reference/finance-domain/overview/",
+            "title": "Finance Domain - Overview",
+            "snippet": "This financial entity represents a funding category combined with its purpose ... This domain is suitable for tracking staff and contracted staff actuals.",
+            "scraped_at": "2026-08-27T10:57:36.264646"
+        },
+        {
+            "query": "Example Domain employees count revenue funding",
+            "url": "https://kissmetrics.io/glossary/revenue-per-employee",
+            "title": "Revenue Per Employee: Definition, Formula and Examples",
+            "snippet": "Divide annualized total revenue by the total number of full-time equivalent employees. Include all employees - not just revenue-generating roles - to get a true ...",
+            "scraped_at": "2026-08-27T10:57:36.264646"
+        },
+        {
+            "query": "Example Domain employees count revenue funding",
+            "url": "https://continuumcloud.com/blogs/funded-positions-vs-headcount-finance-loses-control-without-governance/",
+            "title": "Funded Positions vs. Headcount",
+            "snippet": "Headcount tracking tells you how many people are employed but misses critical details, like how roles tie to funding or program budgets.",
+            "scraped_at": "2026-08-27T10:57:36.264646"
+        },
+        {
+            "query": "Example Domain founders CEO leadership team",
+            "url": "https://www.linkedin.com/posts/chrisreichhelm_deeptech-innovation-leadership-activity-7441881185191911424-P3Hs",
+            "title": "Founder CEO Archetypes: Scientist-Steward, Systems ...",
+            "snippet": "Founder CEO Archetypes: Scientist-Steward, Systems Builder, Domain Insider, Visionary Narrator, Repeat Founder. View profile for Chris Reichhelm.",
+            "scraped_at": "2026-08-27T10:57:37.544896"
+        },
+        {
+            "query": "Example Domain founders CEO leadership team",
+            "url": "https://www.norwest.com/blog/domain-expertise-founder-greatest-asset/",
+            "title": "Domain Expertise: A Founder's Greatest Asset",
+            "snippet": "Provus co-founders: Ganesh Ramachandran (CTO), Mahesh Baxi (CEO), and Stawan Kadepurkar (CRO) The leaders of all our functional teams also have ...",
+            "scraped_at": "2026-08-27T10:57:37.544896"
+        },
+        {
+            "query": "Example Domain founders CEO leadership team",
+            "url": "https://www.startups.com/lexicon/founder-roles",
+            "title": "Founder Roles",
+            "snippet": "The typical division involves one founder taking the CEO role (strategy, fundraising, external relationships) and others taking domain-specific roles",
+            "scraped_at": "2026-08-27T10:57:37.544896"
+        },
+        {
+            "query": "Example Domain founders CEO leadership team",
+            "url": "https://www.antler.co/blog/what-makes-a-successful-founder",
+            "title": "Founder DNA: Traits of Great Entrepreneurs",
+            "snippet": "Examples of domain founders include Skye Theodorou, founder of Upcover, and Emilia Theye, co-founder of clare&me.",
+            "scraped_at": "2026-08-27T10:57:37.544896"
+        },
+        {
+            "query": "Example Domain LinkedIn official page",
+            "url": "https://www.linkedin.com/help/linkedin/answer/a6278544",
+            "title": "Add an email domain to your organization's LinkedIn Page ...",
+            "snippet": "Add an email domain to your organization's LinkedIn Page to enable work email verification · Go to your Page super admin view. · Click Settings in the left menu.",
+            "scraped_at": "2026-08-27T10:57:39.528758"
+        },
+        {
+            "query": "Example Domain LinkedIn official page",
+            "url": "https://www.linkedin.com/business/marketing/blog/linkedin-pages/the-11-best-small-business-linkedin-pages-we-ve-ever-seen",
+            "title": "The 11 Best Small Business LinkedIn Pages We've Seen",
+            "snippet": "Share your mission, vision, story, and goals, as well. Look to our examples below for inspiration! You can now also list multiple locations on your LinkedIn ...",
+            "scraped_at": "2026-08-27T10:57:39.528758"
+        },
+        {
+            "query": "Example Domain LinkedIn official page",
+            "url": "https://www.linkedin.com/help/linkedin/answer/a543852",
+            "title": "Create a LinkedIn Page | LinkedIn Help",
+            "snippet": "You can create a LinkedIn Page for free, helping you represent and build your organization's brand on LinkedIn.",
+            "scraped_at": "2026-08-27T10:57:39.528758"
+        },
+        {
+            "query": "Example Domain LinkedIn official page",
+            "url": "https://www.impactplus.com/blog/examples-of-linkedin-company-pages",
+            "title": "27 powerful LinkedIn business pages examples to inspire you",
+            "snippet": "LinkedIn is a powerful tool for businesses yet many fail to use the platform effectively. Here are 27 examples of powerful LinkedIn business ...",
+            "scraped_at": "2026-08-27T10:57:39.528758"
+        }
+    ],
+    "icp": {},
+    "confidence_summary": {
+        "company_core_info": 0.71,
+        "products_and_services": 0.5,
+        "contact_information": 0.0,
+        "relationships_and_market": 0.4,
+        "overall_data_quality": 0.47
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "starting_url": "https://sportvot.com",
+    "domain": "sportvot.com",
+    "pages_discovered": 2,
+    "pages_crawled": 2,
+    "pages_failed": 0,
+    "crawl_duration": "0:00:46.617242",
+    "failed_urls": {},
+    "http_status_codes": {
+        "https://sportvot.com": 200,
+        "https://sportvot.com/solutions": 200
+    },
+    "redirects": [],
+    "duplicate_urls": [],
+    "external_urls_ignored_count": 0
+}

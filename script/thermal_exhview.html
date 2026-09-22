@@ -1,0 +1,1061 @@
+
+
+
+<style>
+	/*.ui-dialog-titlebar {
+		display:none;
+	}*/
+
+	.hd-Dropdown_Halls, .hd-Dropdown_Pavilions {
+		max-height: 400px !important;
+	}
+
+	.sqfootField { width: 80px; }
+
+	.mys-showcase-wrapper { padding: 10px; }
+</style>
+
+
+<div class="mys-floor-plan-header-default-wrapper">
+    <header class="mys-floor-plan-header-default">
+    
+        <a href="https://www.foam-expo-europe.com/">
+    
+    	<img
+ 			class="mys-show-header-default"
+            src="/mys_shared/ABETEEFOAMEUROPE26/ABETEEFOAMEUROPE26_logo.png"
+            srcset="/mys_shared/ABETEEFOAMEUROPE26/ABETEEFOAMEUROPE26_logo@2x.png 2x"
+            alt="Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 logo">
+    
+        </a>
+    
+	<div class="mys-nav-default-wrapper">
+        <a id="trigger-overlay" class="mys-nav-default" href="#jq-nav"><span>Menu</span> <span class="mys-ico-nav  mys-ico-large  mys-shiftLeft-5px"></span></a>
+	</div>
+    </header>
+        
+</div>
+
+
+
+
+
+<div id="mobileSearchFormDiv" class="mys-form-flex-wrapper  mys-form-floorplan-search-default  mys-is-hidden-md">
+	<div class="mys-hero">
+	    <form action="">
+			<div class="mys-form-flex">
+		        <a class="mys-large" id="floorPlanMobileSearchToggle" href="#0" title="Expand Search Options">
+		          <span class="mys-ico-actions  mys-vert-align-middle  mys-link-color"></span>
+		          <strong>SearchSearch</strong>
+		        </a>
+		        <p class="mys-hall-name-preview  mys-large  mys-align-right" id="floorPlanMobileSearchHallDisplay"></p>
+		    </div>
+
+	      	<div class="mys-toggleShow  jq-toggleShow  mys-display-none" id="floorPlanMobileSearchDiv" style="display: none;">
+		        <div class="mys-insideToggle">
+		          	<div class="mys-form-flex">
+		    			<a class="mys-btn  mys-primary  mys-btn-nav jq-disabled" href="#" id="floorplan-mobile-listview-button"></a>
+		    			<a class="mys-btn  mys-primary  mys-btn-nav" href="/8_0/index.cfm"></a>
+		    		</div>
+
+	    			<div class="mys-form-flex">
+	    				<a class="mys-form-button-options  mys-btn  mys-tertiary jq-mys-legend"><span class="mys-ico-info-i  mys-ico-large"></span> </a>
+		            	<a class="mys-form-button-options  mys-btn  mys-tertiary jq-mys-options"><span class="mys-ico-eye-options  mys-ico-large"></span> </a>
+	    			</div>
+		        </div>
+	      	</div>
+		</form>
+	</div>
+</div>
+
+
+
+
+<section class="hd-Header  mys-clearfix">
+	<div class="hd-Logo">
+		
+      <a href="https://www.foam-expo-europe.com/">
+    
+      <img
+      class=""
+      src="/mys_shared/ABETEEFOAMEUROPE26/ABETEEFOAMEUROPE26_logo.png"
+      srcset="/mys_shared/ABETEEFOAMEUROPE26/ABETEEFOAMEUROPE26_logo@2x.png 2x"
+      alt="Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 logo">
+    
+      </a>
+    
+	</div>
+
+  <div class="hd-SearchOptions">
+
+          	
+          	
+       		<ul class="hd-SearchOptions_Filters">
+       			
+       			<li>
+					<input class="hd-AvailableBooths_Checkbox" type="checkbox" name="xxx" id="availableBooths" value="xxx">
+					<label class="hd-AvailableBooths_Label" for="availableBooths">Available Only</label>
+       			</li>
+       			
+       			<li>
+       				<a class="hd-FiltersLink  is-Dropdown" href="#0" id="boothSizeFilterLink">Booth Size</a>
+	        		
+<div class="hd-Dropdown_BoothSize" style="display: none;">
+	<h5 class="hd-Dropdown_Title">Filter by Square Footage</h5>
+	<div>
+		<form action="" class="hd-Dropdown_BoothSizeForm">
+			<input type="number" name="sqFootFrom" class="sqfootField  hd-Dropdown_BoothSizeInput" placeholder="Min." />
+			<span class="hd-Dropdown_RangeDivider">&#8211;</span>
+			<input type="number" name="sqFootTo" class="sqfootField  hd-Dropdown_BoothSizeInput" placeholder="Max." />
+			<input class="mys-btn  mys-primary  hd-Dropdown_BoothSizeBtn" type="submit" value="Filter" />
+		</form>
+	</div>
+	<ul class="hd-Dropdown_BoothSize_List">
+		
+			<li>
+				<a href="" data-boothsizefrom="1" data-boothsizeto="1">
+				1 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="9" data-boothsizeto="9">
+				9 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="12" data-boothsizeto="12">
+				12 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="15" data-boothsizeto="15">
+				15 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="16" data-boothsizeto="16">
+				16 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="18" data-boothsizeto="18">
+				18 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="20" data-boothsizeto="20">
+				20 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="21" data-boothsizeto="21">
+				21 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="24" data-boothsizeto="24">
+				24 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="25" data-boothsizeto="25">
+				25 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="27" data-boothsizeto="27">
+				27 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="30" data-boothsizeto="30">
+				30 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="36" data-boothsizeto="36">
+				36 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="40" data-boothsizeto="40">
+				40 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="50" data-boothsizeto="50">
+				50 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="54" data-boothsizeto="54">
+				54 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="56" data-boothsizeto="56">
+				56 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="60" data-boothsizeto="60">
+				60 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="64" data-boothsizeto="64">
+				64 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="72" data-boothsizeto="72">
+				72 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="90" data-boothsizeto="90">
+				90 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="96" data-boothsizeto="96">
+				96 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="108" data-boothsizeto="108">
+				108 sq meters
+				</a>
+			</li>
+		
+	</ul>
+</div>
+
+       			</li>
+     					
+				
+       		</ul>
+
+
+<div class="hd-Dropdown_BoothSize" style="display: none;">
+	<h5 class="hd-Dropdown_Title">Filter by Square Footage</h5>
+	<div>
+		<form action="" class="hd-Dropdown_BoothSizeForm">
+			<input type="number" name="sqFootFrom" class="sqfootField  hd-Dropdown_BoothSizeInput" placeholder="Min." />
+			<span class="hd-Dropdown_RangeDivider">&#8211;</span>
+			<input type="number" name="sqFootTo" class="sqfootField  hd-Dropdown_BoothSizeInput" placeholder="Max." />
+			<input class="mys-btn  mys-primary  hd-Dropdown_BoothSizeBtn" type="submit" value="Filter" />
+		</form>
+	</div>
+	<ul class="hd-Dropdown_BoothSize_List">
+		
+			<li>
+				<a href="" data-boothsizefrom="1" data-boothsizeto="1">
+				1 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="9" data-boothsizeto="9">
+				9 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="12" data-boothsizeto="12">
+				12 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="15" data-boothsizeto="15">
+				15 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="16" data-boothsizeto="16">
+				16 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="18" data-boothsizeto="18">
+				18 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="20" data-boothsizeto="20">
+				20 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="21" data-boothsizeto="21">
+				21 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="24" data-boothsizeto="24">
+				24 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="25" data-boothsizeto="25">
+				25 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="27" data-boothsizeto="27">
+				27 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="30" data-boothsizeto="30">
+				30 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="36" data-boothsizeto="36">
+				36 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="40" data-boothsizeto="40">
+				40 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="50" data-boothsizeto="50">
+				50 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="54" data-boothsizeto="54">
+				54 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="56" data-boothsizeto="56">
+				56 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="60" data-boothsizeto="60">
+				60 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="64" data-boothsizeto="64">
+				64 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="72" data-boothsizeto="72">
+				72 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="90" data-boothsizeto="90">
+				90 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="96" data-boothsizeto="96">
+				96 sq meters
+				</a>
+			</li>
+		
+			<li>
+				<a href="" data-boothsizefrom="108" data-boothsizeto="108">
+				108 sq meters
+				</a>
+			</li>
+		
+	</ul>
+</div>
+
+  			<div class="hd-SearchOptions_MainSearch  mys-form-flex">
+  				
+  					<select id="searchTypeDropdown" class="mys-form-select  mys-form-filter">
+  					
+  					        <option value="getExhibitorsByExhid"
+  					        	data-search-type="exhibitor"
+  					            
+  					                data-search-option-function="getExhibitorNames"
+  					            
+  								data-stats-user-action="Exhibitor Search"
+  								data-stats-alt-value="[[recordCount]]"
+  							
+  					        >
+  					            Exhibitor
+  					        </option>
+  					    
+  					        <option value="getExhibitorsByCategory"
+  					        	data-search-type="category"
+  					            
+  					                data-search-option-function="getExhibitorCategories"
+  					            
+  								data-stats-user-action="Product selected"
+  								data-stats-alt-value="Multiselect:"
+  							
+  					        >
+  					            Product Categories
+  					        </option>
+  					    
+  					        <option value="getExhibitorsByBooth"
+  					        	data-search-type="booth"
+  					            
+  								data-stats-user-action="Booth Search"
+  								data-stats-alt-value="[[recordCount]]"
+  							
+  					        >
+  					            Booths
+  					        </option>
+  					    
+  					</select>
+
+  					
+  					<input id="floorplan-search-input" class="jq-searchfield  jq-search-query  mys-form-input  mys-form-search" type="search" placeholder="Search Exhibitors " />
+  					<div id="chosenMultiselect" class="mys-form-multiselect  mys-form-chosen" style="display: none;">
+    					
+    					<select id="floorplan-search-value-select"  data-placeholder="Select an option:"></select>
+  					</div>
+  					
+  					<input id="floorplan-search-button" class="mys-form-button-submit  mys-btn  mys-primary" type="submit" value="Search">
+
+  					
+
+  			</div><!--  /.hd-SearchOptions_MainSearch -->
+
+  </div>
+
+</section>
+
+
+
+<style>
+	/*
+	 * http://www.cssarrowplease.com
+	 */
+	.ol-popup {
+		background-color: white;
+		border-radius: 8px;
+		border: 1px solid #aaa;
+		bottom: 12px;
+		font-size: 14px;
+		left: 50%;
+		margin-left: auto;
+		min-height: auto;
+		min-width: auto;
+		padding: 7px 10px;
+		position: absolute;
+		-webkit-transform: translate3d(0,0,0); /* Using CSS to position the popup will make the text render blurry in webkit browsers, use JS instead */
+		white-space: nowrap;
+		-webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.4));
+		filter: drop-shadow(0 1px 4px rgba(0,0,0,0.4));
+		font-family: sans-serif;
+		visibility: hidden;
+	}
+	.ol-popup:after,
+	.ol-popup:before {
+		border: solid transparent;
+		content: " ";
+		height: 0;
+		pointer-events: none;
+		position: absolute;
+		top: 100%;
+		width: 0;
+	}
+	.ol-popup:after {
+		border-top-color: white;
+		border-width: 10px;
+		left: 50%;
+		margin-left: -10px;
+	}
+	.ol-popup:before {
+		border-top-color: #aaa;
+		border-width: 11px;
+		left: 50%;
+		margin-left: -11px;
+	}
+
+	.mysIDS .ol-popup p {
+		margin-bottom: 0;
+	}
+
+	.ol-popup.ol-popupLeft:after,
+	.ol-popup.ol-popupLeft:before {
+		left: 22px;
+	}
+
+	.ol-popup.ol-popupRight:after,
+	.ol-popup.ol-popupRight:before {
+		left: auto;
+		right: 22px;
+	}
+</style>
+
+<div id="popup" class="ol-popup">
+  <div id="popup-content"></div>
+</div>
+
+
+	<div class="mys-floorplan-wrapper  fp-FloorPlanWrapper">
+		<h1 class="is-visually-hidden">Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 Exhibitor Floor Plan</h1>
+		<div class="mys-floorplan">
+			<div class="mys-floorplan-controls  ct-Controls">
+				
+				<ul class="mys-nav  mys-floorplan-controls__left">
+					<a id="zoomInLink" href="#0" title="Zoom In"><li><span class="mys-ico-zoom-plus  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Zoom In</span></li></a>
+					<a id="zoomOutLink" href="#0" title="Zoom Out"><li><span class="mys-ico-zoom-minus  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Zoom Out</span></li></a>
+					<a id="maxFitLink" href="#0" title="Max Fit"><li><span class="mys-ico-max-fit  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Max Fit</span></li></a>
+					
+					
+					
+					<a id="legendLink" href="#0" title="Legend"><li><span class="mys-ico-info-i  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Legend</span></li></a>
+					<a id="optionsLink" href="#0" title="Options" ><li><span class="mys-ico-eye-options  mys-ico-large  mys-ico-dark "></span> <span class="mys-floorplan-controls-labels">Options</span></li></a>
+					<a id="facilityLegendLink" href="#0" title="Facility Legend"><li><span class="mys-ico-info-i  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Facility Legend</span></li></a>
+				</ul>
+
+				<div class="mys-floorplan-controls__right">
+					<ul class="mys-nav  ct-Print">
+						<a class="ct-PrintLink" id="print" href="#0" title="Print"><li><span class="mys-ico-print  mys-ico-large  mys-ico-dark"></span> <span class="mys-floorplan-controls-labels">Print</span></li></a>
+					</ul>
+
+					
+
+					<span id="mys-refresh-timer"></span>
+
+					
+					<select style="display: none; visibility: hidden;" id="hallIDSelect" class="mys-form-element  mys-form-select">
+						
+								<option id="hallIDSelectOption_A" value="A"
+									title="Hall 1"
+									data-hallid="A" data-halldisplay="Hall 1">
+									Hall 1
+								</option>
+							
+					</select>
+				</div>
+
+			</div>
+
+			<div id="mys-floorplan-canvas-div" class="mys-floorplan-canvas">
+
+				
+				<div class="mys-spinner mys-spinner-centered  mys-spinner-large">
+    <div class="mys-spinner-double-bounce1  "></div>
+    <div class="mys-spinner-double-bounce2  "></div>
+    <p class="mys-spinner-txt">Loading...</p>
+</div>
+
+			</div>
+
+			
+			<div style="display:none; visibility:hidden;" class="mys-floorplan-sponsor">
+					<a id="floorplanHallSponsorLink" href="#0">
+						<div id="floorplanHallSponsorDiv" class="mys-floorplan-sponsor-wrapper" style="display: none;">
+							<p>
+								<strong id="floorplanHallSponsorStrong"></strong><br />
+								<em> Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026</em>
+							</p>
+							<img id="floorplanHallSponsorImg" class="mys-banner-hall-sponsor" src="" alt="Sponsorless Hall" />
+						</div>
+					</a>
+			</div>
+		</div>
+
+
+		<div id="search-results-sidebar" class="mys-sidebar" >
+				<nav>
+					<a id="backToResultsLink" class="js-sidebar-item nav-back-breadcrumb  mys-is-shown-md" href="#0" style="display: none;">&laquo; Back to Results List</a>
+				</nav>
+
+				<nav>
+					<a id="backToAllSearchResultsLink" class="js-sidebar-item  nav-back-breadcrumb  mys-is-shown-md" href="#0" style="display: none;">&laquo; Back to All Search Results</a>
+				</nav>
+
+				<nav>
+					<a id="backToFloorplanOverviewLink" class="js-sidebar-item  nav-back-breadcrumb  mys-is-shown-md" href="#0" style="display: none;">&laquo; Back to to All Halls Results</a>
+				</nav>
+
+				<div id="loadingSideBar" class="js-sidebar-item mys-results-none  mys-is-shown-md" style="display:none;" >
+				    <div class="mys-spinner" style="display:block !important;">
+				        <div class="mys-spinner-double-bounce1"></div>
+				        <div class="mys-spinner-double-bounce2"></div>
+				        <p class="mys-spinner-txt">Loading...</p>
+				    </div>
+				</div>
+
+				<script id="exhSearchCriteriaTemplate" type="text/x-handlebars-template">
+					
+
+<div class="tb-SearchCriteria">
+	{{#ifHallIDSet hallID}}
+	<a class="tb-SearchCriteria_Tag" href="" data-hallid="{{hallID}}">
+		Hall: {{hallDisplay}}
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/ifHallIDSet}}
+
+	{{#if availableOnly }}
+	<a class="tb-SearchCriteria_Tag" href="" data-availableonly="{{availableOnly}}">
+		Available Only
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/if}}
+	{{#if pavilion }}
+	<a class="tb-SearchCriteria_Tag" href="" data-pavilion="{{pavilion}}">
+		Pavilion:
+		{{getDisplay pavilion}}
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/if}}
+
+	{{#if propertyid }}
+	<a class="tb-SearchCriteria_Tag" href="" data-propertyid="{{propertyid}}">
+		Booth Tag:
+		{{getTagDisplay propertyid}}
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/if}}
+
+	{{#if boothTypeDisplay }}
+	<a class="tb-SearchCriteria_Tag" href="" data-boothtypeid="{{boothType}}">
+		Booth Type: {{boothTypeDisplay}}
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/if}}
+
+	{{#hasBoothSizeFilter}}
+	<a class="tb-SearchCriteria_Tag" href="" data-boothsizefrom="{{boothSizeFrom}}" data-boothsizeto="{{boothSizeTo}}">
+		Booth Size:
+			{{#ifBoothSizeIsRange}}
+				{{boothSizeFrom}} - {{boothSizeTo}} sq meters
+			{{else}}
+				{{boothSizeFrom}} sq meters
+			{{/ifBoothSizeIsRange}}
+		<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+	</a>
+	{{/hasBoothSizeFilter}}
+
+	{{#each orSearchParams}}
+		<a class="tb-SearchCriteria_Tag" href="" data-orsearchtype="{{this.orsearchtype}}" data-orsearchvalue="{{this.orsearchvalue}}"
+			data-orsearchvaluedisplay="{{this.orsearchvaluedisplay}}">
+			{{this.orsearchdisplay}}: {{this.orsearchvaluedisplay}}
+			<span class="mys-ico-close  tb-SearchCriteria_CloseBtn"></span>
+		</a>
+	{{/each}}
+</div>
+
+<script src="/mys_shared/js/handlebars/current/handlebars.js"></script>
+<script>
+	Handlebars.registerHelper('getDisplay',function(value){
+		var pavilions = [];
+
+		for  (i = 0; i < pavilions.length; i++) {
+		  if(pavilions[i].fieldvalue == value) {
+		  	return pavilions[i].fielddisplay;
+		  }
+		}
+
+		return value;
+	})
+
+	Handlebars.registerHelper('getTagDisplay',function(value){
+		var boothtags = [];
+
+		for  (i = 0; i < boothtags.length; i++) {
+		  if(boothtags[i].boothpropertyid == value) {
+		  	return boothtags[i].boothproperty;
+		  }
+		}
+
+		return value;
+	})
+</script>
+				</script>
+
+				<div id="emptyStateTips" class="js-sidebar-item mys-results-none  mys-is-shown-md" style="display:none;">
+					
+	<h2>
+		Using The Exhibitor View
+	</h2>
+	<p>Explore the show floor by searching and viewing different halls.</p>
+<p class="mys-spacing-mini"><em>You can search by:</em></p>
+<ul>
+	<li>Booth Size</li>
+	<li>Booth Type</li>
+	<li>Exhibitors</li>
+	<li>And more...</li>
+</ul> 
+				</div>
+
+				<div id="noSearchResultsDiv" class="js-sidebar-item  mys-results-none  mys-is-shown-md" style="display: none;">
+					
+
+<h2>
+	Search Results
+</h2>
+<div class="searchCriteria"></div>
+<p>Your search <span id="noResultsSearchValueWrapperSpan">&mdash; <strong>&ldquo;<span id="noResultsSearchValueSpan"></span>&rdquo;</strong></span> did not match any booths.
+<p class="mys-spacing-mini"><em>Suggestions:</em></p>
+<ul>
+	<li>Make sure that your search is spelled correctly</li>
+	<li>Try a more general search</li>
+	<li>Try a different search</li>
+</ul> 
+				</div><!--  /.mys-results-none -->
+
+				<div id="specialBoothStatusDiv" class="js-sidebar-item  mys-results-none" style="display: none;">
+					
+<a id="specialStatusDivMobileCloseBtn" class="mys-nav-close  mys-ico-close  mys-ico-large" href="#0"></a>
+
+
+<span id="availableBoothH2ContentSpan" style="display: none;">
+	*THIS BOOTH IS AVAILABLE:  {BOOTHID}*
+</span>
+
+<span id="availableBoothPContentSpan" style="display: none;">
+	<p style='padding-left:0px;'><i>Booth Dimensions:</i> <br />{BOOTHDIMENSIONS} sq. m.</p><div id='availableBoothType' style='display:none;'><p style='padding-left:0px;'><i>Booth Type</i>: <br />{BOOTHTYPE}</p></div><div id='availableBoothTag' style='display:none;'><p style='padding-left:0px;'><i>Booth Tags:</i> <br />{BOOTHTAGS}</p></div><div id='availablePavilion' style='display:none;'><p style='padding-left:0px;'><i>Pavilion:</i> <br />{PAVILION}</p></div><!--To make reservations for this stand: <br>CALL: +44 20 8052 2770 (Europe) or +1 855 436 8683 for either show (US & Canada) <br /> EMAIL:<a href="mailto:info@foam-expo-europe.com?subject=I am interested in Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 - Booth: {BOOTHID}"> info@foam-expo-europe.com </a>-->
+To make reservations for this stand: <br>CALL: +44 20 8052 2770 (Europe) or +1 855 436 8683 for either show (US & Canada) <br /> EMAIL: Foam Expo Europe via email at <a href="mailto:info@foam-expo-europe.com?subject=I am interested in Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 - Booth: {BOOTHID}"> info@foam-expo-europe.com</a><br> Adhesives & Bonding Expo Europe via email at <a href="mailto:info@adhesivesandbondingexpo-europe.com?subject=I am interested in Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 - Booth: {BOOTHID}">info@adhesivesandbondingexpo-europe.com</a><br>Thermal Management Expo Europe via email at <a href="mailto:info@thermalmanagementexpo-europe.com?subject=I am interested in Adhesives & Bonding Expo Europe, Foam Expo Europe and Thermal Management Expo Europe 2026 - Booth: {BOOTHID}">info@thermalmanagementexpo-europe.com</a> 
+</span>
+
+
+<span id="onHoldBoothH2ContentSpan" style="display: none;">
+	*THIS BOOTH IS ON HOLD:  {BOOTHID}*
+</span>
+<span id="onHoldBoothPContentSpan" style="display: none;">
+	<div id="onholdBoothTag" style="display:none;">
+		<p style="padding-left:0px;"><i>Booth Tags:</i> <br />{BOOTHTAGS}</p>
+	</div>
+	<div id="onholdNotes" style="display:none;">
+		<p style="padding-left:0px;"><i>Hold Notes:</i> <br />{HOLDNOTES}</p>
+	</div>
+	<div id="onhold" style="display:none;">
+		This booth is currently on hold.
+	</div>
+</span>
+
+
+<span id="privateBoothPContentSpan" style="display: none;">
+	Booth: {BTH_DISPLAY} - This booth has been reserved.
+</span>
+
+
+<span id="roomPContentSpan" style="display: none;">
+	Location: {BTH_DISPLAY}
+</span>
+
+<h2 id="specialBoothStatusH2"></h2>
+<p id="specialBoothStatusP"></p>
+
+				</div><!--  /.mys-results-none #availableBoothPContentSpan-->
+
+				
+				<div style="display:none; visibility:hidden;" id="sidebarSponsorDiv" class="mys-sidebar-sponsor  js-sidebar-item" style="display: none;">
+					<a id="sidebarSponsorDivA" href="#0"></a>
+				</div>
+
+				<script id="exhBoothListTemplate" type="text/x-handlebars-template">
+					
+		<strong>Viewing Booth:</strong><br />
+		{{this.selectedBoothStruct.boothdisplay}}  - {{this.selectedBoothStruct.boothdims}} -  {{this.selectedBoothStruct.halldisplay}}
+	{{#if this.remainingBoothArray.length}}
+	    <span style="display:inline-block; margin-top:12px;"><strong>Also At:</strong></span><br />
+    {{/if}}
+    {{#each this.remainingBoothArray}}
+		<a class="js-exhShowroomLink" href="#0" data-hallid="{{hallid}}" data-exhid="{{exhid}}" data-booth="{{booth}}" data-boothstatus="{{boothstatus}}">{{boothdisplay}}</a> - {{boothdims}} - {{halldisplay}}<br />
+	{{/each}}
+	<p></p>
+
+				</script>
+
+				<div id="searchResultsDiv" class="js-sidebar-item  mys-sidebar-results" style="display:block !important;">
+					
+			
+			<h2 id="featured-exhibitors-h2" class="js-sidebar-item  mys-is-shown-md" style="display: none;">Featured By Booth (<span id="matchingSlottedExhibitorsCount"></span>)</h2>
+			<div id="exhBoothSearchHitDiv" class="js-sidebar-item  mys-is-shown-md">
+				<script id="exhBoothSearchHitDivTemplate" type="text/x-handlebars-template">
+					<table class="mys-results-compact  mys-zebra  mys-hover">
+					    <tbody id="featuredExhibitorsTableBody">
+							{{#each items}}
+								{{#ifIsExhibitorSlotted slotted}}
+							        <tr {{#if sponsorcategoryid}} data-is-category-sponsor data-exhid="{{exhid}}"{{/if}}>
+										<td class="mys-table-exhname  tb-SearchResults_Wrapper">
+											<a class="js-exhShowroomPanelLink  tb-SearchResults_ExhInfo" href="#0" data-hallid="{{hallid}}" data-exhid="{{exhid}}" data-booth="{{booth}}"><strong>{{exhname}}</strong></a>
+											<span class="mys-booth-num  tb-SearchResults_BoothInfo">({{boothdisplay}})</span>
+							            </td>
+							        </tr>
+								{{/ifIsExhibitorSlotted}}
+							{{/each}}
+					    </tbody>
+					</table>
+
+					<h2>
+						Search Results
+						(<span id="matchingExhibitorsCount"></span>)
+					</h2>
+					<div class="searchCriteria"></div>
+					<table id="matchingExhibitorsTable" class="mys-results-compact  mys-zebra  mys-hover">
+						<tbody>
+						
+
+							{{#ifViewInHall items}}
+								{{#each items}}
+									<tr
+										{{#ifIsExhibitorNotInSelectedHall hallid "default"}}{{/ifIsExhibitorNotInSelectedHall}}
+										{{#ifIsOddExhibitorRow "default"}}class="mys-zebra-odd"{{/ifIsOddExhibitorRow}}>
+										<td class="mys-table-exhname  tb-SearchResults_Wrapper">
+											<a {{#if bullet}}style="font-weight:bold;"{{/if}} class="js-exhShowroomPanelLink  tb-SearchResults_ExhInfo" href="#0" data-hallid="{{hallid}}" data-exhid="{{exhid}}" data-booth="{{booth}}" data-boothstatus="{{boothstatus}}" data-boothdisplay="{{boothdisplay}}">
+												{{boothdisplay}}
+
+												{{#if exhname}}
+												- {{exhname}}
+												{{/if}}
+											<br />
+											<span class="mys-booth-num  tb-SearchResults_BoothInfo">
+												{{#if irregular}}
+													{{boothdims}} sq. m.
+												{{else}}
+													{{formatBoothDims boothdims}}
+												{{/if}}
+
+												
+											</span>
+											</a>
+										</td>
+									</tr>
+								{{/each}}
+							{{else}}
+								{{#each items}}
+								{{#ifItemHallIDChange this}}
+									<tr class="mys-table-hall-header">
+										<th class="tb-SearchResults_HallResults">
+											<span class="tb-SearchResults_HallResults-title">
+												 {{getHallDisplay hallid}}
+												 (<span class="displayMobileResullsHallCount{{hallid}}">{{displayCurrentHallCount}}</span>)
+											</span>
+											<a href="" class="viewResultsInHallClick" data-hallid="{{hallid}}">
+												View Results in Hall
+											</a>
+											
+											
+										</th>
+									</tr>
+								{{/ifItemHallIDChange}}
+								{{/each}}
+							{{/ifViewInHall}}
+						
+						</tbody>
+					</table>
+				</script>
+			</div>
+
+			<div id="exhBoothSharesDiv" class="js-sidebar-item" style="display: none;">
+				<script id="exhBoothSharesDivTemplate" type="text/x-handlebars-template">
+					<h2>
+						Shared Booth Exhibitors (<span id="sharedExhibitorsCount"></span>)
+						<a id="exhBoothSharesDivMobileCloseBtn" class="mys-nav-close  mys-ico-close  mys-ico-large" href="#0"></a>
+					</h2>
+					<ul class="mys-zebra  results-exh">
+					<table style="" class="mys-results-compact  mys-zebra  mys-hover">
+						<tbody>
+						{{#each items}}
+							{{#ifItemHallIDChange this}}
+								<tr class="mys-table-hall-header">
+									<th class="tb-SearchResults_HallResults">
+										<span class="tb-SearchResults_HallResults-title">
+											 {{getHallDisplay hallid}} (<span class="displayMobileResullsHallCount{{hallid}}">{{displayCurrentHallCount}}</span>)
+										</span>
+										<a href="" class="viewResultsInHallClick" data-hallid="{{hallid}}">View Results in Hall</a>
+									</th>
+								</tr>
+							{{/ifItemHallIDChange}}
+
+							
+							{{#ifIsExhibitorNotInSelectedHall hallid "default"}}{{/ifIsExhibitorNotInSelectedHall}}
+							<tr{{#ifIsOddExhibitorRow "default"}} class="mys-zebra-odd"{{/ifIsOddExhibitorRow}}>
+								<td class="mys-table-exhname  tb-SearchResults_Wrapper">
+									<a {{#if bullet}}style="font-weight:bold;"{{/if}} class="js-exhShowroomPanelLink  tb-SearchResults_ExhInfo" href="#0" data-share data-hallid="{{hallid}}" data-exhid="{{exhid}}" data-booth="{{booth}}" data-boothdisplay="{{boothdisplay}}" data-boothstatus="{{boothstatus}}">{{exhname}}
+										<span class="mys-booth-num  tb-SearchResults_BoothInfo">({{boothdisplay}})</span>
+									</a>
+								</td>
+
+							</tr>
+						{{/each}}
+						</tbody>
+					</table>
+				</script>
+			</div>
+			
+
+
+<div id="exhShowroomPanel" class="js-sidebar-item sc-WrapperFloorPlan" style="display: none;">
+	<script id="exhShowroomPanelTemplate" type="text/x-handlebars-template">
+
+		<h2 id="onHoldBoothH2">
+			
+		</h2>
+
+		<div id="boothDetailsDiv" style="display:none;">
+		The dimensions for this booth are :
+			{BOOTHDIMENSIONS}
+		</div>
+
+		
+		<h3 id="showroomFeatureTitleH3" class="mys-spacing-mini" style="display: none;"></h3>
+		<div id="exhShowFeaturesContainer" class="main-gallery  js-flickity" style="display:none;"></div>
+
+		<div class="mys-showcase-wrapper  mys-exh-details-small">
+			<a id="showroomMobileCloseBtn" class="mys-nav-close  mys-ico-close  mys-ico-large" href="#0"></a>
+
+			{{#ifTrimWhitespace this.0.logo}}
+				
+				<img id="exhShowroomPanelLogoImg" class="mys-exhibitor-logo  mys-spacing-mini" src="/mys_shared/ABETEEFOAMEUROPE26/logos/{{this.0.logo}}" data-src="/mys_shared/ABETEEFOAMEUROPE26/logos/{{this.0.logo}}"
+					alt="{{{this.0.exhname}}} logo" style="margin-top: 1.5em;" />
+			{{/ifTrimWhitespace}}
+
+			
+			{{#ifTrimWhitespace this.0.exhname}}
+				<h1 class="mys-spacing-small">{{{this.0.exhname}}}</h1>
+			{{/ifTrimWhitespace}}
+
+			
+			<div>
+				<div id="exhShowroomPanelBoothLabelDiv">
+					
+				</div>
+				<span id="exhShowroomPanelBoothLabelSpan">
+					Booth:
+				</span>
+				<p id="exhShowroomPanelBoothSpan"></p>
+			</div>
+
+			
+			<div class="mys-is-hidden-md">
+				<a id="showroomMobilePreviewLink" class="mys-vert-align-middle mys-grey jq-Keyword-title mys-bold" href="#0" data-hide-text='<span id="showroomMobilePreviewLinkIcon" class="mys-ico-expanded mys-vert-align-middle mys-link-color"></span> Hide Details' data-show-text='<span id="showroomMobilePreviewLinkIcon" class="mys-ico-actions mys-vert-align-middle mys-link-color"></span> More Details'>
+					<span id="showroomMobilePreviewLinkIcon" class="mys-ico-actions mys-vert-align-middle mys-link-color"></span>
+					More Details
+				</a>
+			</div> 
+			
+
+			<div id="exhdetailsBoothTag" style="display:none;">
+				<p style="padding-left:0px;"><i>Booth Tags:</i> <br />{BOOTHTAGS}</p>
+			</div>
+
+			<div id="showroomContentDiv" class="mys-is-shown-md  mys-animated">
+				
+				<p class="mys-exh-contact-info">
+				{{#ifTrimWhitespace this.0.address1}}
+					{{{this.0.address1}}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.address2}}
+					{{{this.0.address2}}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.address3}}
+					{{{this.0.address3}}}<br />
+				{{/ifTrimWhitespace}}
+				{{#displayCityStateZip this.0.city this.0.state this.0.zip}}{{/displayCityStateZip}}
+				{{#ifTrimWhitespace this.0.country}}
+					{{{this.0.country}}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.phone}}
+					P: {{this.0.phone}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.phone2}}
+					P2: {{this.0.phone2}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.fax}}
+					F: {{this.0.fax}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.fax2}}
+					F2: {{this.0.fax2}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.url}}
+					{{#ifTrimWhitespace this.0.exhid}}
+						
+
+						<a href="{{#formatURL this.0.url}}{{/formatURL}}" target="_blank" class="js-websiteLink" data-exhid="{{this.0.exhid}}">{{this.0.url}}</a>
+					{{else}}
+						<a href="http://{{this.0.url}}" target="_blank">{{this.0.url}}</a>
+					{{/ifTrimWhitespace}}<br />
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.facebook}}
+					<a href="/8_0/exhview/stats.cfm?useraction=Facebook&useractiontype=Click&actionvalue={{this.0.exhid}}&redirectlocation=external&CFID=61580525&CFTOKEN=2597746a56153951-A40037C0-A376-DF5D-0991C0FCC8E634F3&altvalue={{#URLEncode this.0.facebook}}{{/URLEncode}}&redirectto={{#URLEncode this.0.facebook}}{{/URLEncode}}" target="_blank" rel="nofollow"><span class="mys-ico-facebook mys-ico-medium mys-ico-dark"></span></a>
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.twitter}}
+					<a href="/8_0/exhview/stats.cfm?useraction=Twitter&useractiontype=Click&actionvalue={{this.0.exhid}}&redirectlocation=external&CFID=61580525&CFTOKEN=2597746a56153951-A40037C0-A376-DF5D-0991C0FCC8E634F3&altvalue={{#URLEncode this.0.twitter}}{{/URLEncode}}&redirectto={{#URLEncode this.0.twitter}}{{/URLEncode}}" target="_blank" rel="nofollow"><span class="mys-ico-twitter mys-ico-medium mys-ico-dark"></span></a>
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.linkedin}}
+					<a href="/8_0/exhview/stats.cfm?useraction=LinkedIn&useractiontype=Click&actionvalue={{this.0.exhid}}&redirectlocation=external&CFID=61580525&CFTOKEN=2597746a56153951-A40037C0-A376-DF5D-0991C0FCC8E634F3&altvalue={{#URLEncode this.0.linkedin}}{{/URLEncode}}&redirectto={{#URLEncode this.0.linkedin}}{{/URLEncode}}" target="_blank" rel="nofollow"><span class="mys-ico-linkedin mys-ico-medium mys-ico-dark"></span></a>
+				{{/ifTrimWhitespace}}
+				{{#ifTrimWhitespace this.0.googleplus}}
+					<a href="/8_0/exhview/stats.cfm?useraction=GooglePlus&useractiontype=Click&actionvalue={{this.0.exhid}}&redirectlocation=external&CFID=61580525&CFTOKEN=2597746a56153951-A40037C0-A376-DF5D-0991C0FCC8E634F3&altvalue={{#URLEncode this.0.googleplus}}{{/URLEncode}}&redirectto={{#URLEncode this.0.googleplus}}{{/URLEncode}}" target="_blank" rel="nofollow"><span class="mys-ico-googleplus mys-ico-medium mys-ico-dark"></span></a>
+				{{/ifTrimWhitespace}}
+				</p>
+
+				<hr />
+
+				{{#ifTrimWhitespace this.0.description}}
+					<h2>About {{{this.0.exhname}}}</h2>
+					<p>
+						{{{this.0.description}}}
+					</p>
+				{{/ifTrimWhitespace}}
+			</div>
+
+		</div>
+	</script>
+
+	<script id="exhShowFeaturesTemplate" type="text/x-handlebars-template"></script>
+</div>
+
+
+
+				</div>
+			</div>
+	</div>
+
+
+	<div class="facilityLegendContent" style="display:none;">Loading...</div>
+	<div class="inactivityDialog" title="Inactive Floorplan" style="display:none;">You have been inactive for 60 seconds.  Do you want to refresh the floor plan?</div>

@@ -1,0 +1,1 @@
+window.__CONFIG__ = {"API_PATH":"","SOCKET_URL":"wss://9llw5168p7.execute-api.eu-west-1.amazonaws.com/prod","REGION":"eu-west-1","CLOUDFRONT_DOMAIN":"di9mr54a05a64.cloudfront.net"};

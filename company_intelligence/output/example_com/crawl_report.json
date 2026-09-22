@@ -1,0 +1,15 @@
+{
+    "starting_url": "https://example.com",
+    "domain": "example.com",
+    "pages_discovered": 1,
+    "pages_crawled": 1,
+    "pages_failed": 0,
+    "crawl_duration": "0:00:34.676288",
+    "failed_urls": {},
+    "http_status_codes": {
+        "https://example.com": 200
+    },
+    "redirects": [],
+    "duplicate_urls": [],
+    "external_urls_ignored_count": 0
+}

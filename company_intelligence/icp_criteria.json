@@ -1,0 +1,7 @@
+{
+    "industries": ["Technology", "Internet"],
+    "locations": ["California", "San Francisco"],
+    "min_employees": 1,
+    "max_employees": 100,
+    "technologies": []
+}

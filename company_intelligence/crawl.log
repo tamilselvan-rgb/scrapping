@@ -1,0 +1,464 @@
+2026-08-27 09:47:26 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 09:47:26 [WARNING] company_intelligence.ai.llm_extractor: LLM_API_KEY environment variable is empty. LLM extraction will be disabled/skipped.
+2026-08-27 09:47:39 [INFO] company_intelligence.crawler.crawler: Playwright browser fallback initialized.
+2026-08-27 09:47:39 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 09:47:39 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 09:47:44 [INFO] company_intelligence.crawler.crawler: Playwright browser closed.
+2026-08-27 09:47:44 [INFO] company_intelligence.crawler.crawler: Playwright client stopped.
+2026-08-27 09:47:44 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 09:47:44 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 09:47:44 [ERROR] company_intelligence.main: Enrichment layer failed: name 'company_enrichment' is not defined
+2026-08-27 09:47:44 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 09:47:44 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 09:47:44 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 09:47:44 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 09:47:59 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 09:47:59 [WARNING] company_intelligence.ai.llm_extractor: LLM_API_KEY environment variable is empty. LLM extraction will be disabled/skipped.
+2026-08-27 09:48:00 [INFO] company_intelligence.crawler.crawler: Playwright browser fallback initialized.
+2026-08-27 09:48:00 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 09:48:00 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 09:48:02 [INFO] company_intelligence.crawler.crawler: Playwright browser closed.
+2026-08-27 09:48:02 [INFO] company_intelligence.crawler.crawler: Playwright client stopped.
+2026-08-27 09:48:02 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 09:48:02 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 09:48:02 [WARNING] company_intelligence.enrichment.company_enrichment: LLM is not active. Skipping external data enrichment.
+2026-08-27 09:48:02 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 09:48:02 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 09:48:02 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 09:48:02 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 09:56:40 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 09:56:40 [WARNING] company_intelligence.ai.llm_extractor: LLM_API_KEY environment variable is empty. LLM extraction will be disabled/skipped.
+2026-08-27 09:56:41 [INFO] company_intelligence.crawler.crawler: Playwright browser fallback initialized.
+2026-08-27 09:56:41 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 09:56:41 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 09:56:43 [INFO] company_intelligence.crawler.crawler: Playwright browser closed.
+2026-08-27 09:56:43 [INFO] company_intelligence.crawler.crawler: Playwright client stopped.
+2026-08-27 09:56:43 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 09:56:43 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 09:56:43 [WARNING] company_intelligence.enrichment.company_enrichment: LLM is not active. Skipping external data enrichment.
+2026-08-27 09:56:43 [INFO] company_intelligence.main: Loading ICP configuration from icp_criteria.json ...
+2026-08-27 09:56:43 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 09:56:43 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 09:56:43 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 09:56:43 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 09:59:45 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 09:59:45 [WARNING] company_intelligence.ai.llm_extractor: LLM_API_KEY environment variable is empty. LLM extraction will be disabled/skipped.
+2026-08-27 09:59:46 [INFO] company_intelligence.crawler.crawler: Playwright browser fallback initialized.
+2026-08-27 09:59:46 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 09:59:46 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 09:59:48 [INFO] company_intelligence.crawler.crawler: Playwright browser closed.
+2026-08-27 09:59:48 [INFO] company_intelligence.crawler.crawler: Playwright client stopped.
+2026-08-27 09:59:48 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 09:59:48 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 09:59:48 [WARNING] company_intelligence.enrichment.company_enrichment: LLM is not active. Skipping external data enrichment.
+2026-08-27 09:59:48 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 09:59:48 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 09:59:48 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 09:59:48 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 10:03:23 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 10:03:23 [WARNING] company_intelligence.ai.llm_extractor: LLM_API_KEY environment variable is empty. LLM extraction will be disabled/skipped.
+2026-08-27 10:03:25 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 10:03:25 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 10:03:25 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 10:03:27 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 10:03:27 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 10:03:27 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 10:03:27 [WARNING] company_intelligence.enrichment.company_enrichment: LLM is not active. Skipping external data enrichment.
+2026-08-27 10:03:27 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 10:03:27 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 10:03:27 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 10:03:27 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 10:11:39 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 10:11:41 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 10:11:42 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 10:11:42 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 10:11:42 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 10:11:46 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 10:11:46 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 10:13:24 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 8 validation errors for LLMStructuredOutput
+company.locations
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+company.subsidiaries
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+technologies
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+customers
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+partners
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+leadership
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+certifications
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+awards
+  Input should be a valid list [type=list_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+2026-08-27 10:14:35 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 10:14:37 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 10:14:40 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 10:14:40 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 10:14:40 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 10:14:43 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 10:14:43 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 10:17:08 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'$defs': {'LLMCompanyInf...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:18:31 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'$defs': {'LLMCompanyInf...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:18:33 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 10:18:52 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 10:19:09 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 10:19:09 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 10:19:09 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 10:19:14 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 10:19:14 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 10:21:48 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'$defs': {'LLMCompanyInf...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:21:48 [ERROR] company_intelligence.main: Failed parsing company data with LLM: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'$defs': {'LLMCompanyInf...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:21:48 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 10:21:48 [INFO] company_intelligence.enrichment.company_enrichment: Starting external data enrichment for: Example Domain
+2026-08-27 10:21:48 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain company overview industry headquarters'
+2026-08-27 10:21:51 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain employees count revenue funding'
+2026-08-27 10:21:53 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain founders CEO leadership team'
+2026-08-27 10:21:55 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain LinkedIn official page'
+2026-08-27 10:21:57 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain company overview industry headquarters'
+2026-08-27 10:22:38 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 10:22:38 [INFO] company_intelligence.enrichment.company_enrichment: Starting external data enrichment for: Example Domain
+2026-08-27 10:22:38 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain company overview industry headquarters'
+2026-08-27 10:22:40 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain employees count revenue funding'
+2026-08-27 10:22:41 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain founders CEO leadership team'
+2026-08-27 10:22:43 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain LinkedIn official page'
+2026-08-27 10:22:44 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain company overview industry headquarters'
+2026-08-27 10:24:36 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 2 validation errors for LLMStructuredOutput
+company.industry
+  Input should be a valid string [type=string_type, input_value={'value': 'Domain Name In...: 0.9}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.headquarters
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-08-27 10:25:45 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain employees count revenue funding'
+2026-08-27 10:28:41 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain employees count revenue funding'
+2026-08-27 10:29:15 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain founders CEO leadership team'
+2026-08-27 10:30:46 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 3 validation errors for LLMStructuredOutput
+company.name
+  Input should be a valid string [type=string_type, input_value={'value': 'Example Domain...: 0.9}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.employee_count
+  Input should be a valid integer [type=int_type, input_value={'value': 'include all em...: 0.8}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+company.revenue
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-08-27 10:31:54 [ERROR] company_intelligence.enrichment.company_enrichment: Failed to extract structured data from search: name 'LeadershipItem' is not defined
+2026-08-27 10:31:54 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain LinkedIn official page'
+2026-08-27 10:32:21 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'employee_count': {'valu...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:33:04 [INFO] company_intelligence.enrichment.company_enrichment: External data enrichment completed.
+2026-08-27 10:33:04 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.69, 'products_and_services': 0.5, 'contact_information': 0.0, 'relationships_and_market': 0.4, 'overall_data_quality': 0.46}
+2026-08-27 10:33:04 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 10:33:12 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 10:33:12 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 10:34:59 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:34:59 [ERROR] company_intelligence.enrichment.company_enrichment: Failed to extract structured data from search: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:34:59 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain founders CEO leadership team'
+2026-08-27 10:37:45 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:40:46 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:43:11 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:43:11 [ERROR] company_intelligence.enrichment.company_enrichment: Failed to extract structured data from search: 1 validation error for LLMStructuredOutput
+company
+  Field required [type=missing, input_value={'name': {'value': 'Examp...ions': [], 'awards': []}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-08-27 10:43:11 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain LinkedIn official page'
+2026-08-27 10:46:58 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 13 validation errors for LLMStructuredOutput
+company.name
+  Input should be a valid string [type=string_type, input_value={'value': 'Example Domain...: 0.9}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.description
+  Input should be a valid string [type=string_type, input_value={'value': 'Share your mis...: 0.9}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.industry
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.sub_industry
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.founded_year
+  Input should be a valid integer [type=int_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+company.company_type
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.headquarters
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.locations
+  Input should be a valid list [type=list_type, input_value={'value': ['Your Page sup...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+company.employee_count
+  Input should be a valid integer [type=int_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+company.company_size
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.revenue
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.parent_company
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.subsidiaries
+  Input should be a valid list [type=list_type, input_value={'value': [], 'source': N...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+2026-08-27 10:49:29 [ERROR] company_intelligence.ai.llm_extractor: Failed to enrich structured company data: 10 validation errors for LLMStructuredOutput
+company.name
+  Input should be a valid string [type=string_type, input_value={'value': 'Example Domain...: 0.9}], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.industry
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.sub_industry
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.founded_year
+  Input should be a valid integer [type=int_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+company.company_type
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.headquarters
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.locations
+  Input should be a valid list [type=list_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/list_type
+company.employee_count
+  Input should be a valid integer [type=int_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+company.company_size
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+company.revenue
+  Input should be a valid string [type=string_type, input_value={'value': None, 'source':...es': [], 'status': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-08-27 10:54:32 [INFO] company_intelligence.enrichment.company_enrichment: External data enrichment completed.
+2026-08-27 10:54:32 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.08, 'products_and_services': 0.0, 'contact_information': 0.0, 'relationships_and_market': 0.0, 'overall_data_quality': 0.03}
+2026-08-27 10:54:32 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 10:54:33 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 10:54:33 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 10:55:52 [INFO] company_intelligence.main: Target company URL: https://example.com (Domain: example.com)
+2026-08-27 10:55:59 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 10:56:03 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 10:56:03 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 10:56:03 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 10:56:27 [WARNING] company_intelligence.crawler.crawler: Crawl4AI failed for https://example.com: Unexpected error in _crawl_web at line 632 in wrap_api_call (C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py):
+Error: BrowserContext.new_page: Connection closed while reading from the driver
+
+Code context:
+ 627           )
+ 628           self._api_zone.set(parsed_st)
+ 629           try:
+ 630               return await cb()
+ 631           except Exception as error:
+ 632 →             raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+ 633           finally:
+ 634               self._api_zone.set(None)
+ 635   
+ 636       def wrap_api_call_sync(
+ 637           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None. Trying fallback...
+2026-08-27 10:56:27 [ERROR] company_intelligence.crawler.crawler: Error closing Crawl4AI: Browser.close: Connection closed while reading from the driver
+2026-08-27 10:56:27 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 10:57:33 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 10:57:33 [INFO] company_intelligence.enrichment.company_enrichment: Starting external data enrichment for: Example Domain
+2026-08-27 10:57:33 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain company overview industry headquarters'
+2026-08-27 10:57:34 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain employees count revenue funding'
+2026-08-27 10:57:36 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain founders CEO leadership team'
+2026-08-27 10:57:37 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'Example Domain LinkedIn official page'
+2026-08-27 10:57:39 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain company overview industry headquarters'
+2026-08-27 10:58:10 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain employees count revenue funding'
+2026-08-27 10:58:20 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain founders CEO leadership team'
+2026-08-27 10:58:50 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'Example Domain LinkedIn official page'
+2026-08-27 10:59:17 [INFO] company_intelligence.enrichment.company_enrichment: External data enrichment completed.
+2026-08-27 10:59:17 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.71, 'products_and_services': 0.5, 'contact_information': 0.0, 'relationships_and_market': 0.4, 'overall_data_quality': 0.47}
+2026-08-27 10:59:17 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\example_com\company_data.json
+2026-08-27 10:59:17 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\example_com\company_report.docx
+2026-08-27 10:59:17 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\example_com\crawl_report.json
+2026-08-27 11:20:57 [INFO] company_intelligence.main: Target company URL: https://sportvot.com (Domain: sportvot.com)
+2026-08-27 11:20:59 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 11:21:00 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 11:21:00 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 11:21:01 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 11:21:31 [WARNING] company_intelligence.crawler.crawler: Crawl4AI failed for https://sportvot.com: Unexpected error in _crawl_web at line 778 in _crawl_web (C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\crawl4ai\async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://sportvot.com/", waiting until "networkidle"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its. Trying fallback...
+2026-08-27 11:22:02 [WARNING] company_intelligence.crawler.crawler: Crawl4AI failed for https://sportvot.com/solutions: Unexpected error in _crawl_web at line 778 in _crawl_web (C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\crawl4ai\async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://sportvot.com/solutions", waiting until "networkidle"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its. Trying fallback...
+2026-08-27 11:22:03 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 11:22:03 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 11:24:52 [ERROR] company_intelligence.main: Failed parsing company data with LLM: name 'ProductServiceItem' is not defined
+2026-08-27 11:24:52 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 11:24:52 [INFO] company_intelligence.enrichment.company_enrichment: Starting external data enrichment for: SportVot
+2026-08-27 11:24:52 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot company overview industry headquarters'
+2026-08-27 11:24:54 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot employees count revenue funding'
+2026-08-27 11:24:56 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot founders CEO leadership team'
+2026-08-27 11:24:57 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot LinkedIn official page'
+2026-08-27 11:25:00 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot company overview industry headquarters'
+2026-08-27 11:25:53 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot employees count revenue funding'
+2026-08-27 11:26:45 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot founders CEO leadership team'
+2026-08-27 11:27:50 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot LinkedIn official page'
+2026-08-27 11:28:38 [INFO] company_intelligence.enrichment.company_enrichment: External data enrichment completed.
+2026-08-27 11:28:38 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.61, 'products_and_services': 0.8, 'contact_information': 0.0, 'relationships_and_market': 0.8, 'overall_data_quality': 0.57}
+2026-08-27 11:28:38 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\sportvot_com\company_data.json
+2026-08-27 11:28:38 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\sportvot_com\company_report.docx
+2026-08-27 11:28:38 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\sportvot_com\crawl_report.json
+2026-08-27 11:28:59 [INFO] company_intelligence.main: Target company URL: https://sportvot.com (Domain: sportvot.com)
+2026-08-27 11:29:02 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 11:29:04 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 11:29:04 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 11:29:05 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 11:29:37 [WARNING] company_intelligence.crawler.crawler: Crawl4AI failed for https://sportvot.com: Unexpected error in _crawl_web at line 778 in _crawl_web (C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\crawl4ai\async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://sportvot.com/", waiting until "networkidle"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its. Trying fallback...
+2026-08-27 11:29:53 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 11:29:53 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 11:31:41 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 5 validation errors for LLMStructuredOutput
+partners.0
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+competitors.0.name
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+leadership.0
+  Input should be a valid dictionary or instance of LLMLeadership [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/model_type
+certifications.0
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+awards.0
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-08-27 11:34:25 [ERROR] company_intelligence.ai.llm_extractor: Failed to extract structured company data: 1 validation error for LLMStructuredOutput
+company.employee_count
+  Input should be a valid integer, unable to parse string as an integer [type=int_parsing, input_value='N/A', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_parsing
+2026-08-27 11:34:52 [INFO] company_intelligence.main: Target company URL: https://sportvot.com (Domain: sportvot.com)
+2026-08-27 11:34:54 [INFO] company_intelligence.ai.llm_extractor: OpenAI/Ollama client initialized at http://localhost:11434/v1 with model: llama3
+2026-08-27 11:34:56 [INFO] company_intelligence.crawler.crawler: Crawl4AI AsyncWebCrawler started.
+2026-08-27 11:34:56 [INFO] company_intelligence.main: Checking sitemaps...
+2026-08-27 11:34:57 [INFO] company_intelligence.main: Starting web crawl...
+2026-08-27 11:35:28 [WARNING] company_intelligence.crawler.crawler: Crawl4AI failed for https://sportvot.com: Unexpected error in _crawl_web at line 778 in _crawl_web (C:\Users\Admin\AppData\Roaming\Python\Python311\site-packages\crawl4ai\async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://sportvot.com/", waiting until "networkidle"
+
+
+Code context:
+ 773                                   tag="GOTO",
+ 774                                   params={"url": url},
+ 775                               )
+ 776                               response = None
+ 777                           else:
+ 778 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
+ 779   
+ 780                       # ──────────────────────────────────────────────────────────────
+ 781                       # Walk the redirect chain.  Playwright returns only the last
+ 782                       # hop, so we trace the `request.redirected_from` links until the
+ 783                       # first response that differs from the final one and surface its. Trying fallback...
+2026-08-27 11:35:39 [INFO] company_intelligence.crawler.crawler: Crawl4AI crawler closed.
+2026-08-27 11:35:39 [INFO] company_intelligence.main: Analyzing crawled pages for company data...
+2026-08-27 11:36:55 [INFO] company_intelligence.main: Executing external enrichment searches...
+2026-08-27 11:36:55 [INFO] company_intelligence.enrichment.company_enrichment: Starting external data enrichment for: SportVot
+2026-08-27 11:36:55 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot company overview industry headquarters'
+2026-08-27 11:36:57 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot employees count revenue funding'
+2026-08-27 11:36:58 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot founders CEO leadership team'
+2026-08-27 11:37:00 [INFO] company_intelligence.enrichment.web_search: Searching web for query: 'SportVot LinkedIn official page'
+2026-08-27 11:37:02 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot company overview industry headquarters'
+2026-08-27 11:38:12 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot employees count revenue funding'
+2026-08-27 11:38:52 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot founders CEO leadership team'
+2026-08-27 11:40:00 [INFO] company_intelligence.enrichment.company_enrichment: Extracting company details from search results of: 'SportVot LinkedIn official page'
+2026-08-27 11:40:49 [INFO] company_intelligence.enrichment.company_enrichment: External data enrichment completed.
+2026-08-27 11:40:49 [INFO] company_intelligence.enrichment.source_validator: Calculated profile confidence: {'company_core_info': 0.61, 'products_and_services': 0.85, 'contact_information': 0.0, 'relationships_and_market': 0.82, 'overall_data_quality': 0.58}
+2026-08-27 11:40:49 [INFO] company_intelligence.exporters.json_exporter: JSON saved successfully: output\sportvot_com\company_data.json
+2026-08-27 11:40:50 [INFO] company_intelligence.exporters.docx_exporter: DOCX saved successfully: output\sportvot_com\company_report.docx
+2026-08-27 11:40:50 [INFO] company_intelligence.exporters.json_exporter: Crawl report saved successfully: output\sportvot_com\crawl_report.json

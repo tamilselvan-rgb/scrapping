@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5BL9JLLW');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5BL9JLLW');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Elenco espositori | FSB forum italy</title>
+
+    <meta name="description" content="">
+    <meta name="keywords" content=""/>
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1.0, maximum-scale=1.0"/>
+
+
+    <link rel="apple-touch-icon" sizes="512x512" href="https://www.fsb-forum.com/media/redaktionell/anuga_1/img_15/layout_8/Anuga-Logo_favicon_180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.fsb-forum.com/media/redaktionell/anuga_1/img_15/layout_8/Anuga-Logo_favicon_192.png">
+    <link rel="stylesheet" href="https://www.fsb-forum.com/css/stylesheet-red.css">
+    <link rel="stylesheet" href="https://www.fsb-forum.com/media/system/shariff/shariff.complete~1.css">
+    <script src="https://www.fsb-forum.com/media/system/js/lib/jquery-2.1.0.min.js"></script>
+    <script src="https://www.fsb-forum.com/media/system/js/lib/jquery-ui.min.js"></script>
+    <script src="https://www.fsb-forum.com/media/system/js/lib/datepicker-it-IT.js"></script>
+    <script>
+        $.datepicker.setDefaults($.datepicker.regional["it-IT"]);
+    </script>
+    <script src="https://www.fsb-forum.com/media/system/js/main.min.js"></script>
+    <script src="https://www.fsb-forum.com/media/system/shariff/shariff.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://www.fsb-italy.it/media/system/css/cookieconsent.min.css"/>
+    <script src="https://www.fsb-italy.it/media/system/js/lib/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function () {
+            setTimeout(function () {
+                merkliste();
+            }, 1000);
+            $('.marker').click(merkliste());
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#666666",
+                        "text": "#ededed"
+                    },
+                    "button": {
+                        "background": "#ededed"
+                    }
+                },
+                "content": {
+                    "message": "Per offrirti un servizio migliore questo sito Web utilizza i cookie. Se continui, assumiamo che tu autorizzi a ricevere i cookie.",
+                    "dismiss": "OK",
+                    "link": "Note Legali",
+                    "href": "security-and-data-protection/security-and-data-protection.php.html"
+                }
+            })
+        });
+
+        function merkliste() {
+            if ($('.cc-bottom').css('display') != 'none') {
+                $('.marked_bar').css('margin-bottom', $('.cc-bottom:visible').css('height'))
+                $('.cc-dismiss').click(function () {
+                    $('.marked_bar').css('margin-bottom', '0px')
+                })
+            } else {
+                $('.marked_bar').css('margin-bottom', '0px')
+            }
+        }
+
+        $(window).on('resize', function () {
+            merkliste()
+        });
+    </script>
+
+
+    <style>
+        .antispam {
+            display: none;
+        }
+    </style>
+
+
+    <link rel="stylesheet" type="text/css" href="https://www.fsb-forum.com/uw-js/fancybox/3.5.7/dist/jquery.fancybox.min.css">
+    <script src="https://www.fsb-forum.com/uw-js/fancybox/3.5.7/dist/jquery.fancybox.min.js"></script>
+
+    <link href="https://www.fsb-forum.com/uw-css/font-awesome/6.7.2/css/all.min.css" rel="stylesheet"> <!--load all styles -->
+    <link rel="stylesheet" href="https://www.fsb-forum.com/uw-css/font-awesome/6.7.2/css/fontawesome.min.css">
+
+
+    <style>
+        /* BANNER */
+        /* Classe 1: Nasconde su mobile, mostra su desktop (≥1025px) */
+        .hide-mobile-show-desktop {
+            display: none !important;
+        }
+
+        @media screen and (min-width: 1025px) {
+            .hide-mobile-show-desktop {
+                display: block !important;
+            }
+        }
+
+        /* Classe 2: Mostra su mobile, nasconde su desktop (≥1025px) */
+        .show-mobile-hide-desktop {
+            display: block !important;
+        }
+
+        @media screen and (min-width: 1025px) {
+            .show-mobile-hide-desktop {
+                display: none !important;
+            }
+        }
+
+        .centered-sponsors .slick-track {
+            display: flex !important;
+            justify-content: center !important;
+            transform: none !important;
+            width: 100% !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+        }
+
+        .centered-sponsors .slick-slide {
+            float: none !important;
+            margin: 0 auto !important;
+        }
+    </style>
+
+
+    <script type="text/javascript">
+        var _iub = _iub || [];
+        _iub.csConfiguration = {"siteId": 3898312, "cookiePolicyId": 65602338, "lang": "it", "storage": {"useSiteId": true}};
+    </script>
+    <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3898312.js"></script>
+    <script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js"></script>
+    <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script><!-- YouTube Lazy Loading con Iubenda -->
+<link rel="stylesheet" href="https://www.fsb-forum.com/uw-css/youtube-iubenda-lazy.css?v=1785162059">
+<script src="https://www.fsb-forum.com/uw-js/youtube-iubenda-lazy.js?v=1763379043" defer></script>
+
+<!-- Consenso cookie per i video aperti in lightbox (showcase, prodotti, elenco espositori) -->
+<script src="https://www.fsb-forum.com/uw-js/video-consent-gate.js?v=1785162680" defer></script>
+
+<!-- Tracciamento provenienza iscrizioni biglietteria (cookie di prima parte uw_attrib) -->
+<script src="https://www.fsb-forum.com/uw-js/utm-tracker.js" defer></script>
+
+<script type="text/javascript" id="zsiqchat">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "siq8194117a622d32938db56ad1c514a003e6fa4a66292dcf747c50551a222330e3", values:{},ready:function(){$zoho.salesiq.floatbutton.visible('hide');}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.eu/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script></head>
+<body id="top">
+<!-- HEADER_BEGIN -->
+<header>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BL9JLLW"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="grid-wrapper lightback ">
+
+    <p class="header-banner">
+            <span class="item">
+                                    <span class="label">Bergamo:</span>
+                    <span class="date">11 - 12 novembre 2026</span>
+                            </span>
+    </p>
+
+    <div class="gw-inner">
+                <div class="logo">
+            <a class="cube" href="https://www.fsb-forum.com/it/home" title="FSB forum italy">
+                <div class="imgholder">
+                    <img class="logo-white" src="https://www.fsb-forum.com/img/logo/logo-main.svg" alt="FSB forum italy" title="FSB forum italy">
+                    <img class="logo-dark" src="https://www.fsb-forum.com/img/logo/logo-main.svg" alt="FSB forum italy" title="FSB forum italy">
+                                    </div>
+            </a>
+        </div>
+        
+
+
+
+        <div class="metanav">
+
+
+                            <a title="English version" class="ico lang mainlink" href="https://www.fsb-forum.com/en/exhibitors-2026/exhibitor-list" hreflang="en"><span>EN</span></a>
+                                <a href="https://www.fsb-forum.com/it/contatti" title="Contatti" class="ico contact mainlink"><span>Contatti</span></a>
+
+                
+                            <a href="https://www.fsb-forum.com/it/area-privata/login"
+                   id="cdcLoginButton"
+                   title="User Account"
+                   class="ico">
+                    <i class="far fa-user" style="padding-right: 5px;"></i>
+                    <span>Log in</span>
+                </a>
+                
+                        <a href="https://www.fsb-forum.com/it/biglietteria/scarica-il-tuo-biglietto-gratuito/"
+               title="Registrazione visitatori"
+               class="ico">
+                <i class="far fa-ticket" style="padding-right: 5px;"></i>
+                <span>Registrazione visitatori</span>
+            </a>
+
+        </div>
+
+
+
+        <style>a:focus {
+                outline-style: solid;
+                outline-color: #e30018
+            }
+        </style>
+        <script>
+            $(document).ready(function () {
+                $("a").mousedown(function () {
+                    this.blur();
+                    this.hideFocus = true;
+                    this.style.outline = 'none';
+                });
+            })
+        </script>
+        <nav>
+    <div class="holder">
+        <div class="nav-holder">
+            <div class="nav">
+                                <ul class="mainmenu">
+                    <li class="desktophidden calchexback corporateback light">Panoramica</li>
+                                            <li class="hassub">
+                                                            <a tabindex="2" href="javascript:void(0)" title="" class="level-1 " data-target="section-198">
+                                    La fiera                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="3" href="javascript:void(0)" title="" class="level-1 " data-target="section-934">
+                                    Espositori 2026                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="4" href="javascript:void(0)" title="" class="level-1 " data-target="section-214">
+                                    Esponi                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="5" href="javascript:void(0)" title="" class="level-1 " data-target="section-390">
+                                    Visita                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="6" href="javascript:void(0)" title="" class="level-1 " data-target="section-1485">
+                                    Biglietteria                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="7" href="javascript:void(0)" title="" class="level-1 " data-target="section-212">
+                                    Eventi e convegni                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                                                            <a tabindex="8" href="javascript:void(0)" title="" class="level-1 " data-target="section-215">
+                                    Area stampa                                </a>
+                                                        </li>
+                                            <li class="hassub">
+                            <a  href="https://www.ais-it.org/ais-informa/"
+                                      title="AIS INFORMA"
+                                      target="_blank"
+                                      class="level-1 ">
+                                AIS INFORMA                                </a>
+                                                        </li>
+                                    </ul>
+                                <div class="desktophidden mobilmeta">
+                                                                <a href="https://www.fsb-forum.com/it/biglietteria/scarica-il-tuo-biglietto-gratuito/" title="Registrazione visitatori" class="ico primarylink">
+                            <i class="far fa-ticket" style="padding-right: 5px;"></i>
+                            Registrazione visitatori
+                        </a>
+                        <a href="https://www.fsb-forum.com/it/contatti" title="Contatti" class="ico contact primarylink">
+                            Contatti
+                        </a>
+                                            <form action="">
+                        <select name="lang" id="lang" onchange="location = this.value;">
+                            <option value="https://www.fsb-forum.com">IT</option>
+                            <option value="https://www.fsb-forum.com/en">EN</option>
+                        </select>
+                    </form>
+                </div>
+            </div>
+                            <div class="subnav" id="section-198">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026" title="FSB Forum Italy 2026" class="active" tabindex="9">
+                                                FSB Forum Italy 2026                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026" title="Panoramica FSB Forum Italy 2026" tabindex="10">
+                                                            Panoramica La fiera                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="11" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/informazioni-generali" title="Informazioni generali">
+                                                                    Informazioni generali                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="12" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/date-e-orari" title="Date e orari">
+                                                                    Date e orari                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="13" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/location" title="Location">
+                                                                    Location                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="14" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/move-city-sport" title="Move City Sport">
+                                                                    Move City Sport                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="15" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/patrocini" title="Patrocini">
+                                                                    Patrocini                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="16" href="https://www.fsb-forum.com/it/la-fiera/fsb-forum-italy-2026/media-partner" title="Media partner">
+                                                                    Media partner                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/la-fiera/fsb-worldwide" title="FSB Worldwide" class="active" tabindex="17">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-world__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">FSB Worldwide</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-934">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/espositori-2026/elenco-espositori" title="Elenco espositori" class="active" tabindex="18">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-exhibitor-search__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Elenco espositori</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/espositori-2026/showcase" title="Showcase" class="active" tabindex="19">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-world__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Showcase</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-214">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/esponi/per-gli-espositori" title="Per gli espositori" class="active" tabindex="20">
+                                                Per gli espositori                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/esponi/per-gli-espositori" title="Panoramica Per gli espositori" tabindex="21">
+                                                            Panoramica Esponi                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="22" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/perche-esporre" title="Perché esporre?">
+                                                                    Perché esporre?                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="23" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/soluzioni-espositive" title="Soluzioni espositive">
+                                                                    Soluzioni espositive                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="24" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/pacchetti-sponsor-showcase" title="Pacchetti Sponsor & Showcase">
+                                                                    Pacchetti Sponsor & Showcase                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="25" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/profilo-visitatori" title="Profilo visitatori">
+                                                                    Profilo visitatori                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="26" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/prenota-il-tuo-hotel" title="Prenota il tuo hotel">
+                                                                    Prenota il tuo hotel                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="27" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/chiedi-informazioni" title="Chiedi informazioni">
+                                                                    Chiedi informazioni                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="28" href="https://www.fsb-forum.com/it/esponi/per-gli-espositori/iscrizione-newsletter" title="Iscrizione newsletter">
+                                                                    Iscrizione newsletter                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/esponi/settori-merceologici" title="Settori merceologici" class="active" tabindex="29">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-segments__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Settori merceologici</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/esponi/informazioni-per-il-soggiorno" title="Informazioni per il soggiorno" class="active" tabindex="30">
+                                                Informazioni per il soggiorno                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/esponi/informazioni-per-il-soggiorno" title="Panoramica Informazioni per il soggiorno" tabindex="31">
+                                                            Panoramica Esponi                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="32" href="https://www.fsb-forum.com/it/esponi/informazioni-per-il-soggiorno/come-raggiungerci" title="Come raggiungerci">
+                                                                    Come raggiungerci                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/esponi/per-gli-allestitori" title="Per gli allestitori" class="active" tabindex="33">
+                                                Per gli allestitori                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/esponi/per-gli-allestitori" title="Panoramica Per gli allestitori" tabindex="34">
+                                                            Panoramica Esponi                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="35" href="https://www.fsb-forum.com/it/esponi/per-gli-allestitori/orari-di-allestimento-e-disallestimento" title="Orari di allestimento e disallestimento">
+                                                                    Orari di allestimento e disallestimento                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-390">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/visita/per-i-visitatori" title="Per i visitatori" class="active" tabindex="36">
+                                                Per i visitatori                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/visita/per-i-visitatori" title="Panoramica Per i visitatori" tabindex="37">
+                                                            Panoramica Visita                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="38" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/perche-visitare" title="Perché visitare?">
+                                                                    Perché visitare?                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="39" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/organizza-la-tua-visita" title="Organizza la tua visita">
+                                                                    Organizza la tua visita                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="40" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/prenota-il-tuo-hotel" title="Prenota il tuo hotel">
+                                                                    Prenota il tuo hotel                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="41" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/come-arrivare" title="Come arrivare">
+                                                                    Come arrivare                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="42" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/richiedi-informazioni" title="Richiedi informazioni">
+                                                                    Richiedi informazioni                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="43" href="https://www.fsb-forum.com/it/visita/per-i-visitatori/iscrizione-newsletter" title="Iscrizione newsletter">
+                                                                    Iscrizione newsletter                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/visita/registrati" title="Registrati" class="active" tabindex="44">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-ticket__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Registrati</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-1485">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/biglietteria/scarica-il-tuo-biglietto-gratuito" title="Scarica il tuo biglietto gratuito" class="active" tabindex="45">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-ticket__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Scarica il tuo biglietto gratuito</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-212">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/eventi-e-convegni/iniziative-speciali" title="Iniziative speciali" class="active" tabindex="46">
+                                                Iniziative speciali                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/eventi-e-convegni/iniziative-speciali" title="Panoramica Iniziative speciali" tabindex="47">
+                                                            Panoramica Eventi e convegni                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="48" href="https://www.fsb-forum.com/it/eventi-e-convegni/iniziative-speciali/matchmaking" title="Matchmaking">
+                                                                    Matchmaking                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="49" href="https://www.fsb-forum.com/it/eventi-e-convegni/iniziative-speciali/cityscape-award-2026" title="City’Scape Award 2026">
+                                                                    City’Scape Award 2026                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/eventi-e-convegni/convegni-e-workshop" title="Convegni e Workshop" class="active" tabindex="50">
+                                                Convegni e Workshop                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/eventi-e-convegni/convegni-e-workshop" title="Panoramica Convegni e Workshop" tabindex="51">
+                                                            Panoramica Eventi e convegni                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="52" href="https://www.fsb-forum.com/it/eventi-e-convegni/convegni-e-workshop/programma-convegni" title="Programma Convegni">
+                                                                    Programma Convegni                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="53" href="https://www.fsb-forum.com/it/eventi-e-convegni/convegni-e-workshop/programma-workshop" title="Programma Workshop">
+                                                                    Programma Workshop                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-215">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                                                                                                                    <li class="level-2 hassub">
+                                            <a href="https://www.fsb-forum.com/it/area-stampa/per-la-stampa" title="Per la stampa" class="active" tabindex="54">
+                                                Per la stampa                                            </a>
+
+                                            <div class="subnav-container">
+                                                                                                <ul>
+                                                    <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                                                    <li class="level-2 desktophidden">
+                                                        <a href="https://www.fsb-forum.com/it/area-stampa/per-la-stampa" title="Panoramica Per la stampa" tabindex="55">
+                                                            Panoramica Area stampa                                                        </a>
+                                                    </li>
+                                                                                                                <li>
+                                                                <a tabindex="56" href="https://www.fsb-forum.com/it/area-stampa/per-la-stampa/comunicati-stampa" title="Comunicati stampa">
+                                                                    Comunicati stampa                                                                </a>
+                                                            </li>
+                                                                                                                    <li>
+                                                                <a tabindex="57" href="https://www.fsb-forum.com/it/area-stampa/per-la-stampa/rassegna-stampa" title="Rassegna stampa">
+                                                                    Rassegna stampa                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/area-stampa/social-media" title="Social media" class="active" tabindex="58">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-media__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Social media</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                                                                            <li class="level-2 navmodul navmodul_icon">
+                                            <a href="https://www.fsb-forum.com/it/area-stampa/newsletter" title="Newsletter" class="active" tabindex="59">
+                                                <div class="navitem_icon">
+                                                    <img src="https://www.fsb-forum.com/img/km_icons/all/icon-newsletter__H60.svg" class="svg"><br>
+                                                    <div class="linktitle ani">Newsletter</div>
+                                                    <p>
+                                                                                                            </p>
+                                                </div>
+                                            </a>
+                                        </li>
+                                        
+                                
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                                <div class="subnav" id="section-1303">
+                    <div class="subnav-wrapper">
+                        <ul>
+                            <li class="goback desktophidden calchexback corporateback first"><span>Panoramica</span></li>
+                            <!-- Pagina panoramica il testo del collegamento nel cellulare non è selezionabile -->
+
+                            
+
+                        </ul>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                
+                    </div>
+    </div>
+</nav>
+
+<div class="hash">#FSBforumitaly</div>
+<div class="menutoggle desktophidden">
+    <div id="menuicon">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <label>Menù</label>
+</div>
+
+    </div>
+</div>
+
+    <link rel="stylesheet" type="text/css" href="https://www.fsb-forum.com/uw-js/fancybox/3.5.7/dist/jquery.fancybox.min.css">
+    <script src="https://www.fsb-forum.com/uw-js/fancybox/3.5.7/dist/jquery.fancybox.min.js"></script>
+
+</header>
+<div class="shadow"></div>
+<!-- HEADER_END -->
+<div class="main">
+    <div class="breadcrumb invertedback">
+    <div class="breadcrumb-container">
+        <div class="grid-wrapper">
+            <div class="gw-inner">
+                <ul>
+                    <li>
+                        <a href="https://www.fsb-forum.com/it/home" title="Home" class="home noline">
+                            <img src="https://www.fsb-forum.com/img/km_icons/icon-set_18px/icon-home__H18.svg" alt="Home" title="Home" width="18" height="18">
+                        </a>
+                    </li>
+                                                <li>
+                                Espositori 2026                            </li>
+                                                    <li>
+                            <a href="https://www.fsb-forum.com/it/espositori-2026/elenco-espositori/index.php"
+                               title="Elenco espositori"
+                               class="initial_noline">Elenco espositori</a>
+                        </li>
+                                        </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <!-- CONTENT_AREA_BEGIN -->
+    <!--SolrIndex:on-->
+
+            <section class=" content addholder">
+            <div class="options-bar cmodul wide">
+    <div class="grid-wrapper">
+        <div class="gw-inner">
+                        <h1 class="hl_2">Gammasport</h1>
+                    </div>
+    </div>
+</div>
+
+
+<div class="cmodul wide">
+    <div class="grid-wrapper">
+        <div class="gw-inner">
+
+            <div class="info-box">
+                <div class="box-top clfix">
+                    <div class="item">
+                                                    <strong>Position</strong><br>
+                                                        <span>Hall A; Stand D27</span><img
+                                    src="https://www.fsb-forum.com/img/km_icons/all/icon-hall-stand__H18.svg" width="20"
+                                    style="margin-left: 10px;">
+                                                </div>
+                </div>
+                <div class="inner invertedback clfix">
+                    <div class="col">
+                        <div class="cont" style="width: 50%;">
+                            <style>
+                                .responsive-image {
+                                    max-width: 300px; /* Larghezza massima */
+                                    max-height: 150px; /* Altezza massima */
+                                    width: auto; /* Adatta la larghezza in base all'altezza */
+                                    height: auto; /* Adatta l'altezza in base alla larghezza */
+                                    object-fit: contain; /* Mantiene le proporzioni */
+                                }
+                            </style>
+
+
+                                                        
+                            
+
+
+                            <strong>Gammasport</strong><br>
+
+                            
+                            Via Vecchia Trevigiana<br>
+                            31058 Susegana TV                            - IT<br>
+                                                            <a href="tel:+390438 454305"
+                                   title="phone">
+                                    tel: +39 0438 454305                                </a><br>
+                                                            
+
+
+                                                            <br> <a href="mailto:info@gammasport.com"
+                                        title="Contatta l'azienda"
+                                        class="btn primary medium calchexback light">
+                                    <span>Contatta l'azienda</span>
+                                </a><br>
+                            
+
+                        </div>
+                        <div class="cont" style="width: 50%;">
+
+                            
+                            <strong>Categorie</strong><br>
+                                                                    <strong style="text-transform: uppercase;">Impianti sportivi</strong><br>
+                                                                            Armadietti/accessori per spogliatoi<br>
+                                                                        Arredi e attrezzature per impianti sportivi<br>
+                                                                        Arredi/attrezzature<br>
+                                                                        Atletica leggera<br>
+                                                                        Attrezzatura per arbitri<br>
+                                                                        Attrezzature per gli allenamenti<br>
+                                                                        Attrezzature tecniche per impianti sportivi<br>
+                                                                        Attrezzi per la ginnastica<br>
+                                                                        Badminton<br>
+                                                                        Ball catcher<br>
+                                                                        Beach sport<br>
+                                                                        Calcio<br>
+                                                                        Dispositivi per la marcatura di aree/ campi sportivi<br>
+                                                                        Football<br>
+                                                                        Football americano<br>
+                                                                        Hockey (su prato/indoor)<br>
+                                                                        Pallamano<br>
+                                                                        Pallavolo<br>
+                                                                        Panchine<br>
+                                                                        Porte per sport di squadra<br>
+                                                                        Rugby<br>
+                                                                        Sport con la palla<br>
+                                                                        Sport outdoor<br>
+                                                                        Tennis<br>
+                                                                        Transenne<br>
+                                                                        Tribune/ tribune mobili<br>
+                                    
+                            
+                        </div>
+                    </div>
+                    <style>
+                        .col.uw-link a {
+                            margin-right: 10px;
+                        }
+
+                        .col.uw-link a img {
+                            width: 15px;
+                            height: 15px;
+                        }
+                    </style>
+                    <div class="col uw-link">
+
+                        
+
+
+
+                                                
+                                                
+                        
+                        
+                    </div>
+                </div>
+
+                <a href="index.php"
+                   style="margin-top: 20px;"
+                   title="torna all'elenco"
+                   class="btn primary medium calchexback light">
+                    <span><< torna all'elenco</span>
+                </a>
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+    <div class="cmodul wide">
+        <div class="tabs grid-wrapper">
+            <div class="gw-inner">
+                <div class="tabsholder">
+                    <div class="item active" data-target="#tab-item-01" style="width: 33.33%;"><span>Prodotti</span>
+                    </div>
+                    <div class="item " data-target="#tab-item-02" style="width: 33.33%;">
+                        <span>Documenti scaricabili</span></div>
+                </div>
+
+
+                <div class="accordion">
+                    <div class="accitem  open" id="tab-item-01">
+                        <div class="acctoggle">Prodotti</div>
+                        <div class="content">
+                                <div class="teaser-row">
+                    <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784102568-main.jpg"
+                       data-fancybox="prod_157"
+                       title="Panchine giocatori e allenatori"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784102568-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784102568-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784102568-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784102568-preview.jpg" alt="Panchine giocatori e allenatori" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000157/prod-1784103448-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_157"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Panchine giocatori e allenatori</h2>
+                        <p>Gammasport si occupa della progettazione e produzione di panchine per allenatori pensate per ogni tipologia di impianto sportivo, dalle realt&agrave; dilettantistiche a quelle professionistiche. Costruite in alluminio oppure in acciaio zincato, possono essere personalizzate scegliendo tipologia e colore delle sedute, tipologia dei pannelli di rivestimento, possono essere fisse o trasportabili su ruote.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784102764-main.jpg"
+                       data-fancybox="prod_158"
+                       title="Porte calcio"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784102764-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784102764-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784102764-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784102764-preview.jpg" alt="Porte calcio" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784103401-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_158"
+                        ></a>
+                                                <a href="https://www.fsb-forum.com/media/showcase/000011/products/000158/prod-1784103412-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_158"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Porte calcio</h2>
+                        <p>Le Porte da calcio prodotte da Gammasport sono certificate dal Bureau Veritas in conformit&agrave; alla Norma Uni En 749 e sono presenti in numerosi stadi italiani ed esteri. Realizzate in alluminio con componenti in acciaio zincato, garantiscono sicurezza e durata nel tempo.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784102825-main.jpg"
+                       data-fancybox="prod_159"
+                       title="Porte calcetto antiribaltamento"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784102825-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784102825-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784102825-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784102825-preview.jpg" alt="Porte calcetto antiribaltamento" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000159/prod-1784103365-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_159"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Porte calcetto antiribaltamento</h2>
+                        <p>Nate dalla partnership con la ditta Tutigol produttrice delle zavorre brevettate, e perfezionate dalla collaborazione con FIGC LND, queste porte sono dotate di un sistema antiribaltamento integrato e garantiscono la totale sicurezza dei giocatori in campo.</p>
+<p>Grazie all'Accordo con Divisione Calcio a 5,&nbsp; sono impiegate nei campionati di Serie A1, A2 Maschile e A1 Femminile.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103029-main.jpg"
+                       data-fancybox="prod_160"
+                       title="Porta Multisport con canestro integrato"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103029-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103029-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103029-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103029-preview.jpg" alt="Porta Multisport con canestro integrato" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103322-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_160"
+                        ></a>
+                                                <a href="https://www.fsb-forum.com/media/showcase/000011/products/000160/prod-1784103338-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_160"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Porta Multisport con canestro integrato</h2>
+                        <p>Impianto combinato composto da porta calcetto interamente saldata e zincata, con soprastante tabellone minibasket e canestro regolamentare.</p>
+<p>Ideale per aree multisport e campi polivalenti all&rsquo;interno di parchi pubblici, scuole, oratori .. La struttura &egrave; certificata in conformit&agrave; norma UNI EN 15312 ed assicura robustezza e durata nel tempo.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103172-main.jpg"
+                       data-fancybox="prod_161"
+                       title="Arene"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103172-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103172-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103172-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103172-preview.jpg" alt="Arene" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103299-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_161"
+                        ></a>
+                                                <a href="https://www.fsb-forum.com/media/showcase/000011/products/000161/prod-1784103304-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_161"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Arene</h2>
+                        <p>Soluzioni strutturali per aree multisport progettate per un utilizzo intensivo e polivalente. Realizzate in acciaio zincato e chiuse da pannelli coibentati e rete di contenimento laterale e superiore. Personalizzabili come dimensioni e finiture, sono ideali per allenamenti tattici oppure per creare zone gioco chiuse e delimitate.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103237-main.jpg"
+                       data-fancybox="prod_162"
+                       title="Tribune"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103237-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103237-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103237-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103237-preview.jpg" alt="Tribune" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103249-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_162"
+                        ></a>
+                                                <a href="https://www.fsb-forum.com/media/showcase/000011/products/000162/prod-1784103271-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_162"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Tribune</h2>
+                        <p>Tribuna modulari per interno o esterno progettate e realizzate in base alle esigenze del cliente e in conformit&agrave; alle normative vigenti.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784103991-main.jpg"
+                       data-fancybox="prod_163"
+                       title="Impianti basket"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784103991-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784103991-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784103991-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784103991-preview.jpg" alt="Impianti basket" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                                            <a href="https://www.fsb-forum.com/media/showcase/000011/products/000163/prod-1784104001-main.jpg"
+                           style="display: none"
+                           data-caption=""
+                           data-fancybox="prod_163"
+                        ></a>
+                        
+                    <div class="copy" >
+                        <h2 class="hl_3">Impianti basket</h2>
+                        <p>Gammasport offre una gamma completa di impianti per la pallacanestro, progettati per garantire elevate prestazioni e massima sicurezza.</p>
+<p>Realizziamo soluzioni fisse e mobili, pensate e personalizzate in base alle caratteristiche della struttura ove andranno installate, nel rispetto delle normative vigenti.&nbsp;</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000164/prod-1784104161-main.jpg"
+                       data-fancybox="prod_164"
+                       title="Arredo palestra"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000164/prod-1784104161-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000164/prod-1784104161-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000164/prod-1784104161-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000164/prod-1784104161-preview.jpg" alt="Arredo palestra" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                    
+                    <div class="copy" >
+                        <h2 class="hl_3">Arredo palestra</h2>
+                        <p>Gammasport propone arredamento completo per gli ambienti sportivi, moduli funzionali per spogliatoi, panche e armadietti, oltre a soluzioni specifiche per locali infermeria.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                        <div class="teaser col3 col1 corptop t01">
+                <div class="t-inner lightback" style="padding-top: 11px;">
+                    <a href="https://www.fsb-forum.com/media/showcase/000011/products/000165/prod-1784103544-main.jpg"
+                       data-fancybox="prod_165"
+                       title="Porte Beach Handball"
+                       class="noline"
+                       data-caption=""
+                       target="_blank">
+                        <picture>
+                            <source media="(min-width: 1025px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000165/prod-1784103544-preview.jpg">
+                            <source media="(min-width: 720px)" srcset="https://www.fsb-forum.com/media/showcase/000011/products/000165/prod-1784103544-preview.jpg">
+                            <source srcset="https://www.fsb-forum.com/media/showcase/000011/products/000165/prod-1784103544-preview.jpg">
+                            <img src="https://www.fsb-forum.com/media/showcase/000011/products/000165/prod-1784103544-preview.jpg" alt="Porte Beach Handball" style="display: block; margin: 10px auto 0; max-width: 100%; max-height: 280px; width: auto; height: auto; object-fit: contain;">
+                        </picture>
+                    </a>
+                    
+                    <div class="copy" >
+                        <h2 class="hl_3">Porte Beach Handball</h2>
+                        <p>Gammasport produce&nbsp; porte professionali in alluminio per beach handball, progettate per garantire stabilit&agrave; e sicurezza durante il gioco.</p>                                                
+                    </div>
+                </div>
+            </div><!-- //teaser-->
+                </div>
+    
+
+                        </div>
+                    </div>
+                    <div class="accitem " id="tab-item-02">
+                        <div class="acctoggle">Documenti scaricabili</div>
+                        <div class="content">
+
+                                                            </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div><!--//accordion-->
+            </div><!--//gw-inner-->
+        </div><!--//tabs-->
+    </div><!--//cmodul-->
+
+        </section>
+    
+
+    <section>
+    <div class="teaser-holder invertedback">
+        <div class="grid-wrapper">
+            <div class="gw-inner">
+                <div class="teaser-row">
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+    <!--SolrIndex:off-->
+    <!-- CONTENT_AREA_END -->
+    
+
+</div>
+<!-- FOOTER_BEGIN -->
+<footer>
+    <header>
+</header>
+<div class="main">
+    <section>
+    </section>
+</div>
+<footer>
+    <div class="grid-wrapper darkback">
+        <div class="gw-inner">
+            <div class="inner">
+                <div class="col-left">
+                    
+
+
+
+                                        <div class="socials">
+                                                
+                                                                            <a href="https://www.instagram.com/fsbforumitaly"
+                               title="Instagram"
+                               target="_blank">
+                                <img src="https://www.fsb-forum.com/img/km_icons/icon-set_20px/icon_social_instagram_small_light.svg"
+                                     width="30"
+                                     height="30"
+                                     alt="Instagram"
+                                     title="Instagram">
+                            </a>
+                                                                                                        <a href="https://it.linkedin.com/showcase/fsb-forum-italy/"
+                               title="YouTube"
+                               target="_blank">
+                                <img src="https://www.fsb-forum.com/img/km_icons/icon-set_20px/icon_social_linkedin_small_light.svg"
+                                     width="17"
+                                     height="21"
+                                     alt="linkedin"
+                                     title="linkedin">
+                            </a>
+                                                                        </div>
+
+                    <div class="meta light">
+                                                                        <div class="">
+                            <a href="https://www.fsb-forum.com/it/privacy/informativa-generale" title="Privacy Policy di Koelnmesse" class=" noline" target="_blank">Privacy policy</a>&nbsp;&nbsp;
+                                                                                                                <br>
+                            <span style="font-size: 11px;">Koelnmesse s.r.l. - V.le Sarca 336/F Edificio Sedici 20126 Mi - P.I. 03630690968 - Capitale Soc: 10.000 i.v. - R.E.A.1689295</span>
+                        </div>
+                    </div>
+                </div><!-- // col-left -->
+
+                                
+                <div id="privacy_policy_main" class="modalbox lightback mfp-hide">
+                                        <h3 class="hl_3">Informativa sull'utilizzo dei cookie</h3>
+                    <h3>Nota informativa sull'utilizzo dei Cookies nel sito koelnmesse.it</h3>
+<p>I cookie sono piccoli file di testo che il server web deposita sul dispositivo con cui l'utente naviga, senza identificarlo. Un cookie non pu&ograve; leggere dati personali salvati sul disco fisso o file di cookie creati da altri siti, poich&eacute; le sole informazioni che pu&ograve; contenere sono quelle fornite dall'utente stesso. <br />Le pagine di questo sito fanno uso di cookie secondo le modalit&agrave; descritte di seguito:</p>
+<ul>
+<li><strong>cookie tecnici:</strong>&nbsp; questo sito fa uso di <strong>cookie tecnici</strong>, che non vengono memorizzati in modo persistente sul computer dell'utente e sono necessari per consentire l'esplorazione sicura ed efficiente del sito. Tale uso &egrave; limitato a cookie di sessione (trasmissione di identificativi di sessione costituiti da numeri casuali generati dal server, come per es: PHPSESSID, JSESSIONID) e in generale a cookie di dominio, come cookie di preferenze utente (es: jfcookie[lang], has_js, site_lang) e cookie di monitoraggio (es: BlueStripe.PVN). L'utilizzo di tali cookie in questo sito viene fatto in modo da evitare il ricorso ad altre tecniche informatiche potenzialmente pregiudizievoli per la riservatezza della navigazione degli utenti, non consentendo l'acquisizione di dati personali identificativi dell'utente.</li>
+<li><strong>cookie analytics</strong>: al fine di facilitare la navigazione e il modo in cui i visitatori ci arrivano, il sito koelnmesse.it utilizza <strong>Google Analytics</strong>, un servizio di analisi web fornito da Google, che aderisce ai principi sulla privacy stabiliti dal governo degli Stati Uniti (US Safe Harbor Privacy Principles), alla cui&nbsp;<a href="http://www.google.it/intl/it/privacy/privacy-policy.html"> Privacy-Policy&nbsp;</a>si prega di fare riferimento. Per analizzare i punti di maggiore interesse dei siti visitati dall&rsquo;utente, Google Analytics utilizza i cookie a scopi statistici e raccoglie informazioni in sola forma aggregata, senza associare l'indirizzo IP di navigazione dell'utente a nessun altro dato posseduto da Google stessa. Sono stati adottati strumenti che riducono il potere identificativo dei cookie tramite il mascheramento di porzioni significative dell'IP. Inoltre sono state attivate le impostazioni di Google Analytics opportune affinch&egrave; Google non incroci i dati raccolti con altre informazioni di cui gi&agrave; dispone.</li>
+<li><strong>cookie di terze parti di profilazione</strong>: su alcune pagine di collegamento con i social network e con altre applicazioni multimediali, possono essere impostati, oltre a quelli di Google Analytics, altri cookies anonimi di terze parti, allo scopo di tracciare e migliorare il funzionamento e la personalizzazione delle proprie applicazioni, senza raccogliere informazioni che possano permettere l&rsquo;identificazione dell&rsquo;utente. In particolare, in ottemperanza al Provvedimento del Garante Privacy dell'8 maggio 2014, vengono di seguito elencati i link aggiornati alle informative e ai moduli di consenso delle terze parti stesse:<br /><br /></li>
+<ul>
+<li><a href="https://www.facebook.com/help/cookies/" target="_blank" rel="noopener">Facebook</a></li>
+<li><a href="http://www.google.com/intl/it/policies/technologies/cookies/" target="_blank" rel="noopener">You Tube</a></li>
+<li><a href="http://www.google.it/intl/it_it/policies/technologies/cookies/" target="_blank" rel="noopener">Google Maps</a></li>
+</ul>
+</ul>
+<p>La navigazione sul sito comporta l&rsquo;accettazione delle condizioni d&rsquo;uso, comprese le funzionalit&agrave; legate ai cookie che possono essere disabilitati utilizzando le opzioni specifiche presenti nei vari tipi di browser. Salvo quanto sopra indicato, questo sito non fa uso di altri cookie per la trasmissione di informazioni di carattere personale e non utilizzano altri sistemi per il tracciamento degli utenti.</p>
+<p>Va infine ricordato che, quando si condividono contenuti e articoli sui social network (es. Facebook), si accede direttamente ai loro siti, che possono impostare a loro volta i propri cookie.</p>
+<h3>Come disabilitare i cookie (opt-out)</h3>
+<p>La maggior parte dei browser accettano i cookies automaticamente, ma &egrave; possibile rifiutarli. Se non si desidera ricevere o memorizzare i cookie, si possono modificare le impostazioni di sicurezza del browser (Internet Explorer, Google Chrome, Mozilla Firefox, Safari Opera, ecc...). Ciascun browser presenta procedure diverse per la gestione delle impostazioni. <br />Normalmente &egrave; necessario accedere alla sezione &ldquo;opzioni/impostazioni/preferenze avanzate&rdquo; del browser e qui accedere ad una sezione intitolata &ldquo;Privacy/Sicurezza/Dati&rdquo;. A seconda del browser, &egrave; possibile bloccare tutti i cookie, scegliere di bloccare solo quelli delle terze parti oppure ancora far s&igrave; che i cookie vengano cancellati alla chiusura del browser.</p>                </div>
+
+
+                <div id="coockie_policy_main" class="modalbox lightback mfp-hide">
+                                        <h3 class="hl_3">Informativa sull'utilizzo dei cookie</h3>
+                    <h3>Nota informativa sull'utilizzo dei Cookies nel sito koelnmesse.it</h3>
+<p>I cookie sono piccoli file di testo che il server web deposita sul dispositivo con cui l'utente naviga, senza identificarlo. Un cookie non pu&ograve; leggere dati personali salvati sul disco fisso o file di cookie creati da altri siti, poich&eacute; le sole informazioni che pu&ograve; contenere sono quelle fornite dall'utente stesso. <br />Le pagine di questo sito fanno uso di cookie secondo le modalit&agrave; descritte di seguito:</p>
+<ul>
+<li><strong>cookie tecnici:</strong>&nbsp; questo sito fa uso di <strong>cookie tecnici</strong>, che non vengono memorizzati in modo persistente sul computer dell'utente e sono necessari per consentire l'esplorazione sicura ed efficiente del sito. Tale uso &egrave; limitato a cookie di sessione (trasmissione di identificativi di sessione costituiti da numeri casuali generati dal server, come per es: PHPSESSID, JSESSIONID) e in generale a cookie di dominio, come cookie di preferenze utente (es: jfcookie[lang], has_js, site_lang) e cookie di monitoraggio (es: BlueStripe.PVN). L'utilizzo di tali cookie in questo sito viene fatto in modo da evitare il ricorso ad altre tecniche informatiche potenzialmente pregiudizievoli per la riservatezza della navigazione degli utenti, non consentendo l'acquisizione di dati personali identificativi dell'utente.</li>
+<li><strong>cookie analytics</strong>: al fine di facilitare la navigazione e il modo in cui i visitatori ci arrivano, il sito koelnmesse.it utilizza <strong>Google Analytics</strong>, un servizio di analisi web fornito da Google, che aderisce ai principi sulla privacy stabiliti dal governo degli Stati Uniti (US Safe Harbor Privacy Principles), alla cui&nbsp;<a href="http://www.google.it/intl/it/privacy/privacy-policy.html"> Privacy-Policy&nbsp;</a>si prega di fare riferimento. Per analizzare i punti di maggiore interesse dei siti visitati dall&rsquo;utente, Google Analytics utilizza i cookie a scopi statistici e raccoglie informazioni in sola forma aggregata, senza associare l'indirizzo IP di navigazione dell'utente a nessun altro dato posseduto da Google stessa. Sono stati adottati strumenti che riducono il potere identificativo dei cookie tramite il mascheramento di porzioni significative dell'IP. Inoltre sono state attivate le impostazioni di Google Analytics opportune affinch&egrave; Google non incroci i dati raccolti con altre informazioni di cui gi&agrave; dispone.</li>
+<li><strong>cookie di terze parti di profilazione</strong>: su alcune pagine di collegamento con i social network e con altre applicazioni multimediali, possono essere impostati, oltre a quelli di Google Analytics, altri cookies anonimi di terze parti, allo scopo di tracciare e migliorare il funzionamento e la personalizzazione delle proprie applicazioni, senza raccogliere informazioni che possano permettere l&rsquo;identificazione dell&rsquo;utente. In particolare, in ottemperanza al Provvedimento del Garante Privacy dell'8 maggio 2014, vengono di seguito elencati i link aggiornati alle informative e ai moduli di consenso delle terze parti stesse:<br /><br /></li>
+<ul>
+<li><a href="https://www.facebook.com/help/cookies/" target="_blank" rel="noopener">Facebook</a></li>
+<li><a href="http://www.google.com/intl/it/policies/technologies/cookies/" target="_blank" rel="noopener">You Tube</a></li>
+<li><a href="http://www.google.it/intl/it_it/policies/technologies/cookies/" target="_blank" rel="noopener">Google Maps</a></li>
+</ul>
+</ul>
+<p>La navigazione sul sito comporta l&rsquo;accettazione delle condizioni d&rsquo;uso, comprese le funzionalit&agrave; legate ai cookie che possono essere disabilitati utilizzando le opzioni specifiche presenti nei vari tipi di browser. Salvo quanto sopra indicato, questo sito non fa uso di altri cookie per la trasmissione di informazioni di carattere personale e non utilizzano altri sistemi per il tracciamento degli utenti.</p>
+<p>Va infine ricordato che, quando si condividono contenuti e articoli sui social network (es. Facebook), si accede direttamente ai loro siti, che possono impostare a loro volta i propri cookie.</p>
+<h3>Come disabilitare i cookie (opt-out)</h3>
+<p>La maggior parte dei browser accettano i cookies automaticamente, ma &egrave; possibile rifiutarli. Se non si desidera ricevere o memorizzare i cookie, si possono modificare le impostazioni di sicurezza del browser (Internet Explorer, Google Chrome, Mozilla Firefox, Safari Opera, ecc...). Ciascun browser presenta procedure diverse per la gestione delle impostazioni. <br />Normalmente &egrave; necessario accedere alla sezione &ldquo;opzioni/impostazioni/preferenze avanzate&rdquo; del browser e qui accedere ad una sezione intitolata &ldquo;Privacy/Sicurezza/Dati&rdquo;. A seconda del browser, &egrave; possibile bloccare tutti i cookie, scegliere di bloccare solo quelli delle terze parti oppure ancora far s&igrave; che i cookie vengano cancellati alla chiusura del browser.</p>                </div>
+                
+                <div class="col-right">
+                    <div class="organiser clfix">
+                                                <a href="https://www.koelnmesse.it" title="Koelnmesse" target="_blank">
+                            <img src="https://www.fsb-forum.com/img/logo/km-logo-footer.png" alt="Koelnmesse" title="Koelnmesse">
+                        </a>
+                    </div>
+                </div><!-- // col-right -->
+            </div><!-- // inner -->
+        </div>
+        <!--
+            <a href="#top" class="totop scrollto"><img src="img/icons/ico_totop.png" alt="Nach oben" title="Nach oben"></a>
+        -->
+
+        <!-- NEW
+        <span class="totop scrollto"><img src="img/icons/ico_totop.png" alt="Nach oben" title="Nach oben"></span>
+        -->
+    </div>
+</footer>
+</footer>
+<!-- FOOTER_END -->
+</body>
+</html>

@@ -1,0 +1,527 @@
+{
+    "metadata": {
+        "input_url": "https://sportvot.com",
+        "domain": "sportvot.com",
+        "crawl_started": "2026-08-27T11:34:52.437696",
+        "crawl_completed": "2026-08-27T11:35:39.054938",
+        "pages_discovered": 2,
+        "pages_crawled": 2,
+        "pages_failed": 0
+    },
+    "company": {
+        "name": {
+            "value": "SportVot",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "SportVot",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "legal_name": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "description": {
+            "value": "Live Sports Streaming Hub",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "Live Sports Streaming Hub",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "industry": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "Entertainment Software",
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                },
+                {
+                    "value": "Sports Streaming",
+                    "source": "Search Query: SportVot LinkedIn official page",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "sub_industry": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "Spectator Sports",
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                },
+                {
+                    "value": "SportTech",
+                    "source": "Search Query: SportVot LinkedIn official page",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "founded_year": {
+            "value": null,
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": null,
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": 2014,
+                    "source": "Search Query: SportVot founders CEO leadership team",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "company_type": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "headquarters": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "Mumbai, India",
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                },
+                {
+                    "value": "SportVot's headquarters",
+                    "source": "Search Query: SportVot founders CEO leadership team",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "locations": {
+            "value": [
+                "SportVot's headquarters"
+            ],
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": [
+                        "SportVot's headquarters"
+                    ],
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": [
+                        "SportVot's headquarters",
+                        "Mumbai, Maharashtra, India"
+                    ],
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "employee_count": {
+            "value": null,
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": null,
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": 58,
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                },
+                {
+                    "value": 100,
+                    "source": "Search Query: SportVot founders CEO leadership team",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "company_size": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "11-50 employees",
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "revenue": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                },
+                {
+                    "value": "$5.08M",
+                    "source": "Search Query: SportVot company overview industry headquarters",
+                    "source_type": "external",
+                    "confidence": 0.8
+                },
+                {
+                    "value": "$1.2M",
+                    "source": "Search Query: SportVot employees count revenue funding",
+                    "source_type": "external",
+                    "confidence": 0.8
+                }
+            ],
+            "status": "conflicting_sources"
+        },
+        "parent_company": {
+            "value": "",
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": "",
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        },
+        "subsidiaries": {
+            "value": [],
+            "source": "https://sportvot.com",
+            "source_type": "official_website",
+            "confidence": 0.9,
+            "values": [
+                {
+                    "value": [],
+                    "source": "https://sportvot.com",
+                    "source_type": "official_website",
+                    "confidence": 0.9
+                }
+            ],
+            "status": null
+        }
+    },
+    "products": [
+        {
+            "name": "SportVot Play",
+            "description": "Built for the future of sports",
+            "source": "Search Query: SportVot LinkedIn official page",
+            "confidence": 0.8
+        }
+    ],
+    "services": [],
+    "solutions": [
+        {
+            "name": "SportVot Cloud Studio",
+            "description": "Premium live sports production, made easy",
+            "source": "https://sportvot.com",
+            "confidence": 0.9
+        }
+    ],
+    "industries_served": [],
+    "technologies": [
+        "100+ Customizable Animated Graphics",
+        "Advertisement Integration",
+        "Automated Highlights within 5 seconds",
+        "Live Scoring & Real-Time Statistics for 30+ sports",
+        "Multi-lingual Remote Commentary",
+        "Multiple Camera Angle Streaming"
+    ],
+    "customers": [
+        {
+            "name": "Trusted By",
+            "source": "https://sportvot.com",
+            "confidence": 0.9
+        }
+    ],
+    "case_studies": [],
+    "partners": [
+        {
+            "name": "University of Mumbai",
+            "type": null,
+            "source": "Search Query: SportVot founders CEO leadership team",
+            "confidence": 0.8
+        }
+    ],
+    "competitors": [],
+    "leadership": [
+        {
+            "name": "Sidhhant Agarwal",
+            "role": "CEO",
+            "source": "Search Query: SportVot founders CEO leadership team",
+            "confidence": 0.8
+        },
+        {
+            "name": "Yash Bhagwatkar",
+            "role": "COO",
+            "source": "Search Query: SportVot founders CEO leadership team",
+            "confidence": 0.8
+        },
+        {
+            "name": "Shubhangi Gupta",
+            "role": "Founder",
+            "source": "Search Query: SportVot founders CEO leadership team",
+            "confidence": 0.8
+        }
+    ],
+    "contact_information": {
+        "emails": [],
+        "phones": [],
+        "addresses": []
+    },
+    "social_media": {},
+    "news": [],
+    "events": [],
+    "certifications": [],
+    "awards": [],
+    "pages": [
+        {
+            "url": "https://sportvot.com",
+            "canonical_url": "https://sportvot.com/",
+            "title": "Live Sports Streaming Hub",
+            "page_type": "homepage",
+            "content": "H1: Every game, every moment, live\n\nCapture\n\nStream\n\n\nH2: Driving Sports Production Across Borders\n\n0+\n\nGames Produced\n\n0+\n\nAthletes Featured\n\n0+\n\nCountries Covered\n\n0Mn+\n\nDigital Viewership\n\n\nH2: End-to-End Production\n\nFor Sports Organizations, Clubs, Academies.\n\n\nH3: CAPTURE\n\nEvery game captured & produced live via  mobile cameras, video cameras, or automated camera\n\n\nH3: PRODUCE\n\nBroadcast quality live sports with 5 minutes setup time\n\n\nH3: DISTRIBUTE\n\nYour content across multiple platforms seamlessly.\n\n\nH3: ANALYSE\n\nGenerate player profiles, player &  match highlights, top performers data.\n\n\nH2: SportVot Play\n\nThe Future of Casual Sports\n\n\nH3: Play with Passion\n\nExperience thrilling gameplay on premium turfs designed for maximum fun.\n\n\nH3: Stream Every Moment\n\nWatch yourself in action—get your games live-streamed and recorded for future playback.\n\n\nH3: Play Together, Play Smart\n\nJoin a community of fellow players, connect, and enjoy the game in good company.\n\n\nH3: More Than Just Play\n\nConnect, track, and share every match in a fun, interactive way.\n\nTrusted By",
+            "emails": [],
+            "phones": [],
+            "links": [
+                "https://sportvot.com/solutions"
+            ]
+        },
+        {
+            "url": "https://sportvot.com/solutions",
+            "canonical_url": "https://sportvot.com/solutions",
+            "title": "Premium Live Sports Production Made Easy",
+            "page_type": "products",
+            "content": "SportVot Cloud Studio\n\n\nH1: Premium live sports production, made easy\n\n\nH2: Our Capabilities\n\nMultiple Camera Angle Streaming upto 12 angles\n\nLive Scoring & Real-Time Statistics for 30+ sports\n\n100+ Customizable Animated Graphics\n\nMulti-lingual Remote Commentary\n\nAdvertisement Integration\n\nAutomated Highlights within 5 seconds\n\n\nH2: Versatile Production Solutions\n\nSportVot provides flexible production solutions compatible with various capture devices\n\n\nH3: AUTOMATED CAMERAS\n\nIdeal for hands-free, automated coverage\n\n\nH3: MOBILE CAMERAS\n\nPerfect for allowing quick setup and live streaming\n\n\nH3: VIDEO CAMERAS\n\nFor professional-grade sports broadcasting, delivering high-quality production.\n\n\nH2: Enhance Your Pre-Captured Content\n\n\nH3: CUSTOM HIGHLIGHTS\n\nTailored match highlights at player, team, and tournament levels.\n\n\nH3: PLAYER TAGGING\n\nMake every moment count by tagging individual players in key moments.\n\n\nH3: SOCIAL MEDIA CONTENT\n\nOptimize your videos for Reels, YouTube Shorts, and Stories.\n\n\nH3: BRAND-DRIVEN CONTENT\n\nCraft engaging, sponsor-aligned content that strengthens partnerships.",
+            "emails": [],
+            "phones": [],
+            "links": []
+        }
+    ],
+    "external_sources": [
+        {
+            "query": "SportVot company overview industry headquarters",
+            "url": "https://pitchbook.com/profiles/company/502806-88",
+            "title": "SportVot 2026 Company Profile",
+            "snippet": "SportVot is headquartered in Mumbai, India. SportVot has 58 total employees. SportVot's primary industry is Entertainment Software. SportVot has raised $5.08M.",
+            "scraped_at": "2026-08-27T11:36:57.094507"
+        },
+        {
+            "query": "SportVot company overview industry headquarters",
+            "url": "https://tracxn.com/d/companies/sportvot/__e2QOc2QL6bXboh7IL4usFxPp3eElYEWN294bXMMBL9A",
+            "title": "Sportvot - 2026 Company Profile & Team",
+            "snippet": "Sportvot is headquartered in Mumbai, India. It is registered at Office No.709/710, 7th Floor, Corporate Annex, Sonawala Road, Goregaon East, ...",
+            "scraped_at": "2026-08-27T11:36:57.094507"
+        },
+        {
+            "query": "SportVot company overview industry headquarters",
+            "url": "https://in.linkedin.com/company/sportvot",
+            "title": "SportVot",
+            "snippet": "Industry: Spectator Sports. Company size: 11-50 employees. Headquarters: Mumbai ... It's where history, engineering, innovation, and speed come together.",
+            "scraped_at": "2026-08-27T11:36:57.094507"
+        },
+        {
+            "query": "SportVot company overview industry headquarters",
+            "url": "https://www.ambitionbox.com/overview/sportvot-overview",
+            "title": "Life at SportVot: Culture, Salary, Reviews, Interviews & more",
+            "snippet": "11-50 Headquarters Mumbai, Maharashtra, India. SportVot is headquartered in Mumbai, Maharashtra. SportVot has a work-life balance rating of 3.0 out of 5 based ...",
+            "scraped_at": "2026-08-27T11:36:57.094507"
+        },
+        {
+            "query": "SportVot employees count revenue funding",
+            "url": "https://www.owler.com/company/dravstreamtechnologiespvtltd",
+            "title": "Sportvot 's Competitors, Revenue, Number of Employees ...",
+            "snippet": "Sportvot generates $1.2M in revenue. Sportvot has historically raised $5M in funding. Sportvot has 30 employees",
+            "scraped_at": "2026-08-27T11:36:58.746228"
+        },
+        {
+            "query": "SportVot employees count revenue funding",
+            "url": "https://tracxn.com/d/companies/sportvot/__e2QOc2QL6bXboh7IL4usFxPp3eElYEWN294bXMMBL9A",
+            "title": "Sportvot - 2026 Company Profile & Team",
+            "snippet": "Sportvot has raised a total funding of $5.09M over 5 rounds. Its first funding round was on Jan 24, 2020. Its latest funding round was a Series ...",
+            "scraped_at": "2026-08-27T11:36:58.746228"
+        },
+        {
+            "query": "SportVot employees count revenue funding",
+            "url": "https://pitchbook.com/profiles/company/502806-88",
+            "title": "SportVot 2026 Company Profile",
+            "snippet": "Employees 58 Employees. SportVot has 58 total employees. SportVot has raised $5.08M. 5 of 17 investors who have invested in SportVot.",
+            "scraped_at": "2026-08-27T11:36:58.746228"
+        },
+        {
+            "query": "SportVot employees count revenue funding",
+            "url": "https://www.crunchbase.com/organization/sportvot",
+            "title": "SportVot - Crunchbase Company Profile & Funding",
+            "snippet": "Unlock company funding data, including rounds, dates, amounts, and investors. Companies With Less Than $1B in Revenue (Top 10K) 9,233 Number of Organizations • ...",
+            "scraped_at": "2026-08-27T11:36:58.746228"
+        },
+        {
+            "query": "SportVot founders CEO leadership team",
+            "url": "https://in.linkedin.com/in/sidhhant-agarwal-4b14821a",
+            "title": "Sidhhant Agarwal - Founder @ SportVot",
+            "snippet": "Sidhhant Agarwal. Founder @ SportVot | Democratising Sports Streaming | Data-Driven Sports Enthusiast | Innovator in Sports Tech. SportVot University of Mumbai ...",
+            "scraped_at": "2026-08-27T11:37:00.589344"
+        },
+        {
+            "query": "SportVot founders CEO leadership team",
+            "url": "https://tracxn.com/d/companies/sportvot/__e2QOc2QL6bXboh7IL4usFxPp3eElYEWN294bXMMBL9A",
+            "title": "Sportvot - 2026 Company Profile & Team",
+            "snippet": "The founders of Sportvot are Sidhhant Agarwal, Yash Bhagwatkar and Shubhangi Gupta. Sidhhant Agarwal is the CEO of Sportvot. Here are the ...",
+            "scraped_at": "2026-08-27T11:37:00.589344"
+        },
+        {
+            "query": "SportVot founders CEO leadership team",
+            "url": "https://sportvot.com/about-us",
+            "title": "SportVot live tv",
+            "snippet": "FOUNDERS venue Sidhhant Agarwal CEO & Tech experts with 12+ years of experience in building software technology products. venue Yash Bhagwatkar COO & ...",
+            "scraped_at": "2026-08-27T11:37:00.589344"
+        },
+        {
+            "query": "SportVot founders CEO leadership team",
+            "url": "https://www.jioinstitute.edu.in/events/sidhhant-agarwal",
+            "title": "Sidhhant Agarwal",
+            "snippet": "Founder and CEO of SportVot ... Sidhhant Agarwal has over 13 years of experience working in engineering and product roles at Oracle and Cashcare. Prior to ...",
+            "scraped_at": "2026-08-27T11:37:00.589344"
+        },
+        {
+            "query": "SportVot LinkedIn official page",
+            "url": "https://in.linkedin.com/company/sportvot",
+            "title": "SportVot",
+            "snippet": "Every Game, Every Moment, LIVE. SportVot is a global sports streaming, production and distribution ecosystem built for the future of sports.",
+            "scraped_at": "2026-08-27T11:37:02.057123"
+        },
+        {
+            "query": "SportVot LinkedIn official page",
+            "url": "https://in.linkedin.com/showcase/sportvot-insight-labs/",
+            "title": "SportVot Insight Labs",
+            "snippet": "For the last 9+ months, we've been powering cricket broadcasts across Australia. But with the Century Champions League, we got to take that a step further.",
+            "scraped_at": "2026-08-27T11:37:02.057123"
+        },
+        {
+            "query": "SportVot LinkedIn official page",
+            "url": "https://www.linkedin.com/posts/entrepreneur-news-network_sportstech-startups-ai-activity-7455129526201782272-ADVe",
+            "title": "SportVot Raises ₹32.7 Crore to Stream Local Sports ...",
+            "snippet": "SportVot has raised ₹32.7 crore to solve a problem most people don't even notice—99% of sports events globally are never streamed.",
+            "scraped_at": "2026-08-27T11:37:02.057123"
+        },
+        {
+            "query": "SportVot LinkedIn official page",
+            "url": "https://in.linkedin.com/showcase/sportvot-play/",
+            "title": "SportVot Play",
+            "snippet": "If you're looking to do more than just organise a sports event, SportVot Play is built for you. Website: https://sportvot.com/. External link for SportVot Play.",
+            "scraped_at": "2026-08-27T11:37:02.057123"
+        }
+    ],
+    "icp": {},
+    "confidence_summary": {
+        "company_core_info": 0.61,
+        "products_and_services": 0.85,
+        "contact_information": 0.0,
+        "relationships_and_market": 0.82,
+        "overall_data_quality": 0.58
+    }
+}
