@@ -2,6 +2,7 @@ import csv
 import html
 import json
 import re
+import sys
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
@@ -30,6 +31,81 @@ FIELDS = [
     "country", "booth_no", "name", "desc", "email", "phone", "address",
     "city", "linkedin_url", "profile_url", "source_year",
 ]
+
+NAME_TRANSLATIONS = {
+    "Advantage Austria, Торговий відділ Посольства Австрії в Україні": "Advantage Austria, Trade Department of the Embassy of Austria in Ukraine",
+    "Giron - консорціум «Французькі гірничодобувні рішення»": "Giron - French Mining Solutions Consortium",
+    "GIZ - Німецьке товариство з міжнародного співробітництва/Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH": "GIZ - German Corporation for International Cooperation GmbH",
+    "KPMG в Україні": "KPMG in Ukraine",
+    "Üçler Alüminyum Metal Yapi Mal. San. Tic. Ltd.Şti.": "Ucler Aluminium Metal Building Materials Industry and Trade Limited Company",
+    "Üçler Alüminyum Metal Yapı Malzemeleri Sanayi ve Ticaret Limited Şirketi": "Ucler Aluminium Metal Building Materials Industry and Trade Limited Company",
+    "Акам,ТОВ": "AKAM LLC",
+    "Андалусія (Іспанія), національний павільйон": "Andalusia (Spain), National Pavilion",
+    "Асоціація експортерів металовиробів Анкари (MEPEX)": "Ankara Metal Products Exporters Association (MEPEX)",
+    "Асоціації субʼєктів розподіленої та маневрової генерації/АСРМГ": "Association of Distributed and Flexible Generation Entities (ASRMG)",
+    "Бельгія, національний павільйон": "Belgium, National Pavilion",
+    "БЗКУ Арденз, ТДВ": "BZKU Ardenz Joint Stock Company",
+    "Бистронік Україна, ТОВ": "Bystronic Ukraine LLC",
+    "Будмонтаж АБК": "Budmontazh ABK",
+    "Великобританія, національний павільйон": "United Kingdom, National Pavilion",
+    "Греція, національний павільйон": "Greece, National Pavilion",
+    "Грінвіль Енерджі": "Greenville Energy",
+    "Данська промисловість (DI)": "Confederation of Danish Industry (DI)",
+    "Данська рада з питань централізованого теплопостачання (DBDH)": "Danish Board of District Heating (DBDH)",
+    "Еко Дніпро, КП": "Eco Dnipro Municipal Enterprise",
+    "Еспіпі Девелопмент Юкрейн, ТОВ": "SP Development Ukraine LLC",
+    "Карітас України, міжнародний благодійний фонд": "Caritas Ukraine International Charitable Foundation",
+    "КЕЙ груп, ТОВ": "K Group LLC",
+    "Компрессорс Інтернешнл, ТОВ": "Compressors International LLC",
+    "Констракшн Машинері, ТОВ": "Construction Machinery LLC",
+    "Крігер, ТОВ": "Krieger LLC",
+    "КТС Інжиніринг, ТОВ": "KTS Engineering LLC",
+    "Кіл Солюшн Україна/ Keel Energy Ukraine": "Keel Solution Ukraine / Keel Energy Ukraine",
+    "Латвія, національний павільйон": "Latvia, National Pavilion",
+    "Мурсія регіон, Іспанія": "Region of Murcia, Spain",
+    "Мікрол, ТОВ": "Microl LLC",
+    "Несс Груп, ТОВ": "Ness Group LLC",
+    "Норвегія, національний павільйон": "Norway, National Pavilion",
+    "О-де-Франс Регіон": "Hauts-de-France Region",
+    "ОбРій, дуал-юз кластер": "ObRiy Dual-Use Cluster",
+    "Організація промислового розвитку ООН": "United Nations Industrial Development Organization (UNIDO)",
+    "Пейкко Україна, ТОВ": "Peikko Ukraine LLC",
+    "Польща, національний павільйон": "Poland, National Pavilion",
+    "Промавтоматика": "Promavtomatika",
+    "Професійна спільнота учасників екосистеми технологічної освіти, ГС": "Professional Community of Participants in the Technological Education Ecosystem, Public Union",
+    "Південна інжинірингова компанія, консорціум": "Southern Engineering Company Consortium",
+    "Рада з питань зовнішньої торгівлі Тайваню / TAITRA": "Taiwan External Trade Development Council (TAITRA)",
+    "Райффайзен Банк": "Raiffeisen Bank",
+    "Регіон Овернь-Рона-Альпи": "Auvergne-Rhone-Alpes Region",
+    "Республіка Чехія, національний павільйон": "Czech Republic, National Pavilion",
+    "Роберт Бош": "Robert Bosch",
+    "Рууккі Україна, ТОВ": "Ruukki Ukraine LLC",
+    "Смарт Лоджис Україна, ТОВ": "Smart Logistics Ukraine LLC",
+    "Спілка Українських Підприємців / СУП": "Union of Ukrainian Entrepreneurs (SUP)",
+    "Сітірейл Технолоджі, ТОВ": "CityRail Technology LLC",
+    "ТАД, ПП": "TAD Private Enterprise",
+    "Теплоенергетичний кластер України, ГС": "Ukraine Thermal Energy Cluster, Public Union",
+    "Терещенко Група компаній": "Tereshchenko Group of Companies",
+    "Товариство Червоного Хреста України": "Ukrainian Red Cross Society",
+    "Угорщина, національний павільйон": "Hungary, National Pavilion",
+    "УК Експертиза, ТОВ": "UK Expertise LLC",
+    "Українська Водна Асоціація (УВА)": "Ukrainian Water Association (UWA)",
+    "Український кластерний альянс, ГС": "Ukrainian Cluster Alliance, Public Union",
+    "Укргідропроект, ПРАТ": "Ukrhydroproject PJSC",
+    "Укрсільенергопроект, ТОВ НТЦЕ": "Ukrselenergoproekt Scientific and Technical Center LLC",
+    "Укртрубоізол, ТОВ НВП": "Ukrturboizol Research and Production Enterprise LLC",
+    "ФБС-Блок, ТОВ": "FBS-Block LLC",
+    "Федеральне міністерство економіки та енергетики Німеччини (BMWE)": "German Federal Ministry for Economic Affairs and Energy (BMWE)",
+    "Харківський кластер інформаційних технологій, ГС": "Kharkiv IT Cluster, Public Union",
+    "Хоббіт Хаус, ТОВ": "Hobbit House LLC",
+    "Шведське енергетичне агентство": "Swedish Energy Agency",
+    "Штат Вашингтон, павільйон, США": "Washington State Pavilion, USA",
+    "Штат Каліфорнія, павільйон, США": "California State Pavilion, USA",
+    "Яро-Буд, ПП": "Yaro-Bud Private Enterprise",
+    "Євротехенерго, ТОВ": "Eurotechenergo LLC",
+    "Ірландія, національний павільйон": "Ireland, National Pavilion",
+    "Італія, національний стенд": "Italy, National Stand",
+}
 
 
 def clean(value):
@@ -290,7 +366,39 @@ def translate_record(record):
     return record
 
 
+def translate_existing_outputs():
+    base = OUT / f"{EVENT}_exhibitors"
+    csv_path = base.with_suffix(".csv")
+    json_path = base.with_suffix(".json")
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
+        records = list(csv.DictReader(handle))
+    for record in records:
+        translated = NAME_TRANSLATIONS.get(record["exhibitor_name"])
+        if translated:
+            record["exhibitor_name"] = translated
+            record["name"] = translated
+    with csv_path.open("w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=FIELDS, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(records)
+    payload = json.loads(json_path.read_text(encoding="utf-8"))
+    if isinstance(payload, list):
+        json_records = payload
+    else:
+        json_records = payload.get("exhibitors", [])
+    for record in json_records:
+        translated = NAME_TRANSLATIONS.get(record["exhibitor_name"])
+        if translated:
+            record["exhibitor_name"] = translated
+            record["name"] = translated
+    json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Translated {sum(1 for row in records if row['exhibitor_name'] in NAME_TRANSLATIONS.values())} exhibitor names")
+
+
 def main():
+    if "--translate-existing" in sys.argv:
+        translate_existing_outputs()
+        return
     OUT.mkdir(parents=True, exist_ok=True)
     session = requests.Session()
     session.headers.update(HEADERS)
