@@ -33,7 +33,7 @@ When exhibitor profile details are not present on the event site (for example:
 domain, desc, email, phone, address, city, country, booth_no, or linkedin_url),
 enrich missing fields after scraping. Only use a booth number when it is
 published by a reliable event source.
-Domain fallback: if domain is missing, use SERPER_API_KEY from the project root .env file and query Serper (https://google.serper.dev/search) with the company name plus the event year (2026) to find the official website.
+d Domain fallback: if domain is missing, use SERPER_API_KEY from the project root .env file and query Serper (https://google.serper.dev/search) with the company name plus the event year (2026) to find the official website.
 Prefer the company’s own website over directories, marketplaces, and social profiles.
 If Serper returns a useful snippet or LinkedIn company page, fill desc and linkedin_url only when those fields are still empty.
 Never write the API key into CSV/JSON output files.
@@ -53,3 +53,22 @@ Use this standard leading column order in CSV and JSON records:
 
 CSV files must use `utf-8-sig` encoding so accented characters display correctly
 in spreadsheet applications.
+
+## Final Export Schema (Required)
+
+Before delivery, normalize every exhibitor CSV and JSON export to exactly these
+eight columns, in this order:
+
+`company_name, domain, description, booth, email, city, full_address, mobile_primary`
+
+Use these mappings when converting scraped fields:
+- `exhibitor_name` or `name` → `company_name`
+- `desc` → `description`
+- `booth_no` or `stand` → `booth`
+- `mail` → `email`
+- `address` or `location` → `full_address`
+- `contact_number` or `phone` → `mobile_primary`
+- `domain` and `city` remain unchanged
+
+Remove every other column or JSON property from the final export. Keep missing
+values as empty strings, and do not invent company details.

@@ -1,387 +1,552 @@
 [
   {
-    "exhibitor_name": "2A Roastery",
+    "company_name": "2A Roastery",
     "domain": "2aa.sk",
-    "contact": "info@2aa.sk | +421 908 604 640",
-    "address": "Kukorelliho 24, 066-01 Humenné, Slovakia",
-    "location": "Humenné, Slovakia"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Kukorelliho 24, 066-01 Humenné, Slovakia",
+    "mobile_primary": "info@2aa.sk | +421 908 604 640"
   },
   {
-    "exhibitor_name": "2x3 S.A.",
+    "company_name": "2x3 S.A.",
     "domain": "2x3.pl",
-    "contact": "(+48) 95 784 11 00",
-    "address": "Słoneczna 3, 73-231 Krzęcin, Poland",
-    "location": "Krzęcin, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Słoneczna 3, 73-231 Krzęcin, Poland",
+    "mobile_primary": "(+48) 95 784 11 00"
   },
   {
-    "exhibitor_name": "Acoris Ltd",
+    "company_name": "Acoris Ltd",
     "domain": "acoris.lt",
-    "contact": "info@acoris.lt | +37065536062",
-    "address": "Raudondvario pl. 106, 47182 Kaunas, Lithuania",
-    "location": "Kaunas, Lithuania"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Raudondvario pl. 106, 47182 Kaunas, Lithuania",
+    "mobile_primary": "info@acoris.lt | +37065536062"
   },
   {
-    "exhibitor_name": "ADLER Sp. z o.o.",
+    "company_name": "ADLER Sp. z o.o.",
     "domain": "adlereurope.eu",
-    "contact": "handlowy@adlereurope.eu | +48 664 482 298",
-    "address": "Ordona 2a, 01-237 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Ordona 2a, 01-237 Warszawa, Polska",
+    "mobile_primary": "handlowy@adlereurope.eu | +48 664 482 298"
   },
   {
-    "exhibitor_name": "AMBRE srl – LIVIO BRUNI",
+    "company_name": "AMBRE srl – LIVIO BRUNI",
     "domain": "bruniwines.com",
-    "contact": "info@bruniwines.com | +39 0461 606065",
-    "address": "Via Cesare Taiti 18b, 38017 MEZZOLOMBARDO (TN), Italy",
-    "location": "Mezzolombardo (Tn), Italy"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Via Cesare Taiti 18b, 38017 MEZZOLOMBARDO (TN), Italy",
+    "mobile_primary": "info@bruniwines.com | +39 0461 606065"
   },
   {
-    "exhibitor_name": "Balviten Glutenfree Spółka z o.o.",
+    "company_name": "Balviten Glutenfree Spółka z o.o.",
     "domain": "balviten.com",
-    "contact": "biuro@balviten.com | +48 32 220 14 14",
-    "address": "Fabryczna 5, 41-100 Siemianowice Śląskie, Polska",
-    "location": "Siemianowice Śląskie, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Fabryczna 5, 41-100 Siemianowice Śląskie, Polska",
+    "mobile_primary": "biuro@balviten.com | +48 32 220 14 14"
   },
   {
-    "exhibitor_name": "Benugo sp. z o.o. sp. k.",
+    "company_name": "Benugo sp. z o.o. sp. k.",
     "domain": "benugo.pl",
-    "contact": "info@benugo.pl | 343000052",
-    "address": "Wręczycka 268, 42-202 Częstochowa, Polska",
-    "location": "Częstochowa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Wręczycka 268, 42-202 Częstochowa, Polska",
+    "mobile_primary": "info@benugo.pl | 343000052"
   },
   {
-    "exhibitor_name": "BRINTONS AGNELLA",
+    "company_name": "BRINTONS AGNELLA",
     "domain": "agnella.pl",
-    "contact": "biuro@agnella.pl | +33 616 180 677",
-    "address": "Ulica Generała Władysława Andersa 42, 15-113 Białystok, Poland",
-    "location": "Białystok, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Ulica Generała Władysława Andersa 42, 15-113 Białystok, Poland",
+    "mobile_primary": "biuro@agnella.pl | +33 616 180 677"
   },
   {
-    "exhibitor_name": "Culligan Polska Sp. z o.o.",
+    "company_name": "Culligan Polska Sp. z o.o.",
     "domain": "culliganwoda.pl",
-    "contact": "telesprzedaz@culliganwater.pl | 22 735 52 00",
-    "address": "Działkowa 56a, 02-234 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Działkowa 56a, 02-234 Warszawa, Polska",
+    "mobile_primary": "telesprzedaz@culliganwater.pl | 22 735 52 00"
   },
   {
-    "exhibitor_name": "Datecs-Polska Sp. z o.o.",
+    "company_name": "Datecs-Polska Sp. z o.o.",
     "domain": "datecs.pl",
-    "contact": "datecs@datecs.pl | +48 22 868 10 51",
-    "address": "Drukarska 1, 05-090 Raszyn-Jaworowa, Polska",
-    "location": "Raszyn-Jaworowa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Drukarska 1, 05-090 Raszyn-Jaworowa, Polska",
+    "mobile_primary": "datecs@datecs.pl | +48 22 868 10 51"
   },
   {
-    "exhibitor_name": "DE NOVO II PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE",
+    "company_name": "DE NOVO II PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE",
     "domain": "denovo.com.pl",
-    "contact": "biuro@denovo.com.pl | 6771016634",
-    "address": "Nad Drwiną 8b, 30-741 Kraków, Poland",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Nad Drwiną 8b, 30-741 Kraków, Poland",
+    "mobile_primary": "biuro@denovo.com.pl | 6771016634"
   },
   {
-    "exhibitor_name": "DEZAL-PRO S.A.",
+    "company_name": "DEZAL-PRO S.A.",
     "domain": "dezal.com.pl",
-    "contact": "info@dezal.com.pl | 695747898",
-    "address": "PIOTRA SIEDLECKIEGO 11, 39-460 Nowa Dęba, Polska",
-    "location": "Nowa Dęba, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "PIOTRA SIEDLECKIEGO 11, 39-460 Nowa Dęba, Polska",
+    "mobile_primary": "info@dezal.com.pl | 695747898"
   },
   {
-    "exhibitor_name": "Domowe Sanatorium Sp. z o.o.",
+    "company_name": "Domowe Sanatorium Sp. z o.o.",
     "domain": "kuvings.pl",
-    "contact": "kontakt@kuvings.pl | 85 744 66 77",
-    "address": "Białostocka 50, 16-010 Wasilków, Polska",
-    "location": "Wasilków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Białostocka 50, 16-010 Wasilków, Polska",
+    "mobile_primary": "kontakt@kuvings.pl | 85 744 66 77"
   },
   {
-    "exhibitor_name": "DORA METAL Sp. z o.o.",
+    "company_name": "DORA METAL Sp. z o.o.",
     "domain": "dora-metal.pl",
-    "contact": "handlowy@dora-metal.pl | 67 255 20 42",
-    "address": "Chodzieska 27, 64-700Carnków, Poland",
-    "location": "Carnków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Chodzieska 27, 64-700Carnków, Poland",
+    "mobile_primary": "handlowy@dora-metal.pl | 67 255 20 42"
   },
   {
-    "exhibitor_name": "Ecolab Sp. z o.o.",
+    "company_name": "Ecolab Sp. z o.o.",
     "domain": "ecolab.pl",
-    "contact": "receptionkrakow@ecolab.com | 12/2616100",
-    "address": "Opolska 114, 31-323 Kraków, Polska",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Opolska 114, 31-323 Kraków, Polska",
+    "mobile_primary": "receptionkrakow@ecolab.com | 12/2616100"
   },
   {
-    "exhibitor_name": "Elavon",
+    "company_name": "Elavon",
     "domain": "elavon.com",
-    "contact": "1-800-725-1243",
-    "address": "Puławska 17, 02-515 Warszawa, Poland",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Puławska 17, 02-515 Warszawa, Poland",
+    "mobile_primary": "1-800-725-1243"
   },
   {
-    "exhibitor_name": "Eurial Polska Sp. z.o.o.",
+    "company_name": "Eurial Polska Sp. z.o.o.",
     "domain": "eurial.pl",
-    "contact": "eurial@eurial.pl | 12 410 00 84",
-    "address": "Kuklińskiego 17, 30-720 Kraków, Poland",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Kuklińskiego 17, 30-720 Kraków, Poland",
+    "mobile_primary": "eurial@eurial.pl | 12 410 00 84"
   },
   {
-    "exhibitor_name": "Explanator Iwona Dehina",
+    "company_name": "Explanator Iwona Dehina",
     "domain": "trybuszon.pl",
-    "contact": "wieslaw.polakiewicz@trybuszon.pl | +48 601 747 000",
-    "address": "Kościelna 30 lok. 59, 60-538 Poznań, Polska",
-    "location": "Poznań, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Kościelna 30 lok. 59, 60-538 Poznań, Polska",
+    "mobile_primary": "wieslaw.polakiewicz@trybuszon.pl | +48 601 747 000"
   },
   {
-    "exhibitor_name": "FABRYKA CUKIERNICZA KOPERNIK SPÓŁKA AKCYJNA",
+    "company_name": "FABRYKA CUKIERNICZA KOPERNIK SPÓŁKA AKCYJNA",
     "domain": "kopernik.com.pl",
-    "contact": "kopernik@kopernik.com.pl | +48 56 659 17 06",
-    "address": "Żółkiewskiego 34, 87-100 TORUŃ, Poland",
-    "location": "Toruń, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Żółkiewskiego 34, 87-100 TORUŃ, Poland",
+    "mobile_primary": "kopernik@kopernik.com.pl | +48 56 659 17 06"
   },
   {
-    "exhibitor_name": "Fabryka Maszyn i Urządzeń Gastronomicznych \"KROMET\" Sp. z o.o.",
+    "company_name": "Fabryka Maszyn i Urządzeń Gastronomicznych \"KROMET\" Sp. z o.o.",
     "domain": "kromet.com.pl",
-    "contact": "handlowy@kromet.com.pl | +48 68 383 53 24",
-    "address": "Pocztowa 30, 66-600 Krosno Odrzańskie, Poland",
-    "location": "Krosno Odrzańskie, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Pocztowa 30, 66-600 Krosno Odrzańskie, Poland",
+    "mobile_primary": "handlowy@kromet.com.pl | +48 68 383 53 24"
   },
   {
-    "exhibitor_name": "Fanex Sp. Z O.O.",
+    "company_name": "Fanex Sp. Z O.O.",
     "domain": "fanex.pl",
-    "contact": "biuro@fanex.pl | +48 22 47 10 444",
-    "address": "Radonice 5 A, 05-870 Błonie, Polska",
-    "location": "Błonie, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Radonice 5 A, 05-870 Błonie, Polska",
+    "mobile_primary": "biuro@fanex.pl | +48 22 47 10 444"
   },
   {
-    "exhibitor_name": "Fattorie del Duca Sp. z o.o.",
+    "company_name": "Fattorie del Duca Sp. z o.o.",
     "domain": "delduca.pl",
-    "contact": "chiara@delduca.pl | +48 12 285 16 40",
-    "address": "Ekranowa 2, 32085 Modlniczka, Polska",
-    "location": "Modlniczka, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Ekranowa 2, 32085 Modlniczka, Polska",
+    "mobile_primary": "chiara@delduca.pl | +48 12 285 16 40"
   },
   {
-    "exhibitor_name": "FLASHCOM SP. Z O.O.",
+    "company_name": "FLASHCOM SP. Z O.O.",
     "domain": "flashcom.pl",
-    "contact": "biuro@flashcom.pl | +48 12 311 02 30",
-    "address": "IGOŁOMSKA 1, 31-983 KRAKÓW, Polska",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "IGOŁOMSKA 1, 31-983 KRAKÓW, Polska",
+    "mobile_primary": "biuro@flashcom.pl | +48 12 311 02 30"
   },
   {
-    "exhibitor_name": "GARDENIA FOOD",
+    "company_name": "GARDENIA FOOD",
     "domain": "gardeniafood.com",
-    "contact": "lukasz@gardeniafood.com | +48 32 447 88 08",
-    "address": "Polne Domy 90, 43-200 Pszczyna, Poland",
-    "location": "Pszczyna, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Polne Domy 90, 43-200 Pszczyna, Poland",
+    "mobile_primary": "lukasz@gardeniafood.com | +48 32 447 88 08"
   },
   {
-    "exhibitor_name": "Grupa Zakupowa PLUS",
+    "company_name": "Grupa Zakupowa PLUS",
     "domain": "gzplus.pl",
-    "contact": "kontakt@gzplus.pl | 690 282 114",
-    "address": "Porąbki 91/1, 35-317 Rzeszów, Polska",
-    "location": "Rzeszów, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Porąbki 91/1, 35-317 Rzeszów, Polska",
+    "mobile_primary": "kontakt@gzplus.pl | 690 282 114"
   },
   {
-    "exhibitor_name": "Hotele i Gastronomia Plus Sp. z o.o.",
+    "company_name": "Hotele i Gastronomia Plus Sp. z o.o.",
     "domain": "hoteleplus.pl",
-    "contact": "kontakt@hoteleplus.pl | +48 797 484 283",
-    "address": "Porąbki 91/1, 35-317Rzeszów, Poland",
-    "location": "Rzeszów, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Porąbki 91/1, 35-317Rzeszów, Poland",
+    "mobile_primary": "kontakt@hoteleplus.pl | +48 797 484 283"
   },
   {
-    "exhibitor_name": "Karpiński Prawdziwe Lody",
+    "company_name": "Karpiński Prawdziwe Lody",
     "domain": "prawdziwelody.eu",
-    "contact": "m.sanchez-galban@prawdziwelody.eu | +48 886 183 167",
-    "address": "Kępska 7, 45-129 OPOLE, Poland",
-    "location": "Opole, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Kępska 7, 45-129 OPOLE, Poland",
+    "mobile_primary": "m.sanchez-galban@prawdziwelody.eu | +48 886 183 167"
   },
   {
-    "exhibitor_name": "KOLMAR Kolasa Ariel",
+    "company_name": "KOLMAR Kolasa Ariel",
     "domain": "kolmar.net.pl",
-    "contact": "biuro@kolmar.net.pl | +48 33 873 72 34",
-    "address": "Floriańska 74, 34-100 Tomice, Polska",
-    "location": "Tomice, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Floriańska 74, 34-100 Tomice, Polska",
+    "mobile_primary": "biuro@kolmar.net.pl | +48 33 873 72 34"
   },
   {
-    "exhibitor_name": "LILLY MILLY ZERO",
+    "company_name": "LILLY MILLY ZERO",
     "domain": "lillymilly.pl",
-    "contact": "info@lillymilly.pl | 604 794 166",
-    "address": "Rynek 2, 43-190 Mikołów, Poland",
-    "location": "Mikołów, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Rynek 2, 43-190 Mikołów, Poland",
+    "mobile_primary": "info@lillymilly.pl | 604 794 166"
   },
   {
-    "exhibitor_name": "LSI Software S.A.",
+    "company_name": "LSI Software S.A.",
     "domain": "lsisoftware.pl",
-    "contact": "info@lsisoftware.pl | +48 42 680 80 00",
-    "address": "ul. Przybyszewskiego 176/178, 93-120 Łódź, Polska",
-    "location": "Łódź, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "ul. Przybyszewskiego 176/178, 93-120 Łódź, Polska",
+    "mobile_primary": "info@lsisoftware.pl | +48 42 680 80 00"
   },
   {
-    "exhibitor_name": "Materasso Slovakia sro",
+    "company_name": "Materasso Slovakia sro",
     "domain": "materasso.sk",
-    "contact": "materasso@materasso.sk | +421 907 028 155",
-    "address": "Oravske Vesele 612, 029 62 Oravske Vesele, Slovakia",
-    "location": "Oravske Vesele, Slovakia"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Oravske Vesele 612, 029 62 Oravske Vesele, Slovakia",
+    "mobile_primary": "materasso@materasso.sk | +421 907 028 155"
   },
   {
-    "exhibitor_name": "Mundivie S.A.",
+    "company_name": "Mundivie S.A.",
     "domain": "mundivie.com",
-    "contact": "agnieszka.jawor@mundivie.com | +48338152630",
-    "address": "Astrów 62, 43-385 Jasienica, Polska",
-    "location": "Jasienica, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Astrów 62, 43-385 Jasienica, Polska",
+    "mobile_primary": "agnieszka.jawor@mundivie.com | +48338152630"
   },
   {
-    "exhibitor_name": "NETROS MAREK ROSNER",
+    "company_name": "NETROS MAREK ROSNER",
     "domain": "netros.com.pl",
-    "contact": "marek.rosner@netros.com.pl | +48 510276278",
-    "address": "Na Leszczu 11, 30-376 Kraków, Polska",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Na Leszczu 11, 30-376 Kraków, Polska",
+    "mobile_primary": "marek.rosner@netros.com.pl | +48 510276278"
   },
   {
-    "exhibitor_name": "Odra Group Sp. z o. o.",
+    "company_name": "Odra Group Sp. z o. o.",
     "domain": "odragroup.pl",
-    "contact": "biuro@odragroup.pl | 8971963202",
-    "address": "Św. Mikołaja 8/11, 50-125 Wrocław, Poland",
-    "location": "Wrocław, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Św. Mikołaja 8/11, 50-125 Wrocław, Poland",
+    "mobile_primary": "biuro@odragroup.pl | 8971963202"
   },
   {
-    "exhibitor_name": "ORBICO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "company_name": "ORBICO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "domain": "lp.orbico.pl",
-    "contact": "info.pl@orbico.com | 32 325 61 00",
-    "address": "Salsy 2, 02-675 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Salsy 2, 02-675 Warszawa, Polska",
+    "mobile_primary": "info.pl@orbico.com | 32 325 61 00"
   },
   {
-    "exhibitor_name": "PODERE PUELLAE S.S.A",
+    "company_name": "PODERE PUELLAE S.S.A",
     "domain": "poderepuellae.it",
-    "contact": "podere.puellae@gmail.com | +39 338 624 5508",
-    "address": "STRADA TEVERINA 5h, 01100 VITERBO, Italy",
-    "location": "Viterbo, Italy"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "STRADA TEVERINA 5h, 01100 VITERBO, Italy",
+    "mobile_primary": "podere.puellae@gmail.com | +39 338 624 5508"
   },
   {
-    "exhibitor_name": "Polskie Wydawnictwa Specjalistyczne ProMedia Sp. z o.o.",
+    "company_name": "Polskie Wydawnictwa Specjalistyczne ProMedia Sp. z o.o.",
     "domain": "pws-promedia.pl",
-    "contact": "biuro@pws-promedia.pl | +48 22 333 88 14",
-    "address": "Paca 37, 04-386 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Paca 37, 04-386 Warszawa, Polska",
+    "mobile_primary": "biuro@pws-promedia.pl | +48 22 333 88 14"
   },
   {
-    "exhibitor_name": "Pralus - Wyposażenie Pralnia",
+    "company_name": "Pralus - Wyposażenie Pralnia",
     "domain": "pralus.pl",
-    "contact": "info@pralus.pl | +48 795519000",
-    "address": "Bieżanowska 102C, 30-826 Kraków, Polska",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Bieżanowska 102C, 30-826 Kraków, Polska",
+    "mobile_primary": "info@pralus.pl | +48 795519000"
   },
   {
-    "exhibitor_name": "Restaurant Management i Hotel Management",
+    "company_name": "Restaurant Management i Hotel Management",
     "domain": "restaurant-management.pl",
-    "contact": "redakcja@horeca-management.pl | 663396650",
-    "address": "Plac Andersa 1, 61-898 Poznań, Polska",
-    "location": "Poznań, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Plac Andersa 1, 61-898 Poznań, Polska",
+    "mobile_primary": "redakcja@horeca-management.pl | 663396650"
   },
   {
-    "exhibitor_name": "Resto Quality Sp. z o.o.",
+    "company_name": "Resto Quality Sp. z o.o.",
     "domain": "restoquality.pl",
-    "contact": "info@restoquality.pl | 12-307-06-72",
-    "address": "Zamknięta 10/1,5, 30-554 Kraków, Polska",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Zamknięta 10/1,5, 30-554 Kraków, Polska",
+    "mobile_primary": "info@restoquality.pl | 12-307-06-72"
   },
   {
-    "exhibitor_name": "Roastelier by Nescafé - Nestlé Professional",
+    "company_name": "Roastelier by Nescafé - Nestlé Professional",
     "domain": "nestleprofessional.pl",
-    "contact": "data.privacy@pl.nestle.com | 800 174 902 800",
-    "address": "Domaniewska 32, 02-672 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Domaniewska 32, 02-672 Warszawa, Polska",
+    "mobile_primary": "data.privacy@pl.nestle.com | 800 174 902 800"
   },
   {
-    "exhibitor_name": "S.C.E.A. Château La Marzelle",
+    "company_name": "S.C.E.A. Château La Marzelle",
     "domain": "lamarzelle.com",
-    "contact": "info@lamarzelle.com | +33 (0)5 57 55 10 55",
-    "address": "3341 Route de Libourne, 33330 Saint-Emilion, France",
-    "location": "Saint-Emilion, France"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "3341 Route de Libourne, 33330 Saint-Emilion, France",
+    "mobile_primary": "info@lamarzelle.com | +33 (0)5 57 55 10 55"
   },
   {
-    "exhibitor_name": "Saskia - gorąca czekolada",
+    "company_name": "Saskia - gorąca czekolada",
     "domain": "saskia.pl",
-    "contact": "sklep@saskia.pl | +48 790 205 905",
-    "address": "Os. Sikorskiego 5/2, 64-000 Kościan, Polska",
-    "location": "Kościan, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Os. Sikorskiego 5/2, 64-000 Kościan, Polska",
+    "mobile_primary": "sklep@saskia.pl | +48 790 205 905"
   },
   {
-    "exhibitor_name": "SOVRANA POLSKA SP. Z O.O.",
+    "company_name": "SOVRANA POLSKA SP. Z O.O.",
     "domain": "sovrana.pl",
-    "contact": "office@sovrana.com.pl | 32 6450016",
-    "address": "PRZEMYSŁOWA 3, 32-300 OLKUSZ, POLSKA",
-    "location": "Olkusz, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "PRZEMYSŁOWA 3, 32-300 OLKUSZ, POLSKA",
+    "mobile_primary": "office@sovrana.com.pl | 32 6450016"
   },
   {
-    "exhibitor_name": "Szef Kuchni Magazyn Branży Gastronomicznej",
+    "company_name": "Szef Kuchni Magazyn Branży Gastronomicznej",
     "domain": "szef-kuchni.com.pl",
-    "contact": "b.kazmierczak@szef-kuchni.com.pl | 664 245 956",
-    "address": "Andersa 7, 61-894 Poznań, Polska",
-    "location": "Poznań, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Andersa 7, 61-894 Poznań, Polska",
+    "mobile_primary": "b.kazmierczak@szef-kuchni.com.pl | 664 245 956"
   },
   {
-    "exhibitor_name": "Słota Jodłowa Wędliny Regionalne",
+    "company_name": "Słota Jodłowa Wędliny Regionalne",
     "domain": "slotajodlowa.pl",
-    "contact": "lucjakopacz@slotajodlowa.pl | 511889774",
-    "address": "Jodłowa 2, 39225 Jodłowa, Poland",
-    "location": "Jodłowa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Jodłowa 2, 39225 Jodłowa, Poland",
+    "mobile_primary": "lucjakopacz@slotajodlowa.pl | 511889774"
   },
   {
-    "exhibitor_name": "TOMGAST sp. z o.o.",
+    "company_name": "TOMGAST sp. z o.o.",
     "domain": "tomgast.pl",
-    "contact": "tomgast@tomgast.pl | +48 42 674 85 87",
-    "address": "Beskidzka 123/125, 91-610 Łódź, Polska",
-    "location": "Łódź, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Beskidzka 123/125, 91-610 Łódź, Polska",
+    "mobile_primary": "tomgast@tomgast.pl | +48 42 674 85 87"
   },
   {
-    "exhibitor_name": "Vitax Waldemar Witczak",
+    "company_name": "Vitax Waldemar Witczak",
     "domain": "vitax.czest.pl",
-    "contact": "info@vitax.czest.pl | +48 512 329 129",
-    "address": "Mstowska 2e, 42-270 NIEZNANICE, Poland",
-    "location": "Nieznanice, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Mstowska 2e, 42-270 NIEZNANICE, Poland",
+    "mobile_primary": "info@vitax.czest.pl | +48 512 329 129"
   },
   {
-    "exhibitor_name": "Weingut Jung",
+    "company_name": "Weingut Jung",
     "domain": "wein-macht-jung.de",
-    "contact": "info@wein-macht-jung.de | +49 06737 246",
-    "address": "Alzeyer Str. 4, 55278 Undenheim, Deutschland",
-    "location": "Undenheim, Germany"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Alzeyer Str. 4, 55278 Undenheim, Deutschland",
+    "mobile_primary": "info@wein-macht-jung.de | +49 06737 246"
   },
   {
-    "exhibitor_name": "Wina z Tejo",
+    "company_name": "Wina z Tejo",
     "domain": "winaztejo.pl",
-    "contact": "tejo@4public.pl | 0048 691 360 576",
-    "address": "Włodarzewska 59D/35, 02-384 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Włodarzewska 59D/35, 02-384 Warszawa, Polska",
+    "mobile_primary": "tejo@4public.pl | 0048 691 360 576"
   },
   {
-    "exhibitor_name": "Winterhalter Polska",
+    "company_name": "Winterhalter Polska",
     "domain": "winterhalter.pl",
-    "contact": "biuro@winterhalter.com.pl | +48 22 773 25 52",
-    "address": "Krajobrazowa 2, 05-074 Wielgolas Duchnowski, Polska",
-    "location": "Wielgolas Duchnowski, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Krajobrazowa 2, 05-074 Wielgolas Duchnowski, Polska",
+    "mobile_primary": "biuro@winterhalter.com.pl | +48 22 773 25 52"
   },
   {
-    "exhibitor_name": "Worldline Financial Services (Europe) S.A.",
+    "company_name": "Worldline Financial Services (Europe) S.A.",
     "domain": "worldline.com",
-    "contact": "tomasz.cholewa@worldline.com | +48 725 961 000",
-    "address": "Prosta 68, 00-838 Warszawa, Polska",
-    "location": "Warszawa, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Prosta 68, 00-838 Warszawa, Polska",
+    "mobile_primary": "tomasz.cholewa@worldline.com | +48 725 961 000"
   },
   {
-    "exhibitor_name": "Wrapmaster",
+    "company_name": "Wrapmaster",
     "domain": "wrapmaster.global",
-    "contact": "international.sales@cofresco.com | 01952678800",
-    "address": "45 Hortonwood, TF1 7FA Telford, United Kingdom",
-    "location": "Telford, United Kingdom"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "45 Hortonwood, TF1 7FA Telford, United Kingdom",
+    "mobile_primary": "international.sales@cofresco.com | 01952678800"
   },
   {
-    "exhibitor_name": "YOURA SPIRITS",
+    "company_name": "YOURA SPIRITS",
     "domain": "youraspirits.pl",
-    "contact": "kontakt@youraspirits.pl | +48601802763",
-    "address": "Gromadzka 24 c, 30-714 Kraków, POLSKA",
-    "location": "Kraków, Poland"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Gromadzka 24 c, 30-714 Kraków, POLSKA",
+    "mobile_primary": "kontakt@youraspirits.pl | +48601802763"
   },
   {
-    "exhibitor_name": "Združenie Malokarpatská vínna cesta",
+    "company_name": "Združenie Malokarpatská vínna cesta",
     "domain": "mvc.sk",
-    "contact": "mvc@mvc.sk | +421 905 467 745",
-    "address": "Horná 20, 90001 Modra, Slovakia",
-    "location": "Modra, Slovakia"
+    "description": "",
+    "booth": "",
+    "email": "",
+    "city": "",
+    "full_address": "Horná 20, 90001 Modra, Slovakia",
+    "mobile_primary": "mvc@mvc.sk | +421 905 467 745"
   }
 ]

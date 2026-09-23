@@ -1,11 +1,11 @@
-﻿exhibitor_name,domain,contact_number,mail,location,country,booth_no,desc,linkedin_url,city,profile_url,event_source
-Art &t Design Galerie,,,,,Switzerland,,,,,https://www.montreux.art/montreuxartgallery/exposants/galeries,https://www.montreux.art/montreuxartgallery/exposants/galeries
-Artiloft,artiloft.ch,0788348154,info@artiloft.ch,"8 Chemin de Montelly, 1007, Lausanne, VD, CH",Switzerland,,,,CH,https://www.artiloft.ch,https://www.montreux.art/montreuxartgallery/exposants/galeries
-EXPO 101,expo101.ch,+41 27 456 49 62,,,Switzerland,,,,,https://www.expo101.ch,https://www.montreux.art/montreuxartgallery/exposants/galeries
-Galerie De Burier,galeriedeburier.com,+41 (0)79 310 58 58,,,Switzerland,,,,,https://www.galeriedeburier.com,https://www.montreux.art/montreuxartgallery/exposants/galeries
-Galerie Prestige,,,,,Switzerland,,,,,https://www.montreux.art/montreuxartgallery/exposants/galeries,https://www.montreux.art/montreuxartgallery/exposants/galeries
-GGGallery,gggallery.ch,079 212 41 80,info@gggallery.ch,,Switzerland,,,,,https://gggallery.ch,https://www.montreux.art/montreuxartgallery/exposants/galeries
-HAPP ART,fernandgreco.weebly.com,,,,Switzerland,,,,,https://fernandgreco.weebly.com,https://www.montreux.art/montreuxartgallery/exposants/galeries
-Pizza Tequilla & Chocolate,elegance-eternelle.ch,,,,Switzerland,,,,,https://elegance-eternelle.ch,https://www.montreux.art/montreuxartgallery/exposants/galeries
-Sevent.Art,sevent.art,,imagine@sevent.art,,Switzerland,,,,,https://www.sevent.art,https://www.montreux.art/montreuxartgallery/exposants/galeries
-W-ARTS,w-arts.ch,079 789 06 72,,,Switzerland,,,,,https://w-arts.ch,https://www.montreux.art/montreuxartgallery/exposants/galeries
+﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
+Art &t Design Galerie,,,,,,,
+Artiloft,artiloft.ch,,,info@artiloft.ch,CH,"8 Chemin de Montelly, 1007, Lausanne, VD, CH",0788348154
+EXPO 101,expo101.ch,,,,,,+41 27 456 49 62
+Galerie De Burier,galeriedeburier.com,,,,,,+41 (0)79 310 58 58
+Galerie Prestige,,,,,,,
+GGGallery,gggallery.ch,,,info@gggallery.ch,,,079 212 41 80
+HAPP ART,fernandgreco.weebly.com,,,,,,
+Pizza Tequilla & Chocolate,elegance-eternelle.ch,,,,,,
+Sevent.Art,sevent.art,,,imagine@sevent.art,,,
+W-ARTS,w-arts.ch,,,,,,079 789 06 72
