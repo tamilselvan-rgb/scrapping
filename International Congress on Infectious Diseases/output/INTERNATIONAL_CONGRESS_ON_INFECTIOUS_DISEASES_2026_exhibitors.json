@@ -1,82 +1,90 @@
 [
   {
     "company_name": "Bavarian Nordic",
-    "domain": "bavarian-nordic.com",
-    "description": "Bavarian Nordic is a fully integrated vaccine company committed to protect and save lives through innovative vaccines. We are a global leader in smallpox and mpox vaccines, supplied to governments to enhance public health preparedness and have a large portfolio of vaccines for travelers and endemic diseases.",
     "booth": "11",
+    "description": "Bavarian Nordic is a fully integrated vaccine company committed to protect and save lives through innovative vaccines. We are a global leader in smallpox and mpox vaccines, supplied to governments to enhance public health preparedness and have a large portfolio of vaccines for travelers and endemic diseases.",
     "email": "bnk-invoice@bavarian-nordic.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bavarian-nordic.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Credence Genomics",
-    "domain": "credencegenomics.com",
-    "description": "",
     "booth": "25",
+    "description": "",
     "email": "inquiry@credencegenomics.com",
-    "city": "",
+    "mobile_primary": "+6564973757",
+    "domain": "https://credencegenomics.com",
     "full_address": "",
-    "mobile_primary": "+6564973757"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elsevier",
-    "domain": "elsevier.com",
-    "description": "A global leader in advanced information and decision support, Elsevier helps to advance science and healthcare, to advance human progress. We do this by facilitating insights and critical decision-making with innovative solutions based on trusted, evidence-based content and advanced AI-enabled digital technologies.",
     "booth": "15",
+    "description": "A global leader in advanced information and decision support, Elsevier helps to advance science and healthcare, to advance human progress. We do this by facilitating insights and critical decision-making with innovative solutions based on trusted, evidence-based content and advanced AI-enabled digital technologies.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://elsevier.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Evik Diagnostics",
-    "domain": "evikdiagnostics.com",
-    "description": "Evik Diagnostics (“EvikDx”) is an ISO 13485:2016 contract manufacturing organization with expertise and Know-How in developing, optimizing, scaling, and manufacturing assay reagents into lyophilized beads - Lyobeads, brand name EVIK ™ DxSpheres. EvikDx offers additional services such as assisting customers with QC and functional testing, providing custom packaging, device assembly, and final kitting. EvikDx has recently launched branded products: qPCR/RT-PCR Master Mix DxSpheres, Excipient Selection Plate, and coming soon LAMP Master Mix and Magnetic Particle MagBeads.",
     "booth": "28",
+    "description": "Evik Diagnostics (“EvikDx”) is an ISO 13485:2016 contract manufacturing organization with expertise and Know-How in developing, optimizing, scaling, and manufacturing assay reagents into lyophilized beads - Lyobeads, brand name EVIK ™ DxSpheres. EvikDx offers additional services such as assisting customers with QC and functional testing, providing custom packaging, device assembly, and final kitting. EvikDx has recently launched branded products: qPCR/RT-PCR Master Mix DxSpheres, Excipient Selection Plate, and coming soon LAMP Master Mix and Magnetic Particle MagBeads.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://evikdiagnostics.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "JAFRAL",
-    "domain": "jafral.com",
-    "description": "JAFRAL is a world leading Contract Development and Manufacturing Organization CDMO specializing in bacteriophage based products, combining over a decade of expertise in phage research, development and manufacturing. CDMO – Bacteriophage production: - world leading CDMO specializing in bacteriophage-based products - advanced facilities are equipped to manufacture GMP compliant products (up to 200L scale USP) - liquid formulations, spray drying and lyophilization - human therapeutics, veterinary medicine, food supplements, agriculture and cosmetics Magistral bacteriophage products: - Readily available fully GMP‑compliant API for formulation/compounding - Custom‑made GMP‑compliant API for formulation/compounding",
     "booth": "27",
+    "description": "JAFRAL is a world leading Contract Development and Manufacturing Organization CDMO specializing in bacteriophage based products, combining over a decade of expertise in phage research, development and manufacturing. CDMO – Bacteriophage production: - world leading CDMO specializing in bacteriophage-based products - advanced facilities are equipped to manufacture GMP compliant products (up to 200L scale USP) - liquid formulations, spray drying and lyophilization - human therapeutics, veterinary medicine, food supplements, agriculture and cosmetics Magistral bacteriophage products: - Readily available fully GMP‑compliant API for formulation/compounding - Custom‑made GMP‑compliant API for formulation/compounding",
     "email": "info@jafral.com",
-    "city": "",
+    "mobile_primary": "0038659340702",
+    "domain": "https://jafral.com",
     "full_address": "",
-    "mobile_primary": "0038659340702"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Takeda Pharmaceutical",
-    "domain": "takeda.com",
-    "description": "Takeda is focused on creating better health for people and a brighter future for the world. We aim to discover and deliver life-transforming treatments in our core therapeutic and business areas, including gastrointestinal and inflammation, rare diseases, plasma-derived therapies, oncology, neuroscience and vaccines. Together with our partners, we aim to improve the patient experience and advance a new frontier of treatment options through our dynamic and diverse pipeline. www.takeda.com",
     "booth": "02",
+    "description": "Takeda is focused on creating better health for people and a brighter future for the world. We aim to discover and deliver life-transforming treatments in our core therapeutic and business areas, including gastrointestinal and inflammation, rare diseases, plasma-derived therapies, oncology, neuroscience and vaccines. Together with our partners, we aim to improve the patient experience and advance a new frontier of treatment options through our dynamic and diverse pipeline. www.takeda.com",
     "email": "",
-    "city": "Chuo City",
+    "mobile_primary": "",
+    "domain": "https://takeda.com",
     "full_address": "2-ch?me-1-1 Nihonbashihonch?",
-    "mobile_primary": ""
+    "city": "Chuo City",
+    "linkedin_url": ""
   },
   {
     "company_name": "Taylor & Francis",
-    "domain": "tandfonline.com",
-    "description": "Taylor & Francis partners with world-class authors, from leading scientists and researchers, to scholars and professionals operating at the top of their fields. Together, we publish in all areas of the Humanities, Social Sciences, Behavioural Sciences, Science, Technology and Medicine sectors. We are one of the world’s leading publishers of scholarly journals, books, eBooks, text books and reference works.",
     "booth": "21",
+    "description": "Taylor & Francis partners with world-class authors, from leading scientists and researchers, to scholars and professionals operating at the top of their fields. Together, we publish in all areas of the Humanities, Social Sciences, Behavioural Sciences, Science, Technology and Medicine sectors. We are one of the world’s leading publishers of scholarly journals, books, eBooks, text books and reference works.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://tandfonline.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wisepress",
-    "domain": "wisepress.com",
-    "description": "Visit the Wisepress stand to view our extensive range of books and journals relevant to this conference. We work with multiple publishers to ensure that our books are the best available in your specialism. Wisepress.com is Europe’s leading conference bookseller, attending 150 conferences a year with titles also available on our online bookshop at www.wisepress.com. Want to make a bulk order? Contact us at bookshop@wisepress.com",
     "booth": "06",
+    "description": "Visit the Wisepress stand to view our extensive range of books and journals relevant to this conference. We work with multiple publishers to ensure that our books are the best available in your specialism. Wisepress.com is Europe’s leading conference bookseller, attending 150 conferences a year with titles also available on our online bookshop at www.wisepress.com. Want to make a bulk order? Contact us at bookshop@wisepress.com",
     "email": "bookshop@wisepress.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://wisepress.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

@@ -1,642 +1,706 @@
 [
   {
     "company_name": "Abdichtungstechnik von dem Hagen ISOTEC",
-    "domain": "isotec.de",
-    "description": "www.isotec.de/erfurt",
     "booth": "2-209",
+    "description": "www.isotec.de/erfurt",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://isotec.de",
     "full_address": "Fichtenweg 30, 99098 Erfurt",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bauherren-Schutzbund e.V.",
-    "domain": "bsb-ev.de",
-    "description": "www.bsb-ev.de",
     "booth": "2-207",
+    "description": "www.bsb-ev.de",
     "email": "office@bsb-ev.de",
-    "city": "",
+    "mobile_primary": "+49-30400339500",
+    "domain": "https://bsb-ev.de",
     "full_address": "Brückenstr. 6, 10179 Berlin",
-    "mobile_primary": "+49-30400339500"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BauSan",
-    "domain": "bausan-trockenlegung.de",
-    "description": "immer mit >Hydrochemie unterwegs",
     "booth": "2-308",
+    "description": "immer mit >Hydrochemie unterwegs",
     "email": "bretschneider@bausan-trockenlegung.de",
-    "city": "",
+    "mobile_primary": "234 07688",
+    "domain": "https://bausan-trockenlegung.de",
     "full_address": "Altgernsdorf 20, 07957 Langenwetzendorf",
-    "mobile_primary": "234 07688"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "be Around GmbH",
-    "domain": "aroundhome.de",
-    "description": "",
     "booth": "2-206",
+    "description": "",
     "email": "info@aroundhome.de",
-    "city": "",
+    "mobile_primary": "08002929294",
+    "domain": "https://aroundhome.de",
     "full_address": "Potsdamer Platz 11, 10785 Berlin / Mitte",
-    "mobile_primary": "08002929294"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BERGMANN Beton + Abwassertechnik GmbH",
-    "domain": "wbs-clean.de",
-    "description": "Teilnahme an Jenaer Baumesse Kläranlagen",
     "booth": "2-201",
+    "description": "Teilnahme an Jenaer Baumesse Kläranlagen",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://wbs-clean.de",
     "full_address": "Am Zeisig 8, 09322 Penig",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BG BAU - Berufsgenossenschaft der Bauwirtschaft",
-    "domain": "bgbau.de",
-    "description": "Nur als Rechnungsadresse verwenden. Post geht aber IMMER nach Frankfurt zu Herrn Hans - Martin Kuhl !!!! Neu: RG immer per E-Mail: eingangsrechnung@bgbau.de Straße geändert am 24.02.2025 - AH",
     "booth": "2-106",
+    "description": "Nur als Rechnungsadresse verwenden. Post geht aber IMMER nach Frankfurt zu Herrn Hans - Martin Kuhl !!!! Neu: RG immer per E-Mail: eingangsrechnung@bgbau.de Straße geändert am 24.02.2025 - AH",
     "email": "",
-    "city": "",
+    "mobile_primary": "08003799100",
+    "domain": "https://bgbau.de",
     "full_address": "Bundesallee 210, 10719 Berlin",
-    "mobile_primary": "08003799100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bien - Zenker Musterhaus",
-    "domain": "bien-zenker.de",
-    "description": "",
     "booth": "2-212",
+    "description": "",
     "email": "info@bien-zenker.de",
-    "city": "",
+    "mobile_primary": "06661 98-0",
+    "domain": "https://bien-zenker.de",
     "full_address": "Bei den Froschäckern 41, 99098 Erfurt",
-    "mobile_primary": "06661 98-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blaurock International Sales GmbH",
-    "domain": "blaurock.de",
-    "description": "",
     "booth": "2-405",
+    "description": "",
     "email": "info@blaurock.de",
-    "city": "",
+    "mobile_primary": "+49 9771 91020",
+    "domain": "https://blaurock.de",
     "full_address": "Am Fronhof 10, 97616 Salz",
-    "mobile_primary": "+49 9771 91020"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dachdeckerei Schröder",
-    "domain": "dachdeckerei-wechmar.de",
-    "description": "",
     "booth": "2-214",
+    "description": "",
     "email": "info@dachdeckerei-wechmar.de",
-    "city": "",
+    "mobile_primary": "036256 / 80780",
+    "domain": "https://dachdeckerei-wechmar.de",
     "full_address": "Erfurter Landstraße 22, 99869 Drei Gleichen",
-    "mobile_primary": "036256 / 80780"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dachdeckermeisterbetrieb Milden Hoyer GmbH",
-    "domain": "dachdecker-mildenhoyer.de",
-    "description": "",
     "booth": "2-208",
+    "description": "",
     "email": "info@dachdecker-mildenhoyer.de",
-    "city": "",
+    "mobile_primary": "+493620281751",
+    "domain": "https://dachdecker-mildenhoyer.de",
     "full_address": "Am Sportplatz 6, 99869 Drei Gleichen",
-    "mobile_primary": "+493620281751"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "E.u.r.o. Tec GmbH",
-    "domain": "eurotec.team",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@eurotec.team",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://eurotec.team",
     "full_address": "Unter dem Hofe 5, 58099 Hagen",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Energiekonzepte Deutschland GmbH",
-    "domain": "ekd-solar.de",
-    "description": "",
     "booth": "2-507",
+    "description": "",
     "email": "info@ekd-solar.de",
-    "city": "",
+    "mobile_primary": "+493429898990",
+    "domain": "https://ekd-solar.de",
     "full_address": "Torgauer Str. 336, 04347 Leipzig",
-    "mobile_primary": "+493429898990"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enpal B.V.",
-    "domain": "enpal.de",
-    "description": "",
     "booth": "2-124",
+    "description": "",
     "email": "service@enpal.de",
-    "city": "",
+    "mobile_primary": "‍+493030808052",
+    "domain": "https://enpal.de",
     "full_address": "Koppenstr. 8, 10243 Berlin",
-    "mobile_primary": "‍+493030808052"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ETA Heiztechnik GmbH",
-    "domain": "eta.co.at",
-    "description": "Pellets, Stückholz, Hackgut, Systemkomponeten erneuerbare E. 2006 / event. MITAUSSTELLER BEI KLIEWE Aussteller HAUS 2013",
     "booth": "2-402",
+    "description": "Pellets, Stückholz, Hackgut, Systemkomponeten erneuerbare E. 2006 / event. MITAUSSTELLER BEI KLIEWE Aussteller HAUS 2013",
     "email": "info@eta.co.at",
-    "city": "",
+    "mobile_primary": "0043773422880",
+    "domain": "https://eta.co.at",
     "full_address": "Gewerbepark 1, 4716 Hofkirchen an der Trattnach Aigen",
-    "mobile_primary": "0043773422880"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Garagen-Stiede",
-    "domain": "garagen-stiede.de",
-    "description": "Garagen, Tore, Türen, Antriebe Garagenvertrieb, Tore & Antriebe Stiede Aussteller Thüringen Ausstellung 2008",
     "booth": "2-312",
+    "description": "Garagen, Tore, Türen, Antriebe Garagenvertrieb, Tore & Antriebe Stiede Aussteller Thüringen Ausstellung 2008",
     "email": "elektro-stiede@t-online.de",
-    "city": "",
+    "mobile_primary": "03 62 00) 6 57 21",
+    "domain": "https://garagen-stiede.de",
     "full_address": "An der Dorfstr. 7c, 99334 Elleben",
-    "mobile_primary": "03 62 00) 6 57 21"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Georgius Küchen Handel GmbH",
-    "domain": "laxintage.de",
-    "description": "Küchen",
     "booth": "2-416",
+    "description": "Küchen",
     "email": "info@laxintage.de",
-    "city": "",
+    "mobile_primary": "+49(0)3493/81556",
+    "domain": "https://laxintage.de",
     "full_address": "Friedrich Wöhler Ring 8, OT Sandersdorf, 06749 Bitterfeld-Wolfen",
-    "mobile_primary": "+49(0)3493/81556"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GK Sanierungen",
-    "domain": "gk-sanierung.de",
-    "description": "",
     "booth": "2-314",
+    "description": "",
     "email": "info@gk-sanierungen.de",
-    "city": "",
+    "mobile_primary": "+491776300300",
+    "domain": "https://gk-sanierung.de",
     "full_address": "Zwickauer Str. 187, 09116 Chemnitz",
-    "mobile_primary": "+491776300300"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Göhler Treppen GmbH & Co. KG",
-    "domain": "tischler-sachsen.de",
-    "description": "",
     "booth": "2-116",
+    "description": "",
     "email": "info@tischler-sachsen.de",
-    "city": "",
+    "mobile_primary": "0351 28 178 51",
+    "domain": "https://tischler-sachsen.de",
     "full_address": "Frauensteiner Str.7, 09623 Frauenstein-Burkersdorf",
-    "mobile_primary": "0351 28 178 51"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hanse Haus GmbH",
-    "domain": "hanse-haus.de",
-    "description": "",
     "booth": "2-305",
+    "description": "",
     "email": "steffen@stlart.de",
-    "city": "",
+    "mobile_primary": "+499741808409",
+    "domain": "https://hanse-haus.de",
     "full_address": "Ludwig-Weber-Str. 18, 97789 Oberleichtersbach",
-    "mobile_primary": "+499741808409"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HEIM & HAUS Ausstellung Erfurt",
-    "domain": "heimhaus.de",
-    "description": "",
     "booth": "2-301 + 2-603",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+49 (0) 203 / 40 64 40",
+    "domain": "https://heimhaus.de",
     "full_address": "Am Urbicher Kreuz 24, 99099 Erfurt",
-    "mobile_primary": "+49 (0) 203 / 40 64 40"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Herrmann Massivholzhaus GmbH",
-    "domain": "herrmann-massivholzhaus.de",
-    "description": "irgendwo Aussteller",
     "booth": "2-403",
+    "description": "irgendwo Aussteller",
     "email": "",
-    "city": "",
+    "mobile_primary": "036967 502-0",
+    "domain": "https://herrmann-massivholzhaus.de",
     "full_address": "Industriestraße 2, 36419 Geisa",
-    "mobile_primary": "036967 502-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HKS H. Lode",
-    "domain": "messejena.de",
-    "description": "",
     "booth": "2-110",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://messejena.de",
     "full_address": "Adolf Damaschke Str. 59, 08606 Oelsnitz",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HYLA Vertriebspartner",
-    "domain": "",
-    "description": "",
     "booth": "2-309",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Trift 18a, 36433 Bad Salzungen",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Höffner Möbelgesellschaft GmbH & Co. KG",
-    "domain": "hoeffner.de",
-    "description": "RG bitte per E-Mail an: rechnungseingang@krieger-handel.de und mit Bezeichnung ***Externe Messen*** versehen",
     "booth": "2-500 + 2-502 + 2-701",
+    "description": "RG bitte per E-Mail an: rechnungseingang@krieger-handel.de und mit Bezeichnung ***Externe Messen*** versehen",
     "email": "kontaktformular@hoeffner.de",
-    "city": "",
+    "mobile_primary": "+49 (0) 30 374 449 338",
+    "domain": "https://hoeffner.de",
     "full_address": "Im großen Felde 3, 99097 Erfurt",
-    "mobile_primary": "+49 (0) 30 374 449 338"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ingenieurbüro für erneuerbare Energien K&K GmbH",
-    "domain": "meine-infa.de",
-    "description": "",
     "booth": "2-100",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://meine-infa.de",
     "full_address": "Robert-Bosch-Straße 3, 38518 Gifhorn",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KERN-HAUS AG",
-    "domain": "kern-haus.de",
-    "description": "",
     "booth": "2-311",
+    "description": "",
     "email": "datenschutz@kern-haus.de",
-    "city": "",
+    "mobile_primary": "+492623884444",
+    "domain": "https://kern-haus.de",
     "full_address": "Gustav-Freytag-Straße 12, 99096 Erfurt",
-    "mobile_primary": "+492623884444"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kältech Kälte- und Klimatechnik GmbH",
-    "domain": "kaeltech.de",
-    "description": "",
     "booth": "2-310",
+    "description": "",
     "email": "info@kaeltech.de",
-    "city": "",
+    "mobile_primary": "051130033770",
+    "domain": "https://kaeltech.de",
     "full_address": "Justus-Liebig-Str. 10, 99087 Erfurt",
-    "mobile_primary": "051130033770"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Köhler Fliegengitter GmbH",
-    "domain": "koehler-insektenschutz.de",
-    "description": "",
     "booth": "2-408a",
+    "description": "",
     "email": "kontakt@koehler-insektenschutz.de",
-    "city": "",
+    "mobile_primary": "+4936453189987",
+    "domain": "https://koehler-insektenschutz.de",
     "full_address": "Umgehungsstraße 78b, 99441 Mellingen",
-    "mobile_primary": "+4936453189987"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LANDESPOLIZEIDIREKTION",
-    "domain": "polizei.thueringen.de",
-    "description": "",
     "booth": "2-107",
+    "description": "",
     "email": "friendly-challenge@0.9.11",
-    "city": "",
+    "mobile_primary": "588859066",
+    "domain": "https://polizei.thueringen.de",
     "full_address": "Melchior-Bauer-Straße 5, 99092 Erfurt",
-    "mobile_primary": "588859066"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lehmwerk Kleinfahner GmbH & Co. KG",
-    "domain": "lehmwerk-kleinfahner.de",
-    "description": "Herr Thilo Schneider hat Unternehmen 2019 an Michael Kockelmann verkauft.",
     "booth": "2-407",
+    "description": "Herr Thilo Schneider hat Unternehmen 2019 an Michael Kockelmann verkauft.",
     "email": "info@das-lehmwerk.de",
-    "city": "",
+    "mobile_primary": "%20036206%2023470​",
+    "domain": "https://lehmwerk-kleinfahner.de",
     "full_address": "Anger 56, 99100 Gierstädt OT Kleinfahner",
-    "mobile_primary": "%20036206%2023470​"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Liebscher",
-    "domain": "lauraliebscher.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mail@lauraliebscher.de",
-    "city": "",
+    "mobile_primary": "0177 7210 315",
+    "domain": "https://lauraliebscher.de",
     "full_address": "Tautenburger Str. 5, 07749 Jena",
-    "mobile_primary": "0177 7210 315"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LINSS Malsfeld GmbH - Erfurt",
-    "domain": "linss.de",
-    "description": "",
     "booth": "2-306",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://linss.de",
     "full_address": "Altonaer Straße 16-17, 99085 Erfurt",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lämmerzahl-Wasseraufbereitung",
-    "domain": "laemmerzahl-wasseraufbereitung.de",
-    "description": "",
     "booth": "2-401",
+    "description": "",
     "email": "info@laemmerzahl-wasseraufbereitung.de",
-    "city": "",
+    "mobile_primary": "+493681458890",
+    "domain": "https://laemmerzahl-wasseraufbereitung.de",
     "full_address": "Fröhliche-Mann-Str. 15, 98528 Suhl",
-    "mobile_primary": "+493681458890"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LéonWood Holz-Blockhaus GmbH",
-    "domain": "leonwood.de",
-    "description": "",
     "booth": "2-202",
+    "description": "",
     "email": "leonwoodzentrale@leonwood.de",
-    "city": "",
+    "mobile_primary": "+493560188888",
+    "domain": "https://leonwood.de",
     "full_address": "Mauster Dorfstraße 78, 03185 Teichland/OT Maust",
-    "mobile_primary": "+493560188888"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MAXX SOLAR & ENERGIE GmbH & Co. KG",
-    "domain": "maxx-solar.de",
-    "description": "Brauchwasserwärmepumpen, Elektromobilität, Energiespeichersysteme, Hochleistungs-Photovoltaikmodule.. usw. Aussteller Thüringenausstellung Rechnungsmail: buchhaltung@maxx-solar.de",
     "booth": "2-404",
+    "description": "Brauchwasserwärmepumpen, Elektromobilität, Energiespeichersysteme, Hochleistungs-Photovoltaikmodule.. usw. Aussteller Thüringenausstellung Rechnungsmail: buchhaltung@maxx-solar.de",
     "email": "info@maxx-solar.de",
-    "city": "",
+    "mobile_primary": "+49362240103210",
+    "domain": "https://maxx-solar.de",
     "full_address": "Lauchaer Höhe 14, 99880 Waltershausen",
-    "mobile_primary": "+49362240103210"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Messe Erfurt",
-    "domain": "maps.apple.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@messe-erfurt.de",
-    "city": "",
+    "mobile_primary": "+49361400-0",
+    "domain": "https://maps.apple.com",
     "full_address": "Gothaer Straße 34, 99094 Erfurt",
-    "mobile_primary": "+49361400-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MH - Mein Haus Bausysteme",
-    "domain": "mein-haus-bausysteme.de",
-    "description": "Bausatz- und Ausbauhäuser aus LIAPLAN",
     "booth": "2-108",
+    "description": "Bausatz- und Ausbauhäuser aus LIAPLAN",
     "email": "",
-    "city": "",
+    "mobile_primary": "00493660340819",
+    "domain": "https://mein-haus-bausysteme.de",
     "full_address": "Dr. Josef-Wirth-Str. 6, 07570 Weida",
-    "mobile_primary": "00493660340819"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Montagetechnik Wolf",
-    "domain": "montagetechnik-wolf.com",
-    "description": "",
     "booth": "2-410",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://montagetechnik-wolf.com",
     "full_address": "Ziegelstraße 60, 08393 Meerane",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Musterhaus",
-    "domain": "massa-haus.de",
-    "description": "",
     "booth": "2-503",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://massa-haus.de",
     "full_address": "Weimarische Str. 9c, 99099 Erfurt",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "my Salesman GmbH",
-    "domain": "my-salesman.de",
-    "description": "",
     "booth": "2-317",
+    "description": "",
     "email": "info@my-salesman.de",
-    "city": "",
+    "mobile_primary": "03641 - 34 90 83",
+    "domain": "https://my-salesman.de",
     "full_address": "Im Camisch 14, 07768 Kahla",
-    "mobile_primary": "03641 - 34 90 83"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OHB Hausbau-Gruppe",
-    "domain": "ohb-hausbau.de",
-    "description": "Hausbau Neubau von individuellen Einfamilienhäusern",
     "booth": "2-406",
+    "description": "Hausbau Neubau von individuellen Einfamilienhäusern",
     "email": "info@ohb-hausbau.de",
-    "city": "",
+    "mobile_primary": "03624 30 70 40",
+    "domain": "https://ohb-hausbau.de",
     "full_address": "Thomas-Müntzer-Straße 62, 99885 Ohrdruf",
-    "mobile_primary": "03624 30 70 40"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Original HENKEL Alusysteme GmbH",
-    "domain": "henkel-alu.de",
-    "description": "Terassenüberdachungen, Carports, Aluüberdachungen, Vordächer",
     "booth": "2-101",
+    "description": "Terassenüberdachungen, Carports, Aluüberdachungen, Vordächer",
     "email": "info@henkel-alu.de",
-    "city": "",
+    "mobile_primary": "+493503371290",
+    "domain": "https://henkel-alu.de",
     "full_address": "Schweizermühle 8, 01824 Rosenthal-Bielatal",
-    "mobile_primary": "+493503371290"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Perfecta-Fenster Vertriebs & Montage GmbH",
-    "domain": "perfecta-fenster.de",
-    "description": "Fenster- u. Haustürwechsel ohne Dreck, Energiespar-Roladensystem",
     "booth": "2-105",
+    "description": "Fenster- u. Haustürwechsel ohne Dreck, Energiespar-Roladensystem",
     "email": "kontakt@perfecta-fenster.de",
-    "city": "",
+    "mobile_primary": "+49827379902",
+    "domain": "https://perfecta-fenster.de",
     "full_address": "Hauptstr. 3, 86707 Westendorf",
-    "mobile_primary": "+49827379902"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pruchnewski-Fliesen-Kamin-Kachelöfen",
-    "domain": "pruchnewski.de",
-    "description": "Kamin- und Kachelofenbau aussteller thüringen ausstellung 2008 Kamin- und Kachelofenbau aussteller thüringen ausstellung 2008",
     "booth": "2-408",
+    "description": "Kamin- und Kachelofenbau aussteller thüringen ausstellung 2008 Kamin- und Kachelofenbau aussteller thüringen ausstellung 2008",
     "email": "pruchnewski-gotha@t-online.de",
-    "city": "",
+    "mobile_primary": "0362171450",
+    "domain": "https://pruchnewski.de",
     "full_address": "Leinastr. 71, 99867 Gotha",
-    "mobile_primary": "0362171450"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "RaiffeisenVolt GmbH",
-    "domain": "raiffeisenvolt.de",
-    "description": "",
     "booth": "2-409",
+    "description": "",
     "email": "anfragen@raiffeisenvolt.de",
-    "city": "",
+    "mobile_primary": "00492913219800",
+    "domain": "https://raiffeisenvolt.de",
     "full_address": "August-Röbling-Str. 4, 99094 Erfurt",
-    "mobile_primary": "00492913219800"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Reinhard Herzer GmbH",
-    "domain": "reinhard-herzer.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@herzer-design.de",
-    "city": "",
+    "mobile_primary": "0163/2876243",
+    "domain": "https://reinhard-herzer.de",
     "full_address": "Köthener Straße 64, 06847 Dessau",
-    "mobile_primary": "0163/2876243"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ronny Reinländer Heizung & Solar",
-    "domain": "reinlaender.de",
-    "description": "",
     "booth": "2-215",
+    "description": "",
     "email": "kontakt@reinlaender.de",
-    "city": "",
+    "mobile_primary": "03601. 81 56 91",
+    "domain": "https://reinlaender.de",
     "full_address": "Eigenrieder Weg 77, 99974 Mühlhausen",
-    "mobile_primary": "03601. 81 56 91"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SchwörerHaus KG",
-    "domain": "schwoerer.de",
-    "description": "Hausbau, Fertighäuser, Ausbauhäuser, Doppelhäuser",
     "booth": "2-205",
+    "description": "Hausbau, Fertighäuser, Ausbauhäuser, Doppelhäuser",
     "email": "chosen-sprite@2x.png",
-    "city": "",
+    "mobile_primary": "+49738716111",
+    "domain": "https://schwoerer.de",
     "full_address": "Hans-Schwörer-Str. 8, 72531 Hohenstein",
-    "mobile_primary": "+49738716111"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sconto Erfurt",
-    "domain": "moebel.de",
-    "description": "",
     "booth": "2-506",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://moebel.de",
     "full_address": "Apoldaer Straße 1, 99091 Erfurt",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Servicum GmbH",
-    "domain": "servicum.com",
-    "description": "",
     "booth": "2-302",
+    "description": "",
     "email": "info@servicum.com",
-    "city": "",
+    "mobile_primary": "+1 (650) 555-0111",
+    "domain": "https://servicum.com",
     "full_address": "Moritz-von-Rohr-Straße 1a, 07745 Jena",
-    "mobile_primary": "+1 (650) 555-0111"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spannda Decken",
-    "domain": "spannda.de",
-    "description": "",
     "booth": "2-411",
+    "description": "",
     "email": "spanndadecken@gmail.com",
-    "city": "",
+    "mobile_primary": "+493621704514",
+    "domain": "https://spannda.de",
     "full_address": "Dr. Troch Straße 7, 99867 Gotha",
-    "mobile_primary": "+493621704514"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sparkasse Mittelthüringen",
-    "domain": "sparkasse-mittelthueringen.de",
-    "description": "",
     "booth": "2-504",
+    "description": "",
     "email": "info@sparkasse-mittelthueringen.de",
-    "city": "",
+    "mobile_primary": "03615455000",
+    "domain": "https://sparkasse-mittelthueringen.de",
     "full_address": "Anger 25/26, 99084 Erfurt",
-    "mobile_primary": "03615455000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TEAG Thüringer Energie AG",
-    "domain": "teag.de",
-    "description": "Energieversorgung, Energieberatung AG Fusion aus TEAG und Thüringengas Versorgung kommunal Gas-Strom-Fernwärme-H20 AG Aussteller 8.academix",
     "booth": "2-109",
+    "description": "Energieversorgung, Energieberatung AG Fusion aus TEAG und Thüringengas Versorgung kommunal Gas-Strom-Fernwärme-H20 AG Aussteller 8.academix",
     "email": "kundenservice@teag.de",
-    "city": "",
+    "mobile_primary": "+4936418171111",
+    "domain": "https://teag.de",
     "full_address": "Schwerborner Straße 30, 99087 Erfurt",
-    "mobile_primary": "+4936418171111"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "tecalor GmbH",
-    "domain": "tecalor.de",
-    "description": "Hersteller Solar- u. Wärmepumpen Hersteller Solar- u. Wärmepumpen",
     "booth": "2-213",
+    "description": "Hersteller Solar- u. Wärmepumpen Hersteller Solar- u. Wärmepumpen",
     "email": "gsap@3.14.1",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://tecalor.de",
     "full_address": "Lüchtringer Weg 3, 37603 Holzminden",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TiefenTherm",
-    "domain": "tiefentherm.de",
-    "description": "",
     "booth": "2-200",
+    "description": "",
     "email": "info@tiefentherm.de",
-    "city": "",
+    "mobile_primary": "+4934122373081",
+    "domain": "https://tiefentherm.de",
     "full_address": "Dehnitzer Weg 64a, 04808 Wurzen",
-    "mobile_primary": "+4934122373081"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tischlerei Peter Hercher",
-    "domain": "tischlerei-hercher.de",
-    "description": "Türen, Fenster",
     "booth": "2-501",
+    "description": "Türen, Fenster",
     "email": "info@tischlerei-hercher.de",
-    "city": "",
+    "mobile_primary": "036705-61075",
+    "domain": "https://tischlerei-hercher.de",
     "full_address": "Kreisstr. 15a, 98744 Cursdorf",
-    "mobile_primary": "036705-61075"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Treppenmeister Wippertal GmbH",
-    "domain": "treppen-wippertal.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@treppen-wippertal.de",
-    "city": "",
+    "mobile_primary": "0363383240",
+    "domain": "https://treppen-wippertal.de",
     "full_address": "Ringwiesenstraße 4, 99759 Sollstedt",
-    "mobile_primary": "0363383240"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Trepsa® - Treppensanierungssysteme",
-    "domain": "trepsa.de",
-    "description": "Treppensanierungssysteme, bieten auch Treppensanierung im Selbstbauset an",
     "booth": "2-307",
+    "description": "Treppensanierungssysteme, bieten auch Treppensanierung im Selbstbauset an",
     "email": "",
-    "city": "",
+    "mobile_primary": "+49 (0) 39244-95031",
+    "domain": "https://trepsa.de",
     "full_address": "Am Klaasberg 1, 39264 Steckby",
-    "mobile_primary": "+49 (0) 39244-95031"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Unger Park GmbH",
-    "domain": "unger-park.de",
-    "description": "Musterhausausstellung",
     "booth": "2-118",
+    "description": "Musterhausausstellung",
     "email": "info@unger-park.de",
-    "city": "",
+    "mobile_primary": "+4933276697920",
+    "domain": "https://unger-park.de",
     "full_address": "Donauwörther Str. 2, 09114 Chemnitz",
-    "mobile_primary": "+4933276697920"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vaillant Deutschland GmbH & Co. KG",
-    "domain": "vaillant.de",
-    "description": "Großkonzern Großkonzern",
     "booth": "2-316",
+    "description": "Großkonzern Großkonzern",
     "email": "info@vaillant.de",
-    "city": "",
+    "mobile_primary": "021915767920",
+    "domain": "https://vaillant.de",
     "full_address": "Berghauser Str. 40, 42859 Remscheid",
-    "mobile_primary": "021915767920"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verbraucherzentrale Thüringen e.V.",
-    "domain": "vzth.de",
-    "description": "Landesverband Verbraucherzentrale Verbraucherinformationen Bereich Ernährung, Ausstellungstafeln, Infomaterial und Produktausstellung Bereich Ernährung Aussteller Thüringen Ausstellung 2008, 2009",
     "booth": "2-204",
+    "description": "Landesverband Verbraucherzentrale Verbraucherinformationen Bereich Ernährung, Ausstellungstafeln, Infomaterial und Produktausstellung Bereich Ernährung Aussteller Thüringen Ausstellung 2008, 2009",
     "email": "datenschutz@vz-rlp.de",
-    "city": "",
+    "mobile_primary": "+49361555140",
+    "domain": "https://vzth.de",
     "full_address": "Eugen-Richter-Str. 45, 99085 Erfurt",
-    "mobile_primary": "+49361555140"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vorwerk Deutschland Stiftung & Co. KG",
-    "domain": "vorwerk.de",
-    "description": "Staubsauger",
     "booth": "2-221",
+    "description": "Staubsauger",
     "email": "kobold-deal@vorwerk.de",
-    "city": "",
+    "mobile_primary": "49 202 564 3000",
+    "domain": "https://vorwerk.de",
     "full_address": "Augsburger Str. 10, 99091 Erfurt",
-    "mobile_primary": "49 202 564 3000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wolf Bavaria GmbH",
-    "domain": "wolf-bavaria.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@wolf-bavaria.com",
-    "city": "",
+    "mobile_primary": "+499872953980",
+    "domain": "https://wolf-bavaria.com",
     "full_address": "Gutenbergstraße 8, 91560 Heilsbronn",
-    "mobile_primary": "+499872953980"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ÖkoFEN Heiztechnik GmbH",
-    "domain": "pelletsheizung.de",
-    "description": "Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN",
     "booth": "2-102",
+    "description": "Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN Haustechnik /erneuerbare Energien, Gebietsvertretung für Fa. ÖkoFEN",
     "email": "info@oekofen.de",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://pelletsheizung.de",
     "full_address": "Schelmenlohe 2, 86866 Mickhausen",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

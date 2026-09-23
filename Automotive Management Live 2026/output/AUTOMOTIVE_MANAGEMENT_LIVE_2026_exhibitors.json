@@ -1,842 +1,926 @@
 [
   {
     "company_name": "AA Cars",
-    "domain": "theaa.com",
-    "description": "",
     "booth": "D2",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://theaa.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "AM Live help desk",
-    "domain": "",
-    "description": "",
     "booth": "P3",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "media house",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "AU Limitless",
-    "domain": "am-online.com",
-    "description": "",
     "booth": "C12",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://am-online.com",
     "full_address": "28 Bumpers Lane",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Auto3iii",
-    "domain": "auto3iii.com",
-    "description": "",
     "booth": "P86",
+    "description": "",
     "email": "info@auto3iii.com",
-    "city": "Birmingham",
+    "mobile_primary": "03301 332120",
+    "domain": "https://auto3iii.com",
     "full_address": "No.2 High Street",
-    "mobile_primary": "03301 332120"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "AutoConverse",
-    "domain": "autoconverse.co.uk",
-    "description": "",
     "booth": "C6",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://autoconverse.co.uk",
     "full_address": "2 The Coach House",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "AutoFacets B.V.",
-    "domain": "autofacets.com",
-    "description": "",
     "booth": "D44",
+    "description": "",
     "email": "info@autofacets.com",
-    "city": "Birmingham",
+    "mobile_primary": "31 (0) 79 3200 980",
+    "domain": "https://autofacets.com",
     "full_address": "Maria Montessorilaan 5",
-    "mobile_primary": "31 (0) 79 3200 980"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Autofinity",
-    "domain": "autofinity.com",
-    "description": "",
     "booth": "A14",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://autofinity.com",
     "full_address": "Birchwood Park",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Autofixa",
-    "domain": "autofixa.com",
-    "description": "",
     "booth": "D36",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://autofixa.com",
     "full_address": "78 York Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Autoflows",
-    "domain": "autoflows.com",
-    "description": "",
     "booth": "A26",
+    "description": "",
     "email": "info@autoflows.com",
-    "city": "Birmingham",
+    "mobile_primary": "+4570201075",
+    "domain": "https://autoflows.com",
     "full_address": "Hoejbro Plads 10",
-    "mobile_primary": "+4570201075"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Autoglym",
-    "domain": "autoglym.com",
-    "description": "",
     "booth": "C4",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "01462 688532",
+    "domain": "https://autoglym.com",
     "full_address": "Works Road",
-    "mobile_primary": "01462 688532"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Autotrader",
-    "domain": "autotrader.co.uk",
-    "description": "",
     "booth": "D42",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://autotrader.co.uk",
     "full_address": "4th Floor",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Barclaycard Payments Limited",
-    "domain": "barclaycard.co.uk",
-    "description": "",
     "booth": "C22",
+    "description": "",
     "email": "gpalevel1complaints@barclaycard.co.uk",
-    "city": "Birmingham",
+    "mobile_primary": "0800008008",
+    "domain": "https://barclaycard.co.uk",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": "0800008008"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bistech",
-    "domain": "bistech.co.uk",
-    "description": "",
     "booth": "D26",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://bistech.co.uk",
     "full_address": "137 Victoria Road",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brego",
-    "domain": "brego.io",
-    "description": "",
     "booth": "C18",
+    "description": "",
     "email": "sales@brego.io",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://brego.io",
     "full_address": "Vicarage Road",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bumper",
-    "domain": "bumper.co",
-    "description": "",
     "booth": "B8",
+    "description": "",
     "email": "support@bumper.co",
-    "city": "Birmingham",
+    "mobile_primary": "0800 6120946",
+    "domain": "https://bumper.co",
     "full_address": "1 Lyric Square",
-    "mobile_primary": "0800 6120946"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Carcare",
-    "domain": "car-care.co.uk",
-    "description": "",
     "booth": "D10",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://car-care.co.uk",
     "full_address": "70 White Lion Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "CarCutter",
-    "domain": "carcutter.com",
-    "description": "",
     "booth": "D16",
+    "description": "",
     "email": "support@carcutter.com",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://carcutter.com",
     "full_address": "Karmeliterplatz 8",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Carwow",
-    "domain": "carwow.co.uk",
-    "description": "",
     "booth": "D4",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://carwow.co.uk",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Centeca",
-    "domain": "centeca.com",
-    "description": "",
     "booth": "A28",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://centeca.com",
     "full_address": "Thompson Close",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Checkmyfile",
-    "domain": "checkmyfile.com",
-    "description": "",
     "booth": "P84",
+    "description": "",
     "email": "help@checkmyfile.com",
-    "city": "Birmingham",
+    "mobile_primary": "01872304050",
+    "domain": "https://checkmyfile.com",
     "full_address": "20-21 Lemon Street",
-    "mobile_primary": "01872304050"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "CitNOW Group",
-    "domain": "citnowgroup.com",
-    "description": "",
     "booth": "B2",
+    "description": "",
     "email": "team@citnowgroup.com",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://citnowgroup.com",
     "full_address": "Millars Brook",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "ClearWatt",
-    "domain": "clearwatt.co.uk",
-    "description": "",
     "booth": "P16",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://clearwatt.co.uk",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Connectivity.CX LTD",
-    "domain": "connectivity.cx",
-    "description": "",
     "booth": "C1",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+4401618503261",
+    "domain": "https://connectivity.cx",
     "full_address": "212 Moss Lane",
-    "mobile_primary": "+4401618503261"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cooper Parry",
-    "domain": "cooperparry.com",
-    "description": "",
     "booth": "D62",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://cooperparry.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cox Automotive",
-    "domain": "coxautoinc.com",
-    "description": "",
     "booth": "D50",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://coxautoinc.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coyote Systems",
-    "domain": "mycoyote.co.uk",
-    "description": "",
     "booth": "A30",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://mycoyote.co.uk",
     "full_address": "23 Copenhagen Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "CPH Insight",
-    "domain": "cphinsight.com",
-    "description": "",
     "booth": "D38",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+44%20204%20577%201219",
+    "domain": "https://cphinsight.com",
     "full_address": "131 Finsbury Pavement",
-    "mobile_primary": "+44%20204%20577%201219"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cruze",
-    "domain": "birminghamautoauction.com",
-    "description": "",
     "booth": "P14",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://birminghamautoauction.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Darwin Technology Solutions",
-    "domain": "darwin-tech.com",
-    "description": "",
     "booth": "P82",
+    "description": "",
     "email": "contactus@darwin-tech.com",
-    "city": "Birmingham",
+    "mobile_primary": "020 8137 3637",
+    "domain": "https://darwin-tech.com",
     "full_address": "5 Westbrook Court",
-    "mobile_primary": "020 8137 3637"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "DCR Systems",
-    "domain": "dcrsystems.co.uk",
-    "description": "",
     "booth": "P22",
+    "description": "",
     "email": "hello@dcr.world",
-    "city": "Birmingham",
+    "mobile_primary": "+442392983702",
+    "domain": "https://dcrsystems.co.uk",
     "full_address": "Houghton Avenue",
-    "mobile_primary": "+442392983702"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "DENZA UK",
-    "domain": "denza.com",
-    "description": "",
     "booth": "A50a",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://denza.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Diamondbrite/Evolv",
-    "domain": "diamondbrite.co.uk",
-    "description": "",
     "booth": "A42",
+    "description": "",
     "email": "enquiries@jewelultra.com",
-    "city": "Birmingham",
+    "mobile_primary": "+441622815679",
+    "domain": "https://diamondbrite.co.uk",
     "full_address": "Diamondbrite House",
-    "mobile_primary": "+441622815679"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "e-Track",
-    "domain": "e-track.com",
-    "description": "",
     "booth": "D3",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "01216472770",
+    "domain": "https://e-track.com",
     "full_address": "Station Rd, Birmingham,",
-    "mobile_primary": "01216472770"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "ECA Business Energy",
-    "domain": "collisionrepairmag.com",
-    "description": "",
     "booth": "P11",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://collisionrepairmag.com",
     "full_address": "ECA House",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "ecos systems",
-    "domain": "ecos-systems.com",
-    "description": "",
     "booth": "C10",
+    "description": "",
     "email": "info@ecos-systems.com",
-    "city": "Birmingham",
+    "mobile_primary": "+441908026996",
+    "domain": "https://ecos-systems.com",
     "full_address": "3 Cheetah Road",
-    "mobile_primary": "+441908026996"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "eDynamix",
-    "domain": "edynamix.com",
-    "description": "",
     "booth": "B18",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://edynamix.com",
     "full_address": "St Mary Lane",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Engineius",
-    "domain": "engineius.co.uk",
-    "description": "",
     "booth": "D40",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "01214812111",
+    "domain": "https://engineius.co.uk",
     "full_address": "37 Somerset House",
-    "mobile_primary": "01214812111"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Eskimo Software",
-    "domain": "autoindustrycompare.com",
-    "description": "",
     "booth": "A24",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://autoindustrycompare.com",
     "full_address": "67 Monacurragh",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Force24",
-    "domain": "force24.co.uk",
-    "description": "",
     "booth": "D12",
+    "description": "",
     "email": "info@force24.co.uk",
-    "city": "Birmingham",
+    "mobile_primary": "00448452725990",
+    "domain": "https://force24.co.uk",
     "full_address": "2 Indigo Blu",
-    "mobile_primary": "00448452725990"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Full Fathom Five AI",
-    "domain": "wearetechwomen.com",
-    "description": "",
     "booth": "D30",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://wearetechwomen.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Generational",
-    "domain": "generational.ac",
-    "description": "",
     "booth": "D8",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://generational.ac",
     "full_address": "7 Bell Yard",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Green IP",
-    "domain": "greenip.co.uk",
-    "description": "",
     "booth": "D43",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://greenip.co.uk",
     "full_address": "Holyrood Close",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Invisors",
-    "domain": "targetjobs.co.uk",
-    "description": "",
     "booth": "P20",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://targetjobs.co.uk",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jigcar",
-    "domain": "jigcar.com",
-    "description": "",
     "booth": "P10",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://jigcar.com",
     "full_address": "24, Eversholt Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "JP.cars",
-    "domain": "jp.cars",
-    "description": "",
     "booth": "P28",
+    "description": "",
     "email": "jp@jp.cars",
-    "city": "Birmingham",
+    "mobile_primary": "+31 20 700 8315",
+    "domain": "https://jp.cars",
     "full_address": "John M. Keynesplein 1",
-    "mobile_primary": "+31 20 700 8315"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Keyloop",
-    "domain": "keyloop.com",
-    "description": "",
     "booth": "A22",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "52 (55) 2000 1500",
+    "domain": "https://keyloop.com",
     "full_address": "35-43 Greyfriars Road",
-    "mobile_primary": "52 (55) 2000 1500"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "KEYper",
-    "domain": "keypersystems.com",
-    "description": "",
     "booth": "B16",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "800-399-7888",
+    "domain": "https://keypersystems.com",
     "full_address": "30 Stilebrook Rd",
-    "mobile_primary": "800-399-7888"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "KeyTracker Ltd",
-    "domain": "keytracker.com",
-    "description": "",
     "booth": "D22",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+441215599000",
+    "domain": "https://keytracker.com",
     "full_address": "Station Road",
-    "mobile_primary": "+441215599000"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kortical",
-    "domain": "kortical.com",
-    "description": "",
     "booth": "A16",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://kortical.com",
     "full_address": "109-117 Waterloo Road",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leadoo AI",
-    "domain": "leadoo.com",
-    "description": "",
     "booth": "A35",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://leadoo.com",
     "full_address": "xxx",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Liquidline",
-    "domain": "liquidline.co.uk",
-    "description": "",
     "booth": "A10",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://liquidline.co.uk",
     "full_address": "86 Sandyhill Lane",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Localise",
-    "domain": "birmingham.ac.uk",
-    "description": "",
     "booth": "D20",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://birmingham.ac.uk",
     "full_address": "58 High Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Magneto IT Solutions",
-    "domain": "magnetoitsolutions.com",
-    "description": "",
     "booth": "P30",
+    "description": "",
     "email": "info@magnetoitsolutions.com",
-    "city": "Birmingham",
+    "mobile_primary": "+1-4169044907",
+    "domain": "https://magnetoitsolutions.com",
     "full_address": "xxx",
-    "mobile_primary": "+1-4169044907"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Moba EV Data Solutions",
-    "domain": "get-moba.com",
-    "description": "",
     "booth": "C17",
+    "description": "",
     "email": "support@preprod.get-moba.com",
-    "city": "Birmingham",
+    "mobile_primary": "08 90 10 93 91",
+    "domain": "https://get-moba.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": "08 90 10 93 91"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Moneypenny",
-    "domain": "moneypenny.com",
-    "description": "",
     "booth": "D14",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "03332021005",
+    "domain": "https://moneypenny.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": "03332021005"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "MotoNovo Finance",
-    "domain": "motonovofinance.com",
-    "description": "",
     "booth": "D32",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://motonovofinance.com",
     "full_address": "Two Central Square",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "MotorCheck",
-    "domain": "trade.motorcheck.co.uk",
-    "description": "",
     "booth": "P4",
+    "description": "",
     "email": "info@motorcheck.co.uk",
-    "city": "Birmingham",
+    "mobile_primary": "+443303310150",
+    "domain": "https://trade.motorcheck.co.uk",
     "full_address": "128 City Road",
-    "mobile_primary": "+443303310150"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "MotorDesk",
-    "domain": "motordesk.com",
-    "description": "",
     "booth": "A34",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+441473598100",
+    "domain": "https://motordesk.com",
     "full_address": "The Christies",
-    "mobile_primary": "+441473598100"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nexbotix",
-    "domain": "nexbotix.ai",
-    "description": "",
     "booth": "C2",
+    "description": "",
     "email": "info@nexbotix.com",
-    "city": "Birmingham",
+    "mobile_primary": "+442079770995",
+    "domain": "https://nexbotix.ai",
     "full_address": "International House",
-    "mobile_primary": "+442079770995"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Novaco",
-    "domain": "novaco.ai",
-    "description": "",
     "booth": "A4",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://novaco.ai",
     "full_address": "kent",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "PACT Enabled TecCom Eparts Distribution Ltd",
-    "domain": "pactenabled.co.uk",
-    "description": "",
     "booth": "A20",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "07484 053 522",
+    "domain": "https://pactenabled.co.uk",
     "full_address": "St Georges Court",
-    "mobile_primary": "07484 053 522"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Payit by Natwest with Prommt",
-    "domain": "payitbynatwest.com",
-    "description": "",
     "booth": "D24",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://payitbynatwest.com",
     "full_address": "250 Bishopsgate",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Payment Assist",
-    "domain": "payment-assist.co.uk",
-    "description": "",
     "booth": "A32",
+    "description": "",
     "email": "admin@payment-assist.co.uk",
-    "city": "Birmingham",
+    "mobile_primary": "08088084000",
+    "domain": "https://payment-assist.co.uk",
     "full_address": "Payment Assist Ltd",
-    "mobile_primary": "08088084000"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Phyron",
-    "domain": "phyron.com",
-    "description": "",
     "booth": "A6",
+    "description": "",
     "email": "sales@phyron.com",
-    "city": "Birmingham",
+    "mobile_primary": "+46(0)10-2229990",
+    "domain": "https://phyron.com",
     "full_address": "Stanmer House",
-    "mobile_primary": "+46(0)10-2229990"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pinewood.AI",
-    "domain": "pinewood.ai",
-    "description": "",
     "booth": "A1",
+    "description": "",
     "email": "pinewood@headlandconsultancy.com",
-    "city": "Birmingham",
+    "mobile_primary": "+441216976600",
+    "domain": "https://pinewood.ai",
     "full_address": "Blythe Valley Park",
-    "mobile_primary": "+441216976600"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pod",
-    "domain": "podenergy.com",
-    "description": "",
     "booth": "B24",
+    "description": "",
     "email": "press@pod-point.com",
-    "city": "Birmingham",
+    "mobile_primary": "02072474114",
+    "domain": "https://podenergy.com",
     "full_address": "Glasgow",
-    "mobile_primary": "02072474114"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Powerverse",
-    "domain": "fleetandmobilitylive.com",
-    "description": "",
     "booth": "P32",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://fleetandmobilitylive.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rallye Digital",
-    "domain": "rallyedigital.com",
-    "description": "",
     "booth": "A8",
+    "description": "",
     "email": "sales@rallyedigital.com",
-    "city": "Birmingham",
+    "mobile_primary": "+44(0) 1422 525432",
+    "domain": "https://rallyedigital.com",
     "full_address": "Elland Lane",
-    "mobile_primary": "+44(0) 1422 525432"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Reputation",
-    "domain": "reputation.com",
-    "description": "",
     "booth": "A38",
+    "description": "",
     "email": "support@reputation.com",
-    "city": "Birmingham",
+    "mobile_primary": "+498001819394",
+    "domain": "https://reputation.com",
     "full_address": "100 Old Hall Street",
-    "mobile_primary": "+498001819394"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Road Angel",
-    "domain": "roadangelgroup.com",
-    "description": "",
     "booth": "P1",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://roadangelgroup.com",
     "full_address": "Rani Drive",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "RS Wheels Refurbishment Ltd",
-    "domain": "rswheels.co.uk",
-    "description": "",
     "booth": "P80",
+    "description": "",
     "email": "info@rswheels.co.uk",
-    "city": "Birmingham",
+    "mobile_primary": "03301 247 666",
+    "domain": "https://rswheels.co.uk",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": "03301 247 666"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "SPM",
-    "domain": "spmltd-uk.com",
-    "description": "",
     "booth": "A40",
+    "description": "",
     "email": "sales@spmltd-uk.com",
-    "city": "Birmingham",
+    "mobile_primary": "01138330407",
+    "domain": "https://spmltd-uk.com",
     "full_address": "UNIT 11 kiln park",
-    "mobile_primary": "01138330407"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stripe",
-    "domain": "stripe.com",
-    "description": "",
     "booth": "D6",
+    "description": "",
     "email": "support@stripe.com",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://stripe.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "TekCor4",
-    "domain": "tekcor4.com",
-    "description": "",
     "booth": "B12",
+    "description": "",
     "email": "voicebox@tekcor4.com",
-    "city": "Birmingham",
+    "mobile_primary": "01727 733 800",
+    "domain": "https://tekcor4.com",
     "full_address": "Floor 2",
-    "mobile_primary": "01727 733 800"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tekion",
-    "domain": "go.tekion.com",
-    "description": "",
     "booth": "B20",
+    "description": "",
     "email": "sales@tekion.com",
-    "city": "Birmingham",
+    "mobile_primary": "833-835-4662",
+    "domain": "https://go.tekion.com",
     "full_address": "5 New Street Square",
-    "mobile_primary": "833-835-4662"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tennants",
-    "domain": "chemicalukexpo.com",
-    "description": "",
     "booth": "C16",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://chemicalukexpo.com",
     "full_address": "77 Duke Street",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tequila AI Limited",
-    "domain": "tequila-ai.com",
-    "description": "",
     "booth": "C20",
+    "description": "",
     "email": "info@tequila-ai.com",
-    "city": "Birmingham",
+    "mobile_primary": "+35620341539",
+    "domain": "https://tequila-ai.com",
     "full_address": "MEdia House",
-    "mobile_primary": "+35620341539"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Stock Vault",
-    "domain": "thestockvault.com",
-    "description": "",
     "booth": "D18",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://thestockvault.com",
     "full_address": "Leek Road",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tjekvik",
-    "domain": "tjekvik.com",
-    "description": "",
     "booth": "B6",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "0045%2053%2054%2063%2047",
+    "domain": "https://tjekvik.com",
     "full_address": "Kronprinsessegade 6, st.",
-    "mobile_primary": "0045%2053%2054%2063%2047"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Uk Credit Ratings",
-    "domain": "ukcreditratings.com",
-    "description": "",
     "booth": "D28",
+    "description": "",
     "email": "info@ukcreditratings.com",
-    "city": "Birmingham",
+    "mobile_primary": "0161 250 7700",
+    "domain": "https://ukcreditratings.com",
     "full_address": "Suite 606",
-    "mobile_primary": "0161 250 7700"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "UVeye",
-    "domain": "uveye.com",
-    "description": "",
     "booth": "D46",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "",
+    "domain": "https://uveye.com",
     "full_address": "500 Frank W Burr Boulevard",
-    "mobile_primary": ""
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Viova",
-    "domain": "viova.ai",
-    "description": "",
     "booth": "P8",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+18882315593",
+    "domain": "https://viova.ai",
     "full_address": "43 Merrion Square",
-    "mobile_primary": "+18882315593"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "Visitor Chat",
-    "domain": "visitor.chat",
-    "description": "",
     "booth": "A18",
+    "description": "",
     "email": "sales@visitor.chat",
-    "city": "Birmingham",
+    "mobile_primary": "+442382350130",
+    "domain": "https://visitor.chat",
     "full_address": "1000 Lakeside North Harbour",
-    "mobile_primary": "+442382350130"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "WALCU",
-    "domain": "walcu.com",
-    "description": "",
     "booth": "P79",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+34911981172",
+    "domain": "https://walcu.com",
     "full_address": "Birmingham, England, United Kingdom",
-    "mobile_primary": "+34911981172"
+    "city": "Birmingham",
+    "linkedin_url": ""
   }
 ]

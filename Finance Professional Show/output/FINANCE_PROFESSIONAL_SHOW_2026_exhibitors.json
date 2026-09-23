@@ -1,772 +1,849 @@
 [
   {
     "company_name": "4Syte",
-    "domain": "4syte.co.uk",
-    "description": "",
     "booth": "G3",
+    "description": "",
     "email": "info@4syte.co.uk",
-    "city": "",
+    "mobile_primary": "01245 377032",
+    "domain": "https://4syte.co.uk",
     "full_address": "",
-    "mobile_primary": "01245 377032"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Affirmative",
-    "domain": "affirmativefinance.co.uk",
-    "description": "",
     "booth": "F5",
+    "description": "",
     "email": "newbusiness@affirmative.co.uk",
-    "city": "",
+    "mobile_primary": "08000448484",
+    "domain": "https://affirmativefinance.co.uk",
     "full_address": "",
-    "mobile_primary": "08000448484"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Allica Bank",
-    "domain": "allica.bank",
-    "description": "",
     "booth": "B9",
+    "description": "",
     "email": "introducers@allica.bank",
-    "city": "",
+    "mobile_primary": "0330 094 3333",
+    "domain": "https://allica.bank",
     "full_address": "",
-    "mobile_primary": "0330 094 3333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Alternative Bridging Corporation",
-    "domain": "alternativebridging.co.uk",
-    "description": "",
     "booth": "E3",
+    "description": "",
     "email": "hello@alternativebridging.co.uk",
-    "city": "",
+    "mobile_primary": "020 8349 5190",
+    "domain": "https://alternativebridging.co.uk",
     "full_address": "",
-    "mobile_primary": "020 8349 5190"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ascot Bridging Finance",
-    "domain": "ascotbridgingfinance.co.uk",
-    "description": "",
     "booth": "C10",
+    "description": "",
     "email": "enquiries@ascotbridgingfinance.co.uk",
-    "city": "",
+    "mobile_primary": "01925 467170",
+    "domain": "https://ascotbridgingfinance.co.uk",
     "full_address": "",
-    "mobile_primary": "01925 467170"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aspen Bridging",
-    "domain": "aspenbridging.co.uk",
-    "description": "",
     "booth": "B3",
+    "description": "",
     "email": "enquiries@aspenbridging.co.uk",
-    "city": "",
+    "mobile_primary": "0845 318 0001",
+    "domain": "https://aspenbridging.co.uk",
     "full_address": "",
-    "mobile_primary": "0845 318 0001"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Avamore Capital",
-    "domain": "avamorecapital.com",
-    "description": "",
     "booth": "C1",
+    "description": "",
     "email": "enquiries@avamorecapital.com",
-    "city": "",
+    "mobile_primary": "+44 (0) 203 440 9651",
+    "domain": "https://avamorecapital.com",
     "full_address": "",
-    "mobile_primary": "+44 (0) 203 440 9651"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Belleveue Mortlakes",
-    "domain": "bmortlakes.com",
-    "description": "",
     "booth": "G2",
+    "description": "",
     "email": "property@bmortlakes.com",
-    "city": "",
+    "mobile_primary": "020 8367 9555",
+    "domain": "https://bmortlakes.com",
     "full_address": "",
-    "mobile_primary": "020 8367 9555"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Black & White Bridging",
-    "domain": "blackandwhitebridging.co.uk",
-    "description": "",
     "booth": "D6, B4, G6, G16 & H1",
+    "description": "",
     "email": "enquiries@nogreyareas.co.uk",
-    "city": "",
+    "mobile_primary": "0117 937 4333",
+    "domain": "https://blackandwhitebridging.co.uk",
     "full_address": "",
-    "mobile_primary": "0117 937 4333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blackfinch",
-    "domain": "blackfinchproperty.com",
-    "description": "",
     "booth": "E8",
+    "description": "",
     "email": "enquiries@blackfinch.com",
-    "city": "",
+    "mobile_primary": "01452 717070",
+    "domain": "https://blackfinchproperty.com",
     "full_address": "",
-    "mobile_primary": "01452 717070"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blacks Solicitors",
-    "domain": "lawblacks.com",
-    "description": "",
     "booth": "G4",
+    "description": "",
     "email": "hello@lawblacks.com",
-    "city": "",
+    "mobile_primary": "0113 207 0000",
+    "domain": "https://lawblacks.com",
     "full_address": "",
-    "mobile_primary": "0113 207 0000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bluecroft Finance",
-    "domain": "bluecroftfinance.com",
-    "description": "",
     "booth": "G7",
+    "description": "",
     "email": "enquiries@bluecroftfinance.com",
-    "city": "",
+    "mobile_primary": "01615046988",
+    "domain": "https://bluecroftfinance.com",
     "full_address": "",
-    "mobile_primary": "01615046988"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bridge Invest",
-    "domain": "bridgeinvest.co.uk",
-    "description": "",
     "booth": "G15",
+    "description": "",
     "email": "info@bridgeinvest.co.uk",
-    "city": "",
+    "mobile_primary": "+44 (0) 207 305 5575",
+    "domain": "https://bridgeinvest.co.uk",
     "full_address": "",
-    "mobile_primary": "+44 (0) 207 305 5575"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cambridge & Counties Bank",
-    "domain": "ccbank.co.uk",
-    "description": "",
     "booth": "H8",
+    "description": "",
     "email": "info@ccbank.co.uk",
-    "city": "",
+    "mobile_primary": "0344 225 3939",
+    "domain": "https://ccbank.co.uk",
     "full_address": "",
-    "mobile_primary": "0344 225 3939"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Capital Rise",
-    "domain": "capitalrise.com",
-    "description": "",
     "booth": "E9",
+    "description": "",
     "email": "customercare@capitalrise.com",
-    "city": "",
+    "mobile_primary": "0203 869 2620",
+    "domain": "https://capitalrise.com",
     "full_address": "18 Coulson Street, Chelsea, London, SW3 3NB, United Kingdom",
-    "mobile_primary": "0203 869 2620"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Chestnut Finance",
-    "domain": "chestnutfinance.co.uk",
-    "description": "",
     "booth": "G5",
+    "description": "",
     "email": "info@chestnutfinance.co.uk",
-    "city": "",
+    "mobile_primary": "01274 724 893",
+    "domain": "https://chestnutfinance.co.uk",
     "full_address": "",
-    "mobile_primary": "01274 724 893"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cohort Capital",
-    "domain": "cohortcapital.com",
-    "description": "",
     "booth": "C9",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44 (0) 20 7659 4403",
+    "domain": "https://cohortcapital.com",
     "full_address": "",
-    "mobile_primary": "+44 (0) 20 7659 4403"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Colenko",
-    "domain": "colenko.com",
-    "description": "",
     "booth": "A3",
+    "description": "",
     "email": "enquiries@colenko.com",
-    "city": "",
+    "mobile_primary": "020 3920 6150",
+    "domain": "https://colenko.com",
     "full_address": "",
-    "mobile_primary": "020 3920 6150"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "CSBF Capital Partners Ltd",
-    "domain": "csbf.co.uk",
-    "description": "",
     "booth": "H7",
+    "description": "",
     "email": "enquiries@csbf.co.uk",
-    "city": "",
+    "mobile_primary": "020 7616 6608",
+    "domain": "https://csbf.co.uk",
     "full_address": "",
-    "mobile_primary": "020 7616 6608"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EC Lending",
-    "domain": "ec-lending.com",
-    "description": "",
     "booth": "G8",
+    "description": "",
     "email": "enquiries@ec-lending.com",
-    "city": "",
+    "mobile_primary": "(+44) 204-635-5015",
+    "domain": "https://ec-lending.com",
     "full_address": "",
-    "mobile_primary": "(+44) 204-635-5015"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fairbridge Capital",
-    "domain": "fairbridgecapital.co.uk",
-    "description": "",
     "booth": "B2",
+    "description": "",
     "email": "enquiries@fairbridgecapital.co.uk",
-    "city": "",
+    "mobile_primary": "01474 550 295",
+    "domain": "https://fairbridgecapital.co.uk",
     "full_address": "",
-    "mobile_primary": "01474 550 295"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FOLK2FOLK",
-    "domain": "folk2folk.com",
-    "description": "",
     "booth": "Deal Desks",
+    "description": "",
     "email": "enquiries@folk2folk.com",
-    "city": "",
+    "mobile_primary": "01566 773296",
+    "domain": "https://folk2folk.com",
     "full_address": "",
-    "mobile_primary": "01566 773296"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GB Bank",
-    "domain": "gbbank.co.uk",
-    "description": "",
     "booth": "B1",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "08081642111",
+    "domain": "https://gbbank.co.uk",
     "full_address": "",
-    "mobile_primary": "08081642111"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Glenhawk",
-    "domain": "glenhawk.com",
-    "description": "",
     "booth": "C3",
+    "description": "",
     "email": "lendingteam@glenhawk.com",
-    "city": "",
+    "mobile_primary": "0207 100 8787",
+    "domain": "https://glenhawk.com",
     "full_address": "",
-    "mobile_primary": "0207 100 8787"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Goldentree Financial Services",
-    "domain": "goldentreefs.co.uk",
-    "description": "",
     "booth": "C11",
+    "description": "",
     "email": "Info@goldentreefs.co.uk",
-    "city": "",
+    "mobile_primary": "01925 846420",
+    "domain": "https://goldentreefs.co.uk",
     "full_address": "",
-    "mobile_primary": "01925 846420"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hampshire Trust Bank",
-    "domain": "htb.co.uk",
-    "description": "",
     "booth": "D1",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "020 7862 6222",
+    "domain": "https://htb.co.uk",
     "full_address": "",
-    "mobile_primary": "020 7862 6222"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hope Capital",
-    "domain": "hope-capital.co.uk",
-    "description": "",
     "booth": "E15",
+    "description": "",
     "email": "hello@hope-capital.co.uk",
-    "city": "",
+    "mobile_primary": "0151%20523%205998",
+    "domain": "https://hope-capital.co.uk",
     "full_address": "",
-    "mobile_primary": "0151%20523%205998"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HSBC",
-    "domain": "hsbc.co.uk",
-    "description": "",
     "booth": "H4",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "03457404404",
+    "domain": "https://hsbc.co.uk",
     "full_address": "",
-    "mobile_primary": "03457404404"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "In Partnership",
-    "domain": "inpartnership.net",
-    "description": "",
     "booth": "E11",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44 (01403) 214 200",
+    "domain": "https://inpartnership.net",
     "full_address": "50 North Parade Horsham, England, RH12 2TB United Kingdom",
-    "mobile_primary": "+44 (01403) 214 200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Inspired Lending",
-    "domain": "inspiredlending.co.uk",
-    "description": "",
     "booth": "F6",
+    "description": "",
     "email": "enquiries@inspiredlending.co.uk",
-    "city": "",
+    "mobile_primary": "+442074336390",
+    "domain": "https://inspiredlending.co.uk",
     "full_address": "",
-    "mobile_primary": "+442074336390"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Invocap",
-    "domain": "invocap.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@invocap.com",
-    "city": "",
+    "mobile_primary": "020-3637-8803",
+    "domain": "https://invocap.com",
     "full_address": "",
-    "mobile_primary": "020-3637-8803"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Joelson Law",
-    "domain": "joelsonlaw.com",
-    "description": "",
     "booth": "C2",
+    "description": "",
     "email": "hello@joelsonlaw.com",
-    "city": "",
+    "mobile_primary": "+44 (0)20 7580 5721",
+    "domain": "https://joelsonlaw.com",
     "full_address": "",
-    "mobile_primary": "+44 (0)20 7580 5721"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Keystone Property Finance",
-    "domain": "keystonepropertyfinance.co.uk",
-    "description": "",
     "booth": "F4",
+    "description": "",
     "email": "servicingteam@keystonepropertyfinance.co.uk",
-    "city": "",
+    "mobile_primary": "0345 350 3696",
+    "domain": "https://keystonepropertyfinance.co.uk",
     "full_address": "",
-    "mobile_primary": "0345 350 3696"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KSEYE",
-    "domain": "kseye.co.uk",
-    "description": "",
     "booth": "E14",
+    "description": "",
     "email": "enquiries@kseye.co.uk",
-    "city": "",
+    "mobile_primary": "020 8909 0736",
+    "domain": "https://kseye.co.uk",
     "full_address": "",
-    "mobile_primary": "020 8909 0736"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lakesheild",
-    "domain": "lakeshield.com",
-    "description": "",
     "booth": "H5",
+    "description": "",
     "email": "enquiries@lakeshield.com",
-    "city": "",
+    "mobile_primary": "0203 633 2882",
+    "domain": "https://lakeshield.com",
     "full_address": "",
-    "mobile_primary": "0203 633 2882"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lansdowne Law",
-    "domain": "lansdownelaw.co.uk",
-    "description": "",
     "booth": "G9",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0207 362 6120",
+    "domain": "https://lansdownelaw.co.uk",
     "full_address": "",
-    "mobile_primary": "0207 362 6120"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lendco",
-    "domain": "lendco.co.uk",
-    "description": "",
     "booth": "H11",
+    "description": "",
     "email": "bpike@lendco.co.uk",
-    "city": "",
+    "mobile_primary": "0333 414 1495",
+    "domain": "https://lendco.co.uk",
     "full_address": "",
-    "mobile_primary": "0333 414 1495"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lendhub",
-    "domain": "lendhub.co.uk",
-    "description": "",
     "booth": "D3",
+    "description": "",
     "email": "borrow@lendhub.co.uk",
-    "city": "",
+    "mobile_primary": "+442036571900",
+    "domain": "https://lendhub.co.uk",
     "full_address": "",
-    "mobile_primary": "+442036571900"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lendinvest",
-    "domain": "lendinvest.com",
-    "description": "",
     "booth": "H3",
+    "description": "",
     "email": "enquiries@lendinvest.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lendinvest.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "London Credit",
-    "domain": "londoncredit.com",
-    "description": "",
     "booth": "B14",
+    "description": "",
     "email": "info@londoncredit.com",
-    "city": "",
+    "mobile_primary": "+44 (0) 2086 101 607",
+    "domain": "https://londoncredit.com",
     "full_address": "",
-    "mobile_primary": "+44 (0) 2086 101 607"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "M Stars Programme",
-    "domain": "mstars.co.uk",
-    "description": "",
     "booth": "E2",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://mstars.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Masthaven",
-    "domain": "masthaven.co.uk",
-    "description": "",
     "booth": "D4",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "020 3910 8700",
+    "domain": "https://masthaven.co.uk",
     "full_address": "",
-    "mobile_primary": "020 3910 8700"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Medianett Publishing",
-    "domain": "medianettpublishing.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mo@medianett.co.uk",
-    "city": "",
+    "mobile_primary": "0203 818 0165",
+    "domain": "https://medianettpublishing.com",
     "full_address": "",
-    "mobile_primary": "0203 818 0165"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mercantile Trust",
-    "domain": "mercantiletrust.co.uk",
-    "description": "",
     "booth": "H6",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0800 032 3737",
+    "domain": "https://mercantiletrust.co.uk",
     "full_address": "Building 2, Axis, Rhodes Way, Watford, Hertfordshire, WD24 4YW, GB",
-    "mobile_primary": "0800 032 3737"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mint Property Finance",
-    "domain": "mintpropertyfinance.co.uk",
-    "description": "",
     "booth": "H2",
+    "description": "",
     "email": "hello@mintpf.co.uk",
-    "city": "",
+    "mobile_primary": "0161 710 2006",
+    "domain": "https://mintpropertyfinance.co.uk",
     "full_address": "",
-    "mobile_primary": "0161 710 2006"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Morpheus Lending",
-    "domain": "morpheuslending.co.uk",
-    "description": "",
     "booth": "E18",
+    "description": "",
     "email": "info@morpheuslending.co.uk",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://morpheuslending.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MS Lending Group",
-    "domain": "mslendinggroup.co.uk",
-    "description": "",
     "booth": "Breakfast Area",
+    "description": "",
     "email": "enquiries@mslendinggroup.co.uk",
-    "city": "",
+    "mobile_primary": "0161 823 7993",
+    "domain": "https://mslendinggroup.co.uk",
     "full_address": "Sandfield House, Water Lane, Wilmslow, Cheshire, SK9 5AR, GB",
-    "mobile_primary": "0161 823 7993"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MT Finance",
-    "domain": "mt-finance.com",
-    "description": "",
     "booth": "A2",
+    "description": "",
     "email": "enquiries@mt-finance.com",
-    "city": "",
+    "mobile_primary": "020 3051 2331",
+    "domain": "https://mt-finance.com",
     "full_address": "",
-    "mobile_primary": "020 3051 2331"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nationwide Finance",
-    "domain": "nationwidefinance.co.uk",
-    "description": "",
     "booth": "H9",
+    "description": "",
     "email": "hello@nationwidefinance.co.uk",
-    "city": "",
+    "mobile_primary": "01234 240 155",
+    "domain": "https://nationwidefinance.co.uk",
     "full_address": "GB",
-    "mobile_primary": "01234 240 155"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Natwest",
-    "domain": "natwest.com",
-    "description": "",
     "booth": "G12",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://natwest.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nomo Bank",
-    "domain": "nomobank.com",
-    "description": "",
     "booth": "E6",
+    "description": "",
     "email": "support@nomobank.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://nomobank.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Octane Capital",
-    "domain": "octanecapital.co.uk",
-    "description": "",
     "booth": "D2",
+    "description": "",
     "email": "deals@octanecapital.co.uk",
-    "city": "",
+    "mobile_primary": "0345 222 9009",
+    "domain": "https://octanecapital.co.uk",
     "full_address": "",
-    "mobile_primary": "0345 222 9009"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Octopus Real Estate",
-    "domain": "octopus-capital.com",
-    "description": "",
     "booth": "A1",
+    "description": "",
     "email": "lending@octopus-capital.com",
-    "city": "",
+    "mobile_primary": "0800 294 6850",
+    "domain": "https://octopus-capital.com",
     "full_address": "",
-    "mobile_primary": "0800 294 6850"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ortus Secured Finance",
-    "domain": "ortussecuredfinance.co.uk",
-    "description": "",
     "booth": "B10",
+    "description": "",
     "email": "enquiries@ortussecuredfinance.co.uk",
-    "city": "",
+    "mobile_primary": "020 3637 5056",
+    "domain": "https://ortussecuredfinance.co.uk",
     "full_address": "",
-    "mobile_primary": "020 3637 5056"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OSB Group",
-    "domain": "osb.co.uk",
-    "description": "",
     "booth": "B11",
+    "description": "",
     "email": "mail@osb.co.uk",
-    "city": "",
+    "mobile_primary": "+44 (0) 163 484 8944",
+    "domain": "https://osb.co.uk",
     "full_address": "",
-    "mobile_primary": "+44 (0) 163 484 8944"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pallas Capital",
-    "domain": "pallascapital.com.au",
-    "description": "",
     "booth": "B5",
+    "description": "",
     "email": "clientservices@pallascapital.com.au",
-    "city": "",
+    "mobile_primary": "0281881108",
+    "domain": "https://pallascapital.com.au",
     "full_address": "",
-    "mobile_primary": "0281881108"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pluto Finance",
-    "domain": "pluto-finance.com",
-    "description": "",
     "booth": "F3",
+    "description": "",
     "email": "info@pluto-finance.com",
-    "city": "",
+    "mobile_primary": "020 7442 2100",
+    "domain": "https://pluto-finance.com",
     "full_address": "15-16 Buckingham Street, London, WC2N 6DU",
-    "mobile_primary": "020 7442 2100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pontis Finance",
-    "domain": "pontisfinance.com",
-    "description": "",
     "booth": "F7",
+    "description": "",
     "email": "contact@pontisfinance.com",
-    "city": "",
+    "mobile_primary": "+44 (0) 207 101 4126",
+    "domain": "https://pontisfinance.com",
     "full_address": "",
-    "mobile_primary": "+44 (0) 207 101 4126"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Proplend",
-    "domain": "proplend.com",
-    "description": "",
     "booth": "E16",
+    "description": "",
     "email": "admin@proplend.com",
-    "city": "",
+    "mobile_primary": "0203 951 7970",
+    "domain": "https://proplend.com",
     "full_address": "",
-    "mobile_primary": "0203 951 7970"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Quantum Mortgages",
-    "domain": "quantummortgages.co.uk",
-    "description": "",
     "booth": "H10",
+    "description": "",
     "email": "zouhair.m@quantummortgages.co.uk",
-    "city": "",
+    "mobile_primary": "07904892109",
+    "domain": "https://quantummortgages.co.uk",
     "full_address": "",
-    "mobile_primary": "07904892109"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Recognise Bank",
-    "domain": "recognisebank.co.uk",
-    "description": "",
     "booth": "C12",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://recognisebank.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Reim Capital",
-    "domain": "reimcapital.com",
-    "description": "",
     "booth": "C5",
+    "description": "",
     "email": "info@reimcapital.com",
-    "city": "",
+    "mobile_primary": "0203 488 4913",
+    "domain": "https://reimcapital.com",
     "full_address": "",
-    "mobile_primary": "0203 488 4913"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Roma Finance",
-    "domain": "romafinance.co.uk",
-    "description": "",
     "booth": "E1",
+    "description": "",
     "email": "enquiries@romafinance.co.uk",
-    "city": "",
+    "mobile_primary": "01618177480",
+    "domain": "https://romafinance.co.uk",
     "full_address": "",
-    "mobile_primary": "01618177480"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Salboy Capital",
-    "domain": "salboy.com",
-    "description": "",
     "booth": "C7",
+    "description": "",
     "email": "info@salboy.co.uk",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://salboy.com",
     "full_address": "Unit 2 Block C, 14 Hulme Street, Salford, Greater Manchester, M5 4ZG, United Kingdom",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SC&W",
-    "domain": "scwlegal.co.uk",
-    "description": "",
     "booth": "Network Cafe",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://scwlegal.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Scotlend Group",
-    "domain": "scotlendgroup.co.uk",
-    "description": "",
     "booth": "C6",
+    "description": "",
     "email": "info@scotlendgroup.co.uk",
-    "city": "",
+    "mobile_primary": "0131 2973775",
+    "domain": "https://scotlendgroup.co.uk",
     "full_address": "",
-    "mobile_primary": "0131 2973775"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Shelley Capital Management",
-    "domain": "shelleycapitalmanagement.com",
-    "description": "",
     "booth": "E10",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "020 3817 7720",
+    "domain": "https://shelleycapitalmanagement.com",
     "full_address": "Kenwood House, 77a Shenley Road, Borehamwood, WD6 1AG",
-    "mobile_primary": "020 3817 7720"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Somo",
-    "domain": "somo.co.uk",
-    "description": "",
     "booth": "G1",
+    "description": "",
     "email": "borrowers@somo.co.uk",
-    "city": "",
+    "mobile_primary": "0161 312 5656",
+    "domain": "https://somo.co.uk",
     "full_address": "Barrington Road, Altrincham, ENG, WA14 1JY, GB",
-    "mobile_primary": "0161 312 5656"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Streambank",
-    "domain": "streambank.co.uk",
-    "description": "",
     "booth": "C4",
+    "description": "",
     "email": "customercare@streambank.co.uk",
-    "city": "",
+    "mobile_primary": "02039734788C",
+    "domain": "https://streambank.co.uk",
     "full_address": "",
-    "mobile_primary": "02039734788C"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TAB",
-    "domain": "tabhq.com",
-    "description": "",
     "booth": "G14",
+    "description": "",
     "email": "enquiries@tabhq.com",
-    "city": "",
+    "mobile_primary": "02080579070",
+    "domain": "https://tabhq.com",
     "full_address": "TAB, Regent House, Theobald Street, Borehamwood, WD6 4RS, United Kingdom",
-    "mobile_primary": "02080579070"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Together",
-    "domain": "togethermoney.com",
-    "description": "",
     "booth": "E5",
+    "description": "",
     "email": "press.office@togethermoney.com",
-    "city": "",
+    "mobile_primary": "01619563229",
+    "domain": "https://togethermoney.com",
     "full_address": "Lake View, Lakeside, Cheadle, SK8 3GW, UK",
-    "mobile_primary": "01619563229"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tradelend",
-    "domain": "tradelend.com",
-    "description": "",
     "booth": "E2",
+    "description": "",
     "email": "info@tradelend.com",
-    "city": "",
+    "mobile_primary": "+442038862530",
+    "domain": "https://tradelend.com",
     "full_address": "",
-    "mobile_primary": "+442038862530"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "United Trust Bank",
-    "domain": "utbank.co.uk",
-    "description": "",
     "booth": "B15",
+    "description": "",
     "email": "hello@utbank.co.uk",
-    "city": "",
+    "mobile_primary": "020 7190 5555",
+    "domain": "https://utbank.co.uk",
     "full_address": "",
-    "mobile_primary": "020 7190 5555"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Velocity Bridging",
-    "domain": "velocitybridging.com",
-    "description": "",
     "booth": "F1",
+    "description": "",
     "email": "info@velocitybridging.com",
-    "city": "",
+    "mobile_primary": "01704339588",
+    "domain": "https://velocitybridging.com",
     "full_address": "",
-    "mobile_primary": "01704339588"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "West One Loans",
-    "domain": "westoneloans.co.uk",
-    "description": "",
     "booth": "B16",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+443331234556",
+    "domain": "https://westoneloans.co.uk",
     "full_address": "",
-    "mobile_primary": "+443331234556"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wey Bridging Finance",
-    "domain": "weybridging.com",
-    "description": "",
     "booth": "E7",
+    "description": "",
     "email": "enquiries@weybridging.com",
-    "city": "",
+    "mobile_primary": "01932 901 442",
+    "domain": "https://weybridging.com",
     "full_address": "",
-    "mobile_primary": "01932 901 442"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Whitehall Lending",
-    "domain": "whitehalllending.com",
-    "description": "",
     "booth": "E4",
+    "description": "",
     "email": "info@whitehalllending.com",
-    "city": "",
+    "mobile_primary": "+442030267437",
+    "domain": "https://whitehalllending.com",
     "full_address": "",
-    "mobile_primary": "+442030267437"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

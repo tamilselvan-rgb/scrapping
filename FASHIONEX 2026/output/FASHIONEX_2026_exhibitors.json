@@ -1,212 +1,233 @@
 [
   {
     "company_name": "ACQUAMARINE FASHION",
-    "domain": "acquamarinefashion.com",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "info@acquamarinefashion.com",
-    "city": "Minori",
+    "mobile_primary": "+39 089 853840",
+    "domain": "https://acquamarinefashion.com",
     "full_address": "Via Roma, 73",
-    "mobile_primary": "+39 089 853840"
+    "city": "Minori",
+    "linkedin_url": ""
   },
   {
     "company_name": "BIANCO' - GRANDI FRANCESCO",
-    "domain": "",
-    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "booth": "",
+    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "email": "francescograndi61@gmail.com",
-    "city": "Via Castefidardo Carpi",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Via Castefidardo Carpi",
+    "linkedin_url": ""
   },
   {
     "company_name": "DENIS",
-    "domain": "denissrl.com",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "amministrazione@denissrl.com",
-    "city": "A Verona",
+    "mobile_primary": "+39 045 81510233",
+    "domain": "https://denissrl.com",
     "full_address": "Via Ottazio Caccia, 17/",
-    "mobile_primary": "+39 045 81510233"
+    "city": "A Verona",
+    "linkedin_url": ""
   },
   {
     "company_name": "ELISABETTA MINELLI",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "info@smgroupsrl.it",
-    "city": "Cognento",
+    "mobile_primary": "+39 059 821030",
+    "domain": "",
     "full_address": "Via Campagna, 6",
-    "mobile_primary": "+39 059 821030"
+    "city": "Cognento",
+    "linkedin_url": ""
   },
   {
     "company_name": "EMMEGI 2",
-    "domain": "",
-    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "booth": "",
+    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "email": "amministrazione@emmegi2.com",
-    "city": "Vergiate",
+    "mobile_primary": "+39 0331 964150",
+    "domain": "",
     "full_address": "Strada Statale del Sempione, 39",
-    "mobile_primary": "+39 0331 964150"
+    "city": "Vergiate",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gironacci",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "gironaccimanifatturesrls@gmail.com",
-    "city": "Civitanova Marche",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Contrada Cavallino, 47",
-    "mobile_primary": ""
+    "city": "Civitanova Marche",
+    "linkedin_url": ""
   },
   {
     "company_name": "GISELLA M",
-    "domain": "gilsrl.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "ufficioacquisti@gilsrl.it",
-    "city": "Carpi",
+    "mobile_primary": "+39 059 696080",
+    "domain": "https://gilsrl.it",
     "full_address": "Via della Meccanica, 5/7",
-    "mobile_primary": "+39 059 696080"
+    "city": "Carpi",
+    "linkedin_url": ""
   },
   {
     "company_name": "HADAMORGANA",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "veronica@maglificiotreci.it",
-    "city": "Castelnuovo Rangone",
+    "mobile_primary": "+39 059 530658",
+    "domain": "",
     "full_address": "Via Lazio 5",
-    "mobile_primary": "+39 059 530658"
+    "city": "Castelnuovo Rangone",
+    "linkedin_url": ""
   },
   {
     "company_name": "IL TRIFOGLIO",
-    "domain": "confezionitrifoglio.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "info@confezionitrifoglio.it",
-    "city": "Nogarole Rocca",
+    "mobile_primary": "+39 045 6395086",
+    "domain": "https://confezionitrifoglio.it",
     "full_address": "Via dell'artigianato, 14-16",
-    "mobile_primary": "+39 045 6395086"
+    "city": "Nogarole Rocca",
+    "linkedin_url": ""
   },
   {
     "company_name": "INCONTRO",
-    "domain": "amethist.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "amministrazione@inmodasrl.it",
-    "city": "Camposanpiero",
+    "mobile_primary": "+39 049 9302554",
+    "domain": "https://amethist.it",
     "full_address": "Via Vivaldi, 1",
-    "mobile_primary": "+39 049 9302554"
+    "city": "Camposanpiero",
+    "linkedin_url": ""
   },
   {
     "company_name": "LEA BRUNI/ELGI",
-    "domain": "leabruni.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "terconf@terconf.it",
-    "city": "Campli",
+    "mobile_primary": "+39 0861 553907",
+    "domain": "https://leabruni.it",
     "full_address": "Via Primo Riccitelli, 2 -",
-    "mobile_primary": "+39 0861 553907"
+    "city": "Campli",
+    "linkedin_url": ""
   },
   {
     "company_name": "PIONEER - IMMAGINE",
-    "domain": "confezionipioneer.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "info@confezionipioneer.it",
-    "city": "Nogarole Rocca",
+    "mobile_primary": "+39 045 7920100",
+    "domain": "https://confezionipioneer.it",
     "full_address": "Via Canton, 9 -",
-    "mobile_primary": "+39 045 7920100"
+    "city": "Nogarole Rocca",
+    "linkedin_url": ""
   },
   {
     "company_name": "POUR MOI MAGLIERIA ITALIANA",
-    "domain": "pourmoi.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "pourmoisrls@gmail.com",
-    "city": "Casamassima",
+    "mobile_primary": "+39 080 4578341",
+    "domain": "https://pourmoi.it",
     "full_address": "SS 100 km 17 -",
-    "mobile_primary": "+39 080 4578341"
+    "city": "Casamassima",
+    "linkedin_url": ""
   },
   {
     "company_name": "QUASAR",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "confezioniquasar@interfree.it",
-    "city": "Via Toscana Carpi",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Via Toscana Carpi",
+    "linkedin_url": ""
   },
   {
     "company_name": "SALVALAGLIO CONFEZIONI",
-    "domain": "confezionisalvalaglio.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "salvalagliosales@gmail.com",
-    "city": "San Martino in Strada",
+    "mobile_primary": "+39 0371/79131",
+    "domain": "https://confezionisalvalaglio.it",
     "full_address": "Via Agenlli, 32",
-    "mobile_primary": "+39 0371/79131"
+    "city": "San Martino in Strada",
+    "linkedin_url": ""
   },
   {
     "company_name": "SCENARIO",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "manuel@labiancaconfezioni.it",
-    "city": "Via Generale Zamboni Castelnuovo del Garda",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Via Generale Zamboni Castelnuovo del Garda",
+    "linkedin_url": ""
   },
   {
     "company_name": "SIXSTOP",
-    "domain": "",
-    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "booth": "",
+    "description": "The production of women's knitwear stands out for its meticulous selection of yarns, craftsmanship attention to detail, and ongoing pursuit of innovative designs that cater to the tastes and needs of the female audience.",
     "email": "sisxstop@hotmail.it",
-    "city": "San Giuseppe Vesuviano",
+    "mobile_primary": "+39 081 8283758",
+    "domain": "",
     "full_address": "Via Traversa Cupa, 12",
-    "mobile_primary": "+39 081 8283758"
+    "city": "San Giuseppe Vesuviano",
+    "linkedin_url": ""
   },
   {
     "company_name": "SOSSI",
-    "domain": "",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "martinysossy@gmail.com",
-    "city": "Brescia",
+    "mobile_primary": "+39 030 3541760",
+    "domain": "",
     "full_address": "Via Vergnano, 111",
-    "mobile_primary": "+39 030 3541760"
+    "city": "Brescia",
+    "linkedin_url": ""
   },
   {
     "company_name": "VEZZO",
-    "domain": "vezzoitalia.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "info@vezzoitalia.it",
-    "city": "Modugno",
+    "mobile_primary": "+39 080 5315637",
+    "domain": "https://vezzoitalia.it",
     "full_address": "Via dei Gigli, 13/15 -",
-    "mobile_primary": "+39 080 5315637"
+    "city": "Modugno",
+    "linkedin_url": ""
   },
   {
     "company_name": "VLT's by Valentina'S",
-    "domain": "valentina.it",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "estero@daniconfezioni.it",
-    "city": "Pistoia",
+    "mobile_primary": "+39 0573 705332",
+    "domain": "https://valentina.it",
     "full_address": "Via Nardi, 192",
-    "mobile_primary": "+39 0573 705332"
+    "city": "Pistoia",
+    "linkedin_url": ""
   },
   {
     "company_name": "WALMODE",
-    "domain": "walmode.com",
-    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "booth": "",
+    "description": "The women's clothing business is characterised by a constant commitment to quality materials, original designs and a constant search for the latest trends in women's fashion.",
     "email": "michela@walmode.com",
-    "city": "Bussolengo",
+    "mobile_primary": "+39 045 7152976",
+    "domain": "https://walmode.com",
     "full_address": "Via Pastrengo, 52/4 -",
-    "mobile_primary": "+39 045 7152976"
+    "city": "Bussolengo",
+    "linkedin_url": ""
   }
 ]

@@ -1,902 +1,992 @@
 [
   {
     "company_name": "Agrotec Südost",
-    "domain": "amsuisse.ch",
-    "description": "Training and career areas: Baumaschinenmechaniker/in EFZ; Landmaschinenmechaniker/in EFZ; Motorgerätemechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Baumaschinenmechaniker/in EFZ; Landmaschinenmechaniker/in EFZ; Motorgerätemechaniker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://amsuisse.ch",
     "full_address": "Agrotec Südost, Bildungscenter Landtechnik Kantonsstrasse 17 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amt für Berufsbildung, Berufs-, Studien- und Laufbahnberatung",
-    "domain": "gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.ch",
     "full_address": "Grabenstrasse 1 7001 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amt für Höhere Bildung",
-    "domain": "campus-graubuenden.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "Grabenstrasse 1 7001 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amt für Wald und Naturgefahren GR",
-    "domain": "",
-    "description": "Training and career areas: Forstpraktiker/in EBA; Forstwart/in EFZ; Dipl. Förster/-in HF; Forstmaschinenführer/-in mit eidg. FA; Forstwart-Gruppenleiter/in; Forstwart-Vorarbeiter/-in mit eidg. FA; Seilkran-Einsatzleiter/-in mit eidg. FA",
     "booth": "",
+    "description": "Training and career areas: Forstpraktiker/in EBA; Forstwart/in EFZ; Dipl. Förster/-in HF; Forstmaschinenführer/-in mit eidg. FA; Forstwart-Gruppenleiter/in; Forstwart-Vorarbeiter/-in mit eidg. FA; Seilkran-Einsatzleiter/-in mit eidg. FA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Amt für Wald und Naturgefahren GR Ringstrasse 10 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ASTAG Sektion Graubünden",
-    "domain": "astag-gr.ch",
-    "description": "Training and career areas: Entwässerungspraktiker/in EBA; Entwässerungstechnologe/-login EFZ; Kaufmann/-frau EFZ; Strassentransportfachmann/-frau EFZ; Strassentransportpraktiker/in EBA; Betriebsleiter/-in Transport und Logistik mit eidg. Diplom; Disponent/-in Transport & Logistik",
     "booth": "",
+    "description": "Training and career areas: Entwässerungspraktiker/in EBA; Entwässerungstechnologe/-login EFZ; Kaufmann/-frau EFZ; Strassentransportfachmann/-frau EFZ; Strassentransportpraktiker/in EBA; Betriebsleiter/-in Transport und Logistik mit eidg. Diplom; Disponent/-in Transport & Logistik",
     "email": "kohler@gewerbe-gr.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://astag-gr.ch",
     "full_address": "ASTAG Sektion Graubünden Hinterm Bach 40 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ausbildungen für Jugendliche mit Unterstützungsbedarf",
-    "domain": "casa-depuoz.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@casa-depuoz.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://casa-depuoz.ch",
     "full_address": "Casa Depuoz Via Crap Gries 1 7166 Trun",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Auto Gewerbe Verband Schweiz Sektion Graubünden",
-    "domain": "agvs-gr.ch",
-    "description": "Training and career areas: Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Kaufmann/-frau EFZ; Automobil Serviceberater/in mit eidg. Fachausweis (BP); Automobil-Verkaufsberater/in mit eidg. Fachausweis (BP); Automobil-Werkstattkoordinator/in mit eidg. Fachausweis (BP); Automobildiagnostiker/-in mit eidg. FA; Betriebswirt/in im Automobilgewerbe, dipl. (HFP); Fahrzeugrestaurator/in mit eidg. Fachausweis (BP); Strassenhelfer/in mit eidg. Fachausweis (BP)",
     "booth": "",
+    "description": "Training and career areas: Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Kaufmann/-frau EFZ; Automobil Serviceberater/in mit eidg. Fachausweis (BP); Automobil-Verkaufsberater/in mit eidg. Fachausweis (BP); Automobil-Werkstattkoordinator/in mit eidg. Fachausweis (BP); Automobildiagnostiker/-in mit eidg. FA; Betriebswirt/in im Automobilgewerbe, dipl. (HFP); Fahrzeugrestaurator/in mit eidg. Fachausweis (BP); Strassenhelfer/in mit eidg. Fachausweis (BP)",
     "email": "",
-    "city": "",
+    "mobile_primary": "+410812570321",
+    "domain": "https://agvs-gr.ch",
     "full_address": "Auto Gewerbe Verband Schweiz Sektion Graubünden Hinterm Bach 40 7000 Chur",
-    "mobile_primary": "+410812570321"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bauplaner Graubünden",
-    "domain": "bauplaner-gr.ch",
-    "description": "Training and career areas: Zeichner/in EFZ; Bauingenieurwesen FH / ETH, Bachelor of Science BSc",
     "booth": "",
+    "description": "Training and career areas: Zeichner/in EFZ; Bauingenieurwesen FH / ETH, Bachelor of Science BSc",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bauplaner-gr.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bergbahnen Graubünden",
-    "domain": "seilbahnen.org",
-    "description": "Training and career areas: Seilbahn-Mechatroniker/in EFZ; Seilbahner/in EBA; Fachmann/-frau Pisten-/Rettungsdienst mit eidg. Fachausweis (BP); Seilbahnfachmann/-frau mit eidg. Fachausweis (BP); Seilbahnmanager/in (HFP)",
     "booth": "",
+    "description": "Training and career areas: Seilbahn-Mechatroniker/in EFZ; Seilbahner/in EBA; Fachmann/-frau Pisten-/Rettungsdienst mit eidg. Fachausweis (BP); Seilbahnfachmann/-frau mit eidg. Fachausweis (BP); Seilbahnmanager/in (HFP)",
     "email": "info@seilbahnen.org",
-    "city": "",
+    "mobile_primary": "+41 31 350 43 43",
+    "domain": "https://seilbahnen.org",
     "full_address": "Bergbahnen Graubünden Postfach 17 7083 Lantsch/Lenz",
-    "mobile_primary": "+41 31 350 43 43"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BERUFE HOTEL GASTRO",
-    "domain": "hotelgastro.ch",
-    "description": "Training and career areas: Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Hotel-Kommunikationsfachmann/-frau EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Praktiker/in Hotellerie-Hauswirtschaft EBA; Restaurantangestellte/r EBA; Restaurantfachmann/-frau EFZ; Systemgastronomiefachmann/-frau EFZ; Systemgastronomiepraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Hotel-Kommunikationsfachmann/-frau EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Praktiker/in Hotellerie-Hauswirtschaft EBA; Restaurantangestellte/r EBA; Restaurantfachmann/-frau EFZ; Systemgastronomiefachmann/-frau EFZ; Systemgastronomiepraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://hotelgastro.ch",
     "full_address": "GastroSuisse Blumenfeldstrasse 20 8046 Zürich",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Berufsschulen Graubünden",
-    "domain": "gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.ch",
     "full_address": "c/o Gewerbliche Berufsschule Chur, GBC Scalettastrasse 33 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bildungszentrum Gesundheit und Soziales",
-    "domain": "bgs-chur.ch",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betreuung EFZ; Fachmann/-frau Gesundheit EFZ; Basiskurs Haushelferin, Haushelfer in der Spitex; Ergänzende Bildung Medizinaltechnik; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Fachwissen Gerontologie; Nachdiplomkurs Forensic Nursing; Pflegefachmann/-frau HF, dipl.; Vorbereitung zur eidg. Berufsprüfung Berufsbildungsfachfrau, Berufsbildungsfachmann; Vorbereitung zur eidg. Berufsprüfung Fachfrau, Fachmann Langzeitpflege und -Betreuung; Vorbereitung zur eidg. Berufsprüfung Teamleiterin, Teamleiter Module 1-5; Vorbereitung zur eidg. Höheren Fachprüfung Leiterin, Leiter Module 6-10",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betreuung EFZ; Fachmann/-frau Gesundheit EFZ; Basiskurs Haushelferin, Haushelfer in der Spitex; Ergänzende Bildung Medizinaltechnik; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Fachwissen Gerontologie; Nachdiplomkurs Forensic Nursing; Pflegefachmann/-frau HF, dipl.; Vorbereitung zur eidg. Berufsprüfung Berufsbildungsfachfrau, Berufsbildungsfachmann; Vorbereitung zur eidg. Berufsprüfung Fachfrau, Fachmann Langzeitpflege und -Betreuung; Vorbereitung zur eidg. Berufsprüfung Teamleiterin, Teamleiter Module 1-5; Vorbereitung zur eidg. Höheren Fachprüfung Leiterin, Leiter Module 6-10",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bgs-chur.ch",
     "full_address": "Bildungszentrum Gesundheit und Soziales Gürtelstrasse 42/44 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brückenangebote Graubünden",
-    "domain": "gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.ch",
     "full_address": "Klosterweg 18 7130 Ilanz",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bündner Apothekerverband",
-    "domain": "apothekengraubuenden.ch",
-    "description": "Training and career areas: Fachmann/-frau Apotheke EFZ",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Apotheke EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "081 256 20 89",
+    "domain": "https://apothekengraubuenden.ch",
     "full_address": "Giacomettistrasse 48 7000 Chur",
-    "mobile_primary": "081 256 20 89"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bündner Gerüstunternehmer Verband (BGUV)",
-    "domain": "",
-    "description": "Training and career areas: Gerüstbauer/in EFZ; Gerüstbaupraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Gerüstbauer/in EFZ; Gerüstbaupraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Bündner Gerüstunternehmer Verband (BGUV)",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bündner Gewerbeverband",
-    "domain": "gewerbe-gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@gewerbe-gr.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gewerbe-gr.ch",
     "full_address": "Bündner Gewerbeverband Hinterm Bach 40 7000 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bündner Ärzteverein",
-    "domain": "buendneraerzteverein.ch",
-    "description": "Training and career areas: Medizinische/r Praxisassistent/in EFZ; Medizinische/r Praxiskoordinator/in mit eidg. Fachausweis (BP)",
     "booth": "",
+    "description": "Training and career areas: Medizinische/r Praxisassistent/in EFZ; Medizinische/r Praxiskoordinator/in mit eidg. Fachausweis (BP)",
     "email": "baev@hin.ch",
-    "city": "",
+    "mobile_primary": "+41812570358",
+    "domain": "https://buendneraerzteverein.ch",
     "full_address": "Bündner Ärzteverein Hinterm Bach 40 7001 Chur",
-    "mobile_primary": "+41812570358"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "CADONAU - Das Seniorenzentrum",
-    "domain": "cadonau-chur.ch",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Pflegefachmann/-frau HF, dipl.",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Pflegefachmann/-frau HF, dipl.",
     "email": "info@cadonau-chur.ch",
-    "city": "",
+    "mobile_primary": "0813545454",
+    "domain": "https://cadonau-chur.ch",
     "full_address": "Cadonaustrasse 73 7000 Chur",
-    "mobile_primary": "0813545454"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "carrosserie suisse Graubünden",
-    "domain": "carrosseriesuisse.ch",
-    "description": "Training and career areas: Carrosserielackierer/in EFZ; Carrosseriereparateur/in EFZ; Carrosseriespengler/in EFZ; Fahrzeugschlosser/in EFZ; Lackierassistent/in EBA",
     "booth": "",
+    "description": "Training and career areas: Carrosserielackierer/in EFZ; Carrosseriereparateur/in EFZ; Carrosseriespengler/in EFZ; Fahrzeugschlosser/in EFZ; Lackierassistent/in EBA",
     "email": "info@carrosseriesuisse.ch",
-    "city": "",
+    "mobile_primary": "0627459080",
+    "domain": "https://carrosseriesuisse.ch",
     "full_address": "carrosserie suisse Graubünden Italienische Strasse 13 7430 Thusis",
-    "mobile_primary": "0627459080"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ceruniq, Sektion Graubünden",
-    "domain": "ceruniq.ch",
-    "description": "Training and career areas: Plattenleger/in EFZ; Plattenlegerpraktiker/in EBA; Plattenlegerchef/in mit eidg. Fachausweis (BP); Plattenlegermeister/in, dipl. (HFP)",
     "booth": "",
+    "description": "Training and career areas: Plattenleger/in EFZ; Plattenlegerpraktiker/in EBA; Plattenlegerchef/in mit eidg. Fachausweis (BP); Plattenlegermeister/in, dipl. (HFP)",
     "email": "info@ceruniq.ch",
-    "city": "",
+    "mobile_primary": "+41627484280",
+    "domain": "https://ceruniq.ch",
     "full_address": "Pulvermühlestrasse 85 7000 Chur",
-    "mobile_primary": "+41627484280"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coiffure Suisse Graubünden",
-    "domain": "coiffuresuissegr.ch",
-    "description": "Training and career areas: Coiffeur/-euse EBA; Coiffeur/-euse EFZ",
     "booth": "",
+    "description": "Training and career areas: Coiffeur/-euse EBA; Coiffeur/-euse EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://coiffuresuissegr.ch",
     "full_address": "Rheindammweg 6 7023 Haldenstein",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "communicaziun.ch",
-    "domain": "communicaziun.ch",
-    "description": "Training and career areas: Gestalter/in Werbetechnik EFZ; Kaufmann/-frau EFZ; Mediamatiker/in EFZ; Medientechnologe/-login EFZ; Polygraf/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Gestalter/in Werbetechnik EFZ; Kaufmann/-frau EFZ; Mediamatiker/in EFZ; Medientechnologe/-login EFZ; Polygraf/in EFZ",
     "email": "info@communicaziun.ch",
-    "city": "",
+    "mobile_primary": "0041819252700",
+    "domain": "https://communicaziun.ch",
     "full_address": "communicaziun.ch Glennerstrasse 17 7130 Ilanz",
-    "mobile_primary": "0041819252700"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coop Genossenschaft Region Ostschweiz-Ticino",
-    "domain": "coopjobs.ch",
-    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Logistiker/in EFZ; Systemgastronomiefachmann/-frau EFZ; Systemgastronomiepraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Logistiker/in EFZ; Systemgastronomiefachmann/-frau EFZ; Systemgastronomiepraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://coopjobs.ch",
     "full_address": "Coop Genossenschaft OT Industriestrasse 109 9201 Gossau",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Drogistenverband, Sektion GR",
-    "domain": "drogistenverband.ch",
-    "description": "Training and career areas: Drogist/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Drogist/in EFZ",
     "email": "info@drogistenverband.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://drogistenverband.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EHL Hotelfachschule Passugg",
-    "domain": "campus-graubuenden.ch",
-    "description": "Training and career areas: Hotel-Kommunikationsfachmann/-frau EFZ; Dipl. Hoteliere-Gastronomin / Hotelier-Gastronom HF",
     "booth": "",
+    "description": "Training and career areas: Hotel-Kommunikationsfachmann/-frau EFZ; Dipl. Hoteliere-Gastronomin / Hotelier-Gastronom HF",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "EHL Hotelfachschule Passugg Hauptstrasse 12 7062 Passugg",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EIT.graubünden",
-    "domain": "eitgraubünden.ch",
-    "description": "Training and career areas: Elektroinstallateur/in EFZ; Montage-Elektriker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Elektroinstallateur/in EFZ; Montage-Elektriker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "081 257 03 23",
+    "domain": "https://eitgraubünden.ch",
     "full_address": "EIT.graubünden Hinterm Bach 40 7000 Chur",
-    "mobile_primary": "081 257 03 23"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EMS-CHEMIE AG",
-    "domain": "lehrebeiems.ch",
-    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Anlagenführer/in EFZ; Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroinstallateur/in EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Konstrukteur/in EFZ; Kunststofftechnologe/-login EFZ; Laborant/in EFZ; Logistiker/in EFZ; Mechanikpraktiker/in EBA; Mediamatiker/in EFZ; Montage-Elektriker/in EFZ; Polymechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Anlagenführer/in EFZ; Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroinstallateur/in EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Konstrukteur/in EFZ; Kunststofftechnologe/-login EFZ; Laborant/in EFZ; Logistiker/in EFZ; Mechanikpraktiker/in EBA; Mediamatiker/in EFZ; Montage-Elektriker/in EFZ; Polymechaniker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lehrebeiems.ch",
     "full_address": "EMS-CHEMIE AG Via Innovativa 1 7013 Domat/Ems",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Faszination Technik - Swissmechanic, Sektion Graubünden",
-    "domain": "gr.swissmechanic.ch",
-    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Automatiker/in EFZ; Automatikmonteur/in EFZ; Konstrukteur/in EFZ; Kunststoffpraktiker/in EBA; Kunststofftechnologe/-login EFZ; Mechanikpraktiker/in EBA; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Automatiker/in EFZ; Automatikmonteur/in EFZ; Konstrukteur/in EFZ; Kunststoffpraktiker/in EBA; Kunststofftechnologe/-login EFZ; Mechanikpraktiker/in EBA; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41813226173",
+    "domain": "https://gr.swissmechanic.ch",
     "full_address": "Swissmechanic Freihofstrasse 2 7302 Landquart",
-    "mobile_primary": "+41813226173"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "feusuisse",
-    "domain": "feusuisse.ch",
-    "description": "Training and career areas: Ofenbauer/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Ofenbauer/in EFZ",
     "email": "info@feusuisse.ch",
-    "city": "",
+    "mobile_primary": "+41%2062 205 90 80",
+    "domain": "https://feusuisse.ch",
     "full_address": "feusuisse Froburgstrasse 266 4634 Wisen",
-    "mobile_primary": "+41%2062 205 90 80"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FH Graubünden",
-    "domain": "hftgr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41818510606",
+    "domain": "https://hftgr.ch",
     "full_address": "",
-    "mobile_primary": "+41818510606"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FH Graubünden, Institut für Tourismus und Freizeit ITF",
-    "domain": "campus-graubuenden.ch",
-    "description": "Training and career areas: Tourism and Change, Master of Science; Tourismus FH, Bachelor of Science BSc",
     "booth": "",
+    "description": "Training and career areas: Tourism and Change, Master of Science; Tourismus FH, Bachelor of Science BSc",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "FH Graubünden, Institut für Tourismus und Freizeit ITF Comercialstrasse 19 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fleisch-Fachverband Graubünden",
-    "domain": "ffv-gr.ch",
-    "description": "Training and career areas: Fleischfachassistent/in EBA; Fleischfachmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Fleischfachassistent/in EBA; Fleischfachmann/-frau EFZ",
     "email": "praesident@ffv-gr.ch",
-    "city": "",
+    "mobile_primary": "+41816641107",
+    "domain": "https://ffv-gr.ch",
     "full_address": "Gulfiastrasse 38 7252 Klosters Dorf",
-    "mobile_primary": "+41816641107"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Flury Stiftung",
-    "domain": "oda-gs-gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://oda-gs-gr.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Föllmi ICT AG",
-    "domain": "foellmiag.ch",
-    "description": "Training and career areas: ICT-Fachmann/-frau EFZ; Informatiker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: ICT-Fachmann/-frau EFZ; Informatiker/in EFZ",
     "email": "info@foellmiag.ch",
-    "city": "",
+    "mobile_primary": "+41817106565",
+    "domain": "https://foellmiag.ch",
     "full_address": "Föllmi ICT AG Bahnhofstrasse 17 7323 Wangs",
-    "mobile_primary": "+41817106565"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gebäudehülle Schweiz, Sekt. GR",
-    "domain": "",
-    "description": "Training and career areas: Abdichter/in EFZ; Abdichtungspraktiker/in EBA; Dachdecker/in EFZ; Dachdeckerpraktiker/in EBA; Fassadenbauer/in EFZ; Fassadenbaupraktiker/in EBA; Gerüstbauer/in EFZ; Gerüstbaupraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Abdichter/in EFZ; Abdichtungspraktiker/in EBA; Dachdecker/in EFZ; Dachdeckerpraktiker/in EBA; Fassadenbauer/in EFZ; Fassadenbaupraktiker/in EBA; Gerüstbauer/in EFZ; Gerüstbaupraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Gebäudehülle Schweiz, Sekt. GR Meli AG Gebäudehüllen, Ringstrasse 14 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "geosuisseGR / Ingenieur-Geometer Graubünden",
-    "domain": "",
-    "description": "Training and career areas: Geomatiker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Geomatiker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "InfraDigital AG Prättigauerstrasse 34 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Graubünden Holz - Plattform Holzkette",
-    "domain": "graubuendenholz.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@graubuendenholz.ch",
-    "city": "",
+    "mobile_primary": "+41 (0)81 300 22 30",
+    "domain": "https://graubuendenholz.ch",
     "full_address": "Graubünden Holz Bahnhofplatz 1 7302 Landquart",
-    "mobile_primary": "+41 (0)81 300 22 30"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Graubündner Kantonalbank",
-    "domain": "report.gkb.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "pr@gkb.ch",
-    "city": "",
+    "mobile_primary": "0041812568311",
+    "domain": "https://report.gkb.ch",
     "full_address": "",
-    "mobile_primary": "0041812568311"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Graubündnerischer Baumeisterverband",
-    "domain": "gbv.ch",
-    "description": "Training and career areas: Bauwerktrenner/in EFZ; Betonwerker/in EFZ; Gleisbauer/in EFZ; Gleisbaupraktiker/in EBA; Grundbauer/in EFZ; Grundbaupraktiker/in EBA; Industrie- und Unterlagsbodenbauer/in EFZ; Industrie- und Unterlagsbodenbaupraktiker/in EBA; Maurer/in EBA; Maurer/in EFZ; Pflästerer/Pflästerin EFZ; Steinmetz/in EFZ; Steinsetzer/in EBA; Strassenbauer/in EFZ; Strassenbaupraktiker/in EBA; Bauführer/in (HFP); Baumeister/in HFP; Baupolier/in mit eidg. FA; Bauvorarbeiter/-in mit eidg. FA; Fachspezifische Weiterbildungen Bauberufe",
     "booth": "",
+    "description": "Training and career areas: Bauwerktrenner/in EFZ; Betonwerker/in EFZ; Gleisbauer/in EFZ; Gleisbaupraktiker/in EBA; Grundbauer/in EFZ; Grundbaupraktiker/in EBA; Industrie- und Unterlagsbodenbauer/in EFZ; Industrie- und Unterlagsbodenbaupraktiker/in EBA; Maurer/in EBA; Maurer/in EFZ; Pflästerer/Pflästerin EFZ; Steinmetz/in EFZ; Steinsetzer/in EBA; Strassenbauer/in EFZ; Strassenbaupraktiker/in EBA; Bauführer/in (HFP); Baumeister/in HFP; Baupolier/in mit eidg. FA; Bauvorarbeiter/-in mit eidg. FA; Fachspezifische Weiterbildungen Bauberufe",
     "email": "gbv@gbv.ch",
-    "city": "",
+    "mobile_primary": "+41 81 257 08 08",
+    "domain": "https://gbv.ch",
     "full_address": "Graubündnerischer Baumeisterverband, GBV Comercialstrasse 20 7000 Chur",
-    "mobile_primary": "+41 81 257 08 08"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hamilton AG",
-    "domain": "lehre-hamilton.ch",
-    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroniker/in EFZ; Entwickler/in digitales Business EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Konstrukteur/in EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroniker/in EFZ; Entwickler/in digitales Business EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Konstrukteur/in EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "email": "lehre@hamilton.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lehre-hamilton.ch",
     "full_address": "Hamilton AG Via Crusch 8 7402 Bonaduz",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hello Career | KV Treuhand/Immobilien | OKGT",
-    "domain": "oba-sg.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://oba-sg.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Holzbau Schweiz, Sektion GR (HBS GR)",
-    "domain": "holzbau-gr.ch",
-    "description": "Training and career areas: Holzbearbeiter/in EBA; Zimmermann/Zimmerin EFZ; dipl. Techniker/-in HF Holztechnik; Dipl. Techniker/in HF Holztechnik, Vertiefung Holzindustrie/Handel; Holzbau-Meister/-in (HFP); Holzbau-Polier/-in mit eidg. FA; Holzbau-Vorarbeiter/-in mit eidg. FA; Holzingenieur/in FH",
     "booth": "",
+    "description": "Training and career areas: Holzbearbeiter/in EBA; Zimmermann/Zimmerin EFZ; dipl. Techniker/-in HF Holztechnik; Dipl. Techniker/in HF Holztechnik, Vertiefung Holzindustrie/Handel; Holzbau-Meister/-in (HFP); Holzbau-Polier/-in mit eidg. FA; Holzbau-Vorarbeiter/-in mit eidg. FA; Holzingenieur/in FH",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://holzbau-gr.ch",
     "full_address": "Holzbau Schweiz, Sektion Graubünden Bahnhofplatz 1 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Holzindustrie Schweiz Regionalverband Graubünden (HIS GR)",
-    "domain": "",
-    "description": "Training and career areas: Holzbearbeiter/in EBA; Holzindustriefachmann/-frau EFZ; Dipl. Techniker/in HF Holztechnik, Vertiefung Holzindustrie/Handel; Holzfachmann/-frau mit eidg. Fachausweis, Fachrichtung Holzkaufmann/-frau (BP)",
     "booth": "",
+    "description": "Training and career areas: Holzbearbeiter/in EBA; Holzindustriefachmann/-frau EFZ; Dipl. Techniker/in HF Holztechnik, Vertiefung Holzindustrie/Handel; Holzfachmann/-frau mit eidg. Fachausweis, Fachrichtung Holzkaufmann/-frau (BP)",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "HIS Regionalverband Graubünden Veia Tgampi 17 7460 Savognin",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Höhere Fachschule für Sozialpädagogik",
-    "domain": "campus-graubuenden.ch",
-    "description": "Training and career areas: Sozialpädagoge/-in HF, dipl.",
     "booth": "",
+    "description": "Training and career areas: Sozialpädagoge/-in HF, dipl.",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "Kantonsstrasse 8 7205 Zizers",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Höhere Fachschule für Tourismus und Management HFT",
-    "domain": "campus-graubuenden.ch",
-    "description": "Training and career areas: Dipl. Tourismusfachleute HF; Marketingfachleute mit eidg. FA",
     "booth": "",
+    "description": "Training and career areas: Dipl. Tourismusfachleute HF; Marketingfachleute mit eidg. FA",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "Höhere Fachschule für Tourismus und Management HFT Quadratscha 18 7503 Samedan",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Höhere Wirtschaftsschule Graubünden (HWSGR)",
-    "domain": "hwsgr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@hwsgr.ch",
-    "city": "",
+    "mobile_primary": "081 258 40 00",
+    "domain": "https://hwsgr.ch",
     "full_address": "HWSGR - Höhere Wirtschaftsschule Graubünden Comercialstrasse 23 7000 Chur",
-    "mobile_primary": "081 258 40 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ibW Höhere Fachschule Südostschweiz",
-    "domain": "ibw.ch",
-    "description": "Training and career areas: AI Business Specialist mit eidg. FA; Automobildiagnostiker/-in mit eidg. FA; Bau-Polier/-in mit eidg. FA; Bauvorarbeiter/-in mit eidg. FA; Chefmonteur/-in Sanitär mit eidg. FA; Coiffeuse/Coiffeur mit eidg. FA; Digital Collaboration Specialist mit eidg. FA; Dipl. Applikationsentwickler/-in NDS HF; Dipl. Betriebswirtschafter/-in HF; Dipl. Energie- und Umwelttechniker/-in HF; Dipl. Finanzplanungsexperte/-in NDS HF; Dipl. Förster/-in HF; Dipl. Gebäudeautomatiker/-in HF; Dipl. Gebäudetechniker/in HF; Dipl. Holztechniker/-in HF Holzbau; Dipl. Holztechniker/-in HF Schreinerei / Innenausbau; Dipl. in Innovations- und Transformationsmanagement NDS HF; Dipl. in IT Security und Risk Management NDS HF; Dipl. in Krisen- und Risikomanagement NDS HF; Dipl. in Marketing und Sales Management NDS HF; Dipl. in Projekt- und Prozessmanagement NDS HF; Dipl. in Unternehmensführung NDS HF; Dipl. Informatiker/-in HF; Dipl. Produktdesigner/-in HF; Dipl. Rechtsfachfrau/-mann HF; Dipl. Systemtechniker/-in HF; Dipl. Techniker/-in HF Bauplanung, Ingenieurbau; Dipl. Techniker/-in HF Bauplanung, Schwerpunkt Innenarchitektur; Dipl. Wirtschaftsinformatiker/-in HF; eidg. dipl. Coiffeuse; Elektroprojektleiter/-in Installation und Sicherheit mit eidg. FA; Elektroprojektleiter/-in Planung mit eidg. FA; Energieberater/-in Gebäude mit eidg. FA; Fachfrau/-mann Treuhand und Beratung mit eidg. FA; Fachleute im Finanz- & Rechnungswesen mit eidg. FA; Fachleute öffentliche Verwaltung mit eidg. FA; Finanzplaner/-in mit eidg. FA; Forstmaschinenführer/-in mit eidg. FA; Forstwart-Vorarbeiter/-in mit eidg. FA; Hauswart/-in mit eidg. FA; Holzbau-Meister/-in (HFP); Holzbau-Polier/-in mit eidg. FA; Holzbau-Vorarbeiter/-in mit eidg. FA; HR-Fachleute mit eidg. FA; Logistikfachleute mit eidg. FA; Marketingfachleute mit eidg. FA; Projektleiter/-in Gebäudeautomation mit eidg. FA; Projektleiter/-in Schreinerei mit eidg. FA; Seilkran-Einsatzleiter/-in mit eidg. FA; Sozialversicherungsfachleute mit eidg. FA; Techniker/in HF Elektrotechnik, dipl.; Technische Kaufleute mit eidg. FA; Verkaufsfachleute mit eidg. FA; Versicherungsfachleute mit eidg. FA; Wirtschaftsinformatiker/-in mit eidg. FA",
     "booth": "",
+    "description": "Training and career areas: AI Business Specialist mit eidg. FA; Automobildiagnostiker/-in mit eidg. FA; Bau-Polier/-in mit eidg. FA; Bauvorarbeiter/-in mit eidg. FA; Chefmonteur/-in Sanitär mit eidg. FA; Coiffeuse/Coiffeur mit eidg. FA; Digital Collaboration Specialist mit eidg. FA; Dipl. Applikationsentwickler/-in NDS HF; Dipl. Betriebswirtschafter/-in HF; Dipl. Energie- und Umwelttechniker/-in HF; Dipl. Finanzplanungsexperte/-in NDS HF; Dipl. Förster/-in HF; Dipl. Gebäudeautomatiker/-in HF; Dipl. Gebäudetechniker/in HF; Dipl. Holztechniker/-in HF Holzbau; Dipl. Holztechniker/-in HF Schreinerei / Innenausbau; Dipl. in Innovations- und Transformationsmanagement NDS HF; Dipl. in IT Security und Risk Management NDS HF; Dipl. in Krisen- und Risikomanagement NDS HF; Dipl. in Marketing und Sales Management NDS HF; Dipl. in Projekt- und Prozessmanagement NDS HF; Dipl. in Unternehmensführung NDS HF; Dipl. Informatiker/-in HF; Dipl. Produktdesigner/-in HF; Dipl. Rechtsfachfrau/-mann HF; Dipl. Systemtechniker/-in HF; Dipl. Techniker/-in HF Bauplanung, Ingenieurbau; Dipl. Techniker/-in HF Bauplanung, Schwerpunkt Innenarchitektur; Dipl. Wirtschaftsinformatiker/-in HF; eidg. dipl. Coiffeuse; Elektroprojektleiter/-in Installation und Sicherheit mit eidg. FA; Elektroprojektleiter/-in Planung mit eidg. FA; Energieberater/-in Gebäude mit eidg. FA; Fachfrau/-mann Treuhand und Beratung mit eidg. FA; Fachleute im Finanz- & Rechnungswesen mit eidg. FA; Fachleute öffentliche Verwaltung mit eidg. FA; Finanzplaner/-in mit eidg. FA; Forstmaschinenführer/-in mit eidg. FA; Forstwart-Vorarbeiter/-in mit eidg. FA; Hauswart/-in mit eidg. FA; Holzbau-Meister/-in (HFP); Holzbau-Polier/-in mit eidg. FA; Holzbau-Vorarbeiter/-in mit eidg. FA; HR-Fachleute mit eidg. FA; Logistikfachleute mit eidg. FA; Marketingfachleute mit eidg. FA; Projektleiter/-in Gebäudeautomation mit eidg. FA; Projektleiter/-in Schreinerei mit eidg. FA; Seilkran-Einsatzleiter/-in mit eidg. FA; Sozialversicherungsfachleute mit eidg. FA; Techniker/in HF Elektrotechnik, dipl.; Technische Kaufleute mit eidg. FA; Verkaufsfachleute mit eidg. FA; Versicherungsfachleute mit eidg. FA; Wirtschaftsinformatiker/-in mit eidg. FA",
     "email": "info@ibw.ch",
-    "city": "",
+    "mobile_primary": "+41814033333",
+    "domain": "https://ibw.ch",
     "full_address": "ibW Höhere Fachschule Südostschweiz Gürtelstrasse 44 7000 Chur",
-    "mobile_primary": "+41814033333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Interessengemeinschaft Anlagen- & Apparatebauer/in",
-    "domain": "igaab.ch",
-    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ",
     "email": "info@igaab.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://igaab.ch",
     "full_address": "Interessengemeinschaft Anlagen- & Apparatebauer/in c/o anplaq ag, Rheinstrasse 5a 7015 Tamins",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Interessensgemeinschaft Pflegeheime",
-    "domain": "",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Gesundheit EFZ; Aktivierungsfachmann/-frau HF, dipl.; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Gesundheit EFZ; Aktivierungsfachmann/-frau HF, dipl.; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jardin Grischun",
-    "domain": "jardinsuisse.ch",
-    "description": "Training and career areas: Gärtner/in EBA; Gärtner/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Gärtner/in EBA; Gärtner/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://jardinsuisse.ch",
     "full_address": "JardinGrischun Hinterm Bach 40 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kanton Graubünden",
-    "domain": "gr.ch",
-    "description": "Training and career areas: Agrarpraktiker/in EBA; Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Entwickler/in digitales Business EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Fachmann/-frau Information und Dokumentation EFZ; ICT-Fachmann/-frau EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Laborant/in EFZ; Landwirt/in EFZ; Milchtechnologe/-login EFZ; Obstfachmann/-frau EFZ; Praktiker/in Hotellerie-Hauswirtschaft EBA; Unterhaltspraktiker/in EBA; Weinfachmann/-frau EFZ; Zeichner/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Agrarpraktiker/in EBA; Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Entwickler/in digitales Business EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Fachmann/-frau Information und Dokumentation EFZ; ICT-Fachmann/-frau EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Laborant/in EFZ; Landwirt/in EFZ; Milchtechnologe/-login EFZ; Obstfachmann/-frau EFZ; Praktiker/in Hotellerie-Hauswirtschaft EBA; Unterhaltspraktiker/in EBA; Weinfachmann/-frau EFZ; Zeichner/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.ch",
     "full_address": "Personalamt Graubünden Steinbruchstrasse 18 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kantonspolizei Graubünden",
-    "domain": "gr.ch",
-    "description": "Training and career areas: Polizist/in mit eid. Fachausweis (BP)",
     "booth": "",
+    "description": "Training and career areas: Polizist/in mit eid. Fachausweis (BP)",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.ch",
     "full_address": "Kantonspolizei Graubünden",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kantonsspital Graubünden",
-    "domain": "ksgr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ksgr.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kinderbetreuung Graubünden",
-    "domain": "kinderbetreuung-gr.ch",
-    "description": "Training and career areas: Fachmann/-frau Betreuung EFZ",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Betreuung EFZ",
     "email": "info@kinderbetreuung-gr.ch",
-    "city": "",
+    "mobile_primary": "+41784800187",
+    "domain": "https://kinderbetreuung-gr.ch",
     "full_address": "Fachverband Kinderbetreuung Graubünden Reichsgasse 25 7000 Chur",
-    "mobile_primary": "+41784800187"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Klinikgruppe Valens",
-    "domain": "valens.ch",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Hotel-Kommunikationsfachmann/-frau EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Medizinische/r Praxisassistent/in EFZ; Diätkoch/-köchin, BP; Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Logopädin/ Logopäde, FH; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.; Physiotherapie FH, Bachelor of Science BSc; Soziale Arbeit FH, Bachelor of Science BSc",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Hotel-Kommunikationsfachmann/-frau EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Medizinische/r Praxisassistent/in EFZ; Diätkoch/-köchin, BP; Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Logopädin/ Logopäde, FH; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.; Physiotherapie FH, Bachelor of Science BSc; Soziale Arbeit FH, Bachelor of Science BSc",
     "email": "info@kliniken-valens.ch",
-    "city": "",
+    "mobile_primary": "41585111111",
+    "domain": "https://valens.ch",
     "full_address": "Taminaplatz 1 7317 Valens",
-    "mobile_primary": "41585111111"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kulturbühne",
-    "domain": "visarte-graubuenden.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://visarte-graubuenden.ch",
     "full_address": "Visarte Graubünden Wiesentalstrasse 44 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KUNSTSTOFF.swiss",
-    "domain": "kunststoffberufe.ch",
-    "description": "Training and career areas: Kunststoffpraktiker/in EBA; Kunststofftechnologe/-login EFZ",
     "booth": "",
+    "description": "Training and career areas: Kunststoffpraktiker/in EBA; Kunststofftechnologe/-login EFZ",
     "email": "info@kunststoff.swiss",
-    "city": "",
+    "mobile_primary": "+41628340060",
+    "domain": "https://kunststoffberufe.ch",
     "full_address": "KUNSTSTOFF.swiss – Der Verband der Schweizer Kunststoffindustrie Schachenallee 29C 5000 Aarau",
-    "mobile_primary": "+41628340060"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "lehre-gr.ch",
-    "domain": "lehre-gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lehre-gr.ch",
     "full_address": "Mediadschungel GmbH Tardisstrasse 199 7205 Zizers / Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "login Berufsbildung AG",
-    "domain": "scuolaprofessionale.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@scuolaprofessionale.ch",
-    "city": "",
+    "mobile_primary": "+41818440535",
+    "domain": "https://scuolaprofessionale.ch",
     "full_address": "",
-    "mobile_primary": "+41818440535"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Metaltec Graubünden",
-    "domain": "gr.metaltecsuisse.ch",
-    "description": "Training and career areas: Metallbauer/in EFZ; Metallbaukonstrukteur/in EFZ; Metallbaupraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Metallbauer/in EFZ; Metallbaukonstrukteur/in EFZ; Metallbaupraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gr.metaltecsuisse.ch",
     "full_address": "Herawisweg 18 7203 Trimmis",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Milchtechnologen",
-    "domain": "milchtechnologe.ch",
-    "description": "Training and career areas: Milchpraktiker/in EBA; Milchtechnologe/-login EFZ",
     "booth": "",
+    "description": "Training and career areas: Milchpraktiker/in EBA; Milchtechnologe/-login EFZ",
     "email": "info@smv-ssil.ch",
-    "city": "",
+    "mobile_primary": "+41313113182",
+    "domain": "https://milchtechnologe.ch",
     "full_address": "Plantahof Kantonsstrasse 17 7302 Landquart",
-    "mobile_primary": "+41313113182"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MMTS MultimediaTec Swiss",
-    "domain": "mmts.ch",
-    "description": "Training and career areas: Detailhandelsfachmann/-frau EFZ; Multimediaelektroniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Detailhandelsfachmann/-frau EFZ; Multimediaelektroniker/in EFZ",
     "email": "info@vsrt.ch",
-    "city": "",
+    "mobile_primary": "032 654 20 20",
+    "domain": "https://mmts.ch",
     "full_address": "MMTS Sektion GR, EP: Bernhard Kasernensstrasse 97 7000 Chur",
-    "mobile_primary": "032 654 20 20"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Netzwerk Kleinstberufe",
-    "domain": "kleinstberufe.ch",
-    "description": "Training and career areas: Fachmann/-frau Textilpflege EFZ; Holzbildhauer/in EFZ; Holzhandwerker/in EFZ; Korb- und Flechtwerkgestalter/in EFZ; Küfer/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Textilpflege EFZ; Holzbildhauer/in EFZ; Holzhandwerker/in EFZ; Korb- und Flechtwerkgestalter/in EFZ; Küfer/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41313102017",
+    "domain": "https://kleinstberufe.ch",
     "full_address": "Netzwerk Kleinstberufe Weiernstrasse 24 8355 Aadorf",
-    "mobile_primary": "+41313102017"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OdA Gesundheit und Soziales Graubünden",
-    "domain": "oda-gs-gr.ch",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betreuung EFZ; Fachmann/-frau Gesundheit EFZ; Medizinproduktetechnologe/-login EFZ; Aktivierungsfachmann/-frau HF, dipl.; Arbeitsagogin/-agoge FA; Berater/in Frühe Kindheit (HFP); Biomedizinische/r Analytiker/in HF, dipl.; Blindenführhundeinstruktor/in (HFP); Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Experte/Expertin Bewegungs- und Gesundheitsförderung, HFP; Experte/Expertin in Gesundheitsinstitutionen, HFP; Experte/in Anästhesie-/Intensiv-/Notfallpflege, NDS HF; Fachexperte/-expertin für Infektionsprävention, HFP; Fachexperte/-expertin in Diabetesfachberatung (HFP); Fachexperte/-expertin in geriatrischer und psychogeriatrischer Pflege, HFP; Fachexperte/-expertin in Palliative Care, HFP; Fachexperte/-expertin Nephrologiepflege, HFP; Fachexperte/-expertin Onkologiepflege, HFP; Fachexperte/-expertin Psychiatriepflege, HFP; Fachexperte/-expertin Respiratory Care; Fachexperte/Fachexpertin Operationsbereich; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Fachmann/-frau Operationstechnik HF, dipl.; Fachmann/-frau psychiatrischer Pflege und Betreuung mit eidg. Fachausweis (BP); Gemeindeanimator/in HF, dipl.; Hebamme FH, Bachelor of Science BSc; Job Coach/in Arbeitsorganisation; Kindheitspädagoge/-in HF, dipl.; Komplementärtherapeut/in, HFP; Leiter/in Arbeitsagogik HF, dipl.; Leiter/in von sozialen und sozialmedizinischen Organisationen (HFP); Logopädin/ Logopäde, FH; Medizinische/r Kodierer/in; Medizinische/r Masseur/in mit eidg. Fachausweis (BP); Medizinische/r Praxiskoordinator/in mit eidg. Fachausweis (BP); Migrationsfachmann/-frau mit eidg. Fachausweis; Naturheilpraktiker/in; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.; Physiotherapie FH, Bachelor of Science BSc; Radiologiefachmann/-frau HF, dipl.; Rehabilitationsexperte/in für sehbehinderte und blinde Menschen (HFP); Rettungssanitäter/in HF, dipl.; Sicherheitsspezialist/in in Institutionen des Gesundheits- und Sozialwesens; Sozialbegleiter/in mit eidg. Fachausweis; Soziale Arbeit FH, Bachelor of Science BSc; Sozialpädagoge/-in HF, dipl.; Spezialist/in Bewegungs- und Gesundheitsförderung; Spezialist/in für angewandte Kinästhetik mit eidg. Fachausweis (BP); Spezialist/in für die Begleitung von Menschen mit Beeinträchtigungen mit eidg. Fachausweis; Supervisor/in Coach / Organisationsberater/in (HFP); Teamleiter/in in sozialen und sozialmedizinischen Organisation mit eidg. Fachausweis",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Betreuung EFZ; Fachmann/-frau Gesundheit EFZ; Medizinproduktetechnologe/-login EFZ; Aktivierungsfachmann/-frau HF, dipl.; Arbeitsagogin/-agoge FA; Berater/in Frühe Kindheit (HFP); Biomedizinische/r Analytiker/in HF, dipl.; Blindenführhundeinstruktor/in (HFP); Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Experte/Expertin Bewegungs- und Gesundheitsförderung, HFP; Experte/Expertin in Gesundheitsinstitutionen, HFP; Experte/in Anästhesie-/Intensiv-/Notfallpflege, NDS HF; Fachexperte/-expertin für Infektionsprävention, HFP; Fachexperte/-expertin in Diabetesfachberatung (HFP); Fachexperte/-expertin in geriatrischer und psychogeriatrischer Pflege, HFP; Fachexperte/-expertin in Palliative Care, HFP; Fachexperte/-expertin Nephrologiepflege, HFP; Fachexperte/-expertin Onkologiepflege, HFP; Fachexperte/-expertin Psychiatriepflege, HFP; Fachexperte/-expertin Respiratory Care; Fachexperte/Fachexpertin Operationsbereich; Fachmann/-frau Langzeitpflege und -betreuung mit eidg. Fachausweis (BP); Fachmann/-frau Operationstechnik HF, dipl.; Fachmann/-frau psychiatrischer Pflege und Betreuung mit eidg. Fachausweis (BP); Gemeindeanimator/in HF, dipl.; Hebamme FH, Bachelor of Science BSc; Job Coach/in Arbeitsorganisation; Kindheitspädagoge/-in HF, dipl.; Komplementärtherapeut/in, HFP; Leiter/in Arbeitsagogik HF, dipl.; Leiter/in von sozialen und sozialmedizinischen Organisationen (HFP); Logopädin/ Logopäde, FH; Medizinische/r Kodierer/in; Medizinische/r Masseur/in mit eidg. Fachausweis (BP); Medizinische/r Praxiskoordinator/in mit eidg. Fachausweis (BP); Migrationsfachmann/-frau mit eidg. Fachausweis; Naturheilpraktiker/in; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.; Physiotherapie FH, Bachelor of Science BSc; Radiologiefachmann/-frau HF, dipl.; Rehabilitationsexperte/in für sehbehinderte und blinde Menschen (HFP); Rettungssanitäter/in HF, dipl.; Sicherheitsspezialist/in in Institutionen des Gesundheits- und Sozialwesens; Sozialbegleiter/in mit eidg. Fachausweis; Soziale Arbeit FH, Bachelor of Science BSc; Sozialpädagoge/-in HF, dipl.; Spezialist/in Bewegungs- und Gesundheitsförderung; Spezialist/in für angewandte Kinästhetik mit eidg. Fachausweis (BP); Spezialist/in für die Begleitung von Menschen mit Beeinträchtigungen mit eidg. Fachausweis; Supervisor/in Coach / Organisationsberater/in (HFP); Teamleiter/in in sozialen und sozialmedizinischen Organisation mit eidg. Fachausweis",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://oda-gs-gr.ch",
     "full_address": "Gäuggelistrasse 7 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "PH Graubünden",
-    "domain": "campus-graubuenden.ch",
-    "description": "Training and career areas: Bachelorstudium Kindergarten und Primarschule (1. - 2.); Bachelorstudium Primarschule (1. -6.); Deutsch als Zweitsprache DAZ, CAS; Kunst - Kunstvermittlung, CAS; Masterstudium Schulische Heilpädagogik; Masterstudium Sekundarstufe I für Personen mit Fachbachelor; Masterstudium Sekundarstufe I für Primarlehrpersonen (Stufenerweiterung); Masterstudium Sekundarstufe I und Maturitätsschulen für Personen mit Fachmaster; Schulleitung, CAS",
     "booth": "",
+    "description": "Training and career areas: Bachelorstudium Kindergarten und Primarschule (1. - 2.); Bachelorstudium Primarschule (1. -6.); Deutsch als Zweitsprache DAZ, CAS; Kunst - Kunstvermittlung, CAS; Masterstudium Schulische Heilpädagogik; Masterstudium Sekundarstufe I für Personen mit Fachbachelor; Masterstudium Sekundarstufe I für Primarlehrpersonen (Stufenerweiterung); Masterstudium Sekundarstufe I und Maturitätsschulen für Personen mit Fachmaster; Schulleitung, CAS",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "Scalärastrasse 17 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Plantahof",
-    "domain": "suedost.agrotecsuisse.ch",
-    "description": "Training and career areas: Agrarpraktiker/in EBA; Landwirt/in EFZ; Bäuerin / bäuerlicher Haushaltsleiter FA; Betriebsleiter/Betriebsleiterin Landwirtschaft FA; Meisterlandwirt/in HFP",
     "booth": "",
+    "description": "Training and career areas: Agrarpraktiker/in EBA; Landwirt/in EFZ; Bäuerin / bäuerlicher Haushaltsleiter FA; Betriebsleiter/Betriebsleiterin Landwirtschaft FA; Meisterlandwirt/in HFP",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://suedost.agrotecsuisse.ch",
     "full_address": "LBBZ Plantahof Kantonsstrasse 17 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Psychiatrische Dienste Graubünden",
-    "domain": "pdgr.ch",
-    "description": "Training and career areas: Fachmann/-frau Betreuung EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Florist/in EFZ; Gärtner/in EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Betreuung EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Fachmann/-frau Gesundheit EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Florist/in EFZ; Gärtner/in EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Koch/Köchin EFZ",
     "email": "info@pdgr.ch",
-    "city": "",
+    "mobile_primary": "+41-58-225-25-25",
+    "domain": "https://pdgr.ch",
     "full_address": "Psychiatrische Dienste Graubünden Loestrasse 220 7000 Chur",
-    "mobile_primary": "+41-58-225-25-25"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Q-Bix / Blue Cocktail Bar",
-    "domain": "blaueskreuz.gr.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41812524341",
+    "domain": "https://blaueskreuz.gr.ch",
     "full_address": "Blaues Kreuz Graubünden Alexanderstrasse 42 7000 Chur",
-    "mobile_primary": "+41812524341"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Repower AG",
-    "domain": "repower.com",
-    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroplaner/in EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroplaner/in EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://repower.com",
     "full_address": "Repower AG Bahnhofplatz 3A 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rhätische Bahn AG",
-    "domain": "rhb.ch",
-    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Automatiker/in EFZ; Detailhandelsfachmann/-frau EFZ; Entwickler/in digitales Business EFZ; Fachmann/-frau öffentlicher Verkehr EFZ; Gleisbauer/in EFZ; Informatiker/in EFZ; Logistiker/in EFZ; Netzelektriker/in EFZ; Polymechaniker/in EFZ; Erwachsenenlehre Gleisbauer/in; Erwachsenenlehre Netzelektriker/in; Quereinstieg Lokführer/in; Quereinstieg Zugbegleiter/in; Quereinstieg Zugverkehrsleiter/in",
     "booth": "",
+    "description": "Training and career areas: Anlagen- und Apparatebauer/in EFZ; Automatiker/in EFZ; Detailhandelsfachmann/-frau EFZ; Entwickler/in digitales Business EFZ; Fachmann/-frau öffentlicher Verkehr EFZ; Gleisbauer/in EFZ; Informatiker/in EFZ; Logistiker/in EFZ; Netzelektriker/in EFZ; Polymechaniker/in EFZ; Erwachsenenlehre Gleisbauer/in; Erwachsenenlehre Netzelektriker/in; Quereinstieg Lokführer/in; Quereinstieg Zugbegleiter/in; Quereinstieg Zugverkehrsleiter/in",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rhb.ch",
     "full_address": "Rhätische Bahn AG Bahnhofstrasse 25 7001 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schweizer Armee - Chance Armee / Lehrberufe Armee",
-    "domain": "armee.ch",
-    "description": "Training and career areas: Fachmann/-frau Betriebsunterhalt EFZ; Koch/Köchin EFZ; Logistiker/in EFZ; Strassentransportfachmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Betriebsunterhalt EFZ; Koch/Köchin EFZ; Logistiker/in EFZ; Strassentransportfachmann/-frau EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://armee.ch",
     "full_address": "Schweizer Armee Militärflugplatz 8600 Dübendorf",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schweizerischer Verband für Kältetechnik",
-    "domain": "cool-clever.ch",
-    "description": "Training and career areas: Kältemontage-Praktiker/in EBA; Kältesystem-Monteur/in EFZ; Kältesystem-Planer/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Kältemontage-Praktiker/in EBA; Kältesystem-Monteur/in EFZ; Kältesystem-Planer/in EFZ",
     "email": "info@svk.ch",
-    "city": "",
+    "mobile_primary": "+41416703045",
+    "domain": "https://cool-clever.ch",
     "full_address": "Schweizerischer Verband für Kältetechnik, SVK Eichistrasse 1 6055 Alpnach Dorf",
-    "mobile_primary": "+41416703045"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SFB Sektion Zürich mit angeschlossenen Kantonen und Fürstentum Liechtenstein",
-    "domain": "betriebsunterhalt.ch",
-    "description": "Training and career areas: Fachmann/-frau Betriebsunterhalt EFZ; Unterhaltspraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Fachmann/-frau Betriebsunterhalt EFZ; Unterhaltspraktiker/in EBA",
     "email": "infoschweiz@betriebsunterhalt.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://betriebsunterhalt.ch",
     "full_address": "Schweizerischer Fachverband Betriebsunterhalt, SFB Ernst Müller-Strasse 7 8207 Schaffhausen",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spitex Graubünden",
-    "domain": "spitexgr.ch",
-    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Gesundheit EFZ; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.",
     "booth": "",
+    "description": "Training and career areas: Assistent/in Gesundheit und Soziales EBA; Fachmann/-frau Gesundheit EFZ; Pflegefachfrau/-mann, FH; Pflegefachmann/-frau HF, dipl.",
     "email": "spitex@bsh-gr.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://spitexgr.ch",
     "full_address": "Bündner Spital- und Heimverband, Bereich Spitex Engadinstrasse 33 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sprecher Security GmbH",
-    "domain": "sprecher-security.com",
-    "description": "Training and career areas: Sicherheitsfachmann/-frau (BP)",
     "booth": "",
+    "description": "Training and career areas: Sicherheitsfachmann/-frau (BP)",
     "email": "info@sprecher-security.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://sprecher-security.com",
     "full_address": "Sprecher Security GmbH Rheinstrasse 5 7015 Tamins",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stadtpolizei Chur",
-    "domain": "search.ch",
-    "description": "Training and career areas: Polizist/in mit eid. Fachausweis (BP)",
     "booth": "",
+    "description": "Training and career areas: Polizist/in mit eid. Fachausweis (BP)",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://search.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftung La Capriola",
-    "domain": "lacapriola.ch",
-    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Kaufmann/-frau EBA; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Praktiker/in Hotellerie-Hauswirtschaft EBA; Praktiker/in PrA Detailhandel Textil; Praktiker/in PrA Hotellerie-Hauswirtschaft; Praktiker/in PrA Küche; Praktiker/in PrA Restaurant; Restaurantangestellte/r EBA; Restaurantfachmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ; Fachmann/-frau Hotellerie-Hauswirtschaft EFZ; Kaufmann/-frau EBA; Kaufmann/-frau EFZ; Koch/Köchin EFZ; Küchenangestellte/r EBA; Praktiker/in Hotellerie-Hauswirtschaft EBA; Praktiker/in PrA Detailhandel Textil; Praktiker/in PrA Hotellerie-Hauswirtschaft; Praktiker/in PrA Küche; Praktiker/in PrA Restaurant; Restaurantangestellte/r EBA; Restaurantfachmann/-frau EFZ",
     "email": "info@lacapriola.ch",
-    "city": "",
+    "mobile_primary": "+41815300163",
+    "domain": "https://lacapriola.ch",
     "full_address": "Stiftung La Capriola Engadinstrasse 2 7000 Chur",
-    "mobile_primary": "+41815300163"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "suissetec grischun",
-    "domain": "suissetec-grischun.ch",
-    "description": "Training and career areas: Gebäudetechnikplaner/in Heizung EFZ; Gebäudetechnikplaner/in Lüftung EFZ; Gebäudetechnikplaner/in Sanitär EFZ; Heizungsinstallateur/in EFZ; Heizungspraktiker/in EBA; Lüftungsanlagenbauer/in EFZ; Lüftungsanlagenpraktiker/in EBA; Sanitärinstallateur/in EFZ; Sanitärpraktiker/in EBA; Spengler/in EFZ; Spenglerpraktiker/in EBA",
     "booth": "",
+    "description": "Training and career areas: Gebäudetechnikplaner/in Heizung EFZ; Gebäudetechnikplaner/in Lüftung EFZ; Gebäudetechnikplaner/in Sanitär EFZ; Heizungsinstallateur/in EFZ; Heizungspraktiker/in EBA; Lüftungsanlagenbauer/in EFZ; Lüftungsanlagenpraktiker/in EBA; Sanitärinstallateur/in EFZ; Sanitärpraktiker/in EBA; Spengler/in EFZ; Spenglerpraktiker/in EBA",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://suissetec-grischun.ch",
     "full_address": "suissetec grischun Hinterm Bach 40 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SUPSI",
-    "domain": "supsi.ch",
-    "description": "Training and career areas: Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Physiotherapie FH, Bachelor of Science BSc; Soziale Arbeit FH, Bachelor of Science BSc",
     "booth": "",
+    "description": "Training and career areas: Ergotherapie FH, Bachelor of Science BSc; Ernährung und Diätetik FH, Bachelor of Science BSc; Physiotherapie FH, Bachelor of Science BSc; Soziale Arbeit FH, Bachelor of Science BSc",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://supsi.ch",
     "full_address": "Le Genre, Via Pobiette 11 6928 Manno",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SwissSkills",
-    "domain": "swiss-skills.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41315520515",
+    "domain": "https://swiss-skills.ch",
     "full_address": "SwissSkills Schwarztorstrasse 87 3007 Bern",
-    "mobile_primary": "+41315520515"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "THIM/SUPSI (Physiotherapie)",
-    "domain": "campus-graubuenden.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mailtol:info@ahb.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://campus-graubuenden.ch",
     "full_address": "Thim van der Laan AG Weststrasse 8 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Thomann Nutzfahrzeuge",
-    "domain": "lehre.thomann.swiss",
-    "description": "Training and career areas: Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Detailhandelsfachmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Automobil-Assistent/in EBA; Automobil-Fachmann/-frau EFZ; Automobil-Mechatroniker/in EFZ; Detailhandelsfachmann/-frau EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lehre.thomann.swiss",
     "full_address": "Thomann Nutzfahrzeuge Industriestrasse 9 7000 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TRUMPF Schweiz AG",
-    "domain": "trumpf.com",
-    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroniker/in EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Automatiker/in EFZ; Automatikmonteur/in EFZ; Elektroniker/in EFZ; Fachmann/-frau Betriebsunterhalt EFZ; Informatiker/in EFZ; Kaufmann/-frau EFZ; Logistiker/in EFZ; Polymechaniker/in EFZ; Produktionsmechaniker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://trumpf.com",
     "full_address": "TRUMPF Schweiz AG TRUMPF Strasse 8 7214 Grüsch",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Valser Mineralquellen",
-    "domain": "careers.coca-colahellenic.ch",
-    "description": "Training and career areas: Brau- und Getränketechnologe/-login EFZ; Lebensmittelpraktiker/in EBA; Logistiker/in EBA; Logistiker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Brau- und Getränketechnologe/-login EFZ; Lebensmittelpraktiker/in EBA; Logistiker/in EBA; Logistiker/in EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://careers.coca-colahellenic.ch",
     "full_address": "VALSER Mineralquellen GmbH (ein Unternehmen der Coca-Cola HBC Schweiz AG) Camp 519 7132 Vals",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verband Bündner Elektrizitätsversorgungsunternehmen (VBE)",
-    "domain": "vbe-graubuenden.ch",
-    "description": "Training and career areas: Elektroinstallateur/in EFZ; Montage-Elektriker/in EFZ; Netzelektriker/in EFZ; Polymechaniker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Elektroinstallateur/in EFZ; Montage-Elektriker/in EFZ; Netzelektriker/in EFZ; Polymechaniker/in EFZ",
     "email": "info@vbe-graubuenden.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://vbe-graubuenden.ch",
     "full_address": "Verband Bündner Elektrizitätsversorgungsunternehmen (VBE) Hartbertstrasse 11 7001 Chur",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verband Bündnerischer Gemeindeangestellter, VBGA",
-    "domain": "vbga.ch",
-    "description": "Training and career areas: Kaufmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Kaufmann/-frau EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://vbga.ch",
     "full_address": "VBGA, c/o comune di Bregaglia Via ai Crott 17 7206 Promotogno",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verband Schweizerischer Schreinermeister und Möbelfabrikanten Graubünden (VSSM GR)",
-    "domain": "vssm-gr.ch",
-    "description": "Training and career areas: Schreiner/in EFZ; Schreinerpraktiker/in EBA; AVOR-Spezialist/in VSSM; Dipl. Holztechniker/-in HF Schreinerei / Innenausbau; Einstieg Projektleitung Schreinerei; Fertigungsspezialist/in VSSM; Montagespezialist/in VSSM; Projektleiter/-in Schreinerei mit eidg. FA; Schreinermeister/in, dipl. (HFP)",
     "booth": "",
+    "description": "Training and career areas: Schreiner/in EFZ; Schreinerpraktiker/in EBA; AVOR-Spezialist/in VSSM; Dipl. Holztechniker/-in HF Schreinerei / Innenausbau; Einstieg Projektleitung Schreinerei; Fertigungsspezialist/in VSSM; Montagespezialist/in VSSM; Projektleiter/-in Schreinerei mit eidg. FA; Schreinermeister/in, dipl. (HFP)",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://vssm-gr.ch",
     "full_address": "Verband Schweizerischer Schreinermeister und Möbelfabrikanten, VSSM GR Bahnhofplatz 1 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verein zur Förderung von Elektronik und Informatik Berufen, VFEI",
-    "domain": "vfei.ch",
-    "description": "Training and career areas: Elektroniker/in EFZ; Informatiker/in EFZ",
     "booth": "",
+    "description": "Training and career areas: Elektroniker/in EFZ; Informatiker/in EFZ",
     "email": "info@vfei.ch",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://vfei.ch",
     "full_address": "Verein zur Förderung von Elektronik und Informatik Berufen, VFEI Tardisstrasse 199 7205 Zizers",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Volg Detailhandels AG",
-    "domain": "volg.ch",
-    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ",
     "booth": "",
+    "description": "Training and career areas: Detailhandelsassistent/in EBA; Detailhandelsfachmann/-frau EFZ",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://volg.ch",
     "full_address": "Volg Detailhandels AG, Sekretariat Ost Löserstrasse 7 7302 Landquart",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vorausscheidung EuroSkills, Holzbau Schweiz",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

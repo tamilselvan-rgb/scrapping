@@ -1,462 +1,508 @@
 [
   {
     "company_name": "3SI Makler",
-    "domain": "3si.at",
-    "description": "Home Aussteller 3SI Makler 3SI Makler Wir haben, was Sie suchen: Entdecken Sie das attraktive Immobilienangebot von 3SI Makler! Website besuchen E-Mail schreiben Anrufen Wir haben, was Sie suchen: Entdecken Sie das attraktive Immobilienangebot von 3SI Makler! Ob einzigartiger Altbau oder moderner Neubau: Finden Sie mit uns Ihre Traumimmobilie. Vom attraktiven Mietobjekt über einzigartige Eigentumswohnungen in ausgezeichneten Lagen bis hin zur perfekten Vorsorge- & Anlegerwohnung. Unsere engagierten ImmobilienvermittlerInnen gehen auf Ihre individuellen Wünsche ein und helfen Ihnen dabei, die ideale Wohnung für Sie zu finden. Anfrage senden",
     "booth": "AH12",
+    "description": "Home Aussteller 3SI Makler 3SI Makler Wir haben, was Sie suchen: Entdecken Sie das attraktive Immobilienangebot von 3SI Makler! Website besuchen E-Mail schreiben Anrufen Wir haben, was Sie suchen: Entdecken Sie das attraktive Immobilienangebot von 3SI Makler! Ob einzigartiger Altbau oder moderner Neubau: Finden Sie mit uns Ihre Traumimmobilie. Vom attraktiven Mietobjekt über einzigartige Eigentumswohnungen in ausgezeichneten Lagen bis hin zur perfekten Vorsorge- & Anlegerwohnung. Unsere engagierten ImmobilienvermittlerInnen gehen auf Ihre individuellen Wünsche ein und helfen Ihnen dabei, die ideale Wohnung für Sie zu finden. Anfrage senden",
     "email": "makler@3si.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 607 58 58 58",
+    "domain": "https://3si.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 607 58 58 58"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "bauwerk & Partner Immobilien",
-    "domain": "ots.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://ots.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "BOE Baumanagement Gesellschaft m.b.H.",
-    "domain": "boe.at",
-    "description": "Home Aussteller BOE Baumanagement Gesellschaft m.b.H. BOE Baumanagement Gesellschaft m.b.H. Website besuchen E-Mail schreiben Anrufen BOE steht seit über 50 Jahren für Qualität und Zuverlässigkeit in der Immobilienwirtschaft. Wir sind Immobilienentwickler, Projektmanager und Bauträger. Seit das Unternehmen 1968 ins Leben gerufen wurde, betreut und realisiert BOE bis heute viele bemerkenswerte Projekte – von innovativen Wohnhausanlagen über komplexe Multifunktionsbauten. Höchste Nachhaltigkeitsstandards für eine lebenswerte Zukunft und das Bekenntnis zum Klimaschutz stehen im Zentrum unseres Wirtschaftens. Anfrage senden",
     "booth": "AH28",
+    "description": "Home Aussteller BOE Baumanagement Gesellschaft m.b.H. BOE Baumanagement Gesellschaft m.b.H. Website besuchen E-Mail schreiben Anrufen BOE steht seit über 50 Jahren für Qualität und Zuverlässigkeit in der Immobilienwirtschaft. Wir sind Immobilienentwickler, Projektmanager und Bauträger. Seit das Unternehmen 1968 ins Leben gerufen wurde, betreut und realisiert BOE bis heute viele bemerkenswerte Projekte – von innovativen Wohnhausanlagen über komplexe Multifunktionsbauten. Höchste Nachhaltigkeitsstandards für eine lebenswerte Zukunft und das Bekenntnis zum Klimaschutz stehen im Zentrum unseres Wirtschaftens. Anfrage senden",
     "email": "boe.innsbruck@boe.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 71180",
+    "domain": "https://boe.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 71180"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "BUWOG",
-    "domain": "buwog.at",
-    "description": "Home Aussteller BUWOG BUWOG Miet- und Eigentumswohnungen provisionsfrei direkt vom Bauträger! Website besuchen E-Mail schreiben Anrufen Die BUWOG ist der führende Komplettanbieter am österreichischen Wohnimmobilienmarkt und blickt auf über 70 Jahre Erfahrung zurück. Das Immobilienbestandsportfolio umfasst knapp 55.000 Bestandseinheiten und befindet sich in Österreich, die Development-Pipeline hierzulande umfasst etwa 6.680 Einheiten. Neben dem Asset Management der eigenen Bestandsimmobilien wird mit den Geschäftsbereichen Property Sales und Property Development die gesamte Wertschöpfungskette des Wohnungssektors abgedeckt. Die BUWOG ist eine Tochter der Vonovia SE, Europas führendem Wohnungsunternehmen mit Sitz in Bochum (Deutschland). Anfrage senden",
     "booth": "AH18",
+    "description": "Home Aussteller BUWOG BUWOG Miet- und Eigentumswohnungen provisionsfrei direkt vom Bauträger! Website besuchen E-Mail schreiben Anrufen Die BUWOG ist der führende Komplettanbieter am österreichischen Wohnimmobilienmarkt und blickt auf über 70 Jahre Erfahrung zurück. Das Immobilienbestandsportfolio umfasst knapp 55.000 Bestandseinheiten und befindet sich in Österreich, die Development-Pipeline hierzulande umfasst etwa 6.680 Einheiten. Neben dem Asset Management der eigenen Bestandsimmobilien wird mit den Geschäftsbereichen Property Sales und Property Development die gesamte Wertschöpfungskette des Wohnungssektors abgedeckt. Die BUWOG ist eine Tochter der Vonovia SE, Europas führendem Wohnungsunternehmen mit Sitz in Bochum (Deutschland). Anfrage senden",
     "email": "kundenmanagement@buwog.com",
-    "city": "Vienna",
+    "mobile_primary": "+431878281000",
+    "domain": "https://buwog.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+431878281000"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "BWSG",
-    "domain": "bwsg.at",
-    "description": "Home Aussteller BWSG BWSG BWSG besser wohnen seit 1911. Website besuchen E-Mail schreiben Anrufen Die BWS-Gruppe entwickelt, errichtet, saniert, verwaltet, vermietet und verkauft geförderte sowie freifinanzierte Wohnungen, Geschäftsräume und Stellplätze in ganz Österreich. Unsere Projekte zeichnen sich durch einen hohen Qualitätsanspruch in Architektur, Ökologie und Ökonomie aus. Wir bringen klimafreundliches Bauen und Betreiben mit leistbarem Wohnen in Einklang. Vom Bodensee bis zum Neusiedler See zeugen professionell entwickelte und verwaltete Immobilien mit rund 38.000 Verwaltungseinheiten sowie zufriedene Mieter:innen und Eigentümer:innen von unserer jahrzehntelangen Erfahrung. Wir agieren österreichweit mit Hauptsitz in Wien und weiteren Standorten in St. Pölten, Graz, Salzburg und Innsbruck. Anfrage senden",
     "booth": "GH33",
+    "description": "Home Aussteller BWSG BWSG BWSG besser wohnen seit 1911. Website besuchen E-Mail schreiben Anrufen Die BWS-Gruppe entwickelt, errichtet, saniert, verwaltet, vermietet und verkauft geförderte sowie freifinanzierte Wohnungen, Geschäftsräume und Stellplätze in ganz Österreich. Unsere Projekte zeichnen sich durch einen hohen Qualitätsanspruch in Architektur, Ökologie und Ökonomie aus. Wir bringen klimafreundliches Bauen und Betreiben mit leistbarem Wohnen in Einklang. Vom Bodensee bis zum Neusiedler See zeugen professionell entwickelte und verwaltete Immobilien mit rund 38.000 Verwaltungseinheiten sowie zufriedene Mieter:innen und Eigentümer:innen von unserer jahrzehntelangen Erfahrung. Wir agieren österreichweit mit Hauptsitz in Wien und weiteren Standorten in St. Pölten, Graz, Salzburg und Innsbruck. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 54608-5070",
+    "domain": "https://bwsg.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 54608-5070"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Börner – Ihr Hausmakler",
-    "domain": "boerner.at",
-    "description": "Home Aussteller Börner – Ihr Hausmakler Börner – Ihr Hausmakler Beim Immobilienverkauf nimmt man den Börner Website besuchen E-Mail schreiben Anrufen Börner Ihr Hausmakler hat schon 2 mal den IMMY gewonnen und zählt laut Kurier 2023 und auch schon 2022 zu den Top 50 Immobilienmakler Österreichs. Auch weit über Hundert 5 Sterne Kundenbewertungen bestätigen die langjährige hervorragende Arbeit. Börner Ihr Hausmakler ist auch der einzige Makler der mit eigenem research auf über 100 U Bahnstationen genau die Marktpreise erhebt und für jeden Kunden dann um so genauer noch den optimalen Verkaufspreis ermittelt und hervoragend die Immobilie über das langjährigen Netzwerk und geniale Marketingstrategie mit viel Einfühlungsvermögen für die Kunden verkauft. Vertrauen auch Sie beim Immobilienverkauf auf den Börner. Anfrage senden",
     "booth": "EH05",
+    "description": "Home Aussteller Börner – Ihr Hausmakler Börner – Ihr Hausmakler Beim Immobilienverkauf nimmt man den Börner Website besuchen E-Mail schreiben Anrufen Börner Ihr Hausmakler hat schon 2 mal den IMMY gewonnen und zählt laut Kurier 2023 und auch schon 2022 zu den Top 50 Immobilienmakler Österreichs. Auch weit über Hundert 5 Sterne Kundenbewertungen bestätigen die langjährige hervorragende Arbeit. Börner Ihr Hausmakler ist auch der einzige Makler der mit eigenem research auf über 100 U Bahnstationen genau die Marktpreise erhebt und für jeden Kunden dann um so genauer noch den optimalen Verkaufspreis ermittelt und hervoragend die Immobilie über das langjährigen Netzwerk und geniale Marketingstrategie mit viel Einfühlungsvermögen für die Kunden verkauft. Vertrauen auch Sie beim Immobilienverkauf auf den Börner. Anfrage senden",
     "email": "t@boerner.at",
-    "city": "Vienna",
+    "mobile_primary": "+436643300156",
+    "domain": "https://boerner.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+436643300156"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "DEBA Bauträger GmbH",
-    "domain": "deba.at",
-    "description": "Home Aussteller DEBA Bauträger GmbH DEBA Bauträger GmbH Erfolgreiche Immobilienpartnerschaft auf Augenhöhe. Website besuchen E-Mail schreiben Anrufen Wir sind ein Familienunternehmen mit über 50 Jahren Erfahrung und legen besonderen Wert auf eine seriöse und kundenorientierte Beratung. Mit großem persönlichen Einsatz ist unser Team bemüht, Ihre individuellen Wünsche im Verlauf eines Projektes bestmöglich umzusetzen. Wir entwickeln Eigentumswohnungen und Reihen- oder Doppelhäuser in ausgewählten Lagen. Uns zur Seite stehen langjährige Geschäftspartner, mit denen wir vertrauensvoll und gegenseitigem Respekt sehr gut zusammenarbeiten. Anfrage senden",
     "booth": "EH01",
+    "description": "Home Aussteller DEBA Bauträger GmbH DEBA Bauträger GmbH Erfolgreiche Immobilienpartnerschaft auf Augenhöhe. Website besuchen E-Mail schreiben Anrufen Wir sind ein Familienunternehmen mit über 50 Jahren Erfahrung und legen besonderen Wert auf eine seriöse und kundenorientierte Beratung. Mit großem persönlichen Einsatz ist unser Team bemüht, Ihre individuellen Wünsche im Verlauf eines Projektes bestmöglich umzusetzen. Wir entwickeln Eigentumswohnungen und Reihen- oder Doppelhäuser in ausgewählten Lagen. Uns zur Seite stehen langjährige Geschäftspartner, mit denen wir vertrauensvoll und gegenseitigem Respekt sehr gut zusammenarbeiten. Anfrage senden",
     "email": "office@deba.at",
-    "city": "Vienna",
+    "mobile_primary": "+4313682111",
+    "domain": "https://deba.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4313682111"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "DerStandard",
-    "domain": "derstandard.at",
-    "description": "Home Aussteller DerStandard DerStandard Website besuchen Der Standard ist eine der führenden österreichischen Qualitätszeitungen mit starkem Fokus auf unabhängigen Journalismus, gesellschaftspolitische Themen und Wirtschaft. Als Aussteller und Partner auf der Erste Wohnmesse steht Der Standard für fundierte Information rund um Immobilien, Wohnen und Lifestyle – sowohl in Print als auch digital. Anfrage senden",
     "booth": "SH40",
+    "description": "Home Aussteller DerStandard DerStandard Website besuchen Der Standard ist eine der führenden österreichischen Qualitätszeitungen mit starkem Fokus auf unabhängigen Journalismus, gesellschaftspolitische Themen und Wirtschaft. Als Aussteller und Partner auf der Erste Wohnmesse steht Der Standard für fundierte Information rund um Immobilien, Wohnen und Lifestyle – sowohl in Print als auch digital. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://derstandard.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Die Presse",
-    "domain": "diepresse.com",
-    "description": "Home Aussteller Die Presse Die Presse Website besuchen Anfrage senden",
     "booth": "SH41",
+    "description": "Home Aussteller Die Presse Die Presse Website besuchen Anfrage senden",
     "email": "chefredaktion@diepresse.com",
-    "city": "Vienna",
+    "mobile_primary": "015141470",
+    "domain": "https://diepresse.com",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "015141470"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "EHL Immobilien",
-    "domain": "ehl.at",
-    "description": "Home Aussteller EHL Immobilien EHL Immobilien Wir leben Immobilien. Website besuchen E-Mail schreiben Anrufen EHL Immobilien, gegründet 1991, ist einer der führenden Immobiliendienstleister Österreichs und auf Wohn-, Gewerbe- und Investmentimmobilien spezialisiert. Unser Dienstleistungsspektrum reicht von Immobilienvermittlung über Immobilienbewertung, Asset- und Portfolio Management bis hin zu Market Research und Investmentberatung. Die EHL-Immobilien Gruppe lebt ihre Unternehmenswerte. Täglich. Kompetent. Engagiert. Leidenschaftlich. In allen Dienstleistungsbereichen: Vermietung Verkauf Bewertung Investment Asset & Portfolio Management Market Research Wohnimmobilien Vorsorgewohnungen Büroimmobilien Einzelhandelsobjekte Logistikimmobilien Anlageobjekte Zinshäuser Betriebsliegenschaften Grundstücke Hotelimmobilien Anfrage senden",
     "booth": "AH26",
+    "description": "Home Aussteller EHL Immobilien EHL Immobilien Wir leben Immobilien. Website besuchen E-Mail schreiben Anrufen EHL Immobilien, gegründet 1991, ist einer der führenden Immobiliendienstleister Österreichs und auf Wohn-, Gewerbe- und Investmentimmobilien spezialisiert. Unser Dienstleistungsspektrum reicht von Immobilienvermittlung über Immobilienbewertung, Asset- und Portfolio Management bis hin zu Market Research und Investmentberatung. Die EHL-Immobilien Gruppe lebt ihre Unternehmenswerte. Täglich. Kompetent. Engagiert. Leidenschaftlich. In allen Dienstleistungsbereichen: Vermietung Verkauf Bewertung Investment Asset & Portfolio Management Market Research Wohnimmobilien Vorsorgewohnungen Büroimmobilien Einzelhandelsobjekte Logistikimmobilien Anlageobjekte Zinshäuser Betriebsliegenschaften Grundstücke Hotelimmobilien Anfrage senden",
     "email": "office@ehl.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 5127690-450",
+    "domain": "https://ehl.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 5127690-450"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Erste Bank der oesterreichischen Sparkassen AG",
-    "domain": "erstebank.at",
-    "description": "Home Aussteller Erste Bank der oesterreichischen Sparkassen AG Erste Bank der oesterreichischen Sparkassen AG Website besuchen E-Mail schreiben Anrufen Die Erste Bank ist seit über 200 Jahren verlässlicher Partner rund um das Thema Finanzen. Mit flexiblen Krediten und Darlehen und einer schnellen Kreditzusage finanzieren wir Ihren Wohntraum ganz rasch. Wir begleiten Sie gerne von der 1. Ratenberechnung, über den Einzug in Ihr neues Eigentum bis zum Ende Ihrer Finanzierung. Nutzen Sie unserem Wohnkreditrechner, um eine erste Orientierung zu Ihrer Finanzierungshöhe und Kreditrate zu bekommen. Anfrage senden",
     "booth": "EC14",
+    "description": "Home Aussteller Erste Bank der oesterreichischen Sparkassen AG Erste Bank der oesterreichischen Sparkassen AG Website besuchen E-Mail schreiben Anrufen Die Erste Bank ist seit über 200 Jahren verlässlicher Partner rund um das Thema Finanzen. Mit flexiblen Krediten und Darlehen und einer schnellen Kreditzusage finanzieren wir Ihren Wohntraum ganz rasch. Wir begleiten Sie gerne von der 1. Ratenberechnung, über den Einzug in Ihr neues Eigentum bis zum Ende Ihrer Finanzierung. Nutzen Sie unserem Wohnkreditrechner, um eine erste Orientierung zu Ihrer Finanzierungshöhe und Kreditrate zu bekommen. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+43 50100 22099",
+    "domain": "https://erstebank.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 50100 22099"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Familienwohnbau gemeinnützige Bau- und Siedlungsgesellschaft m.b.H.",
-    "domain": "familienwohnbau.at",
-    "description": "Home Aussteller Familienwohnbau gemeinnützige Bau- und Siedlungsgesellschaft m.b.H. Familienwohnbau gemeinnützige Bau- und Siedlungsgesellschaft m.b.H. 72 Jahre familienfreundlicher Wohnbau Website besuchen E-Mail schreiben Anrufen Die Familienwohnbau errichtet seit 72 Jahren neben geförderten Mietwohnhausanlagen auch freifinanziertes Eigentum und nimmt erfolgreich an Bauträger-Wettbewerben teil. In den Anfängen des Unternehmens wurden vor allem kleinere geförderte Wohnungseigentumsanlagen in Wien und Niederösterreich errichtet, später kamen auch geförderte Althaussanierung und freifinanziertes Wohnungseigentum dazu. Die sich stetig ändernden Marktverhältnisse, das Steigen der Grundstückspreise und nicht zuletzt die immer stärkere Nachfrage erforderten den Fokus auf großvolumigen Wohnbau – selbstverständlich immer mit Blick auf die Verpflichtung zum Bauen nach den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit und im Bewusstsein der sozialen und kulturellen Verantwortung. Den Begriff Nachhaltigkeit versteht die Familienwohnbau als zentralen Auftrag ihres Handelns – sowohl für die Errichtung leistbarer familienfreundlicher Anlagen mit attraktiven Gemeinschaftseinrichtungen und ansprechender Grün- und Freiraumgestaltung und zeitloser zweckentsprechender Architektur aber auch für alternative Energieversorgung, hochgedämmte Wohngebäude, Photovoltaik, Elektroanschlüsse für KFZ und Fahrradabstellplätze. Anfrage senden",
     "booth": "AH13",
+    "description": "Home Aussteller Familienwohnbau gemeinnützige Bau- und Siedlungsgesellschaft m.b.H. Familienwohnbau gemeinnützige Bau- und Siedlungsgesellschaft m.b.H. 72 Jahre familienfreundlicher Wohnbau Website besuchen E-Mail schreiben Anrufen Die Familienwohnbau errichtet seit 72 Jahren neben geförderten Mietwohnhausanlagen auch freifinanziertes Eigentum und nimmt erfolgreich an Bauträger-Wettbewerben teil. In den Anfängen des Unternehmens wurden vor allem kleinere geförderte Wohnungseigentumsanlagen in Wien und Niederösterreich errichtet, später kamen auch geförderte Althaussanierung und freifinanziertes Wohnungseigentum dazu. Die sich stetig ändernden Marktverhältnisse, das Steigen der Grundstückspreise und nicht zuletzt die immer stärkere Nachfrage erforderten den Fokus auf großvolumigen Wohnbau – selbstverständlich immer mit Blick auf die Verpflichtung zum Bauen nach den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit und im Bewusstsein der sozialen und kulturellen Verantwortung. Den Begriff Nachhaltigkeit versteht die Familienwohnbau als zentralen Auftrag ihres Handelns – sowohl für die Errichtung leistbarer familienfreundlicher Anlagen mit attraktiven Gemeinschaftseinrichtungen und ansprechender Grün- und Freiraumgestaltung und zeitloser zweckentsprechender Architektur aber auch für alternative Energieversorgung, hochgedämmte Wohngebäude, Photovoltaik, Elektroanschlüsse für KFZ und Fahrradabstellplätze. Anfrage senden",
     "email": "office@familienwohnbau.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 403 41 81 - 19",
+    "domain": "https://familienwohnbau.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 403 41 81 - 19"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "famosa Haus",
-    "domain": "famosahaus.at",
-    "description": "Home Aussteller famosa Haus famosa Haus Bauträger Website besuchen E-Mail schreiben Anrufen famosa Haus – Qualität und Erfahrung seit mehr als 25 Jahren Wir sind ein Wiener Bauträgerunternehmen und auf hochwertige Ziegelmassivhäuser sowie Eigentumswohnungen in Wien und Niederösterreich spezialisiert. Mit Freude, fachlicher Kompetenz und persönlichem Engagement entwickeln und realisieren wir Einfamilienhäuser, Doppelhäuser, Reihenhäuser und moderne Eigentumswohnungen, die wir direkt und provisionsfrei verkaufen. Knapp 2.000 realisierte Häuser und mehr als 4.000 zufriedene Kundinnen und Kunden stehen für transparente Abläufe, verlässliche Qualität und umfassende Erfahrung. Namhafte regionale Partnerunternehmen unterstützen uns dabei, unsere Projekte mit hoher Sorgfalt und nach bewährten Qualitätsstandards umzusetzen. So schaffen wir Wohnraum, der hochwertige Bauweise, durchdachte Wohnkonzepte und persönliche Begleitung mit Lebensqualität und langfristiger Werthaltigkeit verbindet. Mehr über famosa Haus, unsere Projekte und aktuelle Neuigkeiten erfahren Sie auf unserer Website und unseren Social-Media-Kanälen Facebook , Instagram & LinkedIn . Anfrage senden",
     "booth": "EH03",
+    "description": "Home Aussteller famosa Haus famosa Haus Bauträger Website besuchen E-Mail schreiben Anrufen famosa Haus – Qualität und Erfahrung seit mehr als 25 Jahren Wir sind ein Wiener Bauträgerunternehmen und auf hochwertige Ziegelmassivhäuser sowie Eigentumswohnungen in Wien und Niederösterreich spezialisiert. Mit Freude, fachlicher Kompetenz und persönlichem Engagement entwickeln und realisieren wir Einfamilienhäuser, Doppelhäuser, Reihenhäuser und moderne Eigentumswohnungen, die wir direkt und provisionsfrei verkaufen. Knapp 2.000 realisierte Häuser und mehr als 4.000 zufriedene Kundinnen und Kunden stehen für transparente Abläufe, verlässliche Qualität und umfassende Erfahrung. Namhafte regionale Partnerunternehmen unterstützen uns dabei, unsere Projekte mit hoher Sorgfalt und nach bewährten Qualitätsstandards umzusetzen. So schaffen wir Wohnraum, der hochwertige Bauweise, durchdachte Wohnkonzepte und persönliche Begleitung mit Lebensqualität und langfristiger Werthaltigkeit verbindet. Mehr über famosa Haus, unsere Projekte und aktuelle Neuigkeiten erfahren Sie auf unserer Website und unseren Social-Media-Kanälen Facebook , Instagram & LinkedIn . Anfrage senden",
     "email": "office@famosahaus.at",
-    "city": "Vienna",
+    "mobile_primary": "+4318171807",
+    "domain": "https://famosahaus.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4318171807"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "FLAIR Bauträger GmbH",
-    "domain": "flair.at",
-    "description": "Home Aussteller FLAIR Bauträger GmbH FLAIR Bauträger GmbH ...einfach schöner leben Website besuchen E-Mail schreiben Anrufen FLAIR realisiert seit 25 Jahren mit großer Leidenschaft besondere Lebensräume für ihre Bewohner. Alle Wohnanlagen bieten eine perfekte Harmonie von natürlichen Materialien und einer individuellen, sehr ansprechenden Gebäudeanordnung. Die qualitativ hochwertigen FLAIR-Anlagen – in denen mit Wasser, Holz und lebendigem Grün gespielt wird und deren Gebäudeanordnung natürlichen Strukturen nachempfunden ist – ermöglicht ein Leben voller Individualität in einem ausgewogenen Miteinander. FLAIR wurde 2020 mit dem IMMY – Sonderpreis für besondere Kunden- und Umweltorientierung ausgezeichnet. Time out mit FLAIR am Semmering! Nutzen Sie die großartige Möglichkeit, ein krisensicheres Investment mit Wertsteigerung zu tätigen und gleichzeitig Urlaub vor der Haustüre zu erleben. Die Appartements verfügen über eine Zweitwohnsitzwidmung, daher ist sowohl kurzfristige als auch langfristige Vermietung möglich. Besuchen Sie uns am Stand AH07 und lassen Sie sich persönlich von diesem Projekt überzeugen – wir freuen uns auf Sie! Anfrage senden",
     "booth": "AH07",
+    "description": "Home Aussteller FLAIR Bauträger GmbH FLAIR Bauträger GmbH ...einfach schöner leben Website besuchen E-Mail schreiben Anrufen FLAIR realisiert seit 25 Jahren mit großer Leidenschaft besondere Lebensräume für ihre Bewohner. Alle Wohnanlagen bieten eine perfekte Harmonie von natürlichen Materialien und einer individuellen, sehr ansprechenden Gebäudeanordnung. Die qualitativ hochwertigen FLAIR-Anlagen – in denen mit Wasser, Holz und lebendigem Grün gespielt wird und deren Gebäudeanordnung natürlichen Strukturen nachempfunden ist – ermöglicht ein Leben voller Individualität in einem ausgewogenen Miteinander. FLAIR wurde 2020 mit dem IMMY – Sonderpreis für besondere Kunden- und Umweltorientierung ausgezeichnet. Time out mit FLAIR am Semmering! Nutzen Sie die großartige Möglichkeit, ein krisensicheres Investment mit Wertsteigerung zu tätigen und gleichzeitig Urlaub vor der Haustüre zu erleben. Die Appartements verfügen über eine Zweitwohnsitzwidmung, daher ist sowohl kurzfristige als auch langfristige Vermietung möglich. Besuchen Sie uns am Stand AH07 und lassen Sie sich persönlich von diesem Projekt überzeugen – wir freuen uns auf Sie! Anfrage senden",
     "email": "wohnen@flair.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 662 73 72",
+    "domain": "https://flair.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 662 73 72"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Freigassner Immobilien",
-    "domain": "freigassner-immobilien.at",
-    "description": "Home Aussteller Freigassner Immobilien Freigassner Immobilien Weil zuhause mehr als nur wohnen ist! Immobilienentwicklung seit 1995 Website besuchen E-Mail schreiben Anrufen Seit mittlerweile drei Jahrzehnten entwickeln wir in Wien Wohnraum für hohe Ansprüche. Langjährige Erfahrung und Partner tragen schon seit vielen Jahren zur erfolgreichen Umsetzung unserer Wohnprojekte bei. „Ich plane und realisiere Wohnungen so, dass ich mich selbst darin wohlfühlen würde“ (Peter Freigassner, Gründer) Anfrage senden",
     "booth": "GH38",
+    "description": "Home Aussteller Freigassner Immobilien Freigassner Immobilien Weil zuhause mehr als nur wohnen ist! Immobilienentwicklung seit 1995 Website besuchen E-Mail schreiben Anrufen Seit mittlerweile drei Jahrzehnten entwickeln wir in Wien Wohnraum für hohe Ansprüche. Langjährige Erfahrung und Partner tragen schon seit vielen Jahren zur erfolgreichen Umsetzung unserer Wohnprojekte bei. „Ich plane und realisiere Wohnungen so, dass ich mich selbst darin wohlfühlen würde“ (Peter Freigassner, Gründer) Anfrage senden",
     "email": "immobilien@freigassner.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 8045088",
+    "domain": "https://freigassner-immobilien.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 8045088"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Geiger Immobilien",
-    "domain": "immobilien.geigergruppe.at",
-    "description": "Home Aussteller Geiger Immobilien Geiger Immobilien Freifinanzierte Eigentumswohnungen provisionsfrei vom Bauträger. Website besuchen E-Mail schreiben Anrufen Anfrage senden",
     "booth": "AH11",
+    "description": "Home Aussteller Geiger Immobilien Geiger Immobilien Freifinanzierte Eigentumswohnungen provisionsfrei vom Bauträger. Website besuchen E-Mail schreiben Anrufen Anfrage senden",
     "email": "immobilien@geigergruppe.at",
-    "city": "Vienna",
+    "mobile_primary": "+4312980050",
+    "domain": "https://immobilien.geigergruppe.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4312980050"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Glorit Bausysteme GmbH",
-    "domain": "glorit.at",
-    "description": "Home Aussteller Glorit Bausysteme GmbH Glorit Bausysteme GmbH Das 1. Haus am Platz Website besuchen E-Mail schreiben Anrufen Glorit zählt zu den größten privaten Bauträgern im Großraum Wien. Als Kernmarkt gelten die Toplagen des aufstrebenden 21. und 22. Bezirks. Das Unternehmen ist als Premiumanbieter auf den Bau von hochwertigen Einzelhäusern, Doppelhäusern, Reihenhäusern, Villen sowie Eigentumswohnungen spezialisiert. Mit dem „Alles aus einer Hand-Service“ eines erfahrenen Bauträgers sind höchste Qualitäts- und Dienstleistungsstandards sichergestellt. Dies dokumentieren auch die unzähligen Auszeichnungen und Qualitätssiegel, die das Unternehmen in den letzten Jahren sammeln konnte. Anfrage senden",
     "booth": "AH10",
+    "description": "Home Aussteller Glorit Bausysteme GmbH Glorit Bausysteme GmbH Das 1. Haus am Platz Website besuchen E-Mail schreiben Anrufen Glorit zählt zu den größten privaten Bauträgern im Großraum Wien. Als Kernmarkt gelten die Toplagen des aufstrebenden 21. und 22. Bezirks. Das Unternehmen ist als Premiumanbieter auf den Bau von hochwertigen Einzelhäusern, Doppelhäusern, Reihenhäusern, Villen sowie Eigentumswohnungen spezialisiert. Mit dem „Alles aus einer Hand-Service“ eines erfahrenen Bauträgers sind höchste Qualitäts- und Dienstleistungsstandards sichergestellt. Dies dokumentieren auch die unzähligen Auszeichnungen und Qualitätssiegel, die das Unternehmen in den letzten Jahren sammeln konnte. Anfrage senden",
     "email": "gabriele.koschier-figl@glorit.at",
-    "city": "Vienna",
+    "mobile_primary": "0810 311 900",
+    "domain": "https://glorit.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "0810 311 900"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Immomarktplatz",
-    "domain": "immomarktplatz.at",
-    "description": "Home Aussteller Immomarktplatz Immomarktplatz Website besuchen Anfrage senden",
     "booth": "AH19",
+    "description": "Home Aussteller Immomarktplatz Immomarktplatz Website besuchen Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://immomarktplatz.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "ImmoScout24",
-    "domain": "immobilienscout24.at",
-    "description": "Home Aussteller ImmoScout24 ImmoScout24 Einfach Zuhause. Website besuchen Alles rund um die Immobiliensuche ImmoScout24 hilft Nutzenden, ihre Immobilienträume stressfrei zu verwirklichen. Rund zwei Millionen Käufer:innen und Mieter:innen suchen monatlich auf unseren Portalen – immoscout24.at, immobilien.net, immosuchmaschine.at und immodirekt.at – nach ihrem neuen Zuhause. Dabei finden sie alles rund ums Wohnen: von Finanzierungspartnern und Umzugsunternehmen bis zu Ratgebern zu Kauf und Miete. Services für Profis und Makler:innen Unser Ziel ist, Anbieter:innen in jedem Vermarktungsschritt mit den richtigen Werkzeugen und Daten zu unterstützen. Als Experte für professionelle Immobilienservices bieten wir maßgeschneiderte Lösungen zur Optimierung Ihres Immobiliengeschäfts. Egal ob Sie als Makler:in, Bauträger oder Projektentwickler:in tätig sind, wir unterstützen Sie bei der Verwaltung von Immobilien, der Stärkung Ihrer Markenpräsenz und der Akquise neuer Objekte. Zudem bieten wir umfassende Datenprodukte und Maklersoftware an. Anfrage senden",
     "booth": "",
+    "description": "Home Aussteller ImmoScout24 ImmoScout24 Einfach Zuhause. Website besuchen Alles rund um die Immobiliensuche ImmoScout24 hilft Nutzenden, ihre Immobilienträume stressfrei zu verwirklichen. Rund zwei Millionen Käufer:innen und Mieter:innen suchen monatlich auf unseren Portalen – immoscout24.at, immobilien.net, immosuchmaschine.at und immodirekt.at – nach ihrem neuen Zuhause. Dabei finden sie alles rund ums Wohnen: von Finanzierungspartnern und Umzugsunternehmen bis zu Ratgebern zu Kauf und Miete. Services für Profis und Makler:innen Unser Ziel ist, Anbieter:innen in jedem Vermarktungsschritt mit den richtigen Werkzeugen und Daten zu unterstützen. Als Experte für professionelle Immobilienservices bieten wir maßgeschneiderte Lösungen zur Optimierung Ihres Immobiliengeschäfts. Egal ob Sie als Makler:in, Bauträger oder Projektentwickler:in tätig sind, wir unterstützen Sie bei der Verwaltung von Immobilien, der Stärkung Ihrer Markenpräsenz und der Akquise neuer Objekte. Zudem bieten wir umfassende Datenprodukte und Maklersoftware an. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://immobilienscout24.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "IMV Makler GmbH",
-    "domain": "imv.co.at",
-    "description": "Home Aussteller IMV Makler GmbH IMV Makler GmbH Mieten oder kaufen. Mehr drin fürs Budget. Website besuchen E-Mail schreiben Anrufen Neu gebaut ist nicht automatisch die beste Wahl. Die IMV Makler vermitteln Miet- und Eigentumswohnungen in Wien und Niederösterreich – für Menschen, die bei Lage, Wohnfläche und Preis genau hinschauen. Als Teil der IMV Unternehmensgruppe verbinden wir persönliche Maklerberatung mit mehr als 30 Jahren Erfahrung im Immobilienmanagement. Hinter uns steht Österreichs größte private Hausverwaltung. Bei vielen Objekten kennen wir deshalb nicht nur die Wohnung, sondern auch das Haus aus der laufenden Verwaltung. So erhalten Interessent:innen eine Einschätzung, die nicht an der Wohnungstür endet. Unser Angebot reicht von Mietwohnungen über Eigentum zur Eigennutzung bis zu bereits vermieteten Anlageobjekten. Unser achtköpfiges Maklerteam zeigt Ihnen, welche Möglichkeiten im Bestand stecken. Entdecken Sie unsere Miet-und Eigentumswohnungen. Anfrage senden",
     "booth": "AH27",
+    "description": "Home Aussteller IMV Makler GmbH IMV Makler GmbH Mieten oder kaufen. Mehr drin fürs Budget. Website besuchen E-Mail schreiben Anrufen Neu gebaut ist nicht automatisch die beste Wahl. Die IMV Makler vermitteln Miet- und Eigentumswohnungen in Wien und Niederösterreich – für Menschen, die bei Lage, Wohnfläche und Preis genau hinschauen. Als Teil der IMV Unternehmensgruppe verbinden wir persönliche Maklerberatung mit mehr als 30 Jahren Erfahrung im Immobilienmanagement. Hinter uns steht Österreichs größte private Hausverwaltung. Bei vielen Objekten kennen wir deshalb nicht nur die Wohnung, sondern auch das Haus aus der laufenden Verwaltung. So erhalten Interessent:innen eine Einschätzung, die nicht an der Wohnungstür endet. Unser Angebot reicht von Mietwohnungen über Eigentum zur Eigennutzung bis zu bereits vermieteten Anlageobjekten. Unser achtköpfiges Maklerteam zeigt Ihnen, welche Möglichkeiten im Bestand stecken. Entdecken Sie unsere Miet-und Eigentumswohnungen. Anfrage senden",
     "email": "office@imv.co.at",
-    "city": "Vienna",
+    "mobile_primary": "+4315866955555",
+    "domain": "https://imv.co.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4315866955555"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kubicek Immobilien",
-    "domain": "immo-kubicek.at",
-    "description": "Home Aussteller Kubicek Immobilien Kubicek Immobilien Ihr Partner seit 1929 - Wir vermitteln auch Ihre Immobilie erfolgreich! Website besuchen E-Mail schreiben Anrufen Wir vermitteln bereits seit mehr als 90 Jahren erfolgreich Immobilien. Darüber hinaus sind wir mehrfach ausgezeichneter Qualitätspreisträger, unsere staatlich geprüften Immobilienexperten sind sicher der richtige Ansprechpartner für Sie. Anfrage senden",
     "booth": "AH06",
+    "description": "Home Aussteller Kubicek Immobilien Kubicek Immobilien Ihr Partner seit 1929 - Wir vermitteln auch Ihre Immobilie erfolgreich! Website besuchen E-Mail schreiben Anrufen Wir vermitteln bereits seit mehr als 90 Jahren erfolgreich Immobilien. Darüber hinaus sind wir mehrfach ausgezeichneter Qualitätspreisträger, unsere staatlich geprüften Immobilienexperten sind sicher der richtige Ansprechpartner für Sie. Anfrage senden",
     "email": "wien@immo-kubicek.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 2031168-0",
+    "domain": "https://immo-kubicek.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 2031168-0"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kurier",
-    "domain": "kurier.at",
-    "description": "Home Aussteller Kurier Kurier Website besuchen Anfrage senden",
     "booth": "GH31",
+    "description": "Home Aussteller Kurier Kurier Website besuchen Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://kurier.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "LEADER Thayaland",
-    "domain": "enteco.at",
-    "description": "Home Aussteller LEADER Thayaland LEADER Thayaland Anfrage senden",
     "booth": "",
+    "description": "Home Aussteller LEADER Thayaland LEADER Thayaland Anfrage senden",
     "email": "hello@enteco.at",
-    "city": "Vienna",
+    "mobile_primary": "+4315224788",
+    "domain": "https://enteco.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4315224788"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Liv Immobilienvermarktung",
-    "domain": "liv.at",
-    "description": "Home Aussteller Liv Immobilienvermarktung Liv Immobilienvermarktung Hier will ich sein. Website besuchen E-Mail schreiben Anrufen Als familiengeführtes Immobilienunternehmen steht Liv seit über 20 Jahren für Projekte mit hoher Lebensqualität. Sei es die sanierte Altbauwohnung in der Josefstadt oder das Neubau-Penthouse an der Alten Donau – das Portfolio ist vielseitig. Die Liebe zum Detail und der hohe Anspruch an Design und Funktionalität sind in jeder Wohnung sicht- und spürbar. Anfrage senden",
     "booth": "AH09",
+    "description": "Home Aussteller Liv Immobilienvermarktung Liv Immobilienvermarktung Hier will ich sein. Website besuchen E-Mail schreiben Anrufen Als familiengeführtes Immobilienunternehmen steht Liv seit über 20 Jahren für Projekte mit hoher Lebensqualität. Sei es die sanierte Altbauwohnung in der Josefstadt oder das Neubau-Penthouse an der Alten Donau – das Portfolio ist vielseitig. Die Liebe zum Detail und der hohe Anspruch an Design und Funktionalität sind in jeder Wohnung sicht- und spürbar. Anfrage senden",
     "email": "liv@liv.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 402 15 15",
+    "domain": "https://liv.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 402 15 15"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mischek Bauträger Service GmbH",
-    "domain": "mischek.at",
-    "description": "Home Aussteller Mischek Bauträger Service GmbH Mischek Bauträger Service GmbH Der traditionsreiche Bauträger in Wien Website besuchen E-Mail schreiben Anrufen Mit 75 Jahren Erfahrung im Bausegment ist die Mischek Bauträger GmbH eine der renommiertesten Marken in Österreich. Als Unternehmen der STRABAG SE gehört Mischek einem finanzstarken und innovativen Bautechnologiekonzern an. 15.000 errichtete Neubauwohnungen, über 200 Wohnbauprojekte in Wien und ein starkes Netzwerk an Partner:innen zeichnen Mischek aus. Als fairer Bauträger legt Mischek großes Augenmerk auf die Umwelt – ökologische Nachhaltigkeit hat Priorität. Das Leistungsspektrum umfasst alle Phasen der Projektentwicklung – von der Initiierung, Planung, Realisierung und Vermietung bis hin zum Verkauf. Anfrage senden",
     "booth": "AH22-A",
+    "description": "Home Aussteller Mischek Bauträger Service GmbH Mischek Bauträger Service GmbH Der traditionsreiche Bauträger in Wien Website besuchen E-Mail schreiben Anrufen Mit 75 Jahren Erfahrung im Bausegment ist die Mischek Bauträger GmbH eine der renommiertesten Marken in Österreich. Als Unternehmen der STRABAG SE gehört Mischek einem finanzstarken und innovativen Bautechnologiekonzern an. 15.000 errichtete Neubauwohnungen, über 200 Wohnbauprojekte in Wien und ein starkes Netzwerk an Partner:innen zeichnen Mischek aus. Als fairer Bauträger legt Mischek großes Augenmerk auf die Umwelt – ökologische Nachhaltigkeit hat Priorität. Das Leistungsspektrum umfasst alle Phasen der Projektentwicklung – von der Initiierung, Planung, Realisierung und Vermietung bis hin zum Verkauf. Anfrage senden",
     "email": "office@mischek.at",
-    "city": "Vienna",
+    "mobile_primary": "0800 201020",
+    "domain": "https://mischek.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "0800 201020"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Regional Medien Austria",
-    "domain": "regionalmedien.at",
-    "description": "Home Aussteller Regional Medien Austria Regional Medien Austria Website besuchen Anfrage senden",
     "booth": "SH42",
+    "description": "Home Aussteller Regional Medien Austria Regional Medien Austria Website besuchen Anfrage senden",
     "email": "info@regionalmedien.at",
-    "city": "Vienna",
+    "mobile_primary": "+4315353530",
+    "domain": "https://regionalmedien.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4315353530"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Revide Group",
-    "domain": "enteco.at",
-    "description": "Home Aussteller Revide Group Revide Group Anfrage senden",
     "booth": "GH30",
+    "description": "Home Aussteller Revide Group Revide Group Anfrage senden",
     "email": "hello@enteco.at",
-    "city": "Vienna",
+    "mobile_primary": "+4315224788",
+    "domain": "https://enteco.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4315224788"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rhomberg Bau Wien",
-    "domain": "rhomberg.com",
-    "description": "Home Aussteller Rhomberg Bau Wien Rhomberg Bau Wien Bauträger & Projektentwickler Website besuchen E-Mail schreiben Anrufen Rhomberg Bau Wien Bereits seit über 15 Jahren ist das in Vorarlberg beheimatete Familienunternehmen Rhomberg Bau in Wien erfolgreich. Schwerpunkt der Tätigkeiten in der Bundeshauptstadt sind die Immobilien- und Projektentwicklung, der General- und Totalunternehmerbau sowie Leistungen rund um die Revitalisierung von Bestandsgebäuden. Mit einem engagierten Team von 60 Expert: innen werden seit September 2022 Projekte als eigenständiges Unternehmen, als Rhomberg Bau Wien GmbH (gemeinsam mit dem Tochterunternehmen Bauunternehmung Ing. Prath) umgesetzt. Anfrage senden",
     "booth": "AH23-B",
+    "description": "Home Aussteller Rhomberg Bau Wien Rhomberg Bau Wien Bauträger & Projektentwickler Website besuchen E-Mail schreiben Anrufen Rhomberg Bau Wien Bereits seit über 15 Jahren ist das in Vorarlberg beheimatete Familienunternehmen Rhomberg Bau in Wien erfolgreich. Schwerpunkt der Tätigkeiten in der Bundeshauptstadt sind die Immobilien- und Projektentwicklung, der General- und Totalunternehmerbau sowie Leistungen rund um die Revitalisierung von Bestandsgebäuden. Mit einem engagierten Team von 60 Expert: innen werden seit September 2022 Projekte als eigenständiges Unternehmen, als Rhomberg Bau Wien GmbH (gemeinsam mit dem Tochterunternehmen Bauunternehmung Ing. Prath) umgesetzt. Anfrage senden",
     "email": "info@rhomberg.com",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 715 00 30-0",
+    "domain": "https://rhomberg.com",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 715 00 30-0"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "RUSTLER",
-    "domain": "rustler.eu",
-    "description": "Home Aussteller RUSTLER RUSTLER Real Estate Experts Website besuchen Anrufen Wir präsentieren Ihnen spannende Wohnbau Projekte in Wien und Umgebung. Weiters erhalten Sie auf der Messe einen Überblick über alle aktuell verfügbaren Mietwohnungen von Rustler. Neben der Vermittlung von Immobilien in ganz Österreich zählen auch die Bewertung und eine intensive Research Tätigkeit zu unserem Leistungsspektrum. Wenn Sie sich zum Beispiel beim Kauf Ihrer Wunschimmobilie absichern und eine unabhängige Dritt-Meinung einholen möchten, beraten wir Sie gerne. Dabei können wir Sie bei allen bautechnischen, wirtschaftlichen und rechtlichen Aspekten rund um den Ankauf unterstützen. Wir freuen uns darauf Sie bei der Messe persönlich kennenzulernen! Anfrage senden",
     "booth": "AH25",
+    "description": "Home Aussteller RUSTLER RUSTLER Real Estate Experts Website besuchen Anrufen Wir präsentieren Ihnen spannende Wohnbau Projekte in Wien und Umgebung. Weiters erhalten Sie auf der Messe einen Überblick über alle aktuell verfügbaren Mietwohnungen von Rustler. Neben der Vermittlung von Immobilien in ganz Österreich zählen auch die Bewertung und eine intensive Research Tätigkeit zu unserem Leistungsspektrum. Wenn Sie sich zum Beispiel beim Kauf Ihrer Wunschimmobilie absichern und eine unabhängige Dritt-Meinung einholen möchten, beraten wir Sie gerne. Dabei können wir Sie bei allen bautechnischen, wirtschaftlichen und rechtlichen Aspekten rund um den Ankauf unterstützen. Wir freuen uns darauf Sie bei der Messe persönlich kennenzulernen! Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+4318949749",
+    "domain": "https://rustler.eu",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4318949749"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "s Bausparkasse – Wohnglück sicher finanzieren",
-    "domain": "sbausparkasse.at",
-    "description": "Home Aussteller s Bausparkasse – Wohnglück sicher finanzieren s Bausparkasse – Wohnglück sicher finanzieren Ihr Experte im Bereich Wohnen, Bauen und Sanieren Website besuchen E-Mail schreiben Anrufen Wie soll Ihr neues Wohnglück aussehen? Sie wollen ein Haus bauen, möchten eine Wohnung finanzieren oder sind auf der Suche nach einer Finanzierung für einen Hauskauf? Das s Bauspardarlehen ist der sichere Begleiter für ihren Weg. Über die s Bausparkasse kompetent. verlässlich. flexibel. Wir sind der Partner für leistbares Wohnen und staatlich gefördertes Sparen. Die s Bausparkasse steht auch in turbulenten wirtschaftlichen Zeiten für Sicherheit und Kalkulierbarkeit beim Sparen und Finanzieren. Als Teil der Sparkassengruppe bieten wir ein vielfältiges Angebot um die Wohnträume unserer Kunden in ganz Österreich zu verwirklichen. Darüber hinaus sind wir Experten in den Bereichen Bauen, Wohnen, Sanieren und Renovieren. Starten Sie Ihren Weg zum Wohnglück Mit unseren Services erfahren Sie schon nach wenigen Minuten, wieviel Ihr Wohnglück kostet. Und es wird noch besser: Mit dem neuen Wohnglück Online bekommen Sie digital und flexibel auch gleich Ihre Finanzierungszusage*. So sind Sie Ihrem neuen Wohnglück schon ganz nah. Weitere Details dazu finden Sie unterhalb in den Boxen „Unsere Top-Projekte“ *Diese Finanzierungszusage gilt vorbehaltlich richtiger und vollständiger Angaben Anfrage senden",
     "booth": "EC16",
+    "description": "Home Aussteller s Bausparkasse – Wohnglück sicher finanzieren s Bausparkasse – Wohnglück sicher finanzieren Ihr Experte im Bereich Wohnen, Bauen und Sanieren Website besuchen E-Mail schreiben Anrufen Wie soll Ihr neues Wohnglück aussehen? Sie wollen ein Haus bauen, möchten eine Wohnung finanzieren oder sind auf der Suche nach einer Finanzierung für einen Hauskauf? Das s Bauspardarlehen ist der sichere Begleiter für ihren Weg. Über die s Bausparkasse kompetent. verlässlich. flexibel. Wir sind der Partner für leistbares Wohnen und staatlich gefördertes Sparen. Die s Bausparkasse steht auch in turbulenten wirtschaftlichen Zeiten für Sicherheit und Kalkulierbarkeit beim Sparen und Finanzieren. Als Teil der Sparkassengruppe bieten wir ein vielfältiges Angebot um die Wohnträume unserer Kunden in ganz Österreich zu verwirklichen. Darüber hinaus sind wir Experten in den Bereichen Bauen, Wohnen, Sanieren und Renovieren. Starten Sie Ihren Weg zum Wohnglück Mit unseren Services erfahren Sie schon nach wenigen Minuten, wieviel Ihr Wohnglück kostet. Und es wird noch besser: Mit dem neuen Wohnglück Online bekommen Sie digital und flexibel auch gleich Ihre Finanzierungszusage*. So sind Sie Ihrem neuen Wohnglück schon ganz nah. Weitere Details dazu finden Sie unterhalb in den Boxen „Unsere Top-Projekte“ *Diese Finanzierungszusage gilt vorbehaltlich richtiger und vollständiger Angaben Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+43 (0)50100 29900",
+    "domain": "https://sbausparkasse.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 (0)50100 29900"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "s REAL Immobilien",
-    "domain": "sreal.at",
-    "description": "Home Aussteller s REAL Immobilien s REAL Immobilien Website besuchen E-Mail schreiben Anrufen s REAL Immobilien – der Immobiliendienstleister von Erste Bank, Sparkassen und der s Bausparkasse – ist seit mehr als 45 Jahren darauf spezialisiert, Kund:innen bei allen Fragen rund um den Immobilienmarkt zu unterstützen. Über 250 Mitarbeiter:innen in mehr als 60 Standorte in ganz Österreich begleiten Sie vom Erstgespräch bis zur Schlüsselübergabe. Anfrage senden",
     "booth": "EC15",
+    "description": "Home Aussteller s REAL Immobilien s REAL Immobilien Website besuchen E-Mail schreiben Anrufen s REAL Immobilien – der Immobiliendienstleister von Erste Bank, Sparkassen und der s Bausparkasse – ist seit mehr als 45 Jahren darauf spezialisiert, Kund:innen bei allen Fragen rund um den Immobilienmarkt zu unterstützen. Über 250 Mitarbeiter:innen in mehr als 60 Standorte in ganz Österreich begleiten Sie vom Erstgespräch bis zur Schlüsselübergabe. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+43 50 100 – 26200",
+    "domain": "https://sreal.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 50 100 – 26200"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "S+B Gruppe",
-    "domain": "sb-gruppe.at",
-    "description": "Home Aussteller S+B Gruppe S+B Gruppe Wir setzen neue Standards. Von der Idee zur perfekten Immobilie. Website besuchen Anfrage senden",
     "booth": "GH32",
+    "description": "Home Aussteller S+B Gruppe S+B Gruppe Wir setzen neue Standards. Von der Idee zur perfekten Immobilie. Website besuchen Anfrage senden",
     "email": "wien@sb-gruppe.at",
-    "city": "Vienna",
+    "mobile_primary": "+4317130650",
+    "domain": "https://sb-gruppe.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+4317130650"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "SCHIPPL-HAUS BAUTRÄGER / HARALD SCHIPPL IMMOBILIEN",
-    "domain": "schippl.at",
-    "description": "Home Aussteller SCHIPPL-HAUS BAUTRÄGER / HARALD SCHIPPL IMMOBILIEN SCHIPPL-HAUS BAUTRÄGER / HARALD SCHIPPL IMMOBILIEN Wir optimieren Ihr Projekt - fit für den Markt Website besuchen E-Mail schreiben Anrufen Wir optimieren Ihr Projekt – fit für den Markt Wir unterstützen Sie dabei, Ihr Projekt präzise auf die Marktanforderungen abzustimmen. Schritt für Schritt zeigen wir Ihnen das volle Potenzial Ihrer Immobilie, damit Sie bestmögliche Ergebnisse erzielen. Vorbereitung Nach der umfassenden Analyse Ihres Projekts erstellen wir ein individuelles Gutachten mit klaren Maßnahmen zur Wertsteigerung Ihrer Immobilie mit präzisen Kosten- und Zeitplänen. Aufwertung Ihrer Immobilie Unser Netzwerk aus erfahrenen österreichischen Partnerbetrieben sichert Ihnen höchste Qualität sowie eine kosteneffiziente Umsetzung und Bauausführung. Finanzierungsunterstützung Stehen größere Investitionen an? Wir bieten Ihnen flexible Finanzierungsoptionen. Erfolgreiche Vermarktung Mit unserer langjährigen Erfahrung und zahlreichen Referenzprojekten setzen wir Ihre Immobilie gekonnt in Szene. Ankaufsberatung Haben Sie Ihre Traumimmobilie gefunden? Ich stehe Ihnen als verlässlicher Partner bei einer der wichtigsten Entscheidungen Ihres Lebens zur Seite. Harald Schippl MRICS Allgemein beeideter und gerichtlich zertifizierter Sachverständiger für das Immobilienwesen. E-Mail: [email protected] Tel: 01/512 18 45 www.schippl.at Anfrage senden",
     "booth": "EH02",
+    "description": "Home Aussteller SCHIPPL-HAUS BAUTRÄGER / HARALD SCHIPPL IMMOBILIEN SCHIPPL-HAUS BAUTRÄGER / HARALD SCHIPPL IMMOBILIEN Wir optimieren Ihr Projekt - fit für den Markt Website besuchen E-Mail schreiben Anrufen Wir optimieren Ihr Projekt – fit für den Markt Wir unterstützen Sie dabei, Ihr Projekt präzise auf die Marktanforderungen abzustimmen. Schritt für Schritt zeigen wir Ihnen das volle Potenzial Ihrer Immobilie, damit Sie bestmögliche Ergebnisse erzielen. Vorbereitung Nach der umfassenden Analyse Ihres Projekts erstellen wir ein individuelles Gutachten mit klaren Maßnahmen zur Wertsteigerung Ihrer Immobilie mit präzisen Kosten- und Zeitplänen. Aufwertung Ihrer Immobilie Unser Netzwerk aus erfahrenen österreichischen Partnerbetrieben sichert Ihnen höchste Qualität sowie eine kosteneffiziente Umsetzung und Bauausführung. Finanzierungsunterstützung Stehen größere Investitionen an? Wir bieten Ihnen flexible Finanzierungsoptionen. Erfolgreiche Vermarktung Mit unserer langjährigen Erfahrung und zahlreichen Referenzprojekten setzen wir Ihre Immobilie gekonnt in Szene. Ankaufsberatung Haben Sie Ihre Traumimmobilie gefunden? Ich stehe Ihnen als verlässlicher Partner bei einer der wichtigsten Entscheidungen Ihres Lebens zur Seite. Harald Schippl MRICS Allgemein beeideter und gerichtlich zertifizierter Sachverständiger für das Immobilienwesen. E-Mail: [email protected] Tel: 01/512 18 45 www.schippl.at Anfrage senden",
     "email": "office@schippl-haus.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 512 18 45",
+    "domain": "https://schippl.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 512 18 45"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sedlak Immobilien GmbH",
-    "domain": "sedlak.co.at",
-    "description": "Home Aussteller Sedlak Immobilien GmbH Sedlak Immobilien GmbH Willkommen Zuhause! Website besuchen E-Mail schreiben Anrufen Wir schaffen Lebensräume mit Bestand Seit über 33 Jahren stehen wir für Verlässlichkeit, Qualität und echtes Engagement in der Immobilienbranche. Als Familienunternehmen mit Herz und Erfahrung entwickeln und realisieren wir Wohn- und Gewerbeprojekte, die Menschen Raum zum Leben, Arbeiten und Wohlfühlen geben. Bei uns geht es nicht um Verwaltung – sondern um Visionen, Architektur und Wohngefühl. Jedes unserer Projekte entsteht mit viel Liebe zum Detail und dem Anspruch, Werte zu schaffen, die bleiben. Ob moderne Eigentumswohnung, charmantes Reihenhaus oder nachhaltiges Neubauprojekt – wir begleiten unsere Kundinnen und Kunden von der Idee bis zur Schlüsselübergabe, persönlich, transparent und mit Handschlagqualität. Sedlak Immobilien GmbH – weil Zuhause mehr ist als nur ein Ort. Anfrage senden",
     "booth": "GH35",
+    "description": "Home Aussteller Sedlak Immobilien GmbH Sedlak Immobilien GmbH Willkommen Zuhause! Website besuchen E-Mail schreiben Anrufen Wir schaffen Lebensräume mit Bestand Seit über 33 Jahren stehen wir für Verlässlichkeit, Qualität und echtes Engagement in der Immobilienbranche. Als Familienunternehmen mit Herz und Erfahrung entwickeln und realisieren wir Wohn- und Gewerbeprojekte, die Menschen Raum zum Leben, Arbeiten und Wohlfühlen geben. Bei uns geht es nicht um Verwaltung – sondern um Visionen, Architektur und Wohngefühl. Jedes unserer Projekte entsteht mit viel Liebe zum Detail und dem Anspruch, Werte zu schaffen, die bleiben. Ob moderne Eigentumswohnung, charmantes Reihenhaus oder nachhaltiges Neubauprojekt – wir begleiten unsere Kundinnen und Kunden von der Idee bis zur Schlüsselübergabe, persönlich, transparent und mit Handschlagqualität. Sedlak Immobilien GmbH – weil Zuhause mehr ist als nur ein Ort. Anfrage senden",
     "email": "office@sedlak.co.at",
-    "city": "Vienna",
+    "mobile_primary": "01/604 32 82 -10",
+    "domain": "https://sedlak.co.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "01/604 32 82 -10"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Seeste Bau GmbH",
-    "domain": "seeste.at",
-    "description": "Home Aussteller Seeste Bau GmbH Seeste Bau GmbH Ihr Bauträger / Projektentwickler für hochwertige Wohnimmobilien Website besuchen E-Mail schreiben Anrufen Die SEESTE Bau GmbH – mit Sitz in Gießhübl bei Wien und Unternehmenszentrale in Bozen – ist ein Familienunternehmen mit Tradition und 46 Jahren Bau-Erfahrung und legt daher besonders großen Wert auf Diskretion und langfristige Vorsorge. Die internationalen Projekte von Wohnimmobilien über Gewerbe- und Anlageobjekten bis zu Ferien- und Skiresorts zeichnen sich durch höchste Qualität und nachhaltige Bauweise aus. SEESTE ist ein erprobter Partner für hochwertige und innovative Bauprojekte mit bleibendem Wert für die von ihr auf den Markt gebrachten Immobilien. SEESTE steht für fachgerechte Ausführung und Qualität sowie Seriosität, Sicherheit und Nachhaltigkeit. Der SEESTE-Leitspruch: Bausteine fürs Leben I Fondamenta per la vita. Anfrage senden",
     "booth": "GH37",
+    "description": "Home Aussteller Seeste Bau GmbH Seeste Bau GmbH Ihr Bauträger / Projektentwickler für hochwertige Wohnimmobilien Website besuchen E-Mail schreiben Anrufen Die SEESTE Bau GmbH – mit Sitz in Gießhübl bei Wien und Unternehmenszentrale in Bozen – ist ein Familienunternehmen mit Tradition und 46 Jahren Bau-Erfahrung und legt daher besonders großen Wert auf Diskretion und langfristige Vorsorge. Die internationalen Projekte von Wohnimmobilien über Gewerbe- und Anlageobjekten bis zu Ferien- und Skiresorts zeichnen sich durch höchste Qualität und nachhaltige Bauweise aus. SEESTE ist ein erprobter Partner für hochwertige und innovative Bauprojekte mit bleibendem Wert für die von ihr auf den Markt gebrachten Immobilien. SEESTE steht für fachgerechte Ausführung und Qualität sowie Seriosität, Sicherheit und Nachhaltigkeit. Der SEESTE-Leitspruch: Bausteine fürs Leben I Fondamenta per la vita. Anfrage senden",
     "email": "mail@seeste.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 2236 865 068",
+    "domain": "https://seeste.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 2236 865 068"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "STRABAG Real Estate",
-    "domain": "strabag-real-estate.com",
-    "description": "Home Aussteller STRABAG Real Estate STRABAG Real Estate Wohnqualität, die hält was sie verspricht Website besuchen E-Mail schreiben Anrufen Seit mehr als 50 Jahren plant, errichtet, vermietet und verkauft STRABAG Real Estate (SRE) Immobilien. Unsere Konzepte richten wir an den Bedürfnissen der Menschen aus, die in den Gebäuden arbeiten und leben, übernachten oder einkaufen. Mit mehr als 650 Projekten und rund 240 Mitarbeiter:innen gehören wir zu den größten Immobilienentwicklerinnen Europas. Wir begeistern mit Top-Lagen und hochwertiger Ausstattung in unseren frei finanzierten Eigentumswohnungen. Besonderes Augenmerk wird bereits im Bau auf Nachhaltigkeit gelegt. So kommt bei unseren Projekten beispielsweise die innovative Dämmung mit Schafwolle zum Einsatz oder Raumtemperierung durch Betonkernaktivierung. Unsere neuesten Projekte sind das „SOLEY“ in Wien und das „MIO“ in Innsbruck. Zu unseren schönsten Wohnprojekten gehören „The Wild“ in Wien, die „Weingartensiedlung“ in Krems, „Plateau Alpin“ in Igls und „Mein Statz“ in Neumarkt am Wallersee. Anfrage senden",
     "booth": "AH22-B",
+    "description": "Home Aussteller STRABAG Real Estate STRABAG Real Estate Wohnqualität, die hält was sie verspricht Website besuchen E-Mail schreiben Anrufen Seit mehr als 50 Jahren plant, errichtet, vermietet und verkauft STRABAG Real Estate (SRE) Immobilien. Unsere Konzepte richten wir an den Bedürfnissen der Menschen aus, die in den Gebäuden arbeiten und leben, übernachten oder einkaufen. Mit mehr als 650 Projekten und rund 240 Mitarbeiter:innen gehören wir zu den größten Immobilienentwicklerinnen Europas. Wir begeistern mit Top-Lagen und hochwertiger Ausstattung in unseren frei finanzierten Eigentumswohnungen. Besonderes Augenmerk wird bereits im Bau auf Nachhaltigkeit gelegt. So kommt bei unseren Projekten beispielsweise die innovative Dämmung mit Schafwolle zum Einsatz oder Raumtemperierung durch Betonkernaktivierung. Unsere neuesten Projekte sind das „SOLEY“ in Wien und das „MIO“ in Innsbruck. Zu unseren schönsten Wohnprojekten gehören „The Wild“ in Wien, die „Weingartensiedlung“ in Krems, „Plateau Alpin“ in Igls und „Mein Statz“ in Neumarkt am Wallersee. Anfrage senden",
     "email": "wohnen.sre@strabag.com",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 22 422 7000",
+    "domain": "https://strabag-real-estate.com",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 22 422 7000"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Swietelsky Developments",
-    "domain": "swietelsky.immo",
-    "description": "Home Aussteller Swietelsky Developments Swietelsky Developments Mit Zuverlässigkeit, Erfahrung, Innovation und einem hohen Anspruch an Qualität, schaffen wir als Swietelsky Developments hochwertige und nachhaltige Eigentumswohnungen. Website besuchen E-Mail schreiben Anrufen Swietelsky Developments steht für hochwertige Eigentumswohnungen, nachhaltige Wohnkonzepte und zukunftsorientierte Architektur. Auf der Messe präsentieren wir zwei besondere Wohnprojekte: das Seepanorama Pörtschach am Wörthersee in Kärnten und Zwei bis Neun – Wohnen am Rosenhügel in Wien. Während das Seepanorama Pörtschach exklusives Wohnen mit Seeblick, moderner Architektur und hoher Lebensqualität verbindet, steht „Zwei bis Neun“ für urbanes und naturnahes Wohnen im 23. Wiener Gemeindebezirk. Das Projekt in der Gatterederstraße verbindet moderne Neubauten mit der Revitalisierung eines historischen Fabrikgebäudes und überzeugt durch großzügige Grünflächen sowie ein nachhaltiges Energiekonzept. Besuchen Sie unseren Messestand und informieren Sie sich über Wohnungen, Ausstattung, Lage und Finanzierungsmöglichkeiten. Anfrage senden",
     "booth": "",
+    "description": "Home Aussteller Swietelsky Developments Swietelsky Developments Mit Zuverlässigkeit, Erfahrung, Innovation und einem hohen Anspruch an Qualität, schaffen wir als Swietelsky Developments hochwertige und nachhaltige Eigentumswohnungen. Website besuchen E-Mail schreiben Anrufen Swietelsky Developments steht für hochwertige Eigentumswohnungen, nachhaltige Wohnkonzepte und zukunftsorientierte Architektur. Auf der Messe präsentieren wir zwei besondere Wohnprojekte: das Seepanorama Pörtschach am Wörthersee in Kärnten und Zwei bis Neun – Wohnen am Rosenhügel in Wien. Während das Seepanorama Pörtschach exklusives Wohnen mit Seeblick, moderner Architektur und hoher Lebensqualität verbindet, steht „Zwei bis Neun“ für urbanes und naturnahes Wohnen im 23. Wiener Gemeindebezirk. Das Projekt in der Gatterederstraße verbindet moderne Neubauten mit der Revitalisierung eines historischen Fabrikgebäudes und überzeugt durch großzügige Grünflächen sowie ein nachhaltiges Energiekonzept. Besuchen Sie unseren Messestand und informieren Sie sich über Wohnungen, Ausstattung, Lage und Finanzierungsmöglichkeiten. Anfrage senden",
     "email": "kaernten.immo@swietelsky.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 58021-1717",
+    "domain": "https://swietelsky.immo",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 58021-1717"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tom Krauss Immobilien",
-    "domain": "tomkrauss.at",
-    "description": "Home Aussteller Tom Krauss Immobilien Tom Krauss Immobilien IHRE KOMPETENTEN IMMOBILIENMAKLER IN WIEN Website besuchen E-Mail schreiben Anrufen Tom Krauss Immobilien bietet Neubauprojekte und Eigentumswohnungen in Wien und Wien Umgebung an. Sie suchen eine Eigentumswohnung, eine Luxusimmobilie, ein Penthouse oder eine Immobilie als Wertanlage. Bei Tom Krauss Immobilien finden Sie Ihre Traumimmobilie. Auch wenn Sie Ihre Immobilie verkaufen wollen, sind Sie bei Tom Krauss Immobilien genau richtig. Unser kompetentes Team berät Sie gerne in allen Immobilienfragen. Wir garantieren Ihnen eine engagierte und kompetente Betreuung und die schnellstmögliche Vermittlung Ihres Objektes. Vertrauen Sie rund um die Immobilie auf Tom Krauss Immobilien ein Familienunternehmen mit Kompetenz, Verlässlichkeit und Handschlagqualität. Anfrage senden",
     "booth": "EH04",
+    "description": "Home Aussteller Tom Krauss Immobilien Tom Krauss Immobilien IHRE KOMPETENTEN IMMOBILIENMAKLER IN WIEN Website besuchen E-Mail schreiben Anrufen Tom Krauss Immobilien bietet Neubauprojekte und Eigentumswohnungen in Wien und Wien Umgebung an. Sie suchen eine Eigentumswohnung, eine Luxusimmobilie, ein Penthouse oder eine Immobilie als Wertanlage. Bei Tom Krauss Immobilien finden Sie Ihre Traumimmobilie. Auch wenn Sie Ihre Immobilie verkaufen wollen, sind Sie bei Tom Krauss Immobilien genau richtig. Unser kompetentes Team berät Sie gerne in allen Immobilienfragen. Wir garantieren Ihnen eine engagierte und kompetente Betreuung und die schnellstmögliche Vermittlung Ihres Objektes. Vertrauen Sie rund um die Immobilie auf Tom Krauss Immobilien ein Familienunternehmen mit Kompetenz, Verlässlichkeit und Handschlagqualität. Anfrage senden",
     "email": "office@tomkrauss.at",
-    "city": "Vienna",
+    "mobile_primary": "01 8905920",
+    "domain": "https://tomkrauss.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "01 8905920"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "UBM Development",
-    "domain": "ubm-development.com",
-    "description": "Home Aussteller UBM Development UBM Development Website besuchen Anfrage senden",
     "booth": "GH34",
+    "description": "Home Aussteller UBM Development UBM Development Website besuchen Anfrage senden",
     "email": "ubm@ubm-development.com",
-    "city": "Vienna",
+    "mobile_primary": "+43501873100",
+    "domain": "https://ubm-development.com",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43501873100"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ulreich Bauträger",
-    "domain": "ulreich.at",
-    "description": "Home Aussteller Ulreich Bauträger Ulreich Bauträger Häuser mit Persönlichkeit, für Generationen gebaut. Website besuchen E-Mail schreiben Anrufen Ulreich Bauträger ist ein familiengeführtes Unternehmen, das seit mehr als 25 Jahren mit Hingabe daran arbeitet, hochwertigen Wohnraum in Wien zu schaffen. Unser Schwerpunkt liegt sowohl auf der behutsamen Revitalisierung von Gründerzeithäusern als auch auf der Errichtung moderner, energieeffizienter Neubauten. Von Beginn an legen wir besonderen Wert auf individuell geplante, maßgeschneiderte Wohnungen, ein Anspruch, mit dem wir zu den ersten Bauträgern in Wien zählten und den wir bis heute konsequent weiterführen. Dabei übernehmen wir die Verwaltung der fertiggestellten Objekte selbst, um die Qualität und Nachhaltigkeit unserer Projekte langfristig zu gewährleisten. Unser Engagement für höchste Standards in Qualität, Sicherheit und Nachhaltigkeit hat uns zahlreiche nationale und internationale Auszeichnungen eingebracht. Anfrage senden",
     "booth": "GH39",
+    "description": "Home Aussteller Ulreich Bauträger Ulreich Bauträger Häuser mit Persönlichkeit, für Generationen gebaut. Website besuchen E-Mail schreiben Anrufen Ulreich Bauträger ist ein familiengeführtes Unternehmen, das seit mehr als 25 Jahren mit Hingabe daran arbeitet, hochwertigen Wohnraum in Wien zu schaffen. Unser Schwerpunkt liegt sowohl auf der behutsamen Revitalisierung von Gründerzeithäusern als auch auf der Errichtung moderner, energieeffizienter Neubauten. Von Beginn an legen wir besonderen Wert auf individuell geplante, maßgeschneiderte Wohnungen, ein Anspruch, mit dem wir zu den ersten Bauträgern in Wien zählten und den wir bis heute konsequent weiterführen. Dabei übernehmen wir die Verwaltung der fertiggestellten Objekte selbst, um die Qualität und Nachhaltigkeit unserer Projekte langfristig zu gewährleisten. Unser Engagement für höchste Standards in Qualität, Sicherheit und Nachhaltigkeit hat uns zahlreiche nationale und internationale Auszeichnungen eingebracht. Anfrage senden",
     "email": "office@ulreich.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 78 66 110",
+    "domain": "https://ulreich.at",
     "full_address": "Eduard-Pötzl-Gasse 1 1190 Wien",
-    "mobile_primary": "+43 1 78 66 110"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "WETgruppe",
-    "domain": "wet.at",
-    "description": "Home Aussteller WETgruppe WETgruppe Gemeinsam. Besser. Bauen. Website besuchen E-Mail schreiben Anrufen Als einer der größten Bauträger Niederösterreichs baut, saniert und verwaltet die WETgruppe geförderte sowie freifinanzierte Wohnmodelle. Unser Ziel: lebenswerten, nachhaltigen und leistbaren Wohnraum schaffen. Anfrage senden",
     "booth": "AH23-A",
+    "description": "Home Aussteller WETgruppe WETgruppe Gemeinsam. Besser. Bauen. Website besuchen E-Mail schreiben Anrufen Als einer der größten Bauträger Niederösterreichs baut, saniert und verwaltet die WETgruppe geförderte sowie freifinanzierte Wohnmodelle. Unser Ziel: lebenswerten, nachhaltigen und leistbaren Wohnraum schaffen. Anfrage senden",
     "email": "",
-    "city": "Vienna",
+    "mobile_primary": "+43 (2236) 44 800 0",
+    "domain": "https://wet.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 (2236) 44 800 0"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "WI-RE Immobilienmakler GmbH",
-    "domain": "wi.immo",
-    "description": "Home Aussteller WI-RE Immobilienmakler GmbH WI-RE Immobilienmakler GmbH Website besuchen WIR sehen uns als Teil Ihres persönlichen Teams „beim Finden“. Sei es ein Singleapartment, eine stilvolle Altbau-Wohnung, ein Haus im Grünen, das richtige Immobilien-Investment oder ein/e neue/r BesitzerIn für Ihre Liegenschaft. Wichtig dabei ist nur eins: die Liebe zum Schönen, die Faszination für historische (Wiener) Plätze und die Fantasie, diese in außergewöhnliche Wohn- & Lebensräume zu verwandeln Anfrage senden",
     "booth": "AH21",
+    "description": "Home Aussteller WI-RE Immobilienmakler GmbH WI-RE Immobilienmakler GmbH Website besuchen WIR sehen uns als Teil Ihres persönlichen Teams „beim Finden“. Sei es ein Singleapartment, eine stilvolle Altbau-Wohnung, ein Haus im Grünen, das richtige Immobilien-Investment oder ein/e neue/r BesitzerIn für Ihre Liegenschaft. Wichtig dabei ist nur eins: die Liebe zum Schönen, die Faszination für historische (Wiener) Plätze und die Fantasie, diese in außergewöhnliche Wohn- & Lebensräume zu verwandeln Anfrage senden",
     "email": "office@wi.immo",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 512 22 27 - 0",
+    "domain": "https://wi.immo",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 512 22 27 - 0"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wiener Städtische Versicherung AG Vienna Insurance Group",
-    "domain": "wienerstaedtische.at",
-    "description": "Home Aussteller Wiener Städtische Versicherung AG Vienna Insurance Group Wiener Städtische Versicherung AG Vienna Insurance Group Website besuchen E-Mail schreiben Anrufen Die WIENER STÄDTISCHE Versicherung ist die größte Einzelgesellschaft der internationalen Versicherungsgruppe VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe (VIG) mit Sitz in Wien. Mit neun Landesdirektionen, 125 Geschäftsstellen und rund 4.000 Mitarbeiter:innen ist sie eine innovative und verlässliche Partnerin für sämtliche Kundenbedürfnisse – sowohl in privaten Lebenssituationen als auch im Gewerbe- und Firmenkundenbereich. Die WIENER STÄDTISCHE Versicherung ist nicht nur die größte Lebensversicherung des Landes, sondern – mit einem Marktanteil von rund 30 Prozent auch die mit Abstand größte Anbieterin betrieblicher Versicherungslösungen in Österreich. Weiters hat das Unternehmen eine Zweigniederlassung in Slowenien. Aufgrund ihrer Maßnahmen zur besseren Vereinbarkeit von Beruf und Familie wurde die Wiener Städtische als „familienfreundliches Unternehmen“ ausgezeichnet und zuletzt im Jahr 2024 rezertifiziert. Anfrage senden",
     "booth": "EC17",
+    "description": "Home Aussteller Wiener Städtische Versicherung AG Vienna Insurance Group Wiener Städtische Versicherung AG Vienna Insurance Group Website besuchen E-Mail schreiben Anrufen Die WIENER STÄDTISCHE Versicherung ist die größte Einzelgesellschaft der internationalen Versicherungsgruppe VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe (VIG) mit Sitz in Wien. Mit neun Landesdirektionen, 125 Geschäftsstellen und rund 4.000 Mitarbeiter:innen ist sie eine innovative und verlässliche Partnerin für sämtliche Kundenbedürfnisse – sowohl in privaten Lebenssituationen als auch im Gewerbe- und Firmenkundenbereich. Die WIENER STÄDTISCHE Versicherung ist nicht nur die größte Lebensversicherung des Landes, sondern – mit einem Marktanteil von rund 30 Prozent auch die mit Abstand größte Anbieterin betrieblicher Versicherungslösungen in Österreich. Weiters hat das Unternehmen eine Zweigniederlassung in Slowenien. Aufgrund ihrer Maßnahmen zur besseren Vereinbarkeit von Beruf und Familie wurde die Wiener Städtische als „familienfreundliches Unternehmen“ ausgezeichnet und zuletzt im Jahr 2024 rezertifiziert. Anfrage senden",
     "email": "kundenservice@wienerstaedtische.at",
-    "city": "Vienna",
+    "mobile_primary": "050 350 350",
+    "domain": "https://wienerstaedtische.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "050 350 350"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "willhaben",
-    "domain": "willhaben.at",
-    "description": "Home Aussteller willhaben willhaben Deine Immobilien in Österreich Website besuchen Halb Österreich nutzt willhaben. willhaben zählt mit mehr als 4,5 Millionen Unique Usern und über 1,4 Milliarden Seitenaufrufen (Page Impressions) pro Monat zu den reichweitenstärksten Internet-Diensten Österreichs (Quelle: ÖWA 2022-II; mittlerer Monat). Das Anzeigenportal umfasst die Spezialbereiche Immobilien, Autos & Motor, Jobs sowie einen für PrivatinserentInnen kostenlosen Marktplatz. Derzeit befinden sich mehr als 80.000 Immobilienangebote, 150.000 Fahrzeuge und 19.000 Stellenangebote auf dem Portal sowie ca. 10,7 Millionen Waren und Dienstleistungen auf dem Marktplatz. Gesamt umfasst das Angebot mehr als 10,9 Millionen Anzeigen (Stand: November 2022). Die Website verzeichnet mehr als 85 Millionen Besuche (Visits) pro Monat bei einer – weit über dem Branchenschnitt liegenden – Verweildauer von rund 9 Minuten (Quelle: (Quelle: ÖWA 2022-II; mittlerer Monat). Anfrage senden",
     "booth": "",
+    "description": "Home Aussteller willhaben willhaben Deine Immobilien in Österreich Website besuchen Halb Österreich nutzt willhaben. willhaben zählt mit mehr als 4,5 Millionen Unique Usern und über 1,4 Milliarden Seitenaufrufen (Page Impressions) pro Monat zu den reichweitenstärksten Internet-Diensten Österreichs (Quelle: ÖWA 2022-II; mittlerer Monat). Das Anzeigenportal umfasst die Spezialbereiche Immobilien, Autos & Motor, Jobs sowie einen für PrivatinserentInnen kostenlosen Marktplatz. Derzeit befinden sich mehr als 80.000 Immobilienangebote, 150.000 Fahrzeuge und 19.000 Stellenangebote auf dem Portal sowie ca. 10,7 Millionen Waren und Dienstleistungen auf dem Marktplatz. Gesamt umfasst das Angebot mehr als 10,9 Millionen Anzeigen (Stand: November 2022). Die Website verzeichnet mehr als 85 Millionen Besuche (Visits) pro Monat bei einer – weit über dem Branchenschnitt liegenden – Verweildauer von rund 9 Minuten (Quelle: (Quelle: ÖWA 2022-II; mittlerer Monat). Anfrage senden",
     "email": "impressum@willhaben.at",
-    "city": "Vienna",
+    "mobile_primary": "",
+    "domain": "https://willhaben.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": ""
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "ZIMA",
-    "domain": "zima.at",
-    "description": "Home Aussteller ZIMA ZIMA Website besuchen E-Mail schreiben Anrufen Vertrauen ist unser wichtigstes Gut. Und dieses Vertrauen hat sich ZIMA in den letzten 50 Jahren konsequent erarbeitet: Bei unseren Kunden durch Qualität und Verlässlichkeit, bei unseren Mitarbeitern durch Kollegialität und Wertschätzung, bei unseren Partnern durch Transparenz und Zuverlässigkeit. Als inhabergeführte Unternehmensgruppe entwickelt ZIMA seit 1971 besondere Immobilien im deutschsprachigen Alpenraum. In den vergangenen 50 Jahren haben wir annähernd 10.000 Wohnungen und Raum für 7.000 Arbeitsplätze realisiert. Dabei haben wir vor allem eine Vertrauensbasis auf allen Ebenen geschaffen. Wir bauen auf Vertrauen. Anfrage senden",
     "booth": "AH08",
+    "description": "Home Aussteller ZIMA ZIMA Website besuchen E-Mail schreiben Anrufen Vertrauen ist unser wichtigstes Gut. Und dieses Vertrauen hat sich ZIMA in den letzten 50 Jahren konsequent erarbeitet: Bei unseren Kunden durch Qualität und Verlässlichkeit, bei unseren Mitarbeitern durch Kollegialität und Wertschätzung, bei unseren Partnern durch Transparenz und Zuverlässigkeit. Als inhabergeführte Unternehmensgruppe entwickelt ZIMA seit 1971 besondere Immobilien im deutschsprachigen Alpenraum. In den vergangenen 50 Jahren haben wir annähernd 10.000 Wohnungen und Raum für 7.000 Arbeitsplätze realisiert. Dabei haben wir vor allem eine Vertrauensbasis auf allen Ebenen geschaffen. Wir bauen auf Vertrauen. Anfrage senden",
     "email": "office@zima.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 513 0507",
+    "domain": "https://zima.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 513 0507"
+    "city": "Vienna",
+    "linkedin_url": ""
   },
   {
     "company_name": "ÖVW Österreichisches Volkswohnungswerk",
-    "domain": "oevw.at",
-    "description": "Home Aussteller ÖVW Österreichisches Volkswohnungswerk ÖVW Österreichisches Volkswohnungswerk Ihr Wohnbauunternehmen Website besuchen E-Mail schreiben Anrufen Wir vom ÖVW bauen hochwertige Miet- und Eigentumswohnungen auf höchstem Niveau. Uns ist die maximale Wohnqualität unserer Kunden das wichtigste Anliegen. Wir denken langfristig und nachhaltig . Lebenssituationen können sich verändern und daher legen wir besonderen Wert auf flexible Wohnraumgestaltung . Wir setzen dabei auf innovative Architektur und umweltbewusste Bauweise . Unsere Objekte sind so positioniert, dass sie einen idealen Mix aus Urbanität und Naherholung bieten können. Da wir eine 100%ige Tochter der Erste Bank sind, können wir Stabilität und Sicherheit garantieren, was gerade beim Wohnen ein gutes Gefühl gibt. Da wir alle unsere Liegenschaften als Immobilienverwaltung auch betreuen, können wir auch hier erstklassigen Service und Betreuung zusichern. Wir freuen uns über Ihre Kontaktaufnahme! Anfrage senden",
     "booth": "AH20",
+    "description": "Home Aussteller ÖVW Österreichisches Volkswohnungswerk ÖVW Österreichisches Volkswohnungswerk Ihr Wohnbauunternehmen Website besuchen E-Mail schreiben Anrufen Wir vom ÖVW bauen hochwertige Miet- und Eigentumswohnungen auf höchstem Niveau. Uns ist die maximale Wohnqualität unserer Kunden das wichtigste Anliegen. Wir denken langfristig und nachhaltig . Lebenssituationen können sich verändern und daher legen wir besonderen Wert auf flexible Wohnraumgestaltung . Wir setzen dabei auf innovative Architektur und umweltbewusste Bauweise . Unsere Objekte sind so positioniert, dass sie einen idealen Mix aus Urbanität und Naherholung bieten können. Da wir eine 100%ige Tochter der Erste Bank sind, können wir Stabilität und Sicherheit garantieren, was gerade beim Wohnen ein gutes Gefühl gibt. Da wir alle unsere Liegenschaften als Immobilienverwaltung auch betreuen, können wir auch hier erstklassigen Service und Betreuung zusichern. Wir freuen uns über Ihre Kontaktaufnahme! Anfrage senden",
     "email": "oevw@oevw.at",
-    "city": "Vienna",
+    "mobile_primary": "+43 1 908 14 38",
+    "domain": "https://oevw.at",
     "full_address": "Vienna, Austria",
-    "mobile_primary": "+43 1 908 14 38"
+    "city": "Vienna",
+    "linkedin_url": ""
   }
 ]

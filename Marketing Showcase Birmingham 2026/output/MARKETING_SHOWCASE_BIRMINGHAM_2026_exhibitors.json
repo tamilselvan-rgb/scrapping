@@ -1,342 +1,376 @@
 [
   {
     "company_name": "Allwag Promotions",
-    "domain": "allwag.co.uk",
-    "description": "Ethically sourced promotional products and corporate clothing.",
     "booth": "",
+    "description": "Ethically sourced promotional products and corporate clothing.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://allwag.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beyond the Book",
-    "domain": "beyondthebook.co.uk",
-    "description": "Trusted to deliver exceptional recruitment.",
     "booth": "",
+    "description": "Trusted to deliver exceptional recruitment.",
     "email": "jack.keeling@btbpeople.co.uk",
-    "city": "",
+    "mobile_primary": "01789 451510",
+    "domain": "https://beyondthebook.co.uk",
     "full_address": "",
-    "mobile_primary": "01789 451510"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bobble Digital",
-    "domain": "bobbledigital.com",
-    "description": "An agile digital marketing agency.",
     "booth": "",
+    "description": "An agile digital marketing agency.",
     "email": "manpreet.singh@bobbledigital.com",
-    "city": "",
+    "mobile_primary": "0113 4683902",
+    "domain": "https://bobbledigital.com",
     "full_address": "",
-    "mobile_primary": "0113 4683902"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Campaigner",
-    "domain": "campaigner.com",
-    "description": "Email and SMS marketing software.",
     "booth": "",
+    "description": "Email and SMS marketing software.",
     "email": "amy.doyle@ziffdavis.com",
-    "city": "",
+    "mobile_primary": "07896 138641",
+    "domain": "https://campaigner.com",
     "full_address": "",
-    "mobile_primary": "07896 138641"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Canny Creative",
-    "domain": "canny-creative.com",
-    "description": "Branding, websites and content that get results.",
     "booth": "",
+    "description": "Branding, websites and content that get results.",
     "email": "thardy@canny-creative.com",
-    "city": "",
+    "mobile_primary": "0191 364 3030",
+    "domain": "https://canny-creative.com",
     "full_address": "",
-    "mobile_primary": "0191 364 3030"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dark Horse",
-    "domain": "darkhorsedesign.co.uk",
-    "description": "Digital marketing designed to avoid mediocre results.",
     "booth": "",
+    "description": "Digital marketing designed to avoid mediocre results.",
     "email": "luke@darkhorse.co",
-    "city": "",
+    "mobile_primary": "0161 883 3714",
+    "domain": "https://darkhorsedesign.co.uk",
     "full_address": "",
-    "mobile_primary": "0161 883 3714"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Digital Landscope",
-    "domain": "digitallandscope.com",
-    "description": "Conversion growth through Google organic and paid search.",
     "booth": "",
+    "description": "Conversion growth through Google organic and paid search.",
     "email": "discovery@digital-landscope.com",
-    "city": "",
+    "mobile_primary": "0141 465 5720",
+    "domain": "https://digitallandscope.com",
     "full_address": "",
-    "mobile_primary": "0141 465 5720"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dotdigital",
-    "domain": "dotdigital.com",
-    "description": "Marketing automation technology.",
     "booth": "",
+    "description": "Marketing automation technology.",
     "email": "josh.mckenna@dotdigital.com",
-    "city": "",
+    "mobile_primary": "020 3953 4596",
+    "domain": "https://dotdigital.com",
     "full_address": "",
-    "mobile_primary": "020 3953 4596"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "etc Branding",
-    "domain": "etcbranding.co.uk",
-    "description": "Branded merchandise consultancy.",
     "booth": "",
+    "description": "Branded merchandise consultancy.",
     "email": "info@etcbranding.com",
-    "city": "",
+    "mobile_primary": "033 3358 3522",
+    "domain": "https://etcbranding.co.uk",
     "full_address": "",
-    "mobile_primary": "033 3358 3522"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Force24",
-    "domain": "force24.co.uk",
-    "description": "Marketing automation beyond email.",
     "booth": "",
+    "description": "Marketing automation beyond email.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://force24.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hot House Digital",
-    "domain": "hothousedigital.co.uk",
-    "description": "Simplifying the search for organic growth.",
     "booth": "",
+    "description": "Simplifying the search for organic growth.",
     "email": "enquiries@hothousedigital.co.uk",
-    "city": "",
+    "mobile_primary": "01138 800 082",
+    "domain": "https://hothousedigital.co.uk",
     "full_address": "",
-    "mobile_primary": "01138 800 082"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Innovation Visual",
-    "domain": "innovationvisual.com",
-    "description": "Transforming results through AI technology and people.",
     "booth": "",
+    "description": "Transforming results through AI technology and people.",
     "email": "vogue@innovationvisual.com",
-    "city": "",
+    "mobile_primary": "0333 772 0509",
+    "domain": "https://innovationvisual.com",
     "full_address": "",
-    "mobile_primary": "0333 772 0509"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leadoo Marketing Technologies",
-    "domain": "leadoo.com",
-    "description": "Lead generation technology helping businesses convert web visitors to customers.",
     "booth": "",
+    "description": "Lead generation technology helping businesses convert web visitors to customers.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://leadoo.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lulu Animation",
-    "domain": "luluanimation.com",
-    "description": "Real-world connections through animation.",
     "booth": "",
+    "description": "Real-world connections through animation.",
     "email": "kathryn@lulu-animation.com",
-    "city": "",
+    "mobile_primary": "07909 901655",
+    "domain": "https://luluanimation.com",
     "full_address": "",
-    "mobile_primary": "07909 901655"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Manic Merchandise",
-    "domain": "manicmerchandise.com",
-    "description": "Eco promotional items with a twist.",
     "booth": "",
+    "description": "Eco promotional items with a twist.",
     "email": "sales@manic-merchandise.com",
-    "city": "",
+    "mobile_primary": "03300 432797",
+    "domain": "https://manicmerchandise.com",
     "full_address": "",
-    "mobile_primary": "03300 432797"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Morf",
-    "domain": "morf.tech",
-    "description": "Limitless customisation, instantly visualised.",
     "booth": "",
+    "description": "Limitless customisation, instantly visualised.",
     "email": "hello@morftech.io",
-    "city": "",
+    "mobile_primary": "01924 364700",
+    "domain": "https://morf.tech",
     "full_address": "",
-    "mobile_primary": "01924 364700"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nautilus Marketing",
-    "domain": "nautilusmarketing.co.uk",
-    "description": "Marketing services for businesses seeking practical growth.",
     "booth": "",
+    "description": "Marketing services for businesses seeking practical growth.",
     "email": "tom@nautilusmarketing.co.uk",
-    "city": "",
+    "mobile_primary": "020 4513 9345",
+    "domain": "https://nautilusmarketing.co.uk",
     "full_address": "",
-    "mobile_primary": "020 4513 9345"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nimlok",
-    "domain": "nimlok.co.uk",
-    "description": "Exhibition and exhibiting-performance solutions.",
     "booth": "",
+    "description": "Exhibition and exhibiting-performance solutions.",
     "email": "hannah.banks@nimlok.co.uk",
-    "city": "",
+    "mobile_primary": "01933 409409",
+    "domain": "https://nimlok.co.uk",
     "full_address": "",
-    "mobile_primary": "01933 409409"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OTB",
-    "domain": "otb.agency",
-    "description": "Creative marketing agency for ambitious brands.",
     "booth": "",
+    "description": "Creative marketing agency for ambitious brands.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://otb.agency",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Phoenix Digital Ltd",
-    "domain": "phoenix-digital.co.uk",
-    "description": "Web and digital experts.",
     "booth": "",
+    "description": "Web and digital experts.",
     "email": "davinia@phoenixdigital.agency",
-    "city": "",
+    "mobile_primary": "0161 398 0741",
+    "domain": "https://phoenix-digital.co.uk",
     "full_address": "",
-    "mobile_primary": "0161 398 0741"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pop-Up Banners Ltd",
-    "domain": "popupbanners.net",
-    "description": "Portable branding solutions.",
     "booth": "",
+    "description": "Portable branding solutions.",
     "email": "sean@pop-upbanners.com",
-    "city": "",
+    "mobile_primary": "0845 601 4413",
+    "domain": "https://popupbanners.net",
     "full_address": "",
-    "mobile_primary": "0845 601 4413"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "So Contented",
-    "domain": "socontented.com",
-    "description": "Brand voice and conversion copy that drives action.",
     "booth": "",
+    "description": "Brand voice and conversion copy that drives action.",
     "email": "hello@socontented.com",
-    "city": "",
+    "mobile_primary": "+44 113 526 9814",
+    "domain": "https://socontented.com",
     "full_address": "",
-    "mobile_primary": "+44 113 526 9814"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sound Media",
-    "domain": "soundmedia.co.uk",
-    "description": "Podcast strategies and solutions.",
     "booth": "",
+    "description": "Podcast strategies and solutions.",
     "email": "james@wearesoundmedia.com",
-    "city": "",
+    "mobile_primary": "0114 4000 321",
+    "domain": "https://soundmedia.co.uk",
     "full_address": "",
-    "mobile_primary": "0114 4000 321"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spotler",
-    "domain": "spotler.com",
-    "description": "Marketing technology for businesses looking to improve customer engagement.",
     "booth": "",
+    "description": "Marketing technology for businesses looking to improve customer engagement.",
     "email": "kristian.tucker@spotler.com",
-    "city": "",
+    "mobile_primary": "01483 411911",
+    "domain": "https://spotler.com",
     "full_address": "",
-    "mobile_primary": "01483 411911"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Animation Guys",
-    "domain": "theanimationguys.com",
-    "description": "Thoughtful video production services.",
     "booth": "",
+    "description": "Thoughtful video production services.",
     "email": "wecanhelp@theanimationguys.com",
-    "city": "",
+    "mobile_primary": "020 7288 6319",
+    "domain": "https://theanimationguys.com",
     "full_address": "",
-    "mobile_primary": "020 7288 6319"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "The SEO Works",
-    "domain": "seoworks.com",
-    "description": "Digital growth experts offering SEO, PPC and web services.",
     "booth": "",
+    "description": "Digital growth experts offering SEO, PPC and web services.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://seoworks.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Video Ad Agency",
-    "domain": "thevideoadagency.co.uk",
-    "description": "Video advertising planning, production and execution.",
     "booth": "",
+    "description": "Video advertising planning, production and execution.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://thevideoadagency.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Updesigners",
-    "domain": "updesigners.co.uk",
-    "description": "Design services shaping the future in graphic design.",
     "booth": "",
+    "description": "Design services shaping the future in graphic design.",
     "email": "jordan@updesigners.com",
-    "city": "",
+    "mobile_primary": "07375 233572",
+    "domain": "https://updesigners.co.uk",
     "full_address": "",
-    "mobile_primary": "07375 233572"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Uplyft",
-    "domain": "uplyft.com",
-    "description": "Risk-free conversion rate optimisation for ecommerce brands.",
     "booth": "",
+    "description": "Risk-free conversion rate optimisation for ecommerce brands.",
     "email": "adam@weareuplyft.com",
-    "city": "",
+    "mobile_primary": "07812 998503",
+    "domain": "https://uplyft.com",
     "full_address": "",
-    "mobile_primary": "07812 998503"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Userboost",
-    "domain": "userboost.com",
-    "description": "Conversion optimisation for considered-purchase brands.",
     "booth": "",
+    "description": "Conversion optimisation for considered-purchase brands.",
     "email": "adrian@userboost.co.uk",
-    "city": "",
+    "mobile_primary": "01691 662712",
+    "domain": "https://userboost.com",
     "full_address": "",
-    "mobile_primary": "01691 662712"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "WebBox",
-    "domain": "webbox.co.uk",
-    "description": "Websites built to convert and marketing that drives growth.",
     "booth": "",
+    "description": "Websites built to convert and marketing that drives growth.",
     "email": "will@webboxdigital.co.uk",
-    "city": "",
+    "mobile_primary": "02920 09 19 29",
+    "domain": "https://webbox.co.uk",
     "full_address": "",
-    "mobile_primary": "02920 09 19 29"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Webmart",
-    "domain": "webmartuk.com",
-    "description": "Sustainable print and digital marketing services.",
     "booth": "",
+    "description": "Sustainable print and digital marketing services.",
     "email": "tom.maskill@webmartuk.com",
-    "city": "",
+    "mobile_primary": "01869 321321",
+    "domain": "https://webmartuk.com",
     "full_address": "",
-    "mobile_primary": "01869 321321"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wild Thang",
-    "domain": "wildthang.co.uk",
-    "description": "Branded merchandise, clothing and print.",
     "booth": "",
+    "description": "Branded merchandise, clothing and print.",
     "email": "callum@wildthang.co.uk",
-    "city": "",
+    "mobile_primary": "0151 933 3289",
+    "domain": "https://wildthang.co.uk",
     "full_address": "",
-    "mobile_primary": "0151 933 3289"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Workbooks CRM",
-    "domain": "workbooks.com",
-    "description": "A no-nonsense CRM provider.",
     "booth": "",
+    "description": "A no-nonsense CRM provider.",
     "email": "success@workbooks.com",
-    "city": "",
+    "mobile_primary": "+44 0118 3030 100",
+    "domain": "https://workbooks.com",
     "full_address": "",
-    "mobile_primary": "+44 0118 3030 100"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

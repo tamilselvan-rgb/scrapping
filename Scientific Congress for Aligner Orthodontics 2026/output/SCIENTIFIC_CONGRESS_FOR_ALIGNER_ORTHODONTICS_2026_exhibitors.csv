@@ -1,22 +1,22 @@
-﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
-ABZ,abz-zr.de,Factoring für die Zahnmedizin! Einfach gute Lösungen – für kleine und große Praxen!,,,,,123456 / 01
-Airflow Aligner,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Align Technology,aligntech.com,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Angel Aligner,angelaligner.com,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-DentalMonitoring,dentalmonitoring.com,KI-gestützte Kieferorthopädie: virtuelle Behandlungsbegleitung mit Echtzeit-Feedback für mehr Transparenz und effiziente Praxisabläufe.,,,,,
-DMD,ieeexplore.ieee.org,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,+1 800 678 4333
-Dreve,,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Elygn,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-FORESTADENT,forestadent.com,Herzlich Willkommen auf der Seite forestadent.com,,info@forestadent.com,,,151 75172
-Graphy,dl.acm.org,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Hammacher,,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Ormco,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Ortho Penthin,berlin-kieferorthopaedie.de,"Berlin Kieferorthopädie Unsichtbare Invisalign Zahnspange, Damon Zahnkorrektur, Incognito Lingualtechnik, ganzheitliche Kieferregulierung Erwachsene Kinder",,,,,+49 (0)30 609 709 170
-Orthos,orthos.de,Das kieferorthopädische Fachlabor Orthos gibt es bereits seit 1983. Als Experte mit langjähriger Erfahrung stehen wir an Ihrer Seite!,,,,,
-Oscident,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-SCHEU-DENTAL,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-siladent,,Bronze sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Smartee,dentalline.de,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,info@dentalline.de,,,+49 7231 9781-0
-Solventum,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-Straumann,straumann.com,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,
-TP Solution,tpsolution.com,"TPSolution unterstützt Sie bei der digitalen Behandlungsplanung, schult Sie und Ihre Mitarbeiter & unterstützt somit die erfolgreiche Alignerbehandlung.",,info@tpsolution.com,,,+49 221 99 40 99 65
+﻿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+ABZ,,Factoring für die Zahnmedizin! Einfach gute Lösungen – für kleine und große Praxen!,,123456 / 01,https://abz-zr.de,,,
+Airflow Aligner,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Align Technology,,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,https://aligntech.com,,,
+Angel Aligner,,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,https://angelaligner.com,,,
+DentalMonitoring,,KI-gestützte Kieferorthopädie: virtuelle Behandlungsbegleitung mit Echtzeit-Feedback für mehr Transparenz und effiziente Praxisabläufe.,,,https://dentalmonitoring.com,,,
+DMD,,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,+1 800 678 4333,https://ieeexplore.ieee.org,,,
+Dreve,,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Elygn,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+FORESTADENT,,Herzlich Willkommen auf der Seite forestadent.com,info@forestadent.com,151 75172,https://forestadent.com,,,
+Graphy,,Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,https://dl.acm.org,,,
+Hammacher,,Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Ormco,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Ortho Penthin,,"Berlin Kieferorthopädie Unsichtbare Invisalign Zahnspange, Damon Zahnkorrektur, Incognito Lingualtechnik, ganzheitliche Kieferregulierung Erwachsene Kinder",,+49 (0)30 609 709 170,https://berlin-kieferorthopaedie.de,,,
+Orthos,,Das kieferorthopädische Fachlabor Orthos gibt es bereits seit 1983. Als Experte mit langjähriger Erfahrung stehen wir an Ihrer Seite!,,,https://orthos.de,,,
+Oscident,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+SCHEU-DENTAL,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+siladent,,Bronze sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Smartee,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,info@dentalline.de,+49 7231 9781-0,https://dentalline.de,,,
+Solventum,,Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,,,,
+Straumann,,Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.,,,https://straumann.com,,,
+TP Solution,,"TPSolution unterstützt Sie bei der digitalen Behandlungsplanung, schult Sie und Ihre Mitarbeiter & unterstützt somit die erfolgreiche Alignerbehandlung.",info@tpsolution.com,+49 221 99 40 99 65,https://tpsolution.com,,,

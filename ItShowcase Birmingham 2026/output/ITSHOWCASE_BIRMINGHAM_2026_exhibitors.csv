@@ -1,22 +1,22 @@
-﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
-Advania,advania.co.uk,A Microsoft Solutions Partner including Dynamics365.,,james.elliott@advania.co.uk,,,0333 241 7689
-Cedar Bay,cedar-bay.com,Delivering business excellence through ERP investment.,,,,,
-Cooper Software,coopersoftware.com,IFS Cloud ERP specialists with 20 years of experience.,,christine.murphy@coopersoftware.com,,,01383 840700
-Enapps,enapps.co.uk,Empowering ambitious SMEs with tailored ERP solutions.,,enquiries@enapps.co.uk,,,020 8090 9222
-Epicor,epicor.com,45+ years' experience as a leading UK ERP solution provider.,,lise.moen@epicor.com,,,01344 468397
-Exel Computer Systems,exel.co.uk,UK author of flexible ERP and field-service management solutions since 1985.,,sales@exel.co.uk,,,01159 460101
-GenetiQ,genetiq.co.uk,"ERP software built for merchants, retailers, wholesalers and distributors.",,mark.gurney@genetiqsoftware.com,,,01442 878879
-Inforlogic,inforlogic.com,Experts in Infor SyteLine for manufacturing.,,robin.cook@inforlogic.com,,,01606 720474
-Inixion,inixion.com,ERP implementation partner with a 100% project success rate.,,lindsay.ross@inxion.com,,,0333 800 3606
-iplicit,iplicit.com,Cloud-based accounting software.,,taylor.stronge@iplicit.com,,,020 7729 3260
-Medatech,medatech.com,A rapid ERP implementation choice for small and medium-sized businesses.,,iainwalsh@medatechuk.com,,,07710 304 834
-NoBlue2,noblue2.com,Delivering intelligent ERP solutions based on NetSuite.,,info@noblue2.com,,,07816 628780
-Ochiba,ochiba.com,SAP Business One experts.,,james.thompson@ochiba.co.uk,,,0114 299 9430
-OneAdvanced,oneadvanced.com,Powering the world of work with business software.,,catriona.johnson@oneadvanced.com,,,0330 343 8000
-Prerogative Limited,prerogative.co.uk,The UK's leading supplier of Greentree ERP.,,info@prerogative.co.uk,,,0370 010 0203
-Seidor,seidor.com,A global leader in SAP Cloud ERP solutions.,,iain.bate@seidor.com,,,01932 212 777
-Syspro,syspro.com,ERP software built for manufacturers and distributors.,,europe-info@syspro.com,,,
-The Access Group,theaccessgroup.com,"Business software that automates finance, drives growth and scales smart.",,emily.beric@theaccessgroup.com,,,0845 345 3300
-thinc*,thinc.co.uk,Finance and ERP solutions for ambitious SMEs.,,ethan.jude@wearethinc.com,,,0808 168 8922
-WinMan,winman.com,Off-the-shelf ERP with total flexibility.,,,,,+44(0) 121 749 8050
-X3 Consulting,x3consulting.com,Sage X3 consultancy and rapid ERP implementation through Trax3ion Catalyst.,,,,,
+﻿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+Advania,,A Microsoft Solutions Partner including Dynamics365.,james.elliott@advania.co.uk,0333 241 7689,https://advania.co.uk,,,
+Cedar Bay,,Delivering business excellence through ERP investment.,,,https://cedar-bay.com,,,
+Cooper Software,,IFS Cloud ERP specialists with 20 years of experience.,christine.murphy@coopersoftware.com,01383 840700,https://coopersoftware.com,,,
+Enapps,,Empowering ambitious SMEs with tailored ERP solutions.,enquiries@enapps.co.uk,020 8090 9222,https://enapps.co.uk,,,
+Epicor,,45+ years' experience as a leading UK ERP solution provider.,lise.moen@epicor.com,01344 468397,https://epicor.com,,,
+Exel Computer Systems,,UK author of flexible ERP and field-service management solutions since 1985.,sales@exel.co.uk,01159 460101,https://exel.co.uk,,,
+GenetiQ,,"ERP software built for merchants, retailers, wholesalers and distributors.",mark.gurney@genetiqsoftware.com,01442 878879,https://genetiq.co.uk,,,
+Inforlogic,,Experts in Infor SyteLine for manufacturing.,robin.cook@inforlogic.com,01606 720474,https://inforlogic.com,,,
+Inixion,,ERP implementation partner with a 100% project success rate.,lindsay.ross@inxion.com,0333 800 3606,https://inixion.com,,,
+iplicit,,Cloud-based accounting software.,taylor.stronge@iplicit.com,020 7729 3260,https://iplicit.com,,,
+Medatech,,A rapid ERP implementation choice for small and medium-sized businesses.,iainwalsh@medatechuk.com,07710 304 834,https://medatech.com,,,
+NoBlue2,,Delivering intelligent ERP solutions based on NetSuite.,info@noblue2.com,07816 628780,https://noblue2.com,,,
+Ochiba,,SAP Business One experts.,james.thompson@ochiba.co.uk,0114 299 9430,https://ochiba.com,,,
+OneAdvanced,,Powering the world of work with business software.,catriona.johnson@oneadvanced.com,0330 343 8000,https://oneadvanced.com,,,
+Prerogative Limited,,The UK's leading supplier of Greentree ERP.,info@prerogative.co.uk,0370 010 0203,https://prerogative.co.uk,,,
+Seidor,,A global leader in SAP Cloud ERP solutions.,iain.bate@seidor.com,01932 212 777,https://seidor.com,,,
+Syspro,,ERP software built for manufacturers and distributors.,europe-info@syspro.com,,https://syspro.com,,,
+The Access Group,,"Business software that automates finance, drives growth and scales smart.",emily.beric@theaccessgroup.com,0845 345 3300,https://theaccessgroup.com,,,
+thinc*,,Finance and ERP solutions for ambitious SMEs.,ethan.jude@wearethinc.com,0808 168 8922,https://thinc.co.uk,,,
+WinMan,,Off-the-shelf ERP with total flexibility.,,+44(0) 121 749 8050,https://winman.com,,,
+X3 Consulting,,Sage X3 consultancy and rapid ERP implementation through Trax3ion Catalyst.,,,https://x3consulting.com,,,

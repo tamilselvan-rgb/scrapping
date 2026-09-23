@@ -1,212 +1,233 @@
 [
   {
     "company_name": "Advania",
-    "domain": "advania.co.uk",
-    "description": "A Microsoft Solutions Partner including Dynamics365.",
     "booth": "",
+    "description": "A Microsoft Solutions Partner including Dynamics365.",
     "email": "james.elliott@advania.co.uk",
-    "city": "",
+    "mobile_primary": "0333 241 7689",
+    "domain": "https://advania.co.uk",
     "full_address": "",
-    "mobile_primary": "0333 241 7689"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cedar Bay",
-    "domain": "cedar-bay.com",
-    "description": "Delivering business excellence through ERP investment.",
     "booth": "",
+    "description": "Delivering business excellence through ERP investment.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://cedar-bay.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cooper Software",
-    "domain": "coopersoftware.com",
-    "description": "IFS Cloud ERP specialists with 20 years of experience.",
     "booth": "",
+    "description": "IFS Cloud ERP specialists with 20 years of experience.",
     "email": "christine.murphy@coopersoftware.com",
-    "city": "",
+    "mobile_primary": "01383 840700",
+    "domain": "https://coopersoftware.com",
     "full_address": "",
-    "mobile_primary": "01383 840700"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enapps",
-    "domain": "enapps.co.uk",
-    "description": "Empowering ambitious SMEs with tailored ERP solutions.",
     "booth": "",
+    "description": "Empowering ambitious SMEs with tailored ERP solutions.",
     "email": "enquiries@enapps.co.uk",
-    "city": "",
+    "mobile_primary": "020 8090 9222",
+    "domain": "https://enapps.co.uk",
     "full_address": "",
-    "mobile_primary": "020 8090 9222"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Epicor",
-    "domain": "epicor.com",
-    "description": "45+ years' experience as a leading UK ERP solution provider.",
     "booth": "",
+    "description": "45+ years' experience as a leading UK ERP solution provider.",
     "email": "lise.moen@epicor.com",
-    "city": "",
+    "mobile_primary": "01344 468397",
+    "domain": "https://epicor.com",
     "full_address": "",
-    "mobile_primary": "01344 468397"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Exel Computer Systems",
-    "domain": "exel.co.uk",
-    "description": "UK author of flexible ERP and field-service management solutions since 1985.",
     "booth": "",
+    "description": "UK author of flexible ERP and field-service management solutions since 1985.",
     "email": "sales@exel.co.uk",
-    "city": "",
+    "mobile_primary": "01159 460101",
+    "domain": "https://exel.co.uk",
     "full_address": "",
-    "mobile_primary": "01159 460101"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GenetiQ",
-    "domain": "genetiq.co.uk",
-    "description": "ERP software built for merchants, retailers, wholesalers and distributors.",
     "booth": "",
+    "description": "ERP software built for merchants, retailers, wholesalers and distributors.",
     "email": "mark.gurney@genetiqsoftware.com",
-    "city": "",
+    "mobile_primary": "01442 878879",
+    "domain": "https://genetiq.co.uk",
     "full_address": "",
-    "mobile_primary": "01442 878879"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Inforlogic",
-    "domain": "inforlogic.com",
-    "description": "Experts in Infor SyteLine for manufacturing.",
     "booth": "",
+    "description": "Experts in Infor SyteLine for manufacturing.",
     "email": "robin.cook@inforlogic.com",
-    "city": "",
+    "mobile_primary": "01606 720474",
+    "domain": "https://inforlogic.com",
     "full_address": "",
-    "mobile_primary": "01606 720474"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Inixion",
-    "domain": "inixion.com",
-    "description": "ERP implementation partner with a 100% project success rate.",
     "booth": "",
+    "description": "ERP implementation partner with a 100% project success rate.",
     "email": "lindsay.ross@inxion.com",
-    "city": "",
+    "mobile_primary": "0333 800 3606",
+    "domain": "https://inixion.com",
     "full_address": "",
-    "mobile_primary": "0333 800 3606"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "iplicit",
-    "domain": "iplicit.com",
-    "description": "Cloud-based accounting software.",
     "booth": "",
+    "description": "Cloud-based accounting software.",
     "email": "taylor.stronge@iplicit.com",
-    "city": "",
+    "mobile_primary": "020 7729 3260",
+    "domain": "https://iplicit.com",
     "full_address": "",
-    "mobile_primary": "020 7729 3260"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Medatech",
-    "domain": "medatech.com",
-    "description": "A rapid ERP implementation choice for small and medium-sized businesses.",
     "booth": "",
+    "description": "A rapid ERP implementation choice for small and medium-sized businesses.",
     "email": "iainwalsh@medatechuk.com",
-    "city": "",
+    "mobile_primary": "07710 304 834",
+    "domain": "https://medatech.com",
     "full_address": "",
-    "mobile_primary": "07710 304 834"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "NoBlue2",
-    "domain": "noblue2.com",
-    "description": "Delivering intelligent ERP solutions based on NetSuite.",
     "booth": "",
+    "description": "Delivering intelligent ERP solutions based on NetSuite.",
     "email": "info@noblue2.com",
-    "city": "",
+    "mobile_primary": "07816 628780",
+    "domain": "https://noblue2.com",
     "full_address": "",
-    "mobile_primary": "07816 628780"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ochiba",
-    "domain": "ochiba.com",
-    "description": "SAP Business One experts.",
     "booth": "",
+    "description": "SAP Business One experts.",
     "email": "james.thompson@ochiba.co.uk",
-    "city": "",
+    "mobile_primary": "0114 299 9430",
+    "domain": "https://ochiba.com",
     "full_address": "",
-    "mobile_primary": "0114 299 9430"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OneAdvanced",
-    "domain": "oneadvanced.com",
-    "description": "Powering the world of work with business software.",
     "booth": "",
+    "description": "Powering the world of work with business software.",
     "email": "catriona.johnson@oneadvanced.com",
-    "city": "",
+    "mobile_primary": "0330 343 8000",
+    "domain": "https://oneadvanced.com",
     "full_address": "",
-    "mobile_primary": "0330 343 8000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Prerogative Limited",
-    "domain": "prerogative.co.uk",
-    "description": "The UK's leading supplier of Greentree ERP.",
     "booth": "",
+    "description": "The UK's leading supplier of Greentree ERP.",
     "email": "info@prerogative.co.uk",
-    "city": "",
+    "mobile_primary": "0370 010 0203",
+    "domain": "https://prerogative.co.uk",
     "full_address": "",
-    "mobile_primary": "0370 010 0203"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Seidor",
-    "domain": "seidor.com",
-    "description": "A global leader in SAP Cloud ERP solutions.",
     "booth": "",
+    "description": "A global leader in SAP Cloud ERP solutions.",
     "email": "iain.bate@seidor.com",
-    "city": "",
+    "mobile_primary": "01932 212 777",
+    "domain": "https://seidor.com",
     "full_address": "",
-    "mobile_primary": "01932 212 777"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Syspro",
-    "domain": "syspro.com",
-    "description": "ERP software built for manufacturers and distributors.",
     "booth": "",
+    "description": "ERP software built for manufacturers and distributors.",
     "email": "europe-info@syspro.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://syspro.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Access Group",
-    "domain": "theaccessgroup.com",
-    "description": "Business software that automates finance, drives growth and scales smart.",
     "booth": "",
+    "description": "Business software that automates finance, drives growth and scales smart.",
     "email": "emily.beric@theaccessgroup.com",
-    "city": "",
+    "mobile_primary": "0845 345 3300",
+    "domain": "https://theaccessgroup.com",
     "full_address": "",
-    "mobile_primary": "0845 345 3300"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "thinc*",
-    "domain": "thinc.co.uk",
-    "description": "Finance and ERP solutions for ambitious SMEs.",
     "booth": "",
+    "description": "Finance and ERP solutions for ambitious SMEs.",
     "email": "ethan.jude@wearethinc.com",
-    "city": "",
+    "mobile_primary": "0808 168 8922",
+    "domain": "https://thinc.co.uk",
     "full_address": "",
-    "mobile_primary": "0808 168 8922"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "WinMan",
-    "domain": "winman.com",
-    "description": "Off-the-shelf ERP with total flexibility.",
     "booth": "",
+    "description": "Off-the-shelf ERP with total flexibility.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44(0) 121 749 8050",
+    "domain": "https://winman.com",
     "full_address": "",
-    "mobile_primary": "+44(0) 121 749 8050"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "X3 Consulting",
-    "domain": "x3consulting.com",
-    "description": "Sage X3 consultancy and rapid ERP implementation through Trax3ion Catalyst.",
     "booth": "",
+    "description": "Sage X3 consultancy and rapid ERP implementation through Trax3ion Catalyst.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://x3consulting.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

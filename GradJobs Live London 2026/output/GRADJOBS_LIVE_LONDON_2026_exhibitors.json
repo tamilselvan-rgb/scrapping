@@ -1,62 +1,68 @@
 [
   {
     "company_name": "Cardiff University",
-    "domain": "cardiff.ac.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Cardiff",
+    "mobile_primary": "+44 29 2087 4000",
+    "domain": "https://cardiff.ac.uk",
     "full_address": "Park Place, Cardiff CF10 3AT",
-    "mobile_primary": "+44 29 2087 4000"
+    "city": "Cardiff",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coca-Cola Europacific Partners",
-    "domain": "cocacolaep.com",
-    "description": "Coca-Cola Europacific Partners (CCEP) is the world’s largest independent Coca-Cola bottler. A global business and one of the leading consumer goods companies in the world. They help 1.75 million customers grow , and are constantly investing in exciting new products, innovative technologies and fresh ideas. This helps them delight the 600 million people who enjoy their drinks every day. In Great Britain, it employs some 3,600 people across England, Scotland and Wales at manufacturing sites, offices and depots. CCEP GB makes and distributes soft drinks for every occasion and sells more than four billion bottles and cans every year. There are eight manufacturing sites and offices in GB, supporting 8,500 suppliers with approximately 300,000 outlets selling its drinks. CCEP are successful because they are passionate , hard-working , and committed to their products, customers and each other. CCEP is a place where people can grow, be happy and be well in a safe, open, and inclusive workplace . At CCEP our graduate programme is designed to support and build our next generation of leaders by attracting and developing diverse candidates from across GB.",
     "booth": "",
+    "description": "Coca-Cola Europacific Partners (CCEP) is the world’s largest independent Coca-Cola bottler. A global business and one of the leading consumer goods companies in the world. They help 1.75 million customers grow , and are constantly investing in exciting new products, innovative technologies and fresh ideas. This helps them delight the 600 million people who enjoy their drinks every day. In Great Britain, it employs some 3,600 people across England, Scotland and Wales at manufacturing sites, offices and depots. CCEP GB makes and distributes soft drinks for every occasion and sells more than four billion bottles and cans every year. There are eight manufacturing sites and offices in GB, supporting 8,500 suppliers with approximately 300,000 outlets selling its drinks. CCEP are successful because they are passionate , hard-working , and committed to their products, customers and each other. CCEP is a place where people can grow, be happy and be well in a safe, open, and inclusive workplace . At CCEP our graduate programme is designed to support and build our next generation of leaders by attracting and developing diverse candidates from across GB.",
     "email": "",
-    "city": "Crawley",
+    "mobile_primary": "",
+    "domain": "https://cocacolaep.com",
     "full_address": "Southgate Park, Crawley, West Sussex RH10 6LW",
-    "mobile_primary": ""
+    "city": "Crawley",
+    "linkedin_url": ""
   },
   {
     "company_name": "Get into Teaching",
-    "domain": "getintoteaching.education.gov.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "getinto.teaching@service.education.gov.uk",
-    "city": "London",
+    "mobile_primary": "+44 800 389 2500",
+    "domain": "https://getintoteaching.education.gov.uk",
     "full_address": "Sanctuary Buildings, Great Smith Street, London SW1P 3BT",
-    "mobile_primary": "+44 800 389 2500"
+    "city": "London",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jaguar Land Rover",
-    "domain": "jaguarlandrover.com",
-    "description": "Achieve the exceptional with JLR At JLR, we’re evolving the world of modern luxury. Creating vehicles that are era-defining across distinct brands with profound cultural influence worldwide. Range Rover. Discovery. Defender. Jaguar. We’re embracing our modernist design philosophy and delivering a more sustainable planet. To do this takes diverse skills and a collective purpose. It takes desire and curiosity. It takes you. Your journey starts here.",
     "booth": "",
+    "description": "Achieve the exceptional with JLR At JLR, we’re evolving the world of modern luxury. Creating vehicles that are era-defining across distinct brands with profound cultural influence worldwide. Range Rover. Discovery. Defender. Jaguar. We’re embracing our modernist design philosophy and delivering a more sustainable planet. To do this takes diverse skills and a collective purpose. It takes desire and curiosity. It takes you. Your journey starts here.",
     "email": "",
-    "city": "Coventry",
+    "mobile_primary": "",
+    "domain": "https://jaguarlandrover.com",
     "full_address": "Abbey Road, Whitley, Coventry CV3 4LF",
-    "mobile_primary": ""
+    "city": "Coventry",
+    "linkedin_url": ""
   },
   {
     "company_name": "University of Birmingham",
-    "domain": "birmingham.ac.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Birmingham",
+    "mobile_primary": "+44 121 414 3344",
+    "domain": "https://birmingham.ac.uk",
     "full_address": "Edgbaston, Birmingham B15 2TT",
-    "mobile_primary": "+44 121 414 3344"
+    "city": "Birmingham",
+    "linkedin_url": ""
   },
   {
     "company_name": "University of Kent",
-    "domain": "kent.ac.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Canterbury",
+    "mobile_primary": "+44 1227 764000",
+    "domain": "https://kent.ac.uk",
     "full_address": "University Road, Canterbury, Kent CT2 7NZ",
-    "mobile_primary": "+44 1227 764000"
+    "city": "Canterbury",
+    "linkedin_url": ""
   }
 ]

@@ -1,472 +1,519 @@
 [
   {
     "company_name": "Actavo Modular",
-    "domain": "actavo.com",
-    "description": "We operate in diverse markets offering a breadth of services, from energy to events, business support to building solutions, communications and construction",
     "booth": "Hall 1 / 407",
+    "description": "We operate in diverse markets offering a breadth of services, from energy to events, business support to building solutions, communications and construction",
     "email": "",
-    "city": "Dublin 12",
+    "mobile_primary": "+35319059700",
+    "domain": "https://actavo.com",
     "full_address": "Actavo Head Office, Westland House, Willow Road, Dublin 12, Ireland",
-    "mobile_primary": "+35319059700"
+    "city": "Dublin 12",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aereco",
-    "domain": "aereco.com",
-    "description": "Wentylacja HIGROsterowana",
     "booth": "Hall 1 / NB 8",
+    "description": "Wentylacja HIGROsterowana",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aereco.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "AFEC International",
-    "domain": "afec.ie",
-    "description": "We are Multidisciplinary Consultants Architects & Engineers",
     "booth": "Hall 1 / 404",
+    "description": "We are Multidisciplinary Consultants Architects & Engineers",
     "email": "admin@afec.ie",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://afec.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Altro Ltd",
-    "domain": "altro.com",
-    "description": "Design-led. Built to perform. Altro designs and manufactures flooring and wall cladding solutions that help you create safer, more hygienic and more durable environments—without compromising on style. With over 100 years of expertise (since 1919), we partner with architects, designers, engineers, contractors and end users to solve real-world challenges and keep projects moving from specification to installation. From healthcare and education to transport, hospitality, commercial and public spaces, our solutions are trusted where safety and cleanability matter most. Backed by global teams across Europe, the Americas, Asia Pacific and the Middle East, we bring responsive support and products designed to stand the test of time—while continuing to push for more sustainable materials and smarter performance. If you’re looking for surfaces that work harder, last longer and help people thrive, choose Altro.",
     "booth": "Hall 1 / 303",
+    "description": "Design-led. Built to perform. Altro designs and manufactures flooring and wall cladding solutions that help you create safer, more hygienic and more durable environments—without compromising on style. With over 100 years of expertise (since 1919), we partner with architects, designers, engineers, contractors and end users to solve real-world challenges and keep projects moving from specification to installation. From healthcare and education to transport, hospitality, commercial and public spaces, our solutions are trusted where safety and cleanability matter most. Backed by global teams across Europe, the Americas, Asia Pacific and the Middle East, we bring responsive support and products designed to stand the test of time—while continuing to push for more sustainable materials and smarter performance. If you’re looking for surfaces that work harder, last longer and help people thrive, choose Altro.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://altro.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Architectural & Metal Systems Ltd",
-    "domain": "ams.ie",
-    "description": "A leading supplier of aluminium curtain wall, window, and door systems Ireland’s only manufacturer of extruded aluminium profiles Acts as a single-source system supplier to approved glazing sub-contractors",
     "booth": "Hall 1 / 607",
+    "description": "A leading supplier of aluminium curtain wall, window, and door systems Ireland’s only manufacturer of extruded aluminium profiles Acts as a single-source system supplier to approved glazing sub-contractors",
     "email": "",
-    "city": "",
+    "mobile_primary": "353214705100",
+    "domain": "https://ams.ie",
     "full_address": "",
-    "mobile_primary": "353214705100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "AtkinsRéalis Ireland",
-    "domain": "atkinsrealis.com",
-    "description": "We are a world-class engineering services and nuclear organization. We connect people, data and technology to transform the world’s infrastructure and energy systems.",
     "booth": "Hall 1 / 402",
+    "description": "We are a world-class engineering services and nuclear organization. We connect people, data and technology to transform the world’s infrastructure and energy systems.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44 1372 726140",
+    "domain": "https://atkinsrealis.com",
     "full_address": "",
-    "mobile_primary": "+44 1372 726140"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BAM",
-    "domain": "bamireland.ie",
-    "description": "BAM delivers sustainable, modern and inclusive education facilities across Ireland and the UK. With more than 40 years’ experience in primary, secondary and third‑level projects, we create high‑quality environments that support inclusive learning, wellbeing, communities and economies - building with purpose to create lasting value. From innovative schools to world‑class university buildings, we take a whole‑life approach to design, construction and facilities management. Through programmes such as our Schools PPP Bundles and Higher Education Bundle, we provide long term integrated facilities management and lifecycle stewardship, ensuring long‑term performance for our clients. With expertise in sustainable construction, modular delivery and pioneering Passivhaus criteria, our projects set new standards for energy efficient, future‑ready education spaces. We build long‑term partnerships that help communities thrive - shaping environments where teaching and life skills can flourish for generations.",
     "booth": "Hall 1 / 314",
+    "description": "BAM delivers sustainable, modern and inclusive education facilities across Ireland and the UK. With more than 40 years’ experience in primary, secondary and third‑level projects, we create high‑quality environments that support inclusive learning, wellbeing, communities and economies - building with purpose to create lasting value. From innovative schools to world‑class university buildings, we take a whole‑life approach to design, construction and facilities management. Through programmes such as our Schools PPP Bundles and Higher Education Bundle, we provide long term integrated facilities management and lifecycle stewardship, ensuring long‑term performance for our clients. With expertise in sustainable construction, modular delivery and pioneering Passivhaus criteria, our projects set new standards for energy efficient, future‑ready education spaces. We build long‑term partnerships that help communities thrive - shaping environments where teaching and life skills can flourish for generations.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bamireland.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bauder",
-    "domain": "bauder.co.uk",
-    "description": "Bauder is the leading manufacturer and roof experts for commercial flat roof systems in the UK. From waterproofing to green roofs and PV solutions.",
     "booth": "Hall 1 / 110",
+    "description": "Bauder is the leading manufacturer and roof experts for commercial flat roof systems in the UK. From waterproofing to green roofs and PV solutions.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+441473257671",
+    "domain": "https://bauder.co.uk",
     "full_address": "",
-    "mobile_primary": "+441473257671"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BIM Construction Experts",
-    "domain": "bimconstructionexperts.com",
-    "description": "BIM Construction Experts (BCE) is Ireland's leading digital construction consultancy. Specializing in high-precision BIM modeling, 3D coordination, 4D simulation, and digital delivery for data centers, pharma, and major infrastructure.",
     "booth": "Hall 1 / NB4",
+    "description": "BIM Construction Experts (BCE) is Ireland's leading digital construction consultancy. Specializing in high-precision BIM modeling, 3D coordination, 4D simulation, and digital delivery for data centers, pharma, and major infrastructure.",
     "email": "Info@bimconstructionexperts.com",
-    "city": "Dublin",
+    "mobile_primary": "+353896184555",
+    "domain": "https://bimconstructionexperts.com",
     "full_address": "Dublin, IE",
-    "mobile_primary": "+353896184555"
+    "city": "Dublin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Boylan Consulting",
-    "domain": "boylanconsulting.ie",
-    "description": "Boylan Consulting is a specialist Modern Methods of Construction (MMC) Design Consultancy, providing integrated Structural Engineering, Fire Safety Design, Full BCAR Certification, Carbon Reporting and Sustainability services. For over 20 years, we have supported the school construction industry with modular and permanent modular building solutions across Ireland and international markets - delivering safe, compliant and sustainable education projects. We provide practical, coordinated solutions that help clients manage structural, fire safety, and regulatory requirements from design through to completion, reducing risk, improving coordination and enabling efficient, high-quality project delivery.",
     "booth": "Hall 1 / 515",
+    "description": "Boylan Consulting is a specialist Modern Methods of Construction (MMC) Design Consultancy, providing integrated Structural Engineering, Fire Safety Design, Full BCAR Certification, Carbon Reporting and Sustainability services. For over 20 years, we have supported the school construction industry with modular and permanent modular building solutions across Ireland and international markets - delivering safe, compliant and sustainable education projects. We provide practical, coordinated solutions that help clients manage structural, fire safety, and regulatory requirements from design through to completion, reducing risk, improving coordination and enabling efficient, high-quality project delivery.",
     "email": "info@boylanconsulting.ie",
-    "city": "",
+    "mobile_primary": "+353(0)469286000",
+    "domain": "https://boylanconsulting.ie",
     "full_address": "",
-    "mobile_primary": "+353(0)469286000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "CPAC Modular",
-    "domain": "cpacmodular.com",
-    "description": "CPAC is Ireland's leading MMC Contractor that offers unique, modern, and high-quality building solutions Ireland.",
     "booth": "Hall 1 / 107",
+    "description": "CPAC is Ireland's leading MMC Contractor that offers unique, modern, and high-quality building solutions Ireland.",
     "email": "info@cpacmodular.com",
-    "city": "",
+    "mobile_primary": "+353 1 825 0622",
+    "domain": "https://cpacmodular.com",
     "full_address": "",
-    "mobile_primary": "+353 1 825 0622"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Delap & Waller Ltd",
-    "domain": "delapandwaller.com",
-    "description": "We are Delap & Waller and for more than 100 years, we have been exceeding our clients’ expectations. Our services include Sustainability services for refurbishment, expansions, and new builds and Digital Construction",
     "booth": "Hall 1 / NB7",
+    "description": "We are Delap & Waller and for more than 100 years, we have been exceeding our clients’ expectations. Our services include Sustainability services for refurbishment, expansions, and new builds and Digital Construction",
     "email": "contact@delapandwaller.com",
-    "city": "",
+    "mobile_primary": "+44894483800",
+    "domain": "https://delapandwaller.com",
     "full_address": "",
-    "mobile_primary": "+44894483800"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dextra Group PLC",
-    "domain": "dextragroup.co.uk",
-    "description": "Educational facilities require lighting solutions that create comfortable, productive and adaptable learning environments for students and staff. Dextra Lighting provide energy-efficient LED luminaires designed to deliver excellent visual performance across classrooms, lecture theatres, libraries, corridors and communal areas while supporting concentration, wellbeing and reduced operational costs. From primary schools to universities and specialist teaching spaces, Dextra offer intelligent lighting systems combining low glare performance, high efficiency and flexible controls. Sensor integration, emergency lighting options and durable luminaires help simplify maintenance, improve sustainability and provide reliable long-term performance for both refurbishment and new build education projects. Dextra Lighting succeeds in bringing value both in terms of product and energy use, quick lead times and the flexibility to work within defined holiday periods. Dextra Lighting is a wholly owned subsidiary of Dextra Group plc, a leading UK lighting manufacturer, with turnover in 2025 of £68million. Innovation, technology and sustainability are at the core of the business.",
     "booth": "Hall 1 / 611",
+    "description": "Educational facilities require lighting solutions that create comfortable, productive and adaptable learning environments for students and staff. Dextra Lighting provide energy-efficient LED luminaires designed to deliver excellent visual performance across classrooms, lecture theatres, libraries, corridors and communal areas while supporting concentration, wellbeing and reduced operational costs. From primary schools to universities and specialist teaching spaces, Dextra offer intelligent lighting systems combining low glare performance, high efficiency and flexible controls. Sensor integration, emergency lighting options and durable luminaires help simplify maintenance, improve sustainability and provide reliable long-term performance for both refurbishment and new build education projects. Dextra Lighting succeeds in bringing value both in terms of product and energy use, quick lead times and the flexibility to work within defined holiday periods. Dextra Lighting is a wholly owned subsidiary of Dextra Group plc, a leading UK lighting manufacturer, with turnover in 2025 of £68million. Innovation, technology and sustainability are at the core of the business.",
     "email": "",
-    "city": "SP8 4PX",
+    "mobile_primary": "+441747858100",
+    "domain": "https://dextragroup.co.uk",
     "full_address": "Dextra Group Plc, Brickfields Business Park, Gillingham, Dorset, SP8 4PX, UK",
-    "mobile_primary": "+441747858100"
+    "city": "SP8 4PX",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dulux Paints Ireland",
-    "domain": "dulux.ie",
-    "description": "Dulux - Paints for Walls, Ceilings and Woodwork | Dulux",
     "booth": "Hall 1 / 202",
+    "description": "Dulux - Paints for Walls, Ceilings and Woodwork | Dulux",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dulux.ie",
     "full_address": "IE",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Everest Technical Services",
-    "domain": "everestltd.ie",
-    "description": "Everest Technical Services provides BIM, engineering, sustainability and digital construction services for the AEC sector, supporting projects from RIBA Stage 2 to 5.",
     "booth": "Hall 1 / 316",
+    "description": "Everest Technical Services provides BIM, engineering, sustainability and digital construction services for the AEC sector, supporting projects from RIBA Stage 2 to 5.",
     "email": "info@everestltd.ie",
-    "city": "",
+    "mobile_primary": "+353 (0)46 9437371",
+    "domain": "https://everestltd.ie",
     "full_address": "",
-    "mobile_primary": "+353 (0)46 9437371"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FALK Ireland Ltd",
-    "domain": "falk.com",
-    "description": "FALK is manufacturer and supplier of high quality, sustainable insulated panels. Circular with CradleCore é.",
     "booth": "Hall 1 / 108",
+    "description": "FALK is manufacturer and supplier of high quality, sustainable insulated panels. Circular with CradleCore é.",
     "email": "info@falk.com",
-    "city": "",
+    "mobile_primary": "0031318670670",
+    "domain": "https://falk.com",
     "full_address": "Neonstraat 23 6718 WX Ede The Netherlands",
-    "mobile_primary": "0031318670670"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Forbo Flooring",
-    "domain": "forbo.com",
-    "description": "Explore Forbo's global divisions: Flooring Systems, Movement Systems, and Eurocol. Discover sustainable flooring solutions, advanced conveyor belts, and high-performance adhesives for various industries.",
     "booth": "Hall 1 / 513",
+    "description": "Explore Forbo's global divisions: Flooring Systems, Movement Systems, and Eurocol. Discover sustainable flooring solutions, advanced conveyor belts, and high-performance adhesives for various industries.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://forbo.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Government of Ireland",
-    "domain": "ireland.ie",
-    "description": "Discover the best of Ireland as a place to live, study, visit, trade and invest. Explore Ireland's creative culture, rich heritage and thriving economy on Ireland.ie.",
     "booth": "317",
+    "description": "Discover the best of Ireland as a place to live, study, visit, trade and invest. Explore Ireland's creative culture, rich heritage and thriving economy on Ireland.ie.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ireland.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "H&H Acoustic Technologies",
-    "domain": "acoustictechnologies.co.uk",
-    "description": "H&H Acoustic Technologies offer design advice and have a track record of developing bespoke solutions for our customers acoustic issues. Our products perform to the highest technical standards and this is complimented by a rigorous attention to the visual impact and cosmetic finish that will ensure our products enhance the visual appearance a building. We are a leading manufacturer of acoustic products for the construction industry and have been in business for over 30 years. All our products are designed, tested and manufactured to the highest standards",
     "booth": "Hall 1 / 103",
+    "description": "H&H Acoustic Technologies offer design advice and have a track record of developing bespoke solutions for our customers acoustic issues. Our products perform to the highest technical standards and this is complimented by a rigorous attention to the visual impact and cosmetic finish that will ensure our products enhance the visual appearance a building. We are a leading manufacturer of acoustic products for the construction industry and have been in business for over 30 years. All our products are designed, tested and manufactured to the highest standards",
     "email": "info@acoustictechnologies.co.uk",
-    "city": "",
+    "mobile_primary": "+44 (0) 1536 270450",
+    "domain": "https://acoustictechnologies.co.uk",
     "full_address": "",
-    "mobile_primary": "+44 (0) 1536 270450"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hevac Ireland",
-    "domain": "hevac.ie",
-    "description": "",
     "booth": "Hall 1 / 118",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+353014191919",
+    "domain": "https://hevac.ie",
     "full_address": "",
-    "mobile_primary": "+353014191919"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HLM Architects",
-    "domain": "hlmarchitects.com",
-    "description": "Thoughtful design and the desire to make spaces and places that improve lives sits at the heart of every discipline within HLM Architects, these include Architecture, Interior Design, Landscape Architecture, Sustainability, Conservation, Industrialised construction, Digital analytics and Masterplanning. Creating places of education that inspire, healthcare environments that nurture, homes that are part of thriving communities, and infrastructure that is sustainable in its widest sense: environmentally, economically, and socially. HLM Architects are passionate about retaining a strong regional presence across their 7 studios locations in London, Sheffield, Glasgow, Belfast, Cardiff, Dublin and Plymouth but pride themselves on their ability to work internationally. HLM Architects adopt a sector led approach, meaning clients benefit from working with teams who have specific knowledge, insight and experience in the required sector, these include Higher education, Schools and colleges, Healthcare, Residential, Regeneration, Hospitality, Leisure culture and community, Workplace, Defence, Justice and Emergency Services.",
     "booth": "Hall 1 / 302",
+    "description": "Thoughtful design and the desire to make spaces and places that improve lives sits at the heart of every discipline within HLM Architects, these include Architecture, Interior Design, Landscape Architecture, Sustainability, Conservation, Industrialised construction, Digital analytics and Masterplanning. Creating places of education that inspire, healthcare environments that nurture, homes that are part of thriving communities, and infrastructure that is sustainable in its widest sense: environmentally, economically, and socially. HLM Architects are passionate about retaining a strong regional presence across their 7 studios locations in London, Sheffield, Glasgow, Belfast, Cardiff, Dublin and Plymouth but pride themselves on their ability to work internationally. HLM Architects adopt a sector led approach, meaning clients benefit from working with teams who have specific knowledge, insight and experience in the required sector, these include Higher education, Schools and colleges, Healthcare, Residential, Regeneration, Hospitality, Leisure culture and community, Workplace, Defence, Justice and Emergency Services.",
     "email": "contact@hlmarchitects.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://hlmarchitects.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "iAcoustics",
-    "domain": "iacoustics.net",
-    "description": "iAcoustics is an independent acoustic consultancy providing specialist advice across building acoustics, environmental noise and acoustic design. We work with architects, engineers, contractors, developers and project teams to help create education environments that support clear communication, concentration and effective learning. Our services cover acoustic design and consultancy from early-stage planning and design through to construction, testing and compliance. By working collaboratively with the wider design team, we help ensure acoustic requirements are considered properly and integrated into the overall building design. For Education Buildings Ireland 2026, iAcoustics is exhibiting alongside Absolute Acoustics, bringing together specialist acoustic consultancy and practical acoustic solutions for education projects across Ireland.",
     "booth": "Hall 1 / 310",
+    "description": "iAcoustics is an independent acoustic consultancy providing specialist advice across building acoustics, environmental noise and acoustic design. We work with architects, engineers, contractors, developers and project teams to help create education environments that support clear communication, concentration and effective learning. Our services cover acoustic design and consultancy from early-stage planning and design through to construction, testing and compliance. By working collaboratively with the wider design team, we help ensure acoustic requirements are considered properly and integrated into the overall building design. For Education Buildings Ireland 2026, iAcoustics is exhibiting alongside Absolute Acoustics, bringing together specialist acoustic consultancy and practical acoustic solutions for education projects across Ireland.",
     "email": "info@iacoustics.net",
-    "city": "",
+    "mobile_primary": "(01) 452 1133",
+    "domain": "https://iacoustics.net",
     "full_address": "",
-    "mobile_primary": "(01) 452 1133"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ille Service IRL Ltd",
-    "domain": "companycheck.ie",
-    "description": "",
     "booth": "Hall 1 / 104",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://companycheck.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KSN Horizon",
-    "domain": "ksnhorizon.com",
-    "description": "",
     "booth": "Hall 1 / 511",
+    "description": "",
     "email": "info@ksnhorizon.com",
-    "city": "",
+    "mobile_primary": "0035312776999",
+    "domain": "https://ksnhorizon.com",
     "full_address": "",
-    "mobile_primary": "0035312776999"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lindab",
-    "domain": "lindab.ie",
-    "description": "Discover Lindab Ireland's range of high-quality ventilation, air movement, and HVAC solutions. We provide energy-efficient systems designed for sustainability and performance. Learn more about our innovative products and services today!",
     "booth": "Hall 1 / 517",
+    "description": "Discover Lindab Ireland's range of high-quality ventilation, air movement, and HVAC solutions. We provide energy-efficient systems designed for sustainability and performance. Learn more about our innovative products and services today!",
     "email": "sales@lindab.ie",
-    "city": "",
+    "mobile_primary": "+353 (0)1456 8200",
+    "domain": "https://lindab.ie",
     "full_address": "",
-    "mobile_primary": "+353 (0)1456 8200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mac Zero Modular Buildings Ireland Ltd",
-    "domain": "maczero.com",
-    "description": "Mac Zero is a dynamic and progressive modular construction company specialising in delivering sustainable, healthy buildings within a modular design framework. We understand the benefits of a people and purpose approach and see it as fundamental to Mac Zero’s vision and culture.",
     "booth": "Hall 1 / 201",
+    "description": "Mac Zero is a dynamic and progressive modular construction company specialising in delivering sustainable, healthy buildings within a modular design framework. We understand the benefits of a people and purpose approach and see it as fundamental to Mac Zero’s vision and culture.",
     "email": "info@maczero.com",
-    "city": "",
+    "mobile_primary": "+442887741374",
+    "domain": "https://maczero.com",
     "full_address": "",
-    "mobile_primary": "+442887741374"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Manley Construction Ltd.",
-    "domain": "ie.vlex.com",
-    "description": "Browse legal content from Ireland on vLex — including Legislation, Case Law, Administrative Materials, and 4 more. Search millions of legal documents.",
     "booth": "Hall 1 / 403",
+    "description": "Browse legal content from Ireland on vLex — including Legislation, Case Law, Administrative Materials, and 4 more. Search millions of legal documents.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ie.vlex.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MazeMap AS",
-    "domain": "mazemap.com",
-    "description": "MazeMap is the leading digital wayfinding and interactive indoor maps provider for college and university campuses worldwide. MazeMap is trusted by 80+ campuses internationally and already working with TU Dublin, DKiT and ATU in Ireland. What we bring to education estates: Indoor navigation with 3D mapping and accessible routing for step-free journeys. Blue-dot positioning Kiosk interface Room and desk booking built into the map Automatic updates from your FM system Maps embedded in your website, app and digital signage Visit us at stand 1 NB3 to see how MazeMap supports wayfinding, space management and the campus experience.",
     "booth": "Hall 1 / NB3",
+    "description": "MazeMap is the leading digital wayfinding and interactive indoor maps provider for college and university campuses worldwide. MazeMap is trusted by 80+ campuses internationally and already working with TU Dublin, DKiT and ATU in Ireland. What we bring to education estates: Indoor navigation with 3D mapping and accessible routing for step-free journeys. Blue-dot positioning Kiosk interface Room and desk booking built into the map Automatic updates from your FM system Maps embedded in your website, app and digital signage Visit us at stand 1 NB3 to see how MazeMap supports wayfinding, space management and the campus experience.",
     "email": "info@mazemap.com",
-    "city": "",
+    "mobile_primary": "+4740204279",
+    "domain": "https://mazemap.com",
     "full_address": "",
-    "mobile_primary": "+4740204279"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Modulacc",
-    "domain": "modulacc.ie",
-    "description": "From classrooms and school campuses to lecture theatres and higher education facilities, we deliver industry-leading modular building solutions where students can thrive, and educators can do their best work. With a proven track record working with schools, universities and education and training boards across Ireland, our 3D volumetric modular buildings are top of the Department of Education and Youth’s approved modular building suppliers. Through Modern Methods of Construction, we design, manufacture and install modular buildings with minimal disruption to live school environments. This enables us to deliver building projects faster, smarter and better. Combining innovative design, precision-driven manufacturing and proven project management expertise, we deliver high-quality learning environments that meet the needs of students, educators and communities across Ireland. Ready to start your next building project? Contact us today to learn how we can bring your vision to life.",
     "booth": "Hall 1 / 307",
+    "description": "From classrooms and school campuses to lecture theatres and higher education facilities, we deliver industry-leading modular building solutions where students can thrive, and educators can do their best work. With a proven track record working with schools, universities and education and training boards across Ireland, our 3D volumetric modular buildings are top of the Department of Education and Youth’s approved modular building suppliers. Through Modern Methods of Construction, we design, manufacture and install modular buildings with minimal disruption to live school environments. This enables us to deliver building projects faster, smarter and better. Combining innovative design, precision-driven manufacturing and proven project management expertise, we deliver high-quality learning environments that meet the needs of students, educators and communities across Ireland. Ready to start your next building project? Contact us today to learn how we can bring your vision to life.",
     "email": "info@modulacc.ie",
-    "city": "",
+    "mobile_primary": "//353 61 330033",
+    "domain": "https://modulacc.ie",
     "full_address": "",
-    "mobile_primary": "//353 61 330033"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MySolar",
-    "domain": "mysolar.ie",
-    "description": "Install solar panels in Ireland with zero upfront cost. MySolar’s Solar-as-a-Service lets you generate clean energy and reduce electricity bills with a simple monthly payment.",
     "booth": "Hall 1 / NB5",
+    "description": "Install solar panels in Ireland with zero upfront cost. MySolar’s Solar-as-a-Service lets you generate clean energy and reduce electricity bills with a simple monthly payment.",
     "email": "info@mysolar.ie",
-    "city": "",
+    "mobile_primary": "019125265",
+    "domain": "https://mysolar.ie",
     "full_address": "",
-    "mobile_primary": "019125265"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "P McVey Building Systems",
-    "domain": "pmcveybuildingsystems.com",
-    "description": "P McVey Building Systems is a family-run, award-winning company and a trusted leader in modular buildings and off-site construction for 40 years. Specialising in the design, construction, and installation of efficient, sustainable buildings, our projects are completed 50 - 70% faster than traditional methods - with greater certainty on timing and budget - significantly reducing environmental impact while exceeding client expectations.",
     "booth": "Hall 1 / 509",
+    "description": "P McVey Building Systems is a family-run, award-winning company and a trusted leader in modular buildings and off-site construction for 40 years. Specialising in the design, construction, and installation of efficient, sustainable buildings, our projects are completed 50 - 70% faster than traditional methods - with greater certainty on timing and budget - significantly reducing environmental impact while exceeding client expectations.",
     "email": "info@pmcveybuildingsystems.com",
-    "city": "",
+    "mobile_primary": "+442879418670",
+    "domain": "https://pmcveybuildingsystems.com",
     "full_address": "",
-    "mobile_primary": "+442879418670"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Portakabin Ltd",
-    "domain": "portakabin.com",
-    "description": "Portakabin delivers high-quality modular building solutions across a wide range of sectors, including education, healthcare, construction, manufacturing and the public sector. Working with schools, colleges and universities across Ireland, we help education providers create flexible, future-ready learning environments. Whether delivering additional classrooms, SEN facilities, specialist teaching spaces, science laboratories, home economics rooms, staff facilities or decant accommodation during refurbishment projects, our modular solutions are designed to be delivered quickly, sustainably and with minimal disruption to teaching and learning.",
     "booth": "Hall 1 / 502",
+    "description": "Portakabin delivers high-quality modular building solutions across a wide range of sectors, including education, healthcare, construction, manufacturing and the public sector. Working with schools, colleges and universities across Ireland, we help education providers create flexible, future-ready learning environments. Whether delivering additional classrooms, SEN facilities, specialist teaching spaces, science laboratories, home economics rooms, staff facilities or decant accommodation during refurbishment projects, our modular solutions are designed to be delivered quickly, sustainably and with minimal disruption to teaching and learning.",
     "email": "contactus@portakabin.com",
-    "city": "",
+    "mobile_primary": "01642633197",
+    "domain": "https://portakabin.com",
     "full_address": "",
-    "mobile_primary": "01642633197"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Procon Management",
-    "domain": "ca.indeed.com",
-    "description": "",
     "booth": "Hall 1 / 311",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ca.indeed.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Roadmaster Building Systems",
-    "domain": "mmcireland.ie",
-    "description": "Representative body for Ireland-based designers, manufacturers and installers of modern methods of construction. Join MMC Ireland today...",
     "booth": "Hall 1 / 112",
+    "description": "Representative body for Ireland-based designers, manufacturers and installers of modern methods of construction. Join MMC Ireland today...",
     "email": "info@mmcireland.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://mmcireland.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rockfon",
-    "domain": "rockfon.co.uk",
-    "description": "Rockfon creates high-performance acoustic stone wool solutions that enhance comfort, wellbeing and design in indoor spaces. We are committed to creating a world that sounds good to everyone, helping people experience better places to work, learn, heal and live.",
     "booth": "Hall 1 / 401",
+    "description": "Rockfon creates high-performance acoustic stone wool solutions that enhance comfort, wellbeing and design in indoor spaces. We are committed to creating a world that sounds good to everyone, helping people experience better places to work, learn, heal and live.",
     "email": "info@rockfon.co.uk",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rockfon.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rogerson Reddan & Associates",
-    "domain": "rra.ie",
-    "description": "We provide end-to-end services across quantity surveying , project and construction management , procurement and dispute resolution with a large portion of the business working in the sustainability space. We have a long and valued relationship with the Department of Education and Youth in delivery education capital projects of all kinds. We’re a team of over 60 extensively experienced professionals , operating across Dublin , Kildare , and Limerick , supporting both public and private sector clients. Our work spans a broad range of sectors including commercial , retail , education , residential , manufacturing , and hospitality .",
     "booth": "Hall 1 / 114",
+    "description": "We provide end-to-end services across quantity surveying , project and construction management , procurement and dispute resolution with a large portion of the business working in the sustainability space. We have a long and valued relationship with the Department of Education and Youth in delivery education capital projects of all kinds. We’re a team of over 60 extensively experienced professionals , operating across Dublin , Kildare , and Limerick , supporting both public and private sector clients. Our work spans a broad range of sectors including commercial , retail , education , residential , manufacturing , and hospitality .",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rra.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rotho Blaas SRL",
-    "domain": "rothoblaas.com",
-    "description": "Rothoblaas is a global innovation company with its roots in the Italian Alps , where a long tradition has fostered the development of solutions that now enable the construction of timber buildings of more than 20 stories. Through the provision of innovative standardized components and specialized consultancy, Rothoblaas assists industry professionals in creating stunning, safe, and efficient buildings . Its product range encompasses fastening , airtightness, waterproofing and soundproofing , fall protection systems, tools and machines .",
     "booth": "Hall 1 / 216",
+    "description": "Rothoblaas is a global innovation company with its roots in the Italian Alps , where a long tradition has fostered the development of solutions that now enable the construction of timber buildings of more than 20 stories. Through the provision of innovative standardized components and specialized consultancy, Rothoblaas assists industry professionals in creating stunning, safe, and efficient buildings . Its product range encompasses fastening , airtightness, waterproofing and soundproofing , fall protection systems, tools and machines .",
     "email": "info@rothoblaas.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rothoblaas.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Saint-Gobain Ecophon",
-    "domain": "datacentres-ireland.com",
-    "description": "Join 100+ exhibitors and 2,000+ professionals at Ireland’s leading data centre conference and exhibition. Discover the latest in colocation, AI, power, cooling, and sustainability.",
     "booth": "Hall 1 / 106",
+    "description": "Join 100+ exhibitors and 2,000+ professionals at Ireland’s leading data centre conference and exhibition. Discover the latest in colocation, AI, power, cooling, and sustainability.",
     "email": "datacentres@stepex.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://datacentres-ireland.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Salto Systems Ltd",
-    "domain": "saltosystems.com",
-    "description": "SALTO Systems is a global leader in smart, wire-free electronic access control, helping education providers create safer, more flexible learning environments. Our keyless locking, mobile credential and centralised management solutions let schools, colleges and universities manage access across classrooms, labs, libraries, lockers and entire campuses from a single platform — with real-time control, emergency lockdown capability, and integration with student ID and existing security systems. SALTO helps education facilities reduce costs, simplify management, and improve safety for students and staff, without the hassle of mechanical keys.",
     "booth": "Hall 1 / 117",
+    "description": "SALTO Systems is a global leader in smart, wire-free electronic access control, helping education providers create safer, more flexible learning environments. Our keyless locking, mobile credential and centralised management solutions let schools, colleges and universities manage access across classrooms, labs, libraries, lockers and entire campuses from a single platform — with real-time control, emergency lockdown capability, and integration with student ID and existing security systems. SALTO helps education facilities reduce costs, simplify management, and improve safety for students and staff, without the hassle of mechanical keys.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://saltosystems.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Triflex",
-    "domain": "triflex.ie",
-    "description": "Triflex are specialists in cold liquid applied waterproofing, surfacing and marking resins. Our high‑quality systems deliver long-lasting protection for roofs, walkways, balconies, terraces, car parks and infrastructure. From our Irish base, we provide tailored solutions supported by exceptional service, from detailed site surveys to comprehensive testing and on-site or off-site support, ensuring your project is completed to the highest standards. All Triflex solutions are certified to the highest standards and backed by long-term warranties for peace of mind. Triflex are a family‑owned company with production in Minden, Germany, with over 40 years of innovation in protecting the built environment worldwide.",
     "booth": "Hall 1 / NB2",
+    "description": "Triflex are specialists in cold liquid applied waterproofing, surfacing and marking resins. Our high‑quality systems deliver long-lasting protection for roofs, walkways, balconies, terraces, car parks and infrastructure. From our Irish base, we provide tailored solutions supported by exceptional service, from detailed site surveys to comprehensive testing and on-site or off-site support, ensuring your project is completed to the highest standards. All Triflex solutions are certified to the highest standards and backed by long-term warranties for peace of mind. Triflex are a family‑owned company with production in Minden, Germany, with over 40 years of innovation in protecting the built environment worldwide.",
     "email": "info@triflex.co.uk",
-    "city": "",
+    "mobile_primary": "01785 819119",
+    "domain": "https://triflex.ie",
     "full_address": "",
-    "mobile_primary": "01785 819119"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Turner & Townsend Limited",
-    "domain": "igbc.ie",
-    "description": "The Irish Green Building Council – IGBC, a non-profit organisation was launched in 2011 with organisations and businesses from the entire value chain of the built environment. Find out more on our website",
     "booth": "Hall 1 / 501",
+    "description": "The Irish Green Building Council – IGBC, a non-profit organisation was launched in 2011 with organisations and businesses from the entire value chain of the built environment. Find out more on our website",
     "email": "",
-    "city": "D08 PY5E",
+    "mobile_primary": "+353016815862",
+    "domain": "https://igbc.ie",
     "full_address": "Suite 109, The Masonry Building, 151 Thomas Street, The Liberties, Dublin, D08 PY5E, Ireland",
-    "mobile_primary": "+353016815862"
+    "city": "D08 PY5E",
+    "linkedin_url": ""
   },
   {
     "company_name": "VaughTEC Ltd",
-    "domain": "companycheck.ie",
-    "description": "",
     "booth": "Hall 1 / 217",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://companycheck.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Versatile Group",
-    "domain": "ie.indeed.com",
-    "description": "",
     "booth": "Hall 1 / 102",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ie.indeed.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vision Built Ltd",
-    "domain": "vision-built.com",
-    "description": "",
     "booth": "Hall 1 / 417",
+    "description": "",
     "email": "info@vision-built.com",
-    "city": "",
+    "mobile_primary": "+35391795505",
+    "domain": "https://vision-built.com",
     "full_address": "",
-    "mobile_primary": "+35391795505"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vision Creative Studios",
-    "domain": "vibebyvision.com",
-    "description": "Vibe by Vision brings together 30 years of expertise in environmental branding with specialist knowledge in manufacturing, sound engineering, acoustics and lighting. We hold the world’s largest collection of acoustic and sensory products. Our mission is to create acoustic environments that enhance wellbeing, expression and sustainability through smart materiality, natural design intelligence and collaboration with leading creative teams.",
     "booth": "Hall 1 / 305",
+    "description": "Vibe by Vision brings together 30 years of expertise in environmental branding with specialist knowledge in manufacturing, sound engineering, acoustics and lighting. We hold the world’s largest collection of acoustic and sensory products. Our mission is to create acoustic environments that enhance wellbeing, expression and sustainability through smart materiality, natural design intelligence and collaboration with leading creative teams.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+35314500622",
+    "domain": "https://vibebyvision.com",
     "full_address": "",
-    "mobile_primary": "+35314500622"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Visitorbooks",
-    "domain": "visitorbooks.ie",
-    "description": "",
     "booth": "Hall 1 / 312",
+    "description": "",
     "email": "info@visitorbooks.ie",
-    "city": "",
+    "mobile_primary": "0861695068",
+    "domain": "https://visitorbooks.ie",
     "full_address": "",
-    "mobile_primary": "0861695068"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wall Art by Promote Your School",
-    "domain": "promoteyourschool.co.uk",
-    "description": "Promote Your School is an education design agency that specialises in creating bespoke Wall Art for schools. Every day, we work directly with schools in the UK, Ireland and the wider world. With over 20 years’ experience in education, we understand the unique challenges faced by teachers and leaders in education. Our extensive design expertise makes us well placed to advise and guide you through the process of using Wall Art to achieve your goals and ambitions. Inspire learning, improve wellbeing and impress visitors with stunning Wall Art that’s tailored to your school’s curriculum. We take pride in delivering high levels of service throughout the whole process, including after your installation is complete. Our service includes design, print and installation, backed by exceptional customer service. We’re a PlanetMark certified business and an accredited SafeContractor, so we offer high standards of service and a sustainable product that will last many years, with zero upkeep required. Our bespoke Wall Art is printed on high-quality, durable, industrial grade materials designed to last many years in busy school environments. It is suitable for most surfaces, indoors and outdoors, including walls, floors, windows, ceilings, doors, fences and gates.",
     "booth": "Hall 1 / 300",
+    "description": "Promote Your School is an education design agency that specialises in creating bespoke Wall Art for schools. Every day, we work directly with schools in the UK, Ireland and the wider world. With over 20 years’ experience in education, we understand the unique challenges faced by teachers and leaders in education. Our extensive design expertise makes us well placed to advise and guide you through the process of using Wall Art to achieve your goals and ambitions. Inspire learning, improve wellbeing and impress visitors with stunning Wall Art that’s tailored to your school’s curriculum. We take pride in delivering high levels of service throughout the whole process, including after your installation is complete. Our service includes design, print and installation, backed by exceptional customer service. We’re a PlanetMark certified business and an accredited SafeContractor, so we offer high standards of service and a sustainable product that will last many years, with zero upkeep required. Our bespoke Wall Art is printed on high-quality, durable, industrial grade materials designed to last many years in busy school environments. It is suitable for most surfaces, indoors and outdoors, including walls, floors, windows, ceilings, doors, fences and gates.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+442074043400",
+    "domain": "https://promoteyourschool.co.uk",
     "full_address": "",
-    "mobile_primary": "+442074043400"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

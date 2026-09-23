@@ -1,232 +1,255 @@
 [
   {
     "company_name": "Abbott",
-    "domain": "abbott.com",
-    "description": "Home",
     "booth": "",
+    "description": "Home",
     "email": "",
-    "city": "Chicago",
+    "mobile_primary": "",
+    "domain": "https://abbott.com",
     "full_address": "100 Abbott Park Road, Chicago, IL, 60064",
-    "mobile_primary": ""
+    "city": "Chicago",
+    "linkedin_url": ""
   },
   {
     "company_name": "Accenture",
-    "domain": "accenture.com",
-    "description": "Accenture embraces the power of change to create 360° value and shared success for our clients, people, shareholders, partners and communities. Learn more.",
     "booth": "",
+    "description": "Accenture embraces the power of change to create 360° value and shared success for our clients, people, shareholders, partners and communities. Learn more.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://accenture.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amazon Business",
-    "domain": "business.amazon.co.uk",
-    "description": "Amazon Business combines the selection, convenience, and value of Amazon with features that help improve business purchasing.",
     "booth": "",
+    "description": "Amazon Business combines the selection, convenience, and value of Amazon with features that help improve business purchasing.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://business.amazon.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amped Software",
-    "domain": "ampedsoftware.com",
-    "description": "At Amped Software we develop solutions for the analysis and enhancement of images and videos for forensic, security, and investigative applications.",
     "booth": "",
+    "description": "At Amped Software we develop solutions for the analysis and enhancement of images and videos for forensic, security, and investigative applications.",
     "email": "info@ampedsoftware.com",
-    "city": "",
+    "mobile_primary": "+390403755333",
+    "domain": "https://ampedsoftware.com",
     "full_address": "",
-    "mobile_primary": "+390403755333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Auror",
-    "domain": "auror.co",
-    "description": "Retail Crime Intelligence turning isolated incidents into outcomes. Built for retailers and law enforcement, Auror makes stores safer and communities stronger.",
     "booth": "",
+    "description": "Retail Crime Intelligence turning isolated incidents into outcomes. Built for retailers and law enforcement, Auror makes stores safer and communities stronger.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://auror.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Axon",
-    "domain": "axon.com",
-    "description": "The Axon Network connects people, devices, and apps to protect life in all regards From our TASER smart devices, to police body cameras, to our industry leading cloud based evidence management software, we are the world’s premier public safety company and are committed to delivering safe, secure solutions for law enforcement, militaries, and citizens alike We are Axon",
     "booth": "",
+    "description": "The Axon Network connects people, devices, and apps to protect life in all regards From our TASER smart devices, to police body cameras, to our industry leading cloud based evidence management software, we are the world’s premier public safety company and are committed to delivering safe, secure solutions for law enforcement, militaries, and citizens alike We are Axon",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://axon.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BikeRegister",
-    "domain": "bikeregister.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bikeregister.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BlueLight Commercial",
-    "domain": "bluelightcommercial.police.uk",
-    "description": "BlueLight Commercial | Transforming commercial services together",
     "booth": "",
+    "description": "BlueLight Commercial | Transforming commercial services together",
     "email": "enquiries@bluelight.police.uk",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bluelightcommercial.police.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BT",
-    "domain": "bt.com",
-    "description": "From Ultra Fast Full Fibre broadband to TV & Mobile, BT helps UK families, communities & companies reach their potential. Find more BT products here.",
     "booth": "",
+    "description": "From Ultra Fast Full Fibre broadband to TV & Mobile, BT helps UK families, communities & companies reach their potential. Find more BT products here.",
     "email": "",
-    "city": "London",
+    "mobile_primary": "",
+    "domain": "https://bt.com",
     "full_address": "1 Braham Street, London, E1 8EE",
-    "mobile_primary": ""
+    "city": "London",
+    "linkedin_url": ""
   },
   {
     "company_name": "College of Policing",
-    "domain": "college.police.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://college.police.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dejero",
-    "domain": "dejero.com",
-    "description": "Home - Dejero",
     "booth": "",
+    "description": "Home - Dejero",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dejero.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GSA Solution",
-    "domain": "gsaltd.com",
-    "description": "We provide professional software solutions for Public and Private sector organisations worldwide including HMRC, NCA, HM Government of Gibraltar and The Insolvency Service.",
     "booth": "",
+    "description": "We provide professional software solutions for Public and Private sector organisations worldwide including HMRC, NCA, HM Government of Gibraltar and The Insolvency Service.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://gsaltd.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "NicheRMS365",
-    "domain": "nicherms.com",
-    "description": "Police Records Management System for Large Agencies | NicheRMS",
     "booth": "",
+    "description": "Police Records Management System for Large Agencies | NicheRMS",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://nicherms.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OUP",
-    "domain": "corp.oup.com",
-    "description": "Oxford University Press moves knowledge and learning forward. Discover our products, services, and latest thinking in education and research.",
     "booth": "",
+    "description": "Oxford University Press moves knowledge and learning forward. Discover our products, services, and latest thinking in education and research.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://corp.oup.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Polaris",
-    "domain": "polarissoftware.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://polarissoftware.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Police Digital Service",
-    "domain": "pds.police.uk",
-    "description": "Police Digital Service",
     "booth": "",
+    "description": "Police Digital Service",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://pds.police.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Police Friendly",
-    "domain": "policefriendly.org.uk",
-    "description": "Free financial events for the police family.Free financial events for the police family. Seminars & webinars on pensions, retirement, tax-free savings and more. Book your place today.",
     "booth": "",
+    "description": "Free financial events for the police family.Free financial events for the police family. Seminars & webinars on pensions, retirement, tax-free savings and more. Book your place today.",
     "email": "options.support@metfriendly.org.uk",
-    "city": "",
+    "mobile_primary": "01689891454",
+    "domain": "https://policefriendly.org.uk",
     "full_address": "",
-    "mobile_primary": "01689891454"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "PwC",
-    "domain": "pwc.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://pwc.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Safecall",
-    "domain": "safecall.co.uk",
-    "description": "whistleblowing software, whistleblowing service provider, whistleblower service provider, corporate whistleblower hotline, employee hotline",
     "booth": "",
+    "description": "whistleblowing software, whistleblowing service provider, whistleblower service provider, corporate whistleblower hotline, employee hotline",
     "email": "",
-    "city": "",
+    "mobile_primary": "441915167720",
+    "domain": "https://safecall.co.uk",
     "full_address": "",
-    "mobile_primary": "441915167720"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Salesforce",
-    "domain": "salesforce.org",
-    "description": "Salesforce for Nonprofit is the leading nonprofit software for fundraising, marketing, program management, grantmaking, and volunteer management.",
     "booth": "",
+    "description": "Salesforce for Nonprofit is the leading nonprofit software for fundraising, marketing, program management, grantmaking, and volunteer management.",
     "email": "",
-    "city": "",
+    "mobile_primary": "18006649073",
+    "domain": "https://salesforce.org",
     "full_address": "",
-    "mobile_primary": "18006649073"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SelectaDNA",
-    "domain": "selectadna.co.uk",
-    "description": "SelectaDNA Forensic Coding proven to reduce burglaries by up to 85%.",
     "booth": "",
+    "description": "SelectaDNA Forensic Coding proven to reduce burglaries by up to 85%.",
     "email": "",
-    "city": "",
+    "mobile_primary": "01689860757",
+    "domain": "https://selectadna.co.uk",
     "full_address": "",
-    "mobile_primary": "01689860757"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sporting Communities",
-    "domain": "sportingcommunities.co.uk",
-    "description": "Sporting Communities | Sporting Communities Website",
     "booth": "",
+    "description": "Sporting Communities | Sporting Communities Website",
     "email": "ross@sportingcommunities.co.uk",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://sportingcommunities.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Teraduct",
-    "domain": "teradact.com",
-    "description": "Redactor+ reads a file the way a reviewer does and applies your ruleset across documents, video, audio and images, entirely inside your own infrastructure.",
     "booth": "",
+    "description": "Redactor+ reads a file the way a reviewer does and applies your ruleset across documents, video, audio and images, entirely inside your own infrastructure.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://teradact.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

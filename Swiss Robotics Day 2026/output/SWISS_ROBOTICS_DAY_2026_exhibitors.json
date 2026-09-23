@@ -1,642 +1,706 @@
 [
   {
     "company_name": "Arena by PTC",
-    "domain": "arenasolutions.com",
-    "description": "Arena by PTC helps robotics companies transform innovative ideas into market-ready products faster. Our cloud-native Product Lifecycle Management (PLM) platform connects engineering, operations, quality, suppliers, and manufacturing partners in a single system. As robotics products become more complex, Arena enables start-ups to manage product data, control changes, collaborate with global supply chains, and scale efficiently from prototype through production while maintaining quality and reducing time to market See how robotics companies use Arena to manage product data, engineering changes, supplier collaboration, and manufacturing readiness in a single cloud platform, helping teams scale efficiently from prototype to production without losing control of critical product information.",
     "booth": "",
+    "description": "Arena by PTC helps robotics companies transform innovative ideas into market-ready products faster. Our cloud-native Product Lifecycle Management (PLM) platform connects engineering, operations, quality, suppliers, and manufacturing partners in a single system. As robotics products become more complex, Arena enables start-ups to manage product data, control changes, collaborate with global supply chains, and scale efficiently from prototype through production while maintaining quality and reducing time to market See how robotics companies use Arena to manage product data, engineering changes, supplier collaboration, and manufacturing readiness in a single cloud platform, helping teams scale efficiently from prototype to production without losing control of critical product information.",
     "email": "lsimms@ptc.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://arenasolutions.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ASENSING",
-    "domain": "asensing.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "zhanghaizhou@asensing.com",
-    "city": "Zurich",
+    "mobile_primary": "020-38036761",
+    "domain": "https://asensing.com",
     "full_address": "",
-    "mobile_primary": "020-38036761"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Balance Drive AG",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@balance-drive.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bauser",
-    "domain": "bauser.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "daniel.aicher@bauser.de",
-    "city": "Zurich",
+    "mobile_primary": "+49 7426 933-0",
+    "domain": "https://bauser.de",
     "full_address": "",
-    "mobile_primary": "+49 7426 933-0"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beijing NOKOV Science & Technology Co.,Ltd.",
-    "domain": "en.nokov.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "betty.guo@nokov.cn",
-    "city": "Zurich",
+    "mobile_primary": "+861064922321",
+    "domain": "https://en.nokov.com",
     "full_address": "",
-    "mobile_primary": "+861064922321"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bota Systems",
-    "domain": "botasys.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mwermelinger@botasys.com",
-    "city": "Zurich",
+    "mobile_primary": "+41 43 883 34 57",
+    "domain": "https://botasys.com",
     "full_address": "",
-    "mobile_primary": "+41 43 883 34 57"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "coprod",
-    "domain": "coprod.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "loic.delineau@coprod.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://coprod.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "CRATER",
-    "domain": "ethrover.com",
-    "description": "CRATER – ETH Zürich Rover is a student-built autonomous rover and exploration drone platform designed for Mars-like environments. Developed by ETH Zürich students across multiple engineering disciplines, CRATER combines robotics, autonomous navigation, and scientific exploration capabilities to address challenges such as terrain mapping, sample collection, and robotic manipulation. The project represents the next generation of student-led space robotics, advancing the development of autonomous systems for future terrestrial and planetary missions. CRATER participated in the renewed European Rover Challenge 2026 in Krakow, Poland.",
     "booth": "",
+    "description": "CRATER – ETH Zürich Rover is a student-built autonomous rover and exploration drone platform designed for Mars-like environments. Developed by ETH Zürich students across multiple engineering disciplines, CRATER combines robotics, autonomous navigation, and scientific exploration capabilities to address challenges such as terrain mapping, sample collection, and robotic manipulation. The project represents the next generation of student-led space robotics, advancing the development of autonomous systems for future terrestrial and planetary missions. CRATER participated in the renewed European Rover Challenge 2026 in Krakow, Poland.",
     "email": "asheridan@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://ethrover.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Deep Safety",
-    "domain": "deepsafety.ai",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "matthias@deepsafety.ai",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://deepsafety.ai",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Disney Research Imagineering, Zurich",
-    "domain": "disneyresearch.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "robotics@disneyresearch.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://disneyresearch.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dobot Europe GmbH",
-    "domain": "dobot-robots.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "siqi.yuan@dobot-global.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://dobot-robots.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Duatic",
-    "domain": "duatic.com",
-    "description": "Founded 2024 in Zurich, Duatic is pioneering human-scale robotics. Our cutting-edge actuators and lightweight robotic arm combine superior power, compact design, and advanced sensing to outperform conventional solutions. Developed from ETH Zurich research, our technology bridges the gap between cutting-edge science and real-world robotics. By merging state-of-the-art AI with high-performance hardware, we redefine automation and human-robot collaboration.",
     "booth": "",
+    "description": "Founded 2024 in Zurich, Duatic is pioneering human-scale robotics. Our cutting-edge actuators and lightweight robotic arm combine superior power, compact design, and advanced sensing to outperform conventional solutions. Developed from ETH Zurich research, our technology bridges the gap between cutting-edge science and real-world robotics. By merging state-of-the-art AI with high-performance hardware, we redefine automation and human-robot collaboration.",
     "email": "info@duatic.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://duatic.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Déploya",
-    "domain": "deploya.ch",
-    "description": "Façade installation in construction is highly manual and dependent on scaffolding systems. This leads to safety risks, long installation times, and frequent human errors. Our solution is a rapidly deployable vertical grid that enables robotic tools to operate in parallel on façades of buildings.",
     "booth": "",
+    "description": "Façade installation in construction is highly manual and dependent on scaffolding systems. This leads to safety risks, long installation times, and frequent human errors. Our solution is a rapidly deployable vertical grid that enables robotic tools to operate in parallel on façades of buildings.",
     "email": "founders@deploya.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://deploya.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "EPFL LASA",
-    "domain": "epfl.ch",
-    "description": "LASA develops method to enable humans to teach robots to perform skills with the level of dexterity displayed by humans in similar tasks. Our robots move seamlessly with smooth motions. They adapt on-the-fly to the presence of obstacles and sudden perturbations, mimicking humans’ immediate response when facing unexpected and dangerous situations.",
     "booth": "",
+    "description": "LASA develops method to enable humans to teach robots to perform skills with the level of dexterity displayed by humans in similar tasks. Our robots move seamlessly with smooth motions. They adapt on-the-fly to the presence of obstacles and sudden perturbations, mimicking humans’ immediate response when facing unexpected and dangerous situations.",
     "email": "isabelle.derivaz-rabii@epfl.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41216933000",
+    "domain": "https://epfl.ch",
     "full_address": "",
-    "mobile_primary": "+41216933000"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "EPFL RRL",
-    "domain": "paikslab.com",
-    "description": "At the Reconfigurable Robotics Lab we focus on the design, actuation, fabrication, and control of unique robotic systems. The research in our lab is committed to inventing interactive robotic systems with novel fabrication techniques and integration processes that push the limits of mechanical properties. These efforts enable us to create soft, reconfigurable, and interactive robots that are highly conscious of the environment and have extensive applications in wearable technology, medical/rehabilitation systems, and personal robots. Reconfigurable Robogami modules for human augmentation Origami-inspired, lightweight modules configure to wearable robotic arms that adapt seamlessly and safely to various environments and tasks. Immersive Multi-modal Full-Body Feedback for Tangible Experiences Origami-inspired Dynamic Experience Platform that delivers whole-body feedback by translating audiovisual content into motion, and recreating real-world kinetic experience, making digital content immersive and tangible. Self-Assembling Modular Origami Robots A swarm of identical triangular origami modules that locate each other, assemble themselves into a requested shape with no central controller, and accept plug-in capability cores, so one set of hardware becomes whatever robot the mission needs. Surface-Based Manipulation A team of reconfigurable modular robots, each ending in a simple flat plate, moves, flips, and reorients objects across their surfaces—manipulating without ever grasping. Digits: Reconfigurable Haptic Feedback Digits is a reconfigurable haptic interface composed of modular pneumatic actuators that can be arranged in different configurations to render multimodal haptic feedback with precise pressure control. Viscous Airflow Reconfiguration System Predictive fluidic-network framework that transforms a small number of shared pneumatic inputs into dynamically reprogrammable spatiotemporal actuation fields. SORI: a softness rendering interface SORI is a reconfigurable haptic display that decouples contact area and force on human fingertips, with model-based softness cue estimation to render a personalized experience with both virtual and real-world objects.",
     "booth": "",
+    "description": "At the Reconfigurable Robotics Lab we focus on the design, actuation, fabrication, and control of unique robotic systems. The research in our lab is committed to inventing interactive robotic systems with novel fabrication techniques and integration processes that push the limits of mechanical properties. These efforts enable us to create soft, reconfigurable, and interactive robots that are highly conscious of the environment and have extensive applications in wearable technology, medical/rehabilitation systems, and personal robots. Reconfigurable Robogami modules for human augmentation Origami-inspired, lightweight modules configure to wearable robotic arms that adapt seamlessly and safely to various environments and tasks. Immersive Multi-modal Full-Body Feedback for Tangible Experiences Origami-inspired Dynamic Experience Platform that delivers whole-body feedback by translating audiovisual content into motion, and recreating real-world kinetic experience, making digital content immersive and tangible. Self-Assembling Modular Origami Robots A swarm of identical triangular origami modules that locate each other, assemble themselves into a requested shape with no central controller, and accept plug-in capability cores, so one set of hardware becomes whatever robot the mission needs. Surface-Based Manipulation A team of reconfigurable modular robots, each ending in a simple flat plate, moves, flips, and reorients objects across their surfaces—manipulating without ever grasping. Digits: Reconfigurable Haptic Feedback Digits is a reconfigurable haptic interface composed of modular pneumatic actuators that can be arranged in different configurations to render multimodal haptic feedback with precise pressure control. Viscous Airflow Reconfiguration System Predictive fluidic-network framework that transforms a small number of shared pneumatic inputs into dynamically reprogrammable spatiotemporal actuation fields. SORI: a softness rendering interface SORI is a reconfigurable haptic display that decouples contact area and force on human fingertips, with model-based softness cue estimation to render a personalized experience with both virtual and real-world objects.",
     "email": "hwayeong.jeong@epfl.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41 21 693 57 37",
+    "domain": "https://paikslab.com",
     "full_address": "",
-    "mobile_primary": "+41 21 693 57 37"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "EPFL Xplore",
-    "domain": "epflxplore.github.io",
-    "description": "EPFL Xplore is an association of more than 100 motivated students who take part in ambitious robotics and student space exploration projects. The team designs and builds planetary rovers from scratch while advancing technologies for autonomous exploration. It competes internationally at the European Rover Challenge in Poland, where its rover must autonomously navigate challenging Martian terrain, collect and analyze soil samples, and execute a scientific mission. Over the years, the team has received numerous excellency awards, including first place at ERC 2025. In parallel, EPFL Xplore organizes the Xplore Rover Challenge, a hands-on competition introducing students to planetary robotics. The association also conducts research projects in collaboration with academic laboratories and industry partners, developing innovative technologies in the field of space robotics.",
     "booth": "",
+    "description": "EPFL Xplore is an association of more than 100 motivated students who take part in ambitious robotics and student space exploration projects. The team designs and builds planetary rovers from scratch while advancing technologies for autonomous exploration. It competes internationally at the European Rover Challenge in Poland, where its rover must autonomously navigate challenging Martian terrain, collect and analyze soil samples, and execute a scientific mission. Over the years, the team has received numerous excellency awards, including first place at ERC 2025. In parallel, EPFL Xplore organizes the Xplore Rover Challenge, a hands-on competition introducing students to planetary robotics. The association also conducts research projects in collaboration with academic laboratories and industry partners, developing innovative technologies in the field of space robotics.",
     "email": "contact@epfl-xplore.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://epflxplore.github.io",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ETH Zurich",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "hchoguzzi@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ETH Zurich - D-ITET PBL",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "magnom@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ETH Zurich - Mobile Robotics Lab",
-    "domain": "mrl.ethz.ch",
-    "description": "The Mobile Robotics Lab works towards the next generation of mobile robots that should support people in their lives: drones can inspect and monitor hazardous or remote sites, and humanoids or other ground-based robots can perform repetitive, strenuous, or dangerous tasks on construction sites or at home.We develop underlying Spatial AI capabilities as robots' understanding of the world. This is crucial for Navigation and Exploration of potentially cluttered, dynamic, and unknown environments.",
     "booth": "",
+    "description": "The Mobile Robotics Lab works towards the next generation of mobile robots that should support people in their lives: drones can inspect and monitor hazardous or remote sites, and humanoids or other ground-based robots can perform repetitive, strenuous, or dangerous tasks on construction sites or at home.We develop underlying Spatial AI capabilities as robots' understanding of the world. This is crucial for Navigation and Exploration of potentially cluttered, dynamic, and unknown environments.",
     "email": "idenitti@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "17.05.2026",
+    "domain": "https://mrl.ethz.ch",
     "full_address": "",
-    "mobile_primary": "17.05.2026"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ETH Zurich / Robotic Systems Lab",
-    "domain": "rsl.ethz.ch",
-    "description": "The Robotic Systems Lab investigates the development of machines and their intelligence to operate in rough and challenging environments. With a large focus on robots with arms and legs, our research includes novel actuation methods for advanced dynamic interaction, innovative designs for increased system mobility and versatility, new control and learning algorithms for locomotion and manipulation, and robot perception for autonomous navigation. In search of clever solutions, we take inspiration from humans and animals with the goal of improving the skills and autonomy of complex robotic systems to make them applicable in various real-world scenarios.",
     "booth": "",
+    "description": "The Robotic Systems Lab investigates the development of machines and their intelligence to operate in rough and challenging environments. With a large focus on robots with arms and legs, our research includes novel actuation methods for advanced dynamic interaction, innovative designs for increased system mobility and versatility, new control and learning algorithms for locomotion and manipulation, and robot perception for autonomous navigation. In search of clever solutions, we take inspiration from humans and animals with the goal of improving the skills and autonomy of complex robotic systems to make them applicable in various real-world scenarios.",
     "email": "mariat@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41446320957",
+    "domain": "https://rsl.ethz.ch",
     "full_address": "",
-    "mobile_primary": "+41446320957"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Euresearch",
-    "domain": "euresearch.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "matthew.whellens@euresearch.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41313806000",
+    "domain": "https://euresearch.ch",
     "full_address": "",
-    "mobile_primary": "+41313806000"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Flexion",
-    "domain": "flexion.ai",
-    "description": "Flexion combines command, motion and control into one unified foundational model, trained in simulation, powered by reinforcement learning, deployable across all robot morphologies, from humanoids to wheeled platforms to robot arms, at scale.",
     "booth": "",
+    "description": "Flexion combines command, motion and control into one unified foundational model, trained in simulation, powered by reinforcement learning, deployable across all robot morphologies, from humanoids to wheeled platforms to robot arms, at scale.",
     "email": "info@flexion.ai",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://flexion.ai",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Flink Robotics AG",
-    "domain": "flink.so",
-    "description": "Flink Robotics: superhuman physical work. We build a physics-based world model that lets machines reason and act autonomously, doing physical work beyond human limits. Flinkbot installs with no infrastructure changes and starts working within minutes, and live deployments across Europe have already proven our market fit.One team, spanning hardware, software and deployment, builds what traditional automation can't: a system for material handling, powered by a proprietary vision and motion stack that adapts to any item, regardless of shape, size or packaging.Swiss-engineered in Zurich, ready to deploy anywhere.",
     "booth": "",
+    "description": "Flink Robotics: superhuman physical work. We build a physics-based world model that lets machines reason and act autonomously, doing physical work beyond human limits. Flinkbot installs with no infrastructure changes and starts working within minutes, and live deployments across Europe have already proven our market fit.One team, spanning hardware, software and deployment, builds what traditional automation can't: a system for material handling, powered by a proprietary vision and motion stack that adapts to any item, regardless of shape, size or packaging.Swiss-engineered in Zurich, ready to deploy anywhere.",
     "email": "michael@flink.so",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://flink.so",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "fluidbot AG",
-    "domain": "fluidbot.ch",
-    "description": "fluidbot develops autonomous inspection robots for drinking water pipelines. Our system navigates inside complex pipe networks, collects visual and sensor data, and enables utilities to detect risks early. By combining robotics, sensor integration and data analytics, fluidbot supports predictive maintenance for critical water infrastructure. Meet fluidbot’s latest robotic inspection platform for drinking water pipelines. At our booth, we will showcase the robot, its mobility concept and integrated sensing technologies for collecting condition data directly from inside the pipe. Discover how robotics, ultrasound, vision and data analytics can help utilities better understand ageing underground infrastructure and move towards condition-based asset management.",
     "booth": "",
+    "description": "fluidbot develops autonomous inspection robots for drinking water pipelines. Our system navigates inside complex pipe networks, collects visual and sensor data, and enables utilities to detect risks early. By combining robotics, sensor integration and data analytics, fluidbot supports predictive maintenance for critical water infrastructure. Meet fluidbot’s latest robotic inspection platform for drinking water pipelines. At our booth, we will showcase the robot, its mobility concept and integrated sensing technologies for collecting condition data directly from inside the pipe. Discover how robotics, ultrasound, vision and data analytics can help utilities better understand ageing underground infrastructure and move towards condition-based asset management.",
     "email": "elias.rozinek@fluidbot.ch",
-    "city": "Zurich",
+    "mobile_primary": "2023 - 2026",
+    "domain": "https://fluidbot.ch",
     "full_address": "",
-    "mobile_primary": "2023 - 2026"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "FRAMOS",
-    "domain": "framos.com",
-    "description": "FRAMOS is the leading camera module design and manufacturing expert. Founded in Munich, Germany over 40 years ago, FRAMOS has empowered companies worldwide to make drones fly safely, enable robots to see and think, make diagnostics faster and more affordable, boost athletic performance with AI, and countless other innovations. FRAMOS stands for best-in-class image quality, an open-source approach, and fast, easy integration – helping customers launch products quicker and stay ahead of the competition. With strong expertise in electronics design, optics and optical assembly, camera calibration, image tuning, and software integration, FRAMOS provides off-the-shelf camera modules and customized embedded vision solutions. At our technology campus strategically located in Europe, we combine R&D and manufacturing services under one roof and provide scalable manufacturing capacities up to millions of pieces.",
     "booth": "",
+    "description": "FRAMOS is the leading camera module design and manufacturing expert. Founded in Munich, Germany over 40 years ago, FRAMOS has empowered companies worldwide to make drones fly safely, enable robots to see and think, make diagnostics faster and more affordable, boost athletic performance with AI, and countless other innovations. FRAMOS stands for best-in-class image quality, an open-source approach, and fast, easy integration – helping customers launch products quicker and stay ahead of the competition. With strong expertise in electronics design, optics and optical assembly, camera calibration, image tuning, and software integration, FRAMOS provides off-the-shelf camera modules and customized embedded vision solutions. At our technology campus strategically located in Europe, we combine R&D and manufacturing services under one roof and provide scalable manufacturing capacities up to millions of pieces.",
     "email": "marketing@framos.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://framos.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Future Electronics Schweiz Gmbh",
-    "domain": "futureelectronics.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "markus.jeck@futureelectronics.com",
-    "city": "Zurich",
+    "mobile_primary": "0462-201-16141",
+    "domain": "https://futureelectronics.com",
     "full_address": "",
-    "mobile_primary": "0462-201-16141"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "General Laser GmbH",
-    "domain": "general-laser.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "i.tochev@general-laser.at",
-    "city": "Zurich",
+    "mobile_primary": "+4315247603",
+    "domain": "https://general-laser.at",
     "full_address": "",
-    "mobile_primary": "+4315247603"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Generation Robots",
-    "domain": "generationrobots.com",
-    "description": "For nearly 20 years, Generation Robots has been bridging the gap between innovative robotics technologies and real-world applications. What started as a robotics distributor has grown into a trusted technical partner for researchers, engineers and industrial companies. Alongside our portfolio of robots, sensors and AI solutions, our in-house engineering team, GR Lab, designs and develops custom robotic systems to meet the unique requirements of research and industrial projects.",
     "booth": "",
+    "description": "For nearly 20 years, Generation Robots has been bridging the gap between innovative robotics technologies and real-world applications. What started as a robotics distributor has grown into a trusted technical partner for researchers, engineers and industrial companies. Alongside our portfolio of robots, sensors and AI solutions, our in-house engineering team, GR Lab, designs and develops custom robotic systems to meet the unique requirements of research and industrial projects.",
     "email": "vm@generationrobots.com",
-    "city": "Zurich",
+    "mobile_primary": "+33556393705",
+    "domain": "https://generationrobots.com",
     "full_address": "",
-    "mobile_primary": "+33556393705"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gravis Robotics",
-    "domain": "gravisrobotics.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "sbugal@gravisrobotics.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://gravisrobotics.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Greater Zurich Area",
-    "domain": "greaterzuricharea.com",
-    "description": "The Greater Zurich Area is where world-class technology meets Swiss reliability. As the global leader in innovation and talent attraction, paired with Switzerland's business-friendly, stable, and reliable environment, the region offers international companies real added value and peace of mind for their strategic expansion in Europe.",
     "booth": "",
+    "description": "The Greater Zurich Area is where world-class technology meets Swiss reliability. As the global leader in innovation and talent attraction, paired with Switzerland's business-friendly, stable, and reliable environment, the region offers international companies real added value and peace of mind for their strategic expansion in Europe.",
     "email": "mareen.wrobel@greaterzuricharea.com",
-    "city": "Zurich",
+    "mobile_primary": "41442545959",
+    "domain": "https://greaterzuricharea.com",
     "full_address": "",
-    "mobile_primary": "41442545959"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Harmattan AI",
-    "domain": "harmattan.ai",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "natasha.villaceran@harmattan.ai",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://harmattan.ai",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "HESAI",
-    "domain": "hesaitech.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "jelena.bagitsch@hesaitech.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://hesaitech.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Inveel SA",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "barbara.horvath@inveel.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "ITK Engineering GmbH",
-    "domain": "itk-engineering.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "rechnungen2@psg-procurement.com",
-    "city": "Zurich",
+    "mobile_primary": "+49 (0)7272-7703-0",
+    "domain": "https://itk-engineering.de",
     "full_address": "",
-    "mobile_primary": "+49 (0)7272-7703-0"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "LOXO AG",
-    "domain": "loxo.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "lara@loxo.ch",
-    "city": "Zurich",
+    "mobile_primary": "0041763879678",
+    "domain": "https://loxo.ch",
     "full_address": "",
-    "mobile_primary": "0041763879678"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "maxon International AG",
-    "domain": "maxongroup.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "exhibitions@maxongroup.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://maxongroup.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Noctua",
-    "domain": "noctua.ethz.ch",
-    "description": "NOCTUA is an ETH Zurich project developing long-endurance, near-silent fixed-wing UAVs powered by hydrogen fuel cells. With up to 10 hours of flight time, onboard AI and a modular payload architecture, NOCTUA enables persistent aerial monitoring for applications such as environmental observation, search and rescue, infrastructure inspection and security.",
     "booth": "",
+    "description": "NOCTUA is an ETH Zurich project developing long-endurance, near-silent fixed-wing UAVs powered by hydrogen fuel cells. With up to 10 hours of flight time, onboard AI and a modular payload architecture, NOCTUA enables persistent aerial monitoring for applications such as environmental observation, search and rescue, infrastructure inspection and security.",
     "email": "contact@noctua-robotics.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://noctua.ethz.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Open Autonomy",
-    "domain": "openautonomy.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "samet@openautonomy.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://openautonomy.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "OR-X",
-    "domain": "or-x.ch",
-    "description": "The Operating Room X (OR-X) is an open-access center for surgical research and training, providing a highly realistic environment in which new technologies and procedures can be developed, tested, and validated under clinically relevant conditions. As a lighthouse for surgical innovation and part of the SERI Roadmap of Research Infrastructures, the OR-X helps bridge the gap between technological development and clinical application. Its 1,185 m² facility combines a fully equipped operating room with a dedicated skills lab, creating flexible and reproducible conditions for research across all surgical disciplines. This infrastructure allows technologies such as surgical robotics, navigation, imaging, AI, tracking, and data-driven solutions to be integrated directly into realistic surgical workflows and evaluated in a controlled setting. By bringing clinical expertise, engineering, and research together in one shared environment, the OR-X enables close collaboration between medical professionals, researchers, technology developers, and industry partners. In doing so, it supports the development and translation of new solutions that can help shape the future of surgery. Learn more by watching our video here . Compliant endoscope and cannula manipulator for uniportal surgery Uniportal endoscopic spine surgery is ergonomically demanding: the surgeon controls both endoscope and cannula through a single corridor with one hand, adjusting the view while actively manipulating tissue. Existing robotic systems are built for multiport soft-tissue procedures and do not address the constraints of uniportal interventions or active cannula manipulation. This work presents a robotic holder designed for uniportal interventions that can operate autonomously or in collaboration with surgeons or possibly external robotic systems (co-robotics). It addresses both the ergonomic limitations of hand-held instruments and the lack of cannula manipulation in existing robotic systems. Visuo-haptic Digital Twin Of Real Surgeries For Training In this project we create an immersive visuo-haptic environment for surgical training. The operating room and patient are dynamically reconstructed in 3D and presented in Virtual- or Augmented Reality, providing the trainee a learning environment from real data. The trainee can train the presented surgery step, while receiving haptic feedback, as well as qualitative and quantitative feedback on their performance. Watch the demo video here .",
     "booth": "",
+    "description": "The Operating Room X (OR-X) is an open-access center for surgical research and training, providing a highly realistic environment in which new technologies and procedures can be developed, tested, and validated under clinically relevant conditions. As a lighthouse for surgical innovation and part of the SERI Roadmap of Research Infrastructures, the OR-X helps bridge the gap between technological development and clinical application. Its 1,185 m² facility combines a fully equipped operating room with a dedicated skills lab, creating flexible and reproducible conditions for research across all surgical disciplines. This infrastructure allows technologies such as surgical robotics, navigation, imaging, AI, tracking, and data-driven solutions to be integrated directly into realistic surgical workflows and evaluated in a controlled setting. By bringing clinical expertise, engineering, and research together in one shared environment, the OR-X enables close collaboration between medical professionals, researchers, technology developers, and industry partners. In doing so, it supports the development and translation of new solutions that can help shape the future of surgery. Learn more by watching our video here . Compliant endoscope and cannula manipulator for uniportal surgery Uniportal endoscopic spine surgery is ergonomically demanding: the surgeon controls both endoscope and cannula through a single corridor with one hand, adjusting the view while actively manipulating tissue. Existing robotic systems are built for multiport soft-tissue procedures and do not address the constraints of uniportal interventions or active cannula manipulation. This work presents a robotic holder designed for uniportal interventions that can operate autonomously or in collaboration with surgeons or possibly external robotic systems (co-robotics). It addresses both the ergonomic limitations of hand-held instruments and the lack of cannula manipulation in existing robotic systems. Visuo-haptic Digital Twin Of Real Surgeries For Training In this project we create an immersive visuo-haptic environment for surgical training. The operating room and patient are dynamically reconstructed in 3D and presented in Virtual- or Augmented Reality, providing the trainee a learning environment from real data. The trainee can train the presented surgery step, while receiving haptic feedback, as well as qualitative and quantitative feedback on their performance. Watch the demo video here .",
     "email": "navin.joshi@balgrist.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41443863260",
+    "domain": "https://or-x.ch",
     "full_address": "",
-    "mobile_primary": "+41443863260"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "OST Ostschweizer Fachhochschule",
-    "domain": "ost.ch",
-    "description": "OST – Eastern Switzerland University of Applied Sciences combines practice-oriented education with applied research, development and knowledge transfer. In close collaboration with industry and research partners, OST develops practical solutions to real-world economic and societal challenges. OST ROBOTICS brings together interdisciplinary expertise and advanced infrastructure in robotics and AI. Focusing on autonomous systems, smart manufacturing, collaborative robotics and life sciences, it supports partners from initial consultation and project definition through implementation, validation and technology transfer to bring innovations into practice. Bachelor’s, Master’s and continuing education programmes prepare future engineers for careers in robotics and AI through hands-on projects and close industry engagement. Experience applied robotics and AI through a selection of demonstrators developed at OST. From intelligent perception and automation to collaborative and autonomous systems, the booth offers insights into advanced technologies and their practical applications. Meet our experts, exchange ideas and explore opportunities for collaboration, student projects and applied research.",
     "booth": "",
+    "description": "OST – Eastern Switzerland University of Applied Sciences combines practice-oriented education with applied research, development and knowledge transfer. In close collaboration with industry and research partners, OST develops practical solutions to real-world economic and societal challenges. OST ROBOTICS brings together interdisciplinary expertise and advanced infrastructure in robotics and AI. Focusing on autonomous systems, smart manufacturing, collaborative robotics and life sciences, it supports partners from initial consultation and project definition through implementation, validation and technology transfer to bring innovations into practice. Bachelor’s, Master’s and continuing education programmes prepare future engineers for careers in robotics and AI through hands-on projects and close industry engagement. Experience applied robotics and AI through a selection of demonstrators developed at OST. From intelligent perception and automation to collaborative and autonomous systems, the booth offers insights into advanced technologies and their practical applications. Meet our experts, exchange ideas and explore opportunities for collaboration, student projects and applied research.",
     "email": "agathe.koller@ost.ch",
-    "city": "Zurich",
+    "mobile_primary": "01.10.2026",
+    "domain": "https://ost.ch",
     "full_address": "",
-    "mobile_primary": "01.10.2026"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "P8S",
-    "domain": "p8s.swiss",
-    "description": "P8S is building the future of fulfillment and delivery with Physical AI–powered robotics. By uniting mobile robots, smart containers, and an intelligent software brain into one autonomous system, Pick8ship transforms how goods move — from storage to customer. Designed for universal use across food, fashion & beauty, health & care, electronics, and industrial supply, the system scales rapidly from compact installations to large industrial deployments — in days, not years. One system. One brain. Autonomous logistics at scale. www.p8s.swiss",
     "booth": "",
+    "description": "P8S is building the future of fulfillment and delivery with Physical AI–powered robotics. By uniting mobile robots, smart containers, and an intelligent software brain into one autonomous system, Pick8ship transforms how goods move — from storage to customer. Designed for universal use across food, fashion & beauty, health & care, electronics, and industrial supply, the system scales rapidly from compact installations to large industrial deployments — in days, not years. One system. One brain. Autonomous logistics at scale. www.p8s.swiss",
     "email": "j.haid@p8s.swiss",
-    "city": "Zurich",
+    "mobile_primary": "+41 44 821 22 08",
+    "domain": "https://p8s.swiss",
     "full_address": "",
-    "mobile_primary": "+41 44 821 22 08"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Point One Navigation",
-    "domain": "pointonenav.com",
-    "description": "Point One Navigation is the first centimeter-accurate positioning platform designed for the world’s most demanding robotics and industrial automation applications. At Swiss Robotics Day, we're highlighting our high-density RTK corrections network, advanced sensor fusion software, and robust API, which allow robotics developers to quickly integrate high-precision location into their platforms. Whether for mobile robots, autonomous drones, or precise field systems, Point One provides the foundation for safe, reliable, and intelligent machine operations. Point One’s founding team have decades of experience in precision navigation and were previous founders of Cornell’s DARPA Urban Challenge.",
     "booth": "",
+    "description": "Point One Navigation is the first centimeter-accurate positioning platform designed for the world’s most demanding robotics and industrial automation applications. At Swiss Robotics Day, we're highlighting our high-density RTK corrections network, advanced sensor fusion software, and robust API, which allow robotics developers to quickly integrate high-precision location into their platforms. Whether for mobile robots, autonomous drones, or precise field systems, Point One provides the foundation for safe, reliable, and intelligent machine operations. Point One’s founding team have decades of experience in precision navigation and were previous founders of Cornell’s DARPA Urban Challenge.",
     "email": "kevin@pointonenav.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://pointonenav.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "prodartis AG",
-    "domain": "prodartis.ch",
-    "description": "prodartis AG produces plastic components using additive manufacturing techniques cost-effectively in small to medium-sized batches and to a standard of quality comparable to that of injection moulding, primarily using the new Multi Jet Fusion (MJF) or Selective Laser Sintering (SLS) technologies. The booth offers insights into Additive Manufacturing technologies and their practical applications with its advantages e.g. the function integration, toolless production, high flexibility of geometry and its low risk in scaling up serial production. Meet our experts, exchange ideas, and explore opportunities for collaboration.",
     "booth": "",
+    "description": "prodartis AG produces plastic components using additive manufacturing techniques cost-effectively in small to medium-sized batches and to a standard of quality comparable to that of injection moulding, primarily using the new Multi Jet Fusion (MJF) or Selective Laser Sintering (SLS) technologies. The booth offers insights into Additive Manufacturing technologies and their practical applications with its advantages e.g. the function integration, toolless production, high flexibility of geometry and its low risk in scaling up serial production. Meet our experts, exchange ideas, and explore opportunities for collaboration.",
     "email": "roman.speck@prodartis.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41 71 505 33 33",
+    "domain": "https://prodartis.ch",
     "full_address": "",
-    "mobile_primary": "+41 71 505 33 33"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "prophysics AG",
-    "domain": "prophysics.ch",
-    "description": "prophysics AG is Switzerland's leading distributor of professional 3D motion capture technology, based in Zurich and serving the DACH region. As the official distributor for Vicon, Xsens, MANUS, and more, we provide precise, reliable motion capture and hand-tracking systems for research, industry, engineering, and — increasingly — humanoid robotics. With 30 years of experience, our team supports customers from initial consultation through system integration, covering everything from full-body kinematics to millimeter-precise finger tracking. Our combined hardware and software solutions enable teleoperation and human motion data collection for the next generation of humanoid robots.",
     "booth": "",
+    "description": "prophysics AG is Switzerland's leading distributor of professional 3D motion capture technology, based in Zurich and serving the DACH region. As the official distributor for Vicon, Xsens, MANUS, and more, we provide precise, reliable motion capture and hand-tracking systems for research, industry, engineering, and — increasingly — humanoid robotics. With 30 years of experience, our team supports customers from initial consultation through system integration, covering everything from full-body kinematics to millimeter-precise finger tracking. Our combined hardware and software solutions enable teleoperation and human motion data collection for the next generation of humanoid robots.",
     "email": "schneemann@prophysics.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41443151590",
+    "domain": "https://prophysics.ch",
     "full_address": "",
-    "mobile_primary": "+41443151590"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Qualisys AB",
-    "domain": "qualisys.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mathias.bankay@qualisys.com",
-    "city": "Zurich",
+    "mobile_primary": "2026 22 3",
+    "domain": "https://qualisys.com",
     "full_address": "",
-    "mobile_primary": "2026 22 3"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rapid Manufacturing AG",
-    "domain": "rapidmanufacturing.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "a.stebler@rapidmanufacturing.ch",
-    "city": "Zurich",
+    "mobile_primary": "0041 44 818 00 88",
+    "domain": "https://rapidmanufacturing.ch",
     "full_address": "",
-    "mobile_primary": "0041 44 818 00 88"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Raven Intelligent Systems",
-    "domain": "ravenisystems.com",
-    "description": "Raven Intelligent Systems is an EPFL spin-off building autonomous robotic site intelligence for complex and high-risk environments . Our platform combines drones, docking systems and fixed cameras to continuously inspect sites, navigate indoors and outdoors including GNSS-degraded areas, build 3D situational awareness, and verify critical conditions with traceable visual evidence.",
     "booth": "",
+    "description": "Raven Intelligent Systems is an EPFL spin-off building autonomous robotic site intelligence for complex and high-risk environments . Our platform combines drones, docking systems and fixed cameras to continuously inspect sites, navigate indoors and outdoors including GNSS-degraded areas, build 3D situational awareness, and verify critical conditions with traceable visual evidence.",
     "email": "arsenty.kaganskiy@ravenisystems.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://ravenisystems.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Robotics and AI Institute",
-    "domain": "rai-inst.com",
-    "description": "The RAI Institute is a research organization that aims to solve the most important and fundamental problems in AI and robotics. With offices in Cambridge, Massachusetts and Zurich, the Institute unites top talent in robotics, perception, AI, machine learning, computer science and machine design to develop future generations of intelligent machines. The Institute focuses on four essentials of robot functionality: mobility, perception, dexterity and intelligence, as well as the ethics of robots in the workplace and our lives. Led by Marc Raibert, founder of Boston Dynamics, the RAI Institute develops technology that will make future generations of robots smarter, easier to use, contribute to human productivity, and help us live happier lives.",
     "booth": "",
+    "description": "The RAI Institute is a research organization that aims to solve the most important and fundamental problems in AI and robotics. With offices in Cambridge, Massachusetts and Zurich, the Institute unites top talent in robotics, perception, AI, machine learning, computer science and machine design to develop future generations of intelligent machines. The Institute focuses on four essentials of robot functionality: mobility, perception, dexterity and intelligence, as well as the ethics of robots in the workplace and our lives. Led by Marc Raibert, founder of Boston Dynamics, the RAI Institute develops technology that will make future generations of robots smarter, easier to use, contribute to human productivity, and help us live happier lives.",
     "email": "hfassler@rai-inst.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://rai-inst.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Robotics and Perception Group - UZH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "rpg_purchases@ifi.uzh.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Roboto AI",
-    "domain": "roboto.ai",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "yves@roboto.ai",
-    "city": "Zurich",
+    "mobile_primary": "2025-08-21",
+    "domain": "https://roboto.ai",
     "full_address": "",
-    "mobile_primary": "2025-08-21"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sherlock",
-    "domain": "sherlockrobotics.com",
-    "description": "Sherlock is an on-premise software platform for deploying intelligent agents that leverage state-of-the-art computer vision models to analyze data and automate processes. It supports Microsoft Windows, macOS, and Linux, and provides a flexible framework for building, deploying, and managing computer vision–based automation workflows.",
     "booth": "",
+    "description": "Sherlock is an on-premise software platform for deploying intelligent agents that leverage state-of-the-art computer vision models to analyze data and automate processes. It supports Microsoft Windows, macOS, and Linux, and provides a flexible framework for building, deploying, and managing computer vision–based automation workflows.",
     "email": "info@sherlockrobotics.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://sherlockrobotics.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "SHR GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "timo.gessmann@de.schunk.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Soft Robotics Lab",
-    "domain": "softroboticslab.info",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "rkk@ethz.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://softroboticslab.info",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sonceboz",
-    "domain": "sonceboz.com",
-    "description": "Sonceboz is your trusted mechatronic partner for robotics, delivering innovative actuation and motion control solutions that enable the next generation of dexterous machines. With almost a century of industrial expertise and millions of products deployed worldwide, Sonceboz combines large-scale manufacturing excellence with proven strengths in engineering, reliability, and durability for the most demanding robotics applications.",
     "booth": "",
+    "description": "Sonceboz is your trusted mechatronic partner for robotics, delivering innovative actuation and motion control solutions that enable the next generation of dexterous machines. With almost a century of industrial expertise and millions of products deployed worldwide, Sonceboz combines large-scale manufacturing excellence with proven strengths in engineering, reliability, and durability for the most demanding robotics applications.",
     "email": "olivier.pajot@sonceboz.com",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://sonceboz.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stella Robot",
-    "domain": "stella-robot.com",
-    "description": "Stella Robot is a global emerging leader in embodied AI manipulation. The company builds its universal hardware foundation upon micro‑modules and dexterous hands, tightly coupled with embodied‑AI‑manipulation algorithms to deliver a complete hardware‑software integrated solution as its core competitive strength. It has launched the world’s first Lego‑like modular direct‑drive hand and the world’s first tendon‑driven dexterous hand featuring an “actuator‑hand separation” structure (already deployed in industrial scenarios), accumulating multiple pioneering tendon‑driven technologies. With full‑stack in‑house R&D of “algorithms + hardware,” the company reinforces its technological moat and achieves 100% domestically developed and independently controllable intellectual property. The team possesses strong capabilities in both industrial deployment and scientific research innovation, focusing on applications in industrial and high‑hazard environments. It has completed multiple financing rounds and received numerous hard‑tech awards, combining technological defensibility with social value, and is committed to practicing technology for good.",
     "booth": "",
+    "description": "Stella Robot is a global emerging leader in embodied AI manipulation. The company builds its universal hardware foundation upon micro‑modules and dexterous hands, tightly coupled with embodied‑AI‑manipulation algorithms to deliver a complete hardware‑software integrated solution as its core competitive strength. It has launched the world’s first Lego‑like modular direct‑drive hand and the world’s first tendon‑driven dexterous hand featuring an “actuator‑hand separation” structure (already deployed in industrial scenarios), accumulating multiple pioneering tendon‑driven technologies. With full‑stack in‑house R&D of “algorithms + hardware,” the company reinforces its technological moat and achieves 100% domestically developed and independently controllable intellectual property. The team possesses strong capabilities in both industrial deployment and scientific research innovation, focusing on applications in industrial and high‑hazard environments. It has completed multiple financing rounds and received numerous hard‑tech awards, combining technological defensibility with social value, and is committed to practicing technology for good.",
     "email": "wanqi.chen@stella-robot.com",
-    "city": "Zurich",
+    "mobile_primary": "2026-01-06",
+    "domain": "https://stella-robot.com",
     "full_address": "",
-    "mobile_primary": "2026-01-06"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "SUPSI-DTI-ISTEPS",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "isteps@supsi.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Swiss Association for Standardization (SNV)",
-    "domain": "snv.ch",
-    "description": "The Swiss Association for Standardization (SNV) bridges the gap between robotics innovation and market readiness. As Switzerland’s official member of ISO and CEN, SNV enables industry, research, and public institutions to shape national and international standards—supporting safety, interoperability, and global market access for innovative robotics solutions. Visit our booth to discover how active participation in standardization can strengthen your competitive position.",
     "booth": "",
+    "description": "The Swiss Association for Standardization (SNV) bridges the gap between robotics innovation and market readiness. As Switzerland’s official member of ISO and CEN, SNV enables industry, research, and public institutions to shape national and international standards—supporting safety, interoperability, and global market access for innovative robotics solutions. Visit our booth to discover how active participation in standardization can strengthen your competitive position.",
     "email": "ramesh.luther@snv.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41522245454",
+    "domain": "https://snv.ch",
     "full_address": "",
-    "mobile_primary": "+41522245454"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Swissmem",
-    "domain": "swissmem.ch",
-    "description": "Die produzierenden Firmen in der Schweiz sind aus Kostengründen schon seit Jahren gefordert, automatisierte Lösungen zu finden. Robotics and Factory Automation ist deshalb hoch relevant für die gesamte Industrie. Der Industriesektor Robotics and Factory Automation vereinigt Unternehmen, welche das ganze Spektrum industrieller Automatisierungslösungen abdecken. Ihre Produkte helfen mit, die globale Wettbewerbsfähigkeit von Schweizer Industriefirmen zu erhalten.",
     "booth": "",
+    "description": "Die produzierenden Firmen in der Schweiz sind aus Kostengründen schon seit Jahren gefordert, automatisierte Lösungen zu finden. Robotics and Factory Automation ist deshalb hoch relevant für die gesamte Industrie. Der Industriesektor Robotics and Factory Automation vereinigt Unternehmen, welche das ganze Spektrum industrieller Automatisierungslösungen abdecken. Ihre Produkte helfen mit, die globale Wettbewerbsfähigkeit von Schweizer Industriefirmen zu erhalten.",
     "email": "a.estrada@swissmem.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41 44 384 41 11",
+    "domain": "https://swissmem.ch",
     "full_address": "",
-    "mobile_primary": "+41 44 384 41 11"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "SwissRobotics GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "einar.nielsen@robotics.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "The MathWorks GmbH",
-    "domain": "mathworks.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "resjoehr@mathworks.com",
-    "city": "Zurich",
+    "mobile_primary": "1790062314.35",
+    "domain": "https://mathworks.com",
     "full_address": "",
-    "mobile_primary": "1790062314.35"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Triadem Solutions AG",
-    "domain": "triadem.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "hanspeter.vogel@triadem.ch",
-    "city": "Zurich",
+    "mobile_primary": "",
+    "domain": "https://triadem.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Twiice SA",
-    "domain": "twiice.ch",
-    "description": "Spinal cord injury (SCI) affects millions people and their families world-wide. These individuals face serious secondary complications due to loss of mobility such as brittle bones, bowel and bladder dysfunction, chronic pain, and recurrent infections that lead to a 30 percent annual hospitalization risk. Exoskeletons enable upright walking, which plays a vital role in reducing these secondary health complications while promoting strength, confidence, and quality of life. Even with robust insurance reimbursement now available in many countries, today’s exoskeletons remain too complex, too slow to put on and take off, and not designed for everyday life. Our mission is to change that.",
     "booth": "",
+    "description": "Spinal cord injury (SCI) affects millions people and their families world-wide. These individuals face serious secondary complications due to loss of mobility such as brittle bones, bowel and bladder dysfunction, chronic pain, and recurrent infections that lead to a 30 percent annual hospitalization risk. Exoskeletons enable upright walking, which plays a vital role in reducing these secondary health complications while promoting strength, confidence, and quality of life. Even with robust insurance reimbursement now available in many countries, today’s exoskeletons remain too complex, too slow to put on and take off, and not designed for everyday life. Our mission is to change that.",
     "email": "accounting@twiice.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41 21 539 12 34",
+    "domain": "https://twiice.ch",
     "full_address": "",
-    "mobile_primary": "+41 21 539 12 34"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "University of Basel",
-    "domain": "biromed.dbe.unibas.ch",
-    "description": "The Bio-Inspired RObots for MEDicine Laboratory (BIROMED-Lab) develops bio-inspired robotic and mechatronic systems tailored for medical applications from idea to functional prototypes for fast translation. Our portfolio spans mechatronics, mechanical design, micromachining, robotics, control engineering, human-machine interaction, and real-time data processing.",
     "booth": "",
+    "description": "The Bio-Inspired RObots for MEDicine Laboratory (BIROMED-Lab) develops bio-inspired robotic and mechatronic systems tailored for medical applications from idea to functional prototypes for fast translation. Our portfolio spans mechatronics, mechanical design, micromachining, robotics, control engineering, human-machine interaction, and real-time data processing.",
     "email": "georg.rauter@unibas.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41 61 207 54 70",
+    "domain": "https://biromed.dbe.unibas.ch",
     "full_address": "",
-    "mobile_primary": "+41 61 207 54 70"
+    "city": "Zurich",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zurich University for Applied Sciences",
-    "domain": "zhaw.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "digital@zhaw.ch",
-    "city": "Zurich",
+    "mobile_primary": "+41589347171",
+    "domain": "https://zhaw.ch",
     "full_address": "",
-    "mobile_primary": "+41589347171"
+    "city": "Zurich",
+    "linkedin_url": ""
   }
 ]

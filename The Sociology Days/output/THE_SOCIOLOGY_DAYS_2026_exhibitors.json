@@ -1,962 +1,1058 @@
 [
   {
     "company_name": "Acceptio",
-    "domain": "acceptio.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://acceptio.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Akademikerförbundet SSR",
-    "domain": "akademssr.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "radgivning@akademssr.se",
-    "city": "",
+    "mobile_primary": "086174400",
+    "domain": "https://akademssr.se",
     "full_address": "",
-    "mobile_primary": "086174400"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Akademikerförsäkring",
-    "domain": "akademikerforsakring.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "30120 104 25",
+    "domain": "https://akademikerforsakring.se",
     "full_address": "",
-    "mobile_primary": "30120 104 25"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Axel Group",
-    "domain": "personlarm.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@axel.se",
-    "city": "",
+    "mobile_primary": "0106023030",
+    "domain": "https://personlarm.se",
     "full_address": "",
-    "mobile_primary": "0106023030"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Balansgruppen",
-    "domain": "balanshvb.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://balanshvb.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Barnafrid-Nationellt kunskapscentrum, Linköpings Universitet",
-    "domain": "liu.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "infocenter@liu.se",
-    "city": "",
+    "mobile_primary": "+4613281000",
+    "domain": "https://liu.se",
     "full_address": "",
-    "mobile_primary": "+4613281000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BelongAlways",
-    "domain": "belongalways.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "admin@belongalways.com",
-    "city": "",
+    "mobile_primary": "+46 76 870 00 36",
+    "domain": "https://belongalways.com",
     "full_address": "",
-    "mobile_primary": "+46 76 870 00 36"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blomdalen skyddat boende",
-    "domain": "blomdalenhem.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "placering@blomdalenhem.se",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://blomdalenhem.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BOF, Barn & Familjejouren",
-    "domain": "barnochfamiljejouren.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "kontoret@barnochfamiljejouren.se",
-    "city": "",
+    "mobile_primary": "2026-04-21",
+    "domain": "https://barnochfamiljejouren.se",
     "full_address": "",
-    "mobile_primary": "2026-04-21"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brief Strategic Family Therapy® (BSFT)",
-    "domain": "empowercommunitycare.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://empowercommunitycare.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brottsförebyggande rådet (Brå)",
-    "domain": "bra.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "registrator@bra.se",
-    "city": "",
+    "mobile_primary": "08-52758400",
+    "domain": "https://bra.se",
     "full_address": "",
-    "mobile_primary": "08-52758400"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brottsofferjouren",
-    "domain": "brottsofferjouren.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "fraga@boj.se",
-    "city": "",
+    "mobile_primary": "815600-8784",
+    "domain": "https://brottsofferjouren.se",
     "full_address": "",
-    "mobile_primary": "815600-8784"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brottsoffermyndigheten",
-    "domain": "brottsoffermyndigheten.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "090–708200",
+    "domain": "https://brottsoffermyndigheten.se",
     "full_address": "",
-    "mobile_primary": "090–708200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brukarkraft",
-    "domain": "brukarkraft.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "brukarkraft@verdandi.se",
-    "city": "",
+    "mobile_primary": "070-090 09 44",
+    "domain": "https://brukarkraft.se",
     "full_address": "",
-    "mobile_primary": "070-090 09 44"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Carebuilder",
-    "domain": "futureinventions.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "valentina@carebuilder.se",
-    "city": "",
+    "mobile_primary": "+46737056723",
+    "domain": "https://futureinventions.se",
     "full_address": "",
-    "mobile_primary": "+46737056723"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Center mot våldsbejakande extremism (CVE)",
-    "domain": "cve.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@cve.se",
-    "city": "",
+    "mobile_primary": "08-52744200",
+    "domain": "https://cve.se",
     "full_address": "",
-    "mobile_primary": "08-52744200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "CKU",
-    "domain": "ourdogsinternational.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ourdogsinternational.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ECPAT",
-    "domain": "ecpat.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@ecpat.se",
-    "city": "",
+    "mobile_primary": "+46859892000",
+    "domain": "https://ecpat.se",
     "full_address": "",
-    "mobile_primary": "+46859892000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ersta Diakoni Skyddat boende",
-    "domain": "erstadiakoni.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://erstadiakoni.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Everyday Institute",
-    "domain": "everydayinstitute.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "martin.lackeus@everydayinstitute.se",
-    "city": "",
+    "mobile_primary": "+46 736 551818",
+    "domain": "https://everydayinstitute.se",
     "full_address": "",
-    "mobile_primary": "+46 736 551818"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Frisk & Fri – Riksföreningen mot ätstörningar",
-    "domain": "friskfri.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "service@friskfri.se",
-    "city": "",
+    "mobile_primary": "802012-8925",
+    "domain": "https://friskfri.se",
     "full_address": "",
-    "mobile_primary": "802012-8925"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Frälsningsarmén-Skogsbo",
-    "domain": "fralsningsarmen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@fralsningsarmen.se",
-    "city": "",
+    "mobile_primary": "+46856228200",
+    "domain": "https://fralsningsarmen.se",
     "full_address": "Nybrogatan 79 B, 114 41, Stockholm, SE",
-    "mobile_primary": "+46856228200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FYS, forskarskolan för yrkesverksamma i socialtjänsten",
-    "domain": "forskarskolanfys.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://forskarskolanfys.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Förenade familjehem",
-    "domain": "forenadefamiljehem.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@forenadefamiljehem.se",
-    "city": "",
+    "mobile_primary": "+46702798026",
+    "domain": "https://forenadefamiljehem.se",
     "full_address": "",
-    "mobile_primary": "+46702798026"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Glöm Aldrig Pela och Fadime – Riksorganisationen GAPF",
-    "domain": "gapf.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "stodjour@gapf.se",
-    "city": "",
+    "mobile_primary": "0700009328",
+    "domain": "https://gapf.se",
     "full_address": "",
-    "mobile_primary": "0700009328"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Healsafe Interiör",
-    "domain": "healsafeinterior.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@healsafeinterior.com",
-    "city": "",
+    "mobile_primary": "+46706785400",
+    "domain": "https://healsafeinterior.com",
     "full_address": "",
-    "mobile_primary": "+46706785400"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hemlikt – Skyddat Boende",
-    "domain": "hemlikt.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "skydd@hemlikt.se",
-    "city": "",
+    "mobile_primary": "0767990001",
+    "domain": "https://hemlikt.se",
     "full_address": "",
-    "mobile_primary": "0767990001"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hemstaden",
-    "domain": "hemstadenab.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@hemstadenab.se",
-    "city": "",
+    "mobile_primary": "0102045075",
+    "domain": "https://hemstadenab.se",
     "full_address": "",
-    "mobile_primary": "0102045075"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Humana – Alla har rätt till ett bra liv. Ja, alla.",
-    "domain": "humana.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@humana.se",
-    "city": "",
+    "mobile_primary": "08-59929900",
+    "domain": "https://humana.se",
     "full_address": "",
-    "mobile_primary": "08-59929900"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Högskolan SAPU",
-    "domain": "sapu.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@sapu.se",
-    "city": "",
+    "mobile_primary": "63 116 38",
+    "domain": "https://sapu.se",
     "full_address": "",
-    "mobile_primary": "63 116 38"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ing-Marie Wieselgrens Stiftelse – Tillsammans för psykisk hälsa",
-    "domain": "stiftelsenimwieselgren.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@stiftelsenimwieselgren.se",
-    "city": "",
+    "mobile_primary": "50 113 52",
+    "domain": "https://stiftelsenimwieselgren.se",
     "full_address": "",
-    "mobile_primary": "50 113 52"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Initium skyddat Boende",
-    "domain": "initiumskyddatboende.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@initiumskyddatboende.se",
-    "city": "",
+    "mobile_primary": "073 326 37 98",
+    "domain": "https://initiumskyddatboende.se",
     "full_address": "",
-    "mobile_primary": "073 326 37 98"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Insatskartan",
-    "domain": "insatskartan.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://insatskartan.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Insight Events",
-    "domain": "10times.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://10times.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Inspektionen för vård och omsorg (IVO)",
-    "domain": "ivo.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "registrator@ivo.se",
-    "city": "",
+    "mobile_primary": "+46107885000",
+    "domain": "https://ivo.se",
     "full_address": "",
-    "mobile_primary": "+46107885000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Interpreto",
-    "domain": "interpreto.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://interpreto.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "JagÄger – Individuell Plan, LSS §10",
-    "domain": "individuellplan.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@individuellplan.se",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://individuellplan.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Journal Digital",
-    "domain": "journaldigital.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://journaldigital.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jämställdhetsmyndigheten",
-    "domain": "jamstalldhetsmyndigheten.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@jamstalldhetsmyndigheten.se",
-    "city": "",
+    "mobile_primary": "031-3929000",
+    "domain": "https://jamstalldhetsmyndigheten.se",
     "full_address": "",
-    "mobile_primary": "031-3929000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Konsumentverket",
-    "domain": "konsumentverket.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+46771525525",
+    "domain": "https://konsumentverket.se",
     "full_address": "",
-    "mobile_primary": "+46771525525"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kriminalvården",
-    "domain": "kriminalvarden.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://kriminalvarden.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kunskapsnätverket för samisk hälsa",
-    "domain": "samiskhalsa.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "2020-2030",
+    "domain": "https://samiskhalsa.se",
     "full_address": "",
-    "mobile_primary": "2020-2030"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kvinnohemmet i Hudiksvall",
-    "domain": "kvinnohemmet.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "information@kvinnohemmet.com",
-    "city": "",
+    "mobile_primary": "0650 - 980 88",
+    "domain": "https://kvinnohemmet.com",
     "full_address": "",
-    "mobile_primary": "0650 - 980 88"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Levly",
-    "domain": "levly.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "hej@levly.se",
-    "city": "",
+    "mobile_primary": "0760342293",
+    "domain": "https://levly.se",
     "full_address": "",
-    "mobile_primary": "0760342293"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Loopme",
-    "domain": "loopme.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://loopme.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LäkarLeasing Sverige AB",
-    "domain": "lakarleasing.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "intresse@lakarleasing.se",
-    "city": "",
+    "mobile_primary": "+46812066650",
+    "domain": "https://lakarleasing.se",
     "full_address": "",
-    "mobile_primary": "+46812066650"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Magelungen utveckling",
-    "domain": "magelungen.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@magelungen.com",
-    "city": "",
+    "mobile_primary": "+46855693191",
+    "domain": "https://magelungen.com",
     "full_address": "",
-    "mobile_primary": "+46855693191"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Marie Cederschiöld högskola",
-    "domain": "mchs.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "mchs@pdf.scancloud.se",
-    "city": "",
+    "mobile_primary": "2026-09-15",
+    "domain": "https://mchs.se",
     "full_address": "",
-    "mobile_primary": "2026-09-15"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Maskrosbarn",
-    "domain": "maskrosbarn.org",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "kontakt@maskrosbarn.org",
-    "city": "",
+    "mobile_primary": "36 412 52",
+    "domain": "https://maskrosbarn.org",
     "full_address": "",
-    "mobile_primary": "36 412 52"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Misa",
-    "domain": "wiljagruppen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "08 - 580 813 40",
+    "domain": "https://wiljagruppen.se",
     "full_address": "Primusgatan 112 , 112 67, Stockholm, SE",
-    "mobile_primary": "08 - 580 813 40"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Movendi",
-    "domain": "movendi.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://movendi.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Myndigheten för familjerätt och föräldraskapsstöd, MFoF",
-    "domain": "mfof.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@mfof.se",
-    "city": "",
+    "mobile_primary": "010-1901100",
+    "domain": "https://mfof.se",
     "full_address": "",
-    "mobile_primary": "010-1901100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nationell samordnare för arbetet med frivillig återvandring 2025:14",
-    "domain": "regeringen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "2025/2026 2024/2025 2023/2024 2022/2023 2021/2022 2020/2021 2019/2020 2018/2019 2017/2018 2016/2017 2015/2016 2014/2015 2013/2014 2012/2013 2011/2012 2010/2011 2009/2010 2008/2009 2007/2008 2006/2007 2005/2006 2004/2005 2003/2004 2002/2003 2001/2002 2000/2001 1999/2000",
+    "domain": "https://regeringen.se",
     "full_address": "103 33, Stockholm, SE",
-    "mobile_primary": "2025/2026 2024/2025 2023/2024 2022/2023 2021/2022 2020/2021 2019/2020 2018/2019 2017/2018 2016/2017 2015/2016 2014/2015 2013/2014 2012/2013 2011/2012 2010/2011 2009/2010 2008/2009 2007/2008 2006/2007 2005/2006 2004/2005 2003/2004 2002/2003 2001/2002 2000/2001 1999/2000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nationella Skyddsinsatser",
-    "domain": "skyddsinsatser.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@skyddsinsatser.se",
-    "city": "",
+    "mobile_primary": "+46706725661",
+    "domain": "https://skyddsinsatser.se",
     "full_address": "",
-    "mobile_primary": "+46706725661"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nationellt centrum för kvinnofrid",
-    "domain": "nck.uu.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@nck.uu.se",
-    "city": "",
+    "mobile_primary": "2026-09-17",
+    "domain": "https://nck.uu.se",
     "full_address": "",
-    "mobile_primary": "2026-09-17"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Natur & Kultur",
-    "domain": "nok.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@nok.se",
-    "city": "",
+    "mobile_primary": "08-453 86 00",
+    "domain": "https://nok.se",
     "full_address": "",
-    "mobile_primary": "08-453 86 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nytida",
-    "domain": "nytida.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0857870000",
+    "domain": "https://nytida.se",
     "full_address": "",
-    "mobile_primary": "0857870000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Parcer Familjehem och MST",
-    "domain": "parcer.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@parcer.se",
-    "city": "",
+    "mobile_primary": "065010025",
+    "domain": "https://parcer.se",
     "full_address": "",
-    "mobile_primary": "065010025"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Philae Kompetens",
-    "domain": "philaekompetens.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "philaekompetens@outlook.com",
-    "city": "",
+    "mobile_primary": "070 550 57 84",
+    "domain": "https://philaekompetens.se",
     "full_address": "",
-    "mobile_primary": "070 550 57 84"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Placeringsenheten",
-    "domain": "placeringsenheten.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://placeringsenheten.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Polismyndigheten",
-    "domain": "polisen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://polisen.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Prosperum Hvb",
-    "domain": "familjehemprosperum.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@tjustbehandlingsfamiljer.se",
-    "city": "",
+    "mobile_primary": "0490-343 46",
+    "domain": "https://familjehemprosperum.se",
     "full_address": "",
-    "mobile_primary": "0490-343 46"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Riksförbundet Attention",
-    "domain": "attention.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "kansliet@attention.se",
-    "city": "",
+    "mobile_primary": "+46812898620",
+    "domain": "https://attention.se",
     "full_address": "",
-    "mobile_primary": "+46812898620"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Riksförbundet frivilliga samhällsarbetare",
-    "domain": "rfs.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@rfs.se",
-    "city": "",
+    "mobile_primary": "2026-09-20",
+    "domain": "https://rfs.se",
     "full_address": "",
-    "mobile_primary": "2026-09-20"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Riksorganisationen för kvinno- och tjejjourer i Sverige",
-    "domain": "roks.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@roks.se",
-    "city": "",
+    "mobile_primary": "08 - 442 99 30",
+    "domain": "https://roks.se",
     "full_address": "",
-    "mobile_primary": "08 - 442 99 30"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sametinget",
-    "domain": "sametinget.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://sametinget.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Samkrafter Utbildning & Verksamhetsutveckling",
-    "domain": "samkrafter.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@samkrafter.se",
-    "city": "",
+    "mobile_primary": "802553-6544",
+    "domain": "https://samkrafter.se",
     "full_address": "",
-    "mobile_primary": "802553-6544"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Samordningsförbundet Stockholms Stad",
-    "domain": "samordningstockholm.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info.finsam@stockholm.se",
-    "city": "",
+    "mobile_primary": "47 121 77",
+    "domain": "https://samordningstockholm.se",
     "full_address": "",
-    "mobile_primary": "47 121 77"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SBU",
-    "domain": "sbu.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "registrator@sbu.se",
-    "city": "",
+    "mobile_primary": "2026-09-07",
+    "domain": "https://sbu.se",
     "full_address": "",
-    "mobile_primary": "2026-09-07"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schedevi",
-    "domain": "schedevi.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://schedevi.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Signifikans",
-    "domain": "signifikans.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://signifikans.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Skolberga Hvb",
-    "domain": "skolberga.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "personal@skolberga.se",
-    "city": "",
+    "mobile_primary": "08-532 502 85",
+    "domain": "https://skolberga.se",
     "full_address": "",
-    "mobile_primary": "08-532 502 85"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Skyddsgruppen",
-    "domain": "skyddsgruppen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "kontakt@skyddsgruppen.se",
-    "city": "",
+    "mobile_primary": "0725 64 51 54",
+    "domain": "https://skyddsgruppen.se",
     "full_address": "",
-    "mobile_primary": "0725 64 51 54"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Socialförvaltningen – Eskilstuna Kommun",
-    "domain": "eskilstuna.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@eskilstuna.se",
-    "city": "",
+    "mobile_primary": "016-7101000",
+    "domain": "https://eskilstuna.se",
     "full_address": "",
-    "mobile_primary": "016-7101000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Socialstyrelsen",
-    "domain": "socialstyrelsen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "socialstyrelsen@socialstyrelsen.se",
-    "city": "",
+    "mobile_primary": "075-2473000",
+    "domain": "https://socialstyrelsen.se",
     "full_address": "",
-    "mobile_primary": "075-2473000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Solega AB /MST",
-    "domain": "solega.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@mstsverige.se",
-    "city": "",
+    "mobile_primary": "070-932 17 46",
+    "domain": "https://solega.se",
     "full_address": "",
-    "mobile_primary": "070-932 17 46"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SSIL för vård och omsorg",
-    "domain": "ssil.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0651-16040",
+    "domain": "https://ssil.se",
     "full_address": "",
-    "mobile_primary": "0651-16040"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Statens institutionsstyrelse",
-    "domain": "stat-inst.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "registrator@stat-inst.se",
-    "city": "",
+    "mobile_primary": "010-453 40 00",
+    "domain": "https://stat-inst.se",
     "full_address": "",
-    "mobile_primary": "010-453 40 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftelsen FFT Sverige",
-    "domain": "stiftelsenfftsverige.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "stefan.lundberg@stiftelsenfftsverige.se",
-    "city": "",
+    "mobile_primary": "2026-09-10",
+    "domain": "https://stiftelsenfftsverige.se",
     "full_address": "",
-    "mobile_primary": "2026-09-10"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftelsen Fryshuset",
-    "domain": "fryshuset.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@fryshuset.se",
-    "city": "",
+    "mobile_primary": "086917600",
+    "domain": "https://fryshuset.se",
     "full_address": "",
-    "mobile_primary": "086917600"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftelsen kriminalitet som livsstil",
-    "domain": "stiftkrim.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://stiftkrim.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftelsen Min Stora Dag",
-    "domain": "minstoradag.org",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@minstoradag.org",
-    "city": "",
+    "mobile_primary": "2026-09-21",
+    "domain": "https://minstoradag.org",
     "full_address": "",
-    "mobile_primary": "2026-09-21"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiftelsen Stora Sköndal",
-    "domain": "storaskondal.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "08-400 29 100",
+    "domain": "https://storaskondal.se",
     "full_address": "",
-    "mobile_primary": "08-400 29 100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stockrosen Vård och Omsorg",
-    "domain": "stockrosen.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@stockrosen.com",
-    "city": "",
+    "mobile_primary": "+46107882299",
+    "domain": "https://stockrosen.com",
     "full_address": "",
-    "mobile_primary": "+46107882299"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Svenska Drogtester",
-    "domain": "svenskadrogtester.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0101755555",
+    "domain": "https://svenskadrogtester.se",
     "full_address": "",
-    "mobile_primary": "0101755555"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sverigehälsan",
-    "domain": "sverigehalsan.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@sverigehalsan.se",
-    "city": "",
+    "mobile_primary": "2026-08-28",
+    "domain": "https://sverigehalsan.se",
     "full_address": "",
-    "mobile_primary": "2026-08-28"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sveriges Fontänhus Riksförbund",
-    "domain": "sverigesfontanhus.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@sverigesfontanhus.se",
-    "city": "",
+    "mobile_primary": "802428-8519",
+    "domain": "https://sverigesfontanhus.se",
     "full_address": "",
-    "mobile_primary": "802428-8519"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tandem Health",
-    "domain": "tandemhealth.ai",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "2-5 5-20 20-50 50-100 100",
+    "domain": "https://tandemhealth.ai",
     "full_address": "Malmskillnadsgatan 44A, 111 57, Stockholm, SE",
-    "mobile_primary": "2-5 5-20 20-50 50-100 100"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tieto",
-    "domain": "tietoevry.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://tietoevry.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Unika",
-    "domain": "unika.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "010-1615451",
+    "domain": "https://unika.se",
     "full_address": "Vendevägen 85B, 182 91, Danderyd, SE",
-    "mobile_primary": "010-1615451"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Unizon",
-    "domain": "unizonjourer.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@unizon.se",
-    "city": "",
+    "mobile_primary": "08-6426401",
+    "domain": "https://unizonjourer.se",
     "full_address": "",
-    "mobile_primary": "08-6426401"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Valeo Omsorg",
-    "domain": "valeoomsorg.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "Info@valeoomsorg.se",
-    "city": "",
+    "mobile_primary": "+46706629193",
+    "domain": "https://valeoomsorg.se",
     "full_address": "",
-    "mobile_primary": "+46706629193"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verdandi",
-    "domain": "seatgeek.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://seatgeek.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Viksjö Gård",
-    "domain": "viksjogard.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@viksjogard.se",
-    "city": "",
+    "mobile_primary": "073-9226664",
+    "domain": "https://viksjogard.se",
     "full_address": "",
-    "mobile_primary": "073-9226664"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Viljan",
-    "domain": "viljan.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "kontakt@viljan.se",
-    "city": "",
+    "mobile_primary": "010-1615452",
+    "domain": "https://viljan.se",
     "full_address": "",
-    "mobile_primary": "010-1615452"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Villbergagruppen",
-    "domain": "villbergagruppen.se",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@villbergagruppen.se",
-    "city": "",
+    "mobile_primary": "23 745 30",
+    "domain": "https://villbergagruppen.se",
     "full_address": "",
-    "mobile_primary": "23 745 30"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

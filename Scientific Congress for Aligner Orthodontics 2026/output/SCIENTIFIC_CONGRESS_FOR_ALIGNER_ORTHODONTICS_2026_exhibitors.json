@@ -1,212 +1,233 @@
 [
   {
     "company_name": "ABZ",
-    "domain": "abz-zr.de",
-    "description": "Factoring für die Zahnmedizin! Einfach gute Lösungen – für kleine und große Praxen!",
     "booth": "",
+    "description": "Factoring für die Zahnmedizin! Einfach gute Lösungen – für kleine und große Praxen!",
     "email": "",
-    "city": "",
+    "mobile_primary": "123456 / 01",
+    "domain": "https://abz-zr.de",
     "full_address": "",
-    "mobile_primary": "123456 / 01"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Airflow Aligner",
-    "domain": "",
-    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Align Technology",
-    "domain": "aligntech.com",
-    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aligntech.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Angel Aligner",
-    "domain": "angelaligner.com",
-    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://angelaligner.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DentalMonitoring",
-    "domain": "dentalmonitoring.com",
-    "description": "KI-gestützte Kieferorthopädie: virtuelle Behandlungsbegleitung mit Echtzeit-Feedback für mehr Transparenz und effiziente Praxisabläufe.",
     "booth": "",
+    "description": "KI-gestützte Kieferorthopädie: virtuelle Behandlungsbegleitung mit Echtzeit-Feedback für mehr Transparenz und effiziente Praxisabläufe.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dentalmonitoring.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DMD",
-    "domain": "ieeexplore.ieee.org",
-    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+1 800 678 4333",
+    "domain": "https://ieeexplore.ieee.org",
     "full_address": "",
-    "mobile_primary": "+1 800 678 4333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dreve",
-    "domain": "",
-    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elygn",
-    "domain": "",
-    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FORESTADENT",
-    "domain": "forestadent.com",
-    "description": "Herzlich Willkommen auf der Seite forestadent.com",
     "booth": "",
+    "description": "Herzlich Willkommen auf der Seite forestadent.com",
     "email": "info@forestadent.com",
-    "city": "",
+    "mobile_primary": "151 75172",
+    "domain": "https://forestadent.com",
     "full_address": "",
-    "mobile_primary": "151 75172"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Graphy",
-    "domain": "dl.acm.org",
-    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Platinum sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dl.acm.org",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hammacher",
-    "domain": "",
-    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Basic sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ormco",
-    "domain": "",
-    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ortho Penthin",
-    "domain": "berlin-kieferorthopaedie.de",
-    "description": "Berlin Kieferorthopädie Unsichtbare Invisalign Zahnspange, Damon Zahnkorrektur, Incognito Lingualtechnik, ganzheitliche Kieferregulierung Erwachsene Kinder",
     "booth": "",
+    "description": "Berlin Kieferorthopädie Unsichtbare Invisalign Zahnspange, Damon Zahnkorrektur, Incognito Lingualtechnik, ganzheitliche Kieferregulierung Erwachsene Kinder",
     "email": "",
-    "city": "",
+    "mobile_primary": "+49 (0)30 609 709 170",
+    "domain": "https://berlin-kieferorthopaedie.de",
     "full_address": "",
-    "mobile_primary": "+49 (0)30 609 709 170"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Orthos",
-    "domain": "orthos.de",
-    "description": "Das kieferorthopädische Fachlabor Orthos gibt es bereits seit 1983. Als Experte mit langjähriger Erfahrung stehen wir an Ihrer Seite!",
     "booth": "",
+    "description": "Das kieferorthopädische Fachlabor Orthos gibt es bereits seit 1983. Als Experte mit langjähriger Erfahrung stehen wir an Ihrer Seite!",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://orthos.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Oscident",
-    "domain": "",
-    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SCHEU-DENTAL",
-    "domain": "",
-    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "siladent",
-    "domain": "",
-    "description": "Bronze sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Bronze sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Smartee",
-    "domain": "dentalline.de",
-    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "info@dentalline.de",
-    "city": "",
+    "mobile_primary": "+49 7231 9781-0",
+    "domain": "https://dentalline.de",
     "full_address": "",
-    "mobile_primary": "+49 7231 9781-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Solventum",
-    "domain": "",
-    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Gold sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Straumann",
-    "domain": "straumann.com",
-    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "booth": "",
+    "description": "Silber sponsor/exhibitor at the Scientific Congress for Aligner Orthodontics 2026.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://straumann.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TP Solution",
-    "domain": "tpsolution.com",
-    "description": "TPSolution unterstützt Sie bei der digitalen Behandlungsplanung, schult Sie und Ihre Mitarbeiter & unterstützt somit die erfolgreiche Alignerbehandlung.",
     "booth": "",
+    "description": "TPSolution unterstützt Sie bei der digitalen Behandlungsplanung, schult Sie und Ihre Mitarbeiter & unterstützt somit die erfolgreiche Alignerbehandlung.",
     "email": "info@tpsolution.com",
-    "city": "",
+    "mobile_primary": "+49 221 99 40 99 65",
+    "domain": "https://tpsolution.com",
     "full_address": "",
-    "mobile_primary": "+49 221 99 40 99 65"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

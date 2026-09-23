@@ -1,242 +1,266 @@
 [
   {
     "company_name": "Alfa Laval",
-    "domain": "alfalaval.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://alfalaval.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aqua Green",
-    "domain": "aquagreen.dk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://aquagreen.dk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "AtkinsRealis",
-    "domain": "atkinsrealis.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://atkinsrealis.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blue Methane",
-    "domain": "bluemethane.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://bluemethane.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bucher unipektin",
-    "domain": "bucherunipektin.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://bucherunipektin.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cambi",
-    "domain": "cambi.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://cambi.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "EasyMining Services Sweden",
-    "domain": "easymining.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://easymining.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "ELIQUO HYDROK",
-    "domain": "eliquohydrok.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://eliquohydrok.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "ERG Air Pollution Control",
-    "domain": "ergapc.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://ergapc.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Evergreen Water Solutions",
-    "domain": "evergreenwatersolutions.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://evergreenwatersolutions.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Flood Control International",
-    "domain": "floodcontrolinternational.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://floodcontrolinternational.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "GEA",
-    "domain": "gea.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://gea.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Haskoning",
-    "domain": "haskoning.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://haskoning.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Huber",
-    "domain": "huber.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://huber.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "IDEXX",
-    "domain": "idexx.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://idexx.co.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Marches Biogas",
-    "domain": "marchesbiogas.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://marchesbiogas.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "MSE Hiller",
-    "domain": "mandse.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://mandse.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Orege",
-    "domain": "orege.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://orege.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "OSS Enviro",
-    "domain": "ossenviro.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://ossenviro.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "rhames",
-    "domain": "rhames.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://rhames.uk",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Solenis",
-    "domain": "solenis.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://solenis.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "SoliSenz",
-    "domain": "solisenz.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://solisenz.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Technogenia",
-    "domain": "technogenia.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://technogenia.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tetra Tech",
-    "domain": "tetratech.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Telford",
+    "mobile_primary": "",
+    "domain": "https://tetratech.com",
     "full_address": "Telford International Centre, International Way, Telford, Shropshire, TF3 4JH, United Kingdom",
-    "mobile_primary": ""
+    "city": "Telford",
+    "linkedin_url": ""
   }
 ]

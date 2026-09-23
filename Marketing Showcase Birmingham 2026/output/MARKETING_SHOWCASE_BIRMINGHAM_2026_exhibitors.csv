@@ -1,35 +1,35 @@
-﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
-Allwag Promotions,allwag.co.uk,Ethically sourced promotional products and corporate clothing.,,,,,
-Beyond the Book,beyondthebook.co.uk,Trusted to deliver exceptional recruitment.,,jack.keeling@btbpeople.co.uk,,,01789 451510
-Bobble Digital,bobbledigital.com,An agile digital marketing agency.,,manpreet.singh@bobbledigital.com,,,0113 4683902
-Campaigner,campaigner.com,Email and SMS marketing software.,,amy.doyle@ziffdavis.com,,,07896 138641
-Canny Creative,canny-creative.com,"Branding, websites and content that get results.",,thardy@canny-creative.com,,,0191 364 3030
-Dark Horse,darkhorsedesign.co.uk,Digital marketing designed to avoid mediocre results.,,luke@darkhorse.co,,,0161 883 3714
-Digital Landscope,digitallandscope.com,Conversion growth through Google organic and paid search.,,discovery@digital-landscope.com,,,0141 465 5720
-Dotdigital,dotdigital.com,Marketing automation technology.,,josh.mckenna@dotdigital.com,,,020 3953 4596
-etc Branding,etcbranding.co.uk,Branded merchandise consultancy.,,info@etcbranding.com,,,033 3358 3522
-Force24,force24.co.uk,Marketing automation beyond email.,,,,,
-Hot House Digital,hothousedigital.co.uk,Simplifying the search for organic growth.,,enquiries@hothousedigital.co.uk,,,01138 800 082
-Innovation Visual,innovationvisual.com,Transforming results through AI technology and people.,,vogue@innovationvisual.com,,,0333 772 0509
-Leadoo Marketing Technologies,leadoo.com,Lead generation technology helping businesses convert web visitors to customers.,,,,,
-Lulu Animation,luluanimation.com,Real-world connections through animation.,,kathryn@lulu-animation.com,,,07909 901655
-Manic Merchandise,manicmerchandise.com,Eco promotional items with a twist.,,sales@manic-merchandise.com,,,03300 432797
-Morf,morf.tech,"Limitless customisation, instantly visualised.",,hello@morftech.io,,,01924 364700
-Nautilus Marketing,nautilusmarketing.co.uk,Marketing services for businesses seeking practical growth.,,tom@nautilusmarketing.co.uk,,,020 4513 9345
-Nimlok,nimlok.co.uk,Exhibition and exhibiting-performance solutions.,,hannah.banks@nimlok.co.uk,,,01933 409409
-OTB,otb.agency,Creative marketing agency for ambitious brands.,,,,,
-Phoenix Digital Ltd,phoenix-digital.co.uk,Web and digital experts.,,davinia@phoenixdigital.agency,,,0161 398 0741
-Pop-Up Banners Ltd,popupbanners.net,Portable branding solutions.,,sean@pop-upbanners.com,,,0845 601 4413
-So Contented,socontented.com,Brand voice and conversion copy that drives action.,,hello@socontented.com,,,+44 113 526 9814
-Sound Media,soundmedia.co.uk,Podcast strategies and solutions.,,james@wearesoundmedia.com,,,0114 4000 321
-Spotler,spotler.com,Marketing technology for businesses looking to improve customer engagement.,,kristian.tucker@spotler.com,,,01483 411911
-The Animation Guys,theanimationguys.com,Thoughtful video production services.,,wecanhelp@theanimationguys.com,,,020 7288 6319
-The SEO Works,seoworks.com,"Digital growth experts offering SEO, PPC and web services.",,,,,
-The Video Ad Agency,thevideoadagency.co.uk,"Video advertising planning, production and execution.",,,,,
-Updesigners,updesigners.co.uk,Design services shaping the future in graphic design.,,jordan@updesigners.com,,,07375 233572
-Uplyft,uplyft.com,Risk-free conversion rate optimisation for ecommerce brands.,,adam@weareuplyft.com,,,07812 998503
-Userboost,userboost.com,Conversion optimisation for considered-purchase brands.,,adrian@userboost.co.uk,,,01691 662712
-WebBox,webbox.co.uk,Websites built to convert and marketing that drives growth.,,will@webboxdigital.co.uk,,,02920 09 19 29
-Webmart,webmartuk.com,Sustainable print and digital marketing services.,,tom.maskill@webmartuk.com,,,01869 321321
-Wild Thang,wildthang.co.uk,"Branded merchandise, clothing and print.",,callum@wildthang.co.uk,,,0151 933 3289
-Workbooks CRM,workbooks.com,A no-nonsense CRM provider.,,success@workbooks.com,,,+44 0118 3030 100
+﻿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+Allwag Promotions,,Ethically sourced promotional products and corporate clothing.,,,https://allwag.co.uk,,,
+Beyond the Book,,Trusted to deliver exceptional recruitment.,jack.keeling@btbpeople.co.uk,01789 451510,https://beyondthebook.co.uk,,,
+Bobble Digital,,An agile digital marketing agency.,manpreet.singh@bobbledigital.com,0113 4683902,https://bobbledigital.com,,,
+Campaigner,,Email and SMS marketing software.,amy.doyle@ziffdavis.com,07896 138641,https://campaigner.com,,,
+Canny Creative,,"Branding, websites and content that get results.",thardy@canny-creative.com,0191 364 3030,https://canny-creative.com,,,
+Dark Horse,,Digital marketing designed to avoid mediocre results.,luke@darkhorse.co,0161 883 3714,https://darkhorsedesign.co.uk,,,
+Digital Landscope,,Conversion growth through Google organic and paid search.,discovery@digital-landscope.com,0141 465 5720,https://digitallandscope.com,,,
+Dotdigital,,Marketing automation technology.,josh.mckenna@dotdigital.com,020 3953 4596,https://dotdigital.com,,,
+etc Branding,,Branded merchandise consultancy.,info@etcbranding.com,033 3358 3522,https://etcbranding.co.uk,,,
+Force24,,Marketing automation beyond email.,,,https://force24.co.uk,,,
+Hot House Digital,,Simplifying the search for organic growth.,enquiries@hothousedigital.co.uk,01138 800 082,https://hothousedigital.co.uk,,,
+Innovation Visual,,Transforming results through AI technology and people.,vogue@innovationvisual.com,0333 772 0509,https://innovationvisual.com,,,
+Leadoo Marketing Technologies,,Lead generation technology helping businesses convert web visitors to customers.,,,https://leadoo.com,,,
+Lulu Animation,,Real-world connections through animation.,kathryn@lulu-animation.com,07909 901655,https://luluanimation.com,,,
+Manic Merchandise,,Eco promotional items with a twist.,sales@manic-merchandise.com,03300 432797,https://manicmerchandise.com,,,
+Morf,,"Limitless customisation, instantly visualised.",hello@morftech.io,01924 364700,https://morf.tech,,,
+Nautilus Marketing,,Marketing services for businesses seeking practical growth.,tom@nautilusmarketing.co.uk,020 4513 9345,https://nautilusmarketing.co.uk,,,
+Nimlok,,Exhibition and exhibiting-performance solutions.,hannah.banks@nimlok.co.uk,01933 409409,https://nimlok.co.uk,,,
+OTB,,Creative marketing agency for ambitious brands.,,,https://otb.agency,,,
+Phoenix Digital Ltd,,Web and digital experts.,davinia@phoenixdigital.agency,0161 398 0741,https://phoenix-digital.co.uk,,,
+Pop-Up Banners Ltd,,Portable branding solutions.,sean@pop-upbanners.com,0845 601 4413,https://popupbanners.net,,,
+So Contented,,Brand voice and conversion copy that drives action.,hello@socontented.com,+44 113 526 9814,https://socontented.com,,,
+Sound Media,,Podcast strategies and solutions.,james@wearesoundmedia.com,0114 4000 321,https://soundmedia.co.uk,,,
+Spotler,,Marketing technology for businesses looking to improve customer engagement.,kristian.tucker@spotler.com,01483 411911,https://spotler.com,,,
+The Animation Guys,,Thoughtful video production services.,wecanhelp@theanimationguys.com,020 7288 6319,https://theanimationguys.com,,,
+The SEO Works,,"Digital growth experts offering SEO, PPC and web services.",,,https://seoworks.com,,,
+The Video Ad Agency,,"Video advertising planning, production and execution.",,,https://thevideoadagency.co.uk,,,
+Updesigners,,Design services shaping the future in graphic design.,jordan@updesigners.com,07375 233572,https://updesigners.co.uk,,,
+Uplyft,,Risk-free conversion rate optimisation for ecommerce brands.,adam@weareuplyft.com,07812 998503,https://uplyft.com,,,
+Userboost,,Conversion optimisation for considered-purchase brands.,adrian@userboost.co.uk,01691 662712,https://userboost.com,,,
+WebBox,,Websites built to convert and marketing that drives growth.,will@webboxdigital.co.uk,02920 09 19 29,https://webbox.co.uk,,,
+Webmart,,Sustainable print and digital marketing services.,tom.maskill@webmartuk.com,01869 321321,https://webmartuk.com,,,
+Wild Thang,,"Branded merchandise, clothing and print.",callum@wildthang.co.uk,0151 933 3289,https://wildthang.co.uk,,,
+Workbooks CRM,,A no-nonsense CRM provider.,success@workbooks.com,+44 0118 3030 100,https://workbooks.com,,,

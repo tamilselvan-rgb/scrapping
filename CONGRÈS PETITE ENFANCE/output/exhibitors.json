@@ -1,212 +1,233 @@
 [
   {
     "company_name": "ANFE",
-    "domain": "anfe.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "accueil@anfe.fr | +33 1 45 84 30 97",
+    "domain": "https://anfe.fr",
     "full_address": "64 RUE NATIONALE CS 41362 75214 PARIS Cedex 13 France",
-    "mobile_primary": "accueil@anfe.fr | +33 1 45 84 30 97"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ANSAMBLE",
-    "domain": "ansamble.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@ansamble.fr | +33 2 97 01 97 97",
+    "domain": "https://ansamble.fr",
     "full_address": "1 Rue de Lorraine, 56000 Vannes, France",
-    "mobile_primary": "contact@ansamble.fr | +33 2 97 01 97 97"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "APPEL MEDICAL",
-    "domain": "appelmedical.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "webmaster@appel-medical.com | +33 1 41 62 20 20",
+    "domain": "https://appelmedical.com",
     "full_address": "276 Avenue du Président Wilson, 93200 Saint-Denis, France",
-    "mobile_primary": "webmaster@appel-medical.com | +33 1 41 62 20 20"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BESSIERE",
-    "domain": "bessiere.pro",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@bessiere.fr | +33 4 78 56 12 34",
+    "domain": "https://bessiere.pro",
     "full_address": "15 Rue des Basses Barolles, 69230 Saint-Genis-Laval, France",
-    "mobile_primary": "contact@bessiere.fr | +33 4 78 56 12 34"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "CENTEX",
-    "domain": "centex.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@centex.fr | +33 4 77 71 50 14",
+    "domain": "https://centex.fr",
     "full_address": "10 Rue de la Tuilerie, 42300 Mably, France",
-    "mobile_primary": "contact@centex.fr | +33 4 77 71 50 14"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ECO SMART BUILDING",
-    "domain": "ecosmart-building.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@ecosmart-building.com | +330185731490",
+    "domain": "https://ecosmart-building.com",
     "full_address": "71 Avenue des Ternes, 75017 Paris, France",
-    "mobile_primary": "contact@ecosmart-building.com | +330185731490"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FORMULETTE",
-    "domain": "formulette.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@formulette.fr | +33 1 43 55 14 41",
+    "domain": "https://formulette.fr",
     "full_address": "14 Rue Charles Delescluze, 75011 Paris, France",
-    "mobile_primary": "contact@formulette.fr | +33 1 43 55 14 41"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GIFTEO",
-    "domain": "gifteo.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@gifteo.fr | +33 4 81 69 56 97",
+    "domain": "https://gifteo.fr",
     "full_address": "8 Rue Paul Montrochet, 69002 Lyon, France",
-    "mobile_primary": "contact@gifteo.fr | +33 4 81 69 56 97"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INFANS GROUP",
-    "domain": "infans.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@infans.fr | +33 8 00 73 01 32",
+    "domain": "https://infans.fr",
     "full_address": "840 Avenue du Mas d'Argelliers, 34000 Montpellier, France",
-    "mobile_primary": "contact@infans.fr | +33 8 00 73 01 32"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KIDIZZ",
-    "domain": "kidizz.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "info@kidizz.com | +33 6 66 66 59 17",
+    "domain": "https://kidizz.com",
     "full_address": "200 Rue de la Croix Nivert, 75015 Paris, France",
-    "mobile_primary": "info@kidizz.com | +33 6 66 66 59 17"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LES 3 OURS",
-    "domain": "les3ours-mobilier-creche.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "commercial@les-3ours.fr | +33 5 55 32 60 23",
+    "domain": "https://les3ours-mobilier-creche.fr",
     "full_address": "Parc d'activités Océalim, 4 Rue Jean Mermoz, 87270 Couzeix, France",
-    "mobile_primary": "commercial@les-3ours.fr | +33 5 55 32 60 23"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LES P'TITS SAGES",
-    "domain": "lesptitssages.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "formation@lesptitssages.com | +33 5 64 10 40 83",
+    "domain": "https://lesptitssages.com",
     "full_address": "32 Rue Victor Lagrange, 69007 Lyon, France",
-    "mobile_primary": "formation@lesptitssages.com | +33 5 64 10 40 83"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LIBECA",
-    "domain": "libeca.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@libeca.fr | +33 4 74 72 15 15",
+    "domain": "https://libeca.fr",
     "full_address": "Zone Artisanale Pré Châtel, 42370 Renaison, France",
-    "mobile_primary": "contact@libeca.fr | +33 4 74 72 15 15"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MA PETITE CUILLERE",
-    "domain": "mapetitecuillere.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "bonjour@mapetitecuillere.com | +33 9 13 21 62 83",
+    "domain": "https://mapetitecuillere.com",
     "full_address": "2/4 Rue de Vergaville, 57260 Dieuze, France",
-    "mobile_primary": "bonjour@mapetitecuillere.com | +33 9 13 21 62 83"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MANGROVE PETITE ENFANCE",
-    "domain": "mangroveinnovation.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "enfance@mangroveinnovation.com | +15146184176",
+    "domain": "https://mangroveinnovation.com",
     "full_address": "10 Rue de Penthièvre, 75008 Paris, France",
-    "mobile_primary": "enfance@mangroveinnovation.com | +15146184176"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MATHOU ET LOXOS",
-    "domain": "mathou.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@mathou.com | +33 5 65 77 17 00",
+    "domain": "https://mathou.com",
     "full_address": "Z.I. Cantaranne, 12850 Onet-le-Château, France",
-    "mobile_primary": "contact@mathou.com | +33 5 65 77 17 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MEEKO",
-    "domain": "meeko.pro",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "bonjour@meeko.pro | +33 4 50 41 42 43",
+    "domain": "https://meeko.pro",
     "full_address": "679 Route Blanche, 01170 Ségny, France",
-    "mobile_primary": "bonjour@meeko.pro | +33 4 50 41 42 43"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OXY'PHARM - SANIVAP",
-    "domain": "oxypharm.net",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "bruno.dubien@sanivap.fr | +33 6 81 35 97 65",
+    "domain": "https://oxypharm.net",
     "full_address": "8 bis Rue de la Tuilerie, 69700 Givors, France",
-    "mobile_primary": "bruno.dubien@sanivap.fr | +33 6 81 35 97 65"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "QUE LIRE ?",
-    "domain": "que-lire.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@que-lire.fr | +33 4 68 45 12 34",
+    "domain": "https://que-lire.fr",
     "full_address": "4 Rue des Écoles, 11200 Bizanet, France",
-    "mobile_primary": "contact@que-lire.fr | +33 4 68 45 12 34"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SOMOBA",
-    "domain": "somoba.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "contact@somoba.fr | +33 4 67 10 89 16",
+    "domain": "https://somoba.fr",
     "full_address": "PAE la Tour, 82 Rue André Ampère, 34570 Montarnaud, France",
-    "mobile_primary": "contact@somoba.fr | +33 4 67 10 89 16"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "WESCO",
-    "domain": "wesco.fr",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "webmaster@wesco.fr | +33 5 49 80 01 66",
+    "domain": "https://wesco.fr",
     "full_address": "Route de Cholet, 79140 Cerizay, France",
-    "mobile_primary": "webmaster@wesco.fr | +33 5 49 80 01 66"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

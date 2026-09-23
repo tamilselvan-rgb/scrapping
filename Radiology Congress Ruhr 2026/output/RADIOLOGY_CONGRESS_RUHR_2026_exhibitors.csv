@@ -1,52 +1,52 @@
-﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
-Alliance Medical GmbH,nuclionews.com,,,,,,
-b.e.imaging GmbH,bendergruppe.com,,,info@bendergruppe.com,,,+49 7223.9669.0
-Bayer Vital GmbH,bayer.com,,,,,,
-Bracco Imaging Deutschland GmbH,bracco.com,,,,,,39 02 2177.1
-Canon Medical Systems GmbH,de.medical.canon,,,service.de@eu.medical.canon,,,0180 5 24 0 221
-Coreline Europe GmbH,corelinesoft.com,,,,,,
-Curagita AG,curagita.com,,,info@curagita.com,,,06221-5025-0
-Dedalus HealthCare GmbH,dedalus.com,,,,,,
-DIW-MTA Akademie GmbH,diw-mta.de,,,info@diw-mta.de,,,+49 30 338 440 64
-"Dr. Wolf, Beckelmann und Partner mbH",,,,,,,
-DVTA – Dachverband für Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V.,dvta.de,,,info@dvta-ev.de,,,040) 23 51 17 - 0
-easy Radiology AG,,,,,,,
-EDL Software GmbH,,,,,,,
-EIZO Europe GmbH,eizo.eu,,,,,,
-Elsevier GmbH,elsevier.com,,,,,,
-Evidia GmbH,rocketreach.co,,,,,,
-EXAMION GmbH und Informatics Systemhaus GmbH & Co. KG,examion.com,,,info@examion.com,,,+49 711 - 120 002 - 0
-febromed GmbH & Co. KG,febromed.de,,,vertrieb@febromed.de,,,0049 2522.920.19.00
-Floy GmbH,floy.com,,,info@floy.com,,,+49 89 244136090
-FUJIFILM Healthcare DE GmbH,,,,,,,
-FUSE-AI,ffnews.com,,,,,,
-Gleamer SAS,life-sciences-usa.com,,,,,,
-Guerbet GmbH,guerbet.com,,,,,,
-ICN GmbH + Co. KG,talents.studysmarter.de,,,,,,
-INFINITT Europe GmbH,infinitteurope.com,,,,,,08.00-17.00
-Innovative Tomography Products GmbH,life-sciences-europe.com,,,,,,
-Konica Minolta Business Solutions Deutschland GmbH,konicaminolta.com,,,,,,
-medavis GmbH,medavis.com,,,,,,
-meddix GmbH,,,,,,,
-MedEcon,medecon.co.uk,,,ustomerservices@medecon.co.uk,,,0203 384 4540
-Medi-ManAge Innovation GmbH,northdata.de,,,,,,1 123 105.276.215 1 32
-Medical Index GmbH,rocketreach.co,,,,,,
-Mediform GmbH,mediform.io,,,,,,
-mediquip Medizintechnik e.K.,,,,,,,
-MEDTRON AG,medtron.com,,,info@medtron.com,,,+49 (0) 681 970 17 - 0
-Merit Medical GmbH,merit.com,,,,,,+1 801 253 1600
-MeVis Medical Solutions AG,mevis.de,,,,,,+49 421 22495 0
-Mint Medical GmbH,mint-medical.com,,,info@mint-medical.de,,,+49 6221 321 80 0
-MVZ Uhlenbrock U&P Service GmbH,,,,,,,
-Philips GmbH Market DACH,philips.com,,,,,,
-RA Radiology Advanced GmbH,radiology-advanced.com,,,office@radiology-advanced.com,,,+49 (0) 30 403 664 660
-RADTOP Dr. Topcu & Kollegen,radtop.de,,,praeventikum@radtop.de,,,0208 7789210
-Raya Diagnostics,raya-diagnostics.com,,,,,,
-reif & möller diagnostic-network ag,reif-moeller.de,,,breunig@reif-moeller.de,,,0)6831/69897 22
-Saegeling Medizintechnik Service- und Vertriebs GmbH,northdata.com,,,,,,990 1 71.80 53.71 2 13
-Siemens Healthineers AG,siemens-healthineers.com,,,,,,
-Terumo Deutschland GmbH,terumo.com,,,,,,
-ulrich GmbH & Co. KG,ulrichmedical.com,,,info@ulrichmedical.com,,,+49 731 9654-0
-VISUS Health IT GmbH,visus.com,,,,,,+49 234 93693-0
-VITAS GmbH,crunchbase.com,,,,,,
-Youtilix GmbH,,,,,,,
+﻿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+Alliance Medical GmbH,,,,,https://nuclionews.com,,,
+b.e.imaging GmbH,,,info@bendergruppe.com,+49 7223.9669.0,https://bendergruppe.com,,,
+Bayer Vital GmbH,,,,,https://bayer.com,,,
+Bracco Imaging Deutschland GmbH,,,,39 02 2177.1,https://bracco.com,,,
+Canon Medical Systems GmbH,,,service.de@eu.medical.canon,0180 5 24 0 221,https://de.medical.canon,,,
+Coreline Europe GmbH,,,,,https://corelinesoft.com,,,
+Curagita AG,,,info@curagita.com,06221-5025-0,https://curagita.com,,,
+Dedalus HealthCare GmbH,,,,,https://dedalus.com,,,
+DIW-MTA Akademie GmbH,,,info@diw-mta.de,+49 30 338 440 64,https://diw-mta.de,,,
+"Dr. Wolf, Beckelmann und Partner mbH",,,,,,,,
+DVTA – Dachverband für Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V.,,,info@dvta-ev.de,040) 23 51 17 - 0,https://dvta.de,,,
+easy Radiology AG,,,,,,,,
+EDL Software GmbH,,,,,,,,
+EIZO Europe GmbH,,,,,https://eizo.eu,,,
+Elsevier GmbH,,,,,https://elsevier.com,,,
+Evidia GmbH,,,,,https://rocketreach.co,,,
+EXAMION GmbH und Informatics Systemhaus GmbH & Co. KG,,,info@examion.com,+49 711 - 120 002 - 0,https://examion.com,,,
+febromed GmbH & Co. KG,,,vertrieb@febromed.de,0049 2522.920.19.00,https://febromed.de,,,
+Floy GmbH,,,info@floy.com,+49 89 244136090,https://floy.com,,,
+FUJIFILM Healthcare DE GmbH,,,,,,,,
+FUSE-AI,,,,,https://ffnews.com,,,
+Gleamer SAS,,,,,https://life-sciences-usa.com,,,
+Guerbet GmbH,,,,,https://guerbet.com,,,
+ICN GmbH + Co. KG,,,,,https://talents.studysmarter.de,,,
+INFINITT Europe GmbH,,,,08.00-17.00,https://infinitteurope.com,,,
+Innovative Tomography Products GmbH,,,,,https://life-sciences-europe.com,,,
+Konica Minolta Business Solutions Deutschland GmbH,,,,,https://konicaminolta.com,,,
+medavis GmbH,,,,,https://medavis.com,,,
+meddix GmbH,,,,,,,,
+MedEcon,,,ustomerservices@medecon.co.uk,0203 384 4540,https://medecon.co.uk,,,
+Medi-ManAge Innovation GmbH,,,,1 123 105.276.215 1 32,https://northdata.de,,,
+Medical Index GmbH,,,,,https://rocketreach.co,,,
+Mediform GmbH,,,,,https://mediform.io,,,
+mediquip Medizintechnik e.K.,,,,,,,,
+MEDTRON AG,,,info@medtron.com,+49 (0) 681 970 17 - 0,https://medtron.com,,,
+Merit Medical GmbH,,,,+1 801 253 1600,https://merit.com,,,
+MeVis Medical Solutions AG,,,,+49 421 22495 0,https://mevis.de,,,
+Mint Medical GmbH,,,info@mint-medical.de,+49 6221 321 80 0,https://mint-medical.com,,,
+MVZ Uhlenbrock U&P Service GmbH,,,,,,,,
+Philips GmbH Market DACH,,,,,https://philips.com,,,
+RA Radiology Advanced GmbH,,,office@radiology-advanced.com,+49 (0) 30 403 664 660,https://radiology-advanced.com,,,
+RADTOP Dr. Topcu & Kollegen,,,praeventikum@radtop.de,0208 7789210,https://radtop.de,,,
+Raya Diagnostics,,,,,https://raya-diagnostics.com,,,
+reif & möller diagnostic-network ag,,,breunig@reif-moeller.de,0)6831/69897 22,https://reif-moeller.de,,,
+Saegeling Medizintechnik Service- und Vertriebs GmbH,,,,990 1 71.80 53.71 2 13,https://northdata.com,,,
+Siemens Healthineers AG,,,,,https://siemens-healthineers.com,,,
+Terumo Deutschland GmbH,,,,,https://terumo.com,,,
+ulrich GmbH & Co. KG,,,info@ulrichmedical.com,+49 731 9654-0,https://ulrichmedical.com,,,
+VISUS Health IT GmbH,,,,+49 234 93693-0,https://visus.com,,,
+VITAS GmbH,,,,,https://crunchbase.com,,,
+Youtilix GmbH,,,,,,,,

@@ -1,302 +1,332 @@
 [
   {
     "company_name": "AKOST GmbH",
-    "domain": "akost-hausbau.de",
-    "description": "Skandinavisch Wohnen Boreal und Fjord Häuser Holzhäuser Einfamilien- und Mehrfamilienhäuser",
     "booth": "",
+    "description": "Skandinavisch Wohnen Boreal und Fjord Häuser Holzhäuser Einfamilien- und Mehrfamilienhäuser",
     "email": "info@akost.de",
-    "city": "Zirzow",
+    "mobile_primary": "0395 / 5706920",
+    "domain": "https://akost-hausbau.de",
     "full_address": "Kalübber Str. 1 D – 17039 Zirzow",
-    "mobile_primary": "0395 / 5706920"
+    "city": "Zirzow",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bosch Thermotechnik GmbH | Buderus",
-    "domain": "buderus.de",
-    "description": "Heizsysteme Wärmeerzeuger (Wärmepumpen, Gasheizungen, Öl-Heizungen, Biomasse Wärmeerzeuger, Elektro-Heizgeräte) Elektrifizierung Solareneergie (Solarmodule, thermische Solarkollektoren) Klimageräre Wohnungslüftung Warmwasserbereitung Pufferspeicher Regelsysteme Heizkörper, Fußbodenheizungssysteme Wärmeverteilung",
     "booth": "",
+    "description": "Heizsysteme Wärmeerzeuger (Wärmepumpen, Gasheizungen, Öl-Heizungen, Biomasse Wärmeerzeuger, Elektro-Heizgeräte) Elektrifizierung Solareneergie (Solarmodule, thermische Solarkollektoren) Klimageräre Wohnungslüftung Warmwasserbereitung Pufferspeicher Regelsysteme Heizkörper, Fußbodenheizungssysteme Wärmeverteilung",
     "email": "berlin.brandenburg@buderus.de",
-    "city": "Velten",
+    "mobile_primary": "03304 / 3770",
+    "domain": "https://buderus.de",
     "full_address": "Berliner Str. 1 D – 16727 Velten",
-    "mobile_primary": "03304 / 3770"
+    "city": "Velten",
+    "linkedin_url": ""
   },
   {
     "company_name": "Die Bauherrenhilfe | Inh. Jürgen Wirsching",
-    "domain": "die-bauherrenhilfe.de",
-    "description": "gutachterliche Begleitung von Bauvorhaben",
     "booth": "",
+    "description": "gutachterliche Begleitung von Bauvorhaben",
     "email": "info@die-bauherrenhilfe.de",
-    "city": "Berlin",
+    "mobile_primary": "030 / 34781153",
+    "domain": "https://die-bauherrenhilfe.de",
     "full_address": "Schaumburgallee 12a D – 14052 Berlin",
-    "mobile_primary": "030 / 34781153"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Duschking Berlin-Süd GmbH",
-    "domain": "duschking-berlinsued.de",
-    "description": "Meine neue Dusche in 2 Tagen, fugenlos, schnell und sauber Dusch- und Badsanierung",
     "booth": "",
+    "description": "Meine neue Dusche in 2 Tagen, fugenlos, schnell und sauber Dusch- und Badsanierung",
     "email": "info@duschkingberlin-sued.de",
-    "city": "Zossen",
+    "mobile_primary": "033702 / 144949",
+    "domain": "https://duschking-berlinsued.de",
     "full_address": "Berliner Allee 48a D – 15806 Zossen",
-    "mobile_primary": "033702 / 144949"
+    "city": "Zossen",
+    "linkedin_url": ""
   },
   {
     "company_name": "EcoSunConsulting GmbH",
-    "domain": "ecosun-consulting.de",
-    "description": "Eigenstromversorgung – Planung, Realisierung und Wartung",
     "booth": "",
+    "description": "Eigenstromversorgung – Planung, Realisierung und Wartung",
     "email": "kontakt@ecosun-consulting.de",
-    "city": "Luckenwalde",
+    "mobile_primary": "03371 / 5996792",
+    "domain": "https://ecosun-consulting.de",
     "full_address": "Fichtestr. 3 D – 14943 Luckenwalde",
-    "mobile_primary": "03371 / 5996792"
+    "city": "Luckenwalde",
+    "linkedin_url": ""
   },
   {
     "company_name": "Eigenheimwohnen EWG GmbH",
-    "domain": "eigenheimwohnen.de",
-    "description": "Massivhausbau Ein- und Zweifamilienhäuser Doppel- und Reihenhäuser Mehrfamilienhäuser Energetische Modernisierung im Bestand",
     "booth": "",
+    "description": "Massivhausbau Ein- und Zweifamilienhäuser Doppel- und Reihenhäuser Mehrfamilienhäuser Energetische Modernisierung im Bestand",
     "email": "info@eigenheimwohnen.de",
-    "city": "Blankenfelde-Mahlow",
+    "mobile_primary": "03379 / 3126600",
+    "domain": "https://eigenheimwohnen.de",
     "full_address": "Town & Country Lizenz-Partner Zossener Damm 13 D – 15827 Blankenfelde-Mahlow",
-    "mobile_primary": "03379 / 3126600"
+    "city": "Blankenfelde-Mahlow",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elbe-Haus GmbH | BauherrenZentrum Berlin",
-    "domain": "elbe-haus.de",
-    "description": "Architektenhäuser Massivhäuser",
     "booth": "",
+    "description": "Architektenhäuser Massivhäuser",
     "email": "berlin@elbe-haus.de",
-    "city": "Berlin",
+    "mobile_primary": "030 / 20914790",
+    "domain": "https://elbe-haus.de",
     "full_address": "Landsberger Str. 262 D – 12623 Berlin",
-    "mobile_primary": "030 / 20914790"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elektro Rümpel und Sohn GmbH",
-    "domain": "elektro-ruempel.de",
-    "description": "Elektroinstallation, Photovoltaik",
     "booth": "",
+    "description": "Elektroinstallation, Photovoltaik",
     "email": "info@elektro-ruempel.de",
-    "city": "Zossen",
+    "mobile_primary": "03377 / 301015",
+    "domain": "https://elektro-ruempel.de",
     "full_address": "Feldstr. 22 D – 15806 Zossen",
-    "mobile_primary": "03377 / 301015"
+    "city": "Zossen",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fläming Finanz | Anke Grametzki",
-    "domain": "baufinanzierung-rangsdorf.de",
-    "description": "Finanzierungen Immobilienfinanzierungen inklusive Anschlussfinanzierung Modernisierungs- und Förderkredite",
     "booth": "",
+    "description": "Finanzierungen Immobilienfinanzierungen inklusive Anschlussfinanzierung Modernisierungs- und Förderkredite",
     "email": "info@flaemingfinanz.de",
-    "city": "Rangsdorf",
+    "mobile_primary": "033708 / 441373",
+    "domain": "https://baufinanzierung-rangsdorf.de",
     "full_address": "Rosenaue 10 D – 15834 Rangsdorf",
-    "mobile_primary": "033708 / 441373"
+    "city": "Rangsdorf",
+    "linkedin_url": ""
   },
   {
     "company_name": "HEIM & HAUS Bauelemente Vertriebs GmbH",
-    "domain": "heimhaus.de",
-    "description": "Markisen Rolläden Sonnenschutz Kunststofffenster Haustüren Vordächer Überdachungen",
     "booth": "",
+    "description": "Markisen Rolläden Sonnenschutz Kunststofffenster Haustüren Vordächer Überdachungen",
     "email": "buero-nauen@heimhaus.de",
-    "city": "Nauen",
+    "mobile_primary": "03321 / 450393",
+    "domain": "https://heimhaus.de",
     "full_address": "Robert-Bosch-Str. 2 D – 14641 Nauen",
-    "mobile_primary": "03321 / 450393"
+    "city": "Nauen",
+    "linkedin_url": ""
   },
   {
     "company_name": "Heinke & Streich GbR",
-    "domain": "renofloor.de",
-    "description": "funktionale Steinbeläge für Terrasse, Treppe, Balkon",
     "booth": "",
+    "description": "funktionale Steinbeläge für Terrasse, Treppe, Balkon",
     "email": "buerostreich@t-online.de",
-    "city": "Königs Wusterhausen",
+    "mobile_primary": "0151/19148717",
+    "domain": "https://renofloor.de",
     "full_address": "Am Nottefließ 55 D – 15711 Königs Wusterhausen",
-    "mobile_primary": "0151/19148717"
+    "city": "Königs Wusterhausen",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ihr Sanierungsteam | Wilhelm Burg",
-    "domain": "ihrsanierungsteam.de",
-    "description": "Steinreinigung Epaxidharzverfugung Steinteppich Garten- und Landschaftsbau",
     "booth": "",
+    "description": "Steinreinigung Epaxidharzverfugung Steinteppich Garten- und Landschaftsbau",
     "email": "info@ihrsanierungsteam.de",
-    "city": "Mönchengladbach",
+    "mobile_primary": "0173 / 8340443",
+    "domain": "https://ihrsanierungsteam.de",
     "full_address": "Backeshof 8 D – 41238 Mönchengladbach",
-    "mobile_primary": "0173 / 8340443"
+    "city": "Mönchengladbach",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ingenieurbüro für erneuerbare Energien K&K GmbH",
-    "domain": "iee-solar.de",
-    "description": "Photovoltaik, Wärmepumpen",
     "booth": "",
+    "description": "Photovoltaik, Wärmepumpen",
     "email": "info@iee-solar.de",
-    "city": "Gifhorn",
+    "mobile_primary": "05371 / 5898857",
+    "domain": "https://iee-solar.de",
     "full_address": "Robert-Bosch-Str. 3 D – 38518 Gifhorn",
-    "mobile_primary": "05371 / 5898857"
+    "city": "Gifhorn",
+    "linkedin_url": ""
   },
   {
     "company_name": "js messe consult | Inh. Jens Sabbarz",
-    "domain": "",
-    "description": "Messekonzeption Messemarketing Messeorganisation Messeservice Unsere nächsten Haus-, Bau- und Handwerksmessen – Mein HAUS und GARTEN – clever BAUEN | ENERGIE sparen | schöner WOHNEN : PotsdamBau | 07. + 08. März 2026 | Potsdam – Metropolis Halle OderlandBau | 21. + 22. März 2026 | Frankfurt (Oder) – Messegelände HavellandBau | 03. + 04. Oktober 2026 | Falkensee – Stadthalle BarnimBau | 24. + 25. Oktober 2026 | Bernau bei Berlin – S-Arena Bernau FlämingBau | 14. + 15. November 2026 | Luckenwalde – Fläminghalle OderSpreeBau | 06. + 07. Februar 2027 | Erkner – Stadthalle Alle Messen unter messe-brandenburg.de , oder für aktuelle Informationen und Angebote im Infoverteiler eintragen.",
     "booth": "",
+    "description": "Messekonzeption Messemarketing Messeorganisation Messeservice Unsere nächsten Haus-, Bau- und Handwerksmessen – Mein HAUS und GARTEN – clever BAUEN | ENERGIE sparen | schöner WOHNEN : PotsdamBau | 07. + 08. März 2026 | Potsdam – Metropolis Halle OderlandBau | 21. + 22. März 2026 | Frankfurt (Oder) – Messegelände HavellandBau | 03. + 04. Oktober 2026 | Falkensee – Stadthalle BarnimBau | 24. + 25. Oktober 2026 | Bernau bei Berlin – S-Arena Bernau FlämingBau | 14. + 15. November 2026 | Luckenwalde – Fläminghalle OderSpreeBau | 06. + 07. Februar 2027 | Erkner – Stadthalle Alle Messen unter messe-brandenburg.de , oder für aktuelle Informationen und Angebote im Infoverteiler eintragen.",
     "email": "info@messe-brandenburg.de",
-    "city": "Ahrensfelde",
+    "mobile_primary": "03338 / 3596985",
+    "domain": "",
     "full_address": "Börnicker Str. 98 D – 16356 Ahrensfelde",
-    "mobile_primary": "03338 / 3596985"
+    "city": "Ahrensfelde",
+    "linkedin_url": ""
   },
   {
     "company_name": "LBS Landesbausparkasse NordOst AG",
-    "domain": "lbs.de",
-    "description": "Bausparen, Baufinanzierungen, Immobilien auf dem Messestand der Sparkasse Barnim",
     "booth": "",
+    "description": "Bausparen, Baufinanzierungen, Immobilien auf dem Messestand der Sparkasse Barnim",
     "email": "info-potsdam@lbs-nordost.de",
-    "city": "Potsdam",
+    "mobile_primary": "0331 / 9690123",
+    "domain": "https://lbs.de",
     "full_address": "Bausparkasse der Sparkassen Am Luftschiffhafen 1 D – 14471 Potsdam",
-    "mobile_primary": "0331 / 9690123"
+    "city": "Potsdam",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lifta GmbH",
-    "domain": "lifta.de",
-    "description": "Treppenlifte, Hauslifte, Rollstuhllifte auf dem Messestand des VDGN – Verband Deutscher Grundstücksnutzer e.V.",
     "booth": "",
+    "description": "Treppenlifte, Hauslifte, Rollstuhllifte auf dem Messestand des VDGN – Verband Deutscher Grundstücksnutzer e.V.",
     "email": "lifta@lifta.de",
-    "city": "Köln",
+    "mobile_primary": "02234 / 504272",
+    "domain": "https://lifta.de",
     "full_address": "Horbeller Str. 33 D – 50858 Köln",
-    "mobile_primary": "02234 / 504272"
+    "city": "Köln",
+    "linkedin_url": ""
   },
   {
     "company_name": "masson GmbH",
-    "domain": "masson-möbel.de",
-    "description": "Garten- und Terrassenmöbel aus Fieberglas",
     "booth": "",
+    "description": "Garten- und Terrassenmöbel aus Fieberglas",
     "email": "ludwig@masson.de",
-    "city": "Wendorf",
+    "mobile_primary": "03831 / 442921",
+    "domain": "https://masson-möbel.de",
     "full_address": "Robert-Koch-Str. 21 D – 18442 Wendorf",
-    "mobile_primary": "03831 / 442921"
+    "city": "Wendorf",
+    "linkedin_url": ""
   },
   {
     "company_name": "Masuch GmbH",
-    "domain": "masuch-kamine.de",
-    "description": "Kamine, Kachelöfen, Kaminöfen, Gaskamine, Schornsteine",
     "booth": "",
+    "description": "Kamine, Kachelöfen, Kaminöfen, Gaskamine, Schornsteine",
     "email": "info@masuch-kamine.de",
-    "city": "Berlin",
+    "mobile_primary": "030 / 6936595",
+    "domain": "https://masuch-kamine.de",
     "full_address": "Jahnstr. 4 D – 10967 Berlin",
-    "mobile_primary": "030 / 6936595"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mecklenburgische Versicherungs-Gesellschaft a. G.",
-    "domain": "mecklenburgische.com",
-    "description": "Hausratversicherung Rechtsschutzversicherung Haftpflichtversicherung",
     "booth": "",
+    "description": "Hausratversicherung Rechtsschutzversicherung Haftpflichtversicherung",
     "email": "info.rarrasch@mecklenburgische.com",
-    "city": "Luckenwalde",
+    "mobile_primary": "03371 / 4048451",
+    "domain": "https://mecklenburgische.com",
     "full_address": "Bezirks-Generalvertretung Torsten Rarrasch Gottower Str. 62 D – 14943 Luckenwalde",
-    "mobile_primary": "03371 / 4048451"
+    "city": "Luckenwalde",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mittelbrandenburgische Sparkasse",
-    "domain": "mbs-potsdam.de",
-    "description": "Baufinanzierung Bausparen",
     "booth": "",
+    "description": "Baufinanzierung Bausparen",
     "email": "kontakt@mbs.de",
-    "city": "Potsdam",
+    "mobile_primary": "0331 / 89814111",
+    "domain": "https://mbs-potsdam.de",
     "full_address": "Saarmunder Str. 61 D – 14478 Potsdam",
-    "mobile_primary": "0331 / 89814111"
+    "city": "Potsdam",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nelson Park Terrassendächer GmbH",
-    "domain": "nelsonpark-td.de",
-    "description": "Terrassendächer Kaltwintergärten Beschattungen Carports Vordächer Photovoltaik, Solar",
     "booth": "",
+    "description": "Terrassendächer Kaltwintergärten Beschattungen Carports Vordächer Photovoltaik, Solar",
     "email": "info@nelsonpark-td.de",
-    "city": "Eutin",
+    "mobile_primary": "04521 / 8264817",
+    "domain": "https://nelsonpark-td.de",
     "full_address": "Albert-Einstein-Str. 23 D – 23701 Eutin",
-    "mobile_primary": "04521 / 8264817"
+    "city": "Eutin",
+    "linkedin_url": ""
   },
   {
     "company_name": "PMT Agency | Inh. Intisar Malik",
-    "domain": "pmt-agency.de",
-    "description": "EnPal Photovoltaik Anlagen und Beratung",
     "booth": "",
+    "description": "EnPal Photovoltaik Anlagen und Beratung",
     "email": "intisar.malik@pmt-agency.de",
-    "city": "Geesthacht",
+    "mobile_primary": "01520 / 8885488",
+    "domain": "https://pmt-agency.de",
     "full_address": "Am Moor 24 D – 21502 Geesthacht",
-    "mobile_primary": "01520 / 8885488"
+    "city": "Geesthacht",
+    "linkedin_url": ""
   },
   {
     "company_name": "Prefa GmbH | Alu-Dächer und -Fassaden",
-    "domain": "prefa.com",
-    "description": "Dach-, Dachentwässerungs- und Fassadenprodukte aus Aluminium Hochwasserschutz, Solar",
     "booth": "",
+    "description": "Dach-, Dachentwässerungs- und Fassadenprodukte aus Aluminium Hochwasserschutz, Solar",
     "email": "office.de@prefa.com",
-    "city": "Wasungen",
+    "mobile_primary": "036941 / 7850",
+    "domain": "https://prefa.com",
     "full_address": "Aluminiumstr. 2 D – 98634 Wasungen",
-    "mobile_primary": "036941 / 7850"
+    "city": "Wasungen",
+    "linkedin_url": ""
   },
   {
     "company_name": "ProBauSan",
-    "domain": "probausan.de",
-    "description": "Anti Graffiti Schutz Dach und Fassade Lärmschutz Dachreinigung/Beschichtung",
     "booth": "",
+    "description": "Anti Graffiti Schutz Dach und Fassade Lärmschutz Dachreinigung/Beschichtung",
     "email": "info@probausan.de",
-    "city": "Prenzlau",
+    "mobile_primary": "03984 / 8358692",
+    "domain": "https://probausan.de",
     "full_address": "VM PROTECT95 UG (haftungsbeschränkt) Inh. Bernd Tank Goethestr. 54 D – 17291 Prenzlau",
-    "mobile_primary": "03984 / 8358692"
+    "city": "Prenzlau",
+    "linkedin_url": ""
   },
   {
     "company_name": "RENOfloor GmbH",
-    "domain": "",
-    "description": "Bodenbelagsysteme auf dem Messestand der Heinke & Streich GbR",
     "booth": "",
+    "description": "Bodenbelagsysteme auf dem Messestand der Heinke & Streich GbR",
     "email": "",
-    "city": "Uettingen",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Mittlere Stämmig 2 D – 97292 Uettingen",
-    "mobile_primary": ""
+    "city": "Uettingen",
+    "linkedin_url": ""
   },
   {
     "company_name": "SCB Solar Company Berlin GmbH",
-    "domain": "solarcompanyberlin.de",
-    "description": "Photovoltaik",
     "booth": "",
+    "description": "Photovoltaik",
     "email": "vertrieb@solarcompanyberlin.de",
-    "city": "Erkner",
+    "mobile_primary": "03362 / 9329215",
+    "domain": "https://solarcompanyberlin.de",
     "full_address": "Fürstenwalder Str. 4 D – 15537 Erkner",
-    "mobile_primary": "03362 / 9329215"
+    "city": "Erkner",
+    "linkedin_url": ""
   },
   {
     "company_name": "Solar GMI GmbH",
-    "domain": "solar-gmi.com",
-    "description": "Photovoltaik und Wärmepumpen",
     "booth": "",
+    "description": "Photovoltaik und Wärmepumpen",
     "email": "info@solar-gmi.com",
-    "city": "Berlin",
+    "mobile_primary": "030 / 754371230",
+    "domain": "https://solar-gmi.com",
     "full_address": "Stresemannstr. 23 D – 10963 Berlin",
-    "mobile_primary": "030 / 754371230"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vaillant Deutschland GmbH & Co. KG",
-    "domain": "vaillant.de",
-    "description": "Wärmepumpen, Brenn- und Heizwertgeräte",
     "booth": "",
+    "description": "Wärmepumpen, Brenn- und Heizwertgeräte",
     "email": "thomas.foell@vaillant.com",
-    "city": "Berlin",
+    "mobile_primary": "0171 / 9763058",
+    "domain": "https://vaillant.de",
     "full_address": "Marzahner Str. 24 D – 13053 Berlin",
-    "mobile_primary": "0171 / 9763058"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "VDGN e.V. | Verband Deutscher Grundstücksnutzer",
-    "domain": "vdgn.de",
-    "description": "Schutz, Rat und Hilfe rund um Haus und Grundstück",
     "booth": "",
+    "description": "Schutz, Rat und Hilfe rund um Haus und Grundstück",
     "email": "info@vdgn.de",
-    "city": "Berlin",
+    "mobile_primary": "030 / 5148880",
+    "domain": "https://vdgn.de",
     "full_address": "Irmastr. 22 D – 12683 Berlin",
-    "mobile_primary": "030 / 5148880"
+    "city": "Berlin",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verbraucherzentrale Brandenburg e.V.",
-    "domain": "verbraucherzentrale-brandenburg.de",
-    "description": "Verbraucherberatung Verbraucherschutz Energieberatung",
     "booth": "",
+    "description": "Verbraucherberatung Verbraucherschutz Energieberatung",
     "email": "energie@vzb.de",
-    "city": "Potsdam",
+    "mobile_primary": "0331 / 98229995",
+    "domain": "https://verbraucherzentrale-brandenburg.de",
     "full_address": "Babelsberger Str. 18 D – 14473 Potsdam",
-    "mobile_primary": "0331 / 98229995"
+    "city": "Potsdam",
+    "linkedin_url": ""
   }
 ]

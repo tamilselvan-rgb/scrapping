@@ -1,1412 +1,1553 @@
 [
   {
     "company_name": "Absolut Vodka",
-    "domain": "pernod-ricard.com",
-    "description": "The world’s leading premium vodka, made from pure Swedish water and winter wheat.",
     "booth": "C10:50",
+    "description": "The world’s leading premium vodka, made from pure Swedish water and winter wheat.",
     "email": "media.relations@pernod-ricard.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://pernod-ricard.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Agitator",
-    "domain": "agitatorwhisky.com",
-    "description": "På Agitator strävar vi att göra modern whisky som är riktigt god. Vår ambition är att ta svensk whisky in i 2000-talet.",
     "booth": "C11:59",
+    "description": "På Agitator strävar vi att göra modern whisky som är riktigt god. Vår ambition är att ta svensk whisky in i 2000-talet.",
     "email": "kontakt@agitatordistillery.com",
-    "city": "Stockholm",
+    "mobile_primary": "+46704105171",
+    "domain": "https://agitatorwhisky.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46704105171"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Alnöl",
-    "domain": "alnol.se",
-    "description": "På den vackra ön Alnö strax utanför Sundsvall startade vi vår verksamhet 2014. På norra delen av ön, med djur och natur inpå knuten, brygger och destillerar vi öl & sprit. Vi jobbar hantverksmässigt och småskaligt utan att någonsin göra avkall på kvaliteten.",
     "booth": "C02:38",
+    "description": "På den vackra ön Alnö strax utanför Sundsvall startade vi vår verksamhet 2014. På norra delen av ön, med djur och natur inpå knuten, brygger och destillerar vi öl & sprit. Vi jobbar hantverksmässigt och småskaligt utan att någonsin göra avkall på kvaliteten.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://alnol.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amarula",
-    "domain": "anora.com",
-    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "booth": "C11:21",
+    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "email": "firstname.lastname@anora.com",
-    "city": "Stockholm",
+    "mobile_primary": "00358207013013",
+    "domain": "https://anora.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "00358207013013"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amsterdam Farms",
-    "domain": "tripadvisor.com",
-    "description": "",
     "booth": "C10:60",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://tripadvisor.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Angry Ape",
-    "domain": "angryapekitchen.se",
-    "description": "Premium chilisåser, hantverksmässigt tillverkade på Södertörn med chili från egna odlingar. Unika smakkombinationer där smaken kommer först – sedan hettan.",
     "booth": "C06:20",
+    "description": "Premium chilisåser, hantverksmässigt tillverkade på Södertörn med chili från egna odlingar. Unika smakkombinationer där smaken kommer först – sedan hettan.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://angryapekitchen.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ankarsrum Kitchen",
-    "domain": "ankarsrum.com",
-    "description": "Ankarsrum's Stand Mixer combines quality, function & design. With a stand mixer from Ankarsrum you'll get a complete helper in the kitchen!",
     "booth": "C12:30",
+    "description": "Ankarsrum's Stand Mixer combines quality, function & design. With a stand mixer from Ankarsrum you'll get a complete helper in the kitchen!",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "+4649052000",
+    "domain": "https://ankarsrum.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+4649052000"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Anora",
-    "domain": "anora.com",
-    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "booth": "C11:39",
+    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "email": "firstname.lastname@anora.com",
-    "city": "Stockholm",
+    "mobile_primary": "00358207013013",
+    "domain": "https://anora.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "00358207013013"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aptit Förlag",
-    "domain": "aptitforlag.se",
-    "description": "",
     "booth": "C04:21",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://aptitforlag.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Arvid Nordquist",
-    "domain": "arvidnordquist.se",
-    "description": "",
     "booth": "C01:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://arvidnordquist.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Baileys",
-    "domain": "diageo.com",
-    "description": "Created in 1974, Baileys is the world's first cream liqueur and now one of the most-loved spirits on the planet. Rich, indulgent and unmistakably smooth, it is enjoyed by millions worldwide.",
     "booth": "C11:38",
+    "description": "Created in 1974, Baileys is the world's first cream liqueur and now one of the most-loved spirits on the planet. Rich, indulgent and unmistakably smooth, it is enjoyed by millions worldwide.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://diageo.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Basturökeriet",
-    "domain": "elmia.se",
-    "description": "",
     "booth": "C06:28",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://elmia.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beer Barons",
-    "domain": "beerbarons.se",
-    "description": "",
     "booth": "C12:73",
+    "description": "",
     "email": "info@beerbarons.se",
-    "city": "Stockholm",
+    "mobile_primary": "+46707655322",
+    "domain": "https://beerbarons.se",
     "full_address": "Beer Barons beerbarons.se",
-    "mobile_primary": "+46707655322"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "BILENGI BIO",
-    "domain": "",
-    "description": "",
     "booth": "C14:50",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bokcompaniet",
-    "domain": "bokcompaniet.se",
-    "description": "",
     "booth": "C15:40",
+    "description": "",
     "email": "vasby@bokcompaniet.se",
-    "city": "Stockholm",
+    "mobile_primary": "08-590 730 80",
+    "domain": "https://bokcompaniet.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-590 730 80"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bollinger",
-    "domain": "arvidnordquist.se",
-    "description": "",
     "booth": "C01:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://arvidnordquist.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Boursin",
-    "domain": "brandyne.se",
-    "description": "A sensory journey showcasing Boursin’s versatility—from classic platters to creative dishes, inspiring every palate. 🧀",
     "booth": "C08:30",
+    "description": "A sensory journey showcasing Boursin’s versatility—from classic platters to creative dishes, inspiring every palate. 🧀",
     "email": "Info@brandyne.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://brandyne.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brick On Brick",
-    "domain": "alamy.com",
-    "description": "",
     "booth": "C13:35",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://alamy.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "BSSK IMPEX",
-    "domain": "bsskimpex.se",
-    "description": "",
     "booth": "C10:41",
+    "description": "",
     "email": "info@bsskimpex.se",
-    "city": "Stockholm",
+    "mobile_primary": "46 (0)736 350 871",
+    "domain": "https://bsskimpex.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 (0)736 350 871"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Butes Iscider",
-    "domain": "butecider.se",
-    "description": "Family-run nano-cidery crafting exceptional ice cider and apple brandy from locally grown apples in Umeå, northern Sweden. Award-winning Swedish craft cider.",
     "booth": "Övrig dryck",
+    "description": "Family-run nano-cidery crafting exceptional ice cider and apple brandy from locally grown apples in Umeå, northern Sweden. Award-winning Swedish craft cider.",
     "email": "jeffrey.lewis@butecider.se",
-    "city": "Stockholm",
+    "mobile_primary": "+46 (0)72 503 8328",
+    "domain": "https://butecider.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46 (0)72 503 8328"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "California Wines",
-    "domain": "thewinehub.se",
-    "description": "Vinutbildning på The Wine Hub. Sommelierutbildning, WSET och vinkurser med ledande vinutbildare i Stockholm, Göteborg och Malmö.",
     "booth": "C12:49",
+    "description": "Vinutbildning på The Wine Hub. Sommelierutbildning, WSET och vinkurser med ledande vinutbildare i Stockholm, Göteborg och Malmö.",
     "email": "hello@thewinehub.se",
-    "city": "Stockholm",
+    "mobile_primary": "08 867 161",
+    "domain": "https://thewinehub.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08 867 161"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Camarda Italienska Delikatesser",
-    "domain": "camarda.se",
-    "description": "",
     "booth": "C05:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://camarda.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "CC’s Havtorns delikatesser",
-    "domain": "ccshavtornsdelikatesser.com",
-    "description": "Havtorn, marmelad, råjuice, torkade bär, nyttigt, C vitamin omega oljor. goda bakverk. sås. drinkmix. ostbricka. våfflor. blåbär. kolor. godis. fröknäcke. skorpor.",
     "booth": "C07.39",
+    "description": "Havtorn, marmelad, råjuice, torkade bär, nyttigt, C vitamin omega oljor. goda bakverk. sås. drinkmix. ostbricka. våfflor. blåbär. kolor. godis. fröknäcke. skorpor.",
     "email": "info@cclaxhavtorn.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://ccshavtornsdelikatesser.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cheeses from Switzerland",
-    "domain": "cheesesfromswitzerland.com",
-    "description": "",
     "booth": "C12:60",
+    "description": "",
     "email": "info@scm-cheese.com",
-    "city": "Stockholm",
+    "mobile_primary": "+410313852626",
+    "domain": "https://cheesesfromswitzerland.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+410313852626"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Chokladkyssar",
-    "domain": "chokladkyssar.se",
-    "description": "High quality chocolate Chokladkyssar made to perfection with 70% cacao Filed with creamy mareng in 47 delicious flavours like champagne, white strawberry, salt caramel, white pistachio, after eight and so many more... Lyxiga Mumsmums ;)",
     "booth": "C07:40",
+    "description": "High quality chocolate Chokladkyssar made to perfection with 70% cacao Filed with creamy mareng in 47 delicious flavours like champagne, white strawberry, salt caramel, white pistachio, after eight and so many more... Lyxiga Mumsmums ;)",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://chokladkyssar.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coast and Copper Distillery",
-    "domain": "coastandcopper.se",
-    "description": "Destilleriet är baserat på Värmdö i hjärtat av Stockholms skärgård. Det grundades 2024 av Cenny, Mattias och Andreas som efter 37-års vänskap äntligen slog slag i saken. Att få jobba och verka för något gemensamt som dessutom skänker glädje till andra är på riktigt en dröm i uppfyllelse för oss.",
     "booth": "C11:48",
+    "description": "Destilleriet är baserat på Värmdö i hjärtat av Stockholms skärgård. Det grundades 2024 av Cenny, Mattias och Andreas som efter 37-års vänskap äntligen slog slag i saken. Att få jobba och verka för något gemensamt som dessutom skänker glädje till andra är på riktigt en dröm i uppfyllelse för oss.",
     "email": "info@coastandcopper.se",
-    "city": "Stockholm",
+    "mobile_primary": "073 059 57 09",
+    "domain": "https://coastandcopper.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "073 059 57 09"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Copper Club",
-    "domain": "copperclub.se",
-    "description": "Mitt i restaurangens hjärta välkomnar vi dig till en av landets största ginbarer. Förutom husets egna produkter samsas här nästan 400 olika sorter från hela världen, kompletterade av mer än 200 olika tonics.",
     "booth": "C05.51",
+    "description": "Mitt i restaurangens hjärta välkomnar vi dig till en av landets största ginbarer. Förutom husets egna produkter samsas här nästan 400 olika sorter från hela världen, kompletterade av mer än 200 olika tonics.",
     "email": "hello@copperclub.se",
-    "city": "Stockholm",
+    "mobile_primary": "070-1695099",
+    "domain": "https://copperclub.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "070-1695099"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cosmic Vodka",
-    "domain": "cosmicvodkas.com",
-    "description": "",
     "booth": "C11:31",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://cosmicvodkas.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Costco Wholesale",
-    "domain": "costco.se",
-    "description": "",
     "booth": "Övrig dryck",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://costco.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Delikatesskungen",
-    "domain": "delikatesskungen.se",
-    "description": "Gör som över 35 000 grupper och tjäna pengar till klassen, laget eller föreningen. Sälj omtyckta och populära delikatesser. Ni tjänar upp till 77 kr per produkt!",
     "booth": "C08:60",
+    "description": "Gör som över 35 000 grupper och tjäna pengar till klassen, laget eller föreningen. Sälj omtyckta och populära delikatesser. Ni tjänar upp till 77 kr per produkt!",
     "email": "info@delikatesskungen.se",
-    "city": "Stockholm",
+    "mobile_primary": "087222233",
+    "domain": "https://delikatesskungen.se",
     "full_address": "DelikatessKungen AB Högsbyvägen 3 352 74 Växjö Tel: 08-722 22 33 info@delikatesskungen.se",
-    "mobile_primary": "087222233"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dell Artista",
-    "domain": "dellartista.se",
-    "description": "Vi på Dell´Artista brinner lite extra för när det svenska kökets traditioner möter det italienska kökets smaker, och ljuv harmoni blir till.",
     "booth": "C04:31",
+    "description": "Vi på Dell´Artista brinner lite extra för när det svenska kökets traditioner möter det italienska kökets smaker, och ljuv harmoni blir till.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://dellartista.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Det Goda Från Italien i Sverige",
-    "domain": "xn--sthlmfoodandwinemsstidning-whc.se",
-    "description": "",
     "booth": "C07:28",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://xn--sthlmfoodandwinemsstidning-whc.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Diageo",
-    "domain": "diageo.com",
-    "description": "With over 200 brands sold in nearly 180 countries, Diageo is driven to be the world’s best brand builder, leading the way in premium drinks.",
     "booth": "C11:38",
+    "description": "With over 200 brands sold in nearly 180 countries, Diageo is driven to be the world’s best brand builder, leading the way in premium drinks.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://diageo.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Disaronno",
-    "domain": "anora.com",
-    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "booth": "C11:39",
+    "description": "Anora is a leading wine and spirits brand house in the Nordic region and an industry forerunner in sustainability.",
     "email": "firstname.lastname@anora.com",
-    "city": "Stockholm",
+    "mobile_primary": "00358207013013",
+    "domain": "https://anora.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "00358207013013"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "DryckesBuan",
-    "domain": "dryckesbuan.inkop.se",
-    "description": "Svensk Hantverksdryck",
     "booth": "Övrig dryck",
+    "description": "Svensk Hantverksdryck",
     "email": "info@dryckesbuan.se",
-    "city": "Stockholm",
+    "mobile_primary": "073-029 43 04",
+    "domain": "https://dryckesbuan.inkop.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "073-029 43 04"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Eckerö Linjen",
-    "domain": "eckerolinjen.se",
-    "description": "Eckerö Linjen – en prisvärd och bekväm båtresa mellan Grisslehamn och Eckerö. God mat, nöjen ombord och dagliga avgångar året runt.",
     "booth": "C05:30",
+    "description": "Eckerö Linjen – en prisvärd och bekväm båtresa mellan Grisslehamn och Eckerö. God mat, nöjen ombord och dagliga avgångar året runt.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://eckerolinjen.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ello i Lammhult",
-    "domain": "ello.se",
-    "description": "Har du några frågor eller vill prata med oss? Hör gärna av dig till en eller flera av våra trevliga anställda här!",
     "booth": "C09:38",
+    "description": "Har du några frågor eller vill prata med oss? Hör gärna av dig till en eller flera av våra trevliga anställda här!",
     "email": "salg@ello.se",
-    "city": "Stockholm",
+    "mobile_primary": "047248750",
+    "domain": "https://ello.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "047248750"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Engelmanns",
-    "domain": "engelmanns.se",
-    "description": "Vi vill inspirera dig med vårt breda urval av ostar, marmelader, chark, antipasti och kex. Välkommen att upptäcka en ny värld av fantastiska smaker tillsammans med oss!",
     "booth": "C13:40",
+    "description": "Vi vill inspirera dig med vårt breda urval av ostar, marmelader, chark, antipasti och kex. Välkommen att upptäcka en ny värld av fantastiska smaker tillsammans med oss!",
     "email": "info@engelmanns.se",
-    "city": "Stockholm",
+    "mobile_primary": "0841072840",
+    "domain": "https://engelmanns.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0841072840"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enjoy Wine & Spirits",
-    "domain": "enjoywine.se",
-    "description": "Vi är ett familjeföretag med rötterna i Italien och fötterna i hela världen. Portföljen består av småskaliga, hantverksmässiga vinmakare som samsas med mer etablerade och större producenter. I sortimentet finns även en växande skara av spritdrycker. Vårt fokus är hållbarhet i alla led. Om vi ska enas kring ett motto så blir det: att allt vi gör ska hålla högsta kvalitet och att våra drycker ska vara goda. Så enkelt kan och bör det vara.",
     "booth": "C13:30 & C15:30",
+    "description": "Vi är ett familjeföretag med rötterna i Italien och fötterna i hela världen. Portföljen består av småskaliga, hantverksmässiga vinmakare som samsas med mer etablerade och större producenter. I sortimentet finns även en växande skara av spritdrycker. Vårt fokus är hållbarhet i alla led. Om vi ska enas kring ett motto så blir det: att allt vi gör ska hålla högsta kvalitet och att våra drycker ska vara goda. Så enkelt kan och bör det vara.",
     "email": "info@enjoywine.se",
-    "city": "Stockholm",
+    "mobile_primary": "0046855694700",
+    "domain": "https://enjoywine.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0046855694700"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enskede chark & deli",
-    "domain": "enskededeli.se",
-    "description": "",
     "booth": "C10:30",
+    "description": "",
     "email": "hov@enskededeli.se",
-    "city": "Stockholm",
+    "mobile_primary": "08-120 590 59",
+    "domain": "https://enskededeli.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-120 590 59"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enskede Kök",
-    "domain": "enskededeli.se",
-    "description": "",
     "booth": "C07:51",
+    "description": "",
     "email": "hov@enskededeli.se",
-    "city": "Stockholm",
+    "mobile_primary": "08-120 590 59",
+    "domain": "https://enskededeli.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-120 590 59"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Expert Wine Naturvin",
-    "domain": "expertproducts.se",
-    "description": "",
     "booth": "C07:30",
+    "description": "",
     "email": "info@expertproducts.se",
-    "city": "Stockholm",
+    "mobile_primary": "0733113902",
+    "domain": "https://expertproducts.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0733113902"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Femtorp Vin",
-    "domain": "femtorp.se",
-    "description": "Femtorp erbjuder ett utvalt sortiment spanska kvalitetsviner via Systembolaget  Corpinnat, Priorat och Ribera del Duero från producenter som NADAL och Clos Galena. För restaurang och privatpersoner.",
     "booth": "C04:42",
+    "description": "Femtorp erbjuder ett utvalt sortiment spanska kvalitetsviner via Systembolaget  Corpinnat, Priorat och Ribera del Duero från producenter som NADAL och Clos Galena. För restaurang och privatpersoner.",
     "email": "info@femtorp.se",
-    "city": "Stockholm",
+    "mobile_primary": "040-949000",
+    "domain": "https://femtorp.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "040-949000"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fine Deli",
-    "domain": "manvsdrinks.com",
-    "description": "",
     "booth": "C12:50",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://manvsdrinks.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fintling Beverages",
-    "domain": "fintlingbev.com",
-    "description": "",
     "booth": "Övrig dryck",
+    "description": "",
     "email": "info@fintlingbev.com",
-    "city": "Stockholm",
+    "mobile_primary": "+46%2073%20626%2082%2023",
+    "domain": "https://fintlingbev.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46%2073%20626%2082%2023"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fred’s Food Truck",
-    "domain": "fredsfoodtruck.se",
-    "description": "Food truck catering i Stockholm för företag och privat. American street food från grunden – lunch, event och fest. Snabb återkoppling inom 24h. Skicka förfrågan.",
     "booth": "C17:50",
+    "description": "Food truck catering i Stockholm för företag och privat. American street food från grunden – lunch, event och fest. Snabb återkoppling inom 24h. Skicka förfrågan.",
     "email": "fredsfoodtruck@gmail.com",
-    "city": "Stockholm",
+    "mobile_primary": "070-3009263",
+    "domain": "https://fredsfoodtruck.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "070-3009263"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Friendship Rum",
-    "domain": "friendshiprum.se",
-    "description": "",
     "booth": "C04:50",
+    "description": "",
     "email": "info@hzbrands.se",
-    "city": "Stockholm",
+    "mobile_primary": "+4670288 05 35",
+    "domain": "https://friendshiprum.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+4670288 05 35"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fustin Olivolja",
-    "domain": "fustinolivolja.se",
-    "description": "",
     "booth": "C09:31",
+    "description": "",
     "email": "info@fustin.se",
-    "city": "Stockholm",
+    "mobile_primary": "46 76 7113085",
+    "domain": "https://fustinolivolja.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 76 7113085"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Föreningen Munskänkarna",
-    "domain": "munskankarna.se",
-    "description": "",
     "booth": "C03:51",
+    "description": "",
     "email": "kansli@munskankarna.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://munskankarna.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Galleri Anders",
-    "domain": "gallerianders.se",
-    "description": "",
     "booth": "C03:38",
+    "description": "",
     "email": "agngabrielsson@gmail.com",
-    "city": "Stockholm",
+    "mobile_primary": "46 70 566 71 71",
+    "domain": "https://gallerianders.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 70 566 71 71"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gamla Enskede Bryggeri",
-    "domain": "gamlaenskedebryggeri.se",
-    "description": "",
     "booth": "C09:48",
+    "description": "",
     "email": "info@gamlaenskedebryggeri.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://gamlaenskedebryggeri.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gardo & Morris",
-    "domain": "gardomorris.com",
-    "description": "Wine crafted in New Zealand, with a hint of Swedish elegance.",
     "booth": "C13:39",
+    "description": "Wine crafted in New Zealand, with a hint of Swedish elegance.",
     "email": "info@gardomorriswines.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://gardomorris.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gardshol Wines",
-    "domain": "gardsholwines.com",
-    "description": "Gardshol Wines fokus är att hitta viner från små och medelstora vinproducenter i Sydafrika och Europa som har fokus på att göra hantverksmässiga viner på ett hållbart sätt.",
     "booth": "C06:48",
+    "description": "Gardshol Wines fokus är att hitta viner från små och medelstora vinproducenter i Sydafrika och Europa som har fokus på att göra hantverksmässiga viner på ett hållbart sätt.",
     "email": "magnus@gardsholwines.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://gardsholwines.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Glupsk",
-    "domain": "glupsk.se",
-    "description": "Glupsk - Street food på skaldjur från Bohuslän",
     "booth": "C04:51",
+    "description": "Glupsk - Street food på skaldjur från Bohuslän",
     "email": "hello@glupsk.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://glupsk.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gotland Taste",
-    "domain": "gotland.com",
-    "description": "När sommaren klingar av och det vackra höstljuset lägger sig över ön dukar vi upp till det bästa som den gotländska hösten har att erbjuda.",
     "booth": "Mat & Deli",
+    "description": "När sommaren klingar av och det vackra höstljuset lägger sig över ön dukar vi upp till det bästa som den gotländska hösten har att erbjuda.",
     "email": "info@gotland.se",
-    "city": "Stockholm",
+    "mobile_primary": "0498-20 17 00",
+    "domain": "https://gotland.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0498-20 17 00"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Grapeskin Wines – Georgien",
-    "domain": "grapeskinwines.se",
-    "description": "Kontakta Grapeskin Wines på info@grapeskinwines.se eller på telefon 0702202115.",
     "booth": "C08:40",
+    "description": "Kontakta Grapeskin Wines på info@grapeskinwines.se eller på telefon 0702202115.",
     "email": "info@grapeskinwines.se",
-    "city": "Stockholm",
+    "mobile_primary": "0702202115",
+    "domain": "https://grapeskinwines.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0702202115"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Green Praline",
-    "domain": "greenpraline.se",
-    "description": "Välkommen till vårt veganska och glutenfria café och butik i Gamla Stan, Järntorgsgatan 5. Här tillverkar vi våra hantverks praliner, chokladprodukter, våra utsökta bakverk och våra egna teer. Vi gör vegansk MJUKGLASS och vanlig pinnglass och strutar.Vi har café med sittplatser både inomhus och utomhus. Njut av vårt veganska och glutenfria sortiment med gott samvete.…",
     "booth": "C02:28",
+    "description": "Välkommen till vårt veganska och glutenfria café och butik i Gamla Stan, Järntorgsgatan 5. Här tillverkar vi våra hantverks praliner, chokladprodukter, våra utsökta bakverk och våra egna teer. Vi gör vegansk MJUKGLASS och vanlig pinnglass och strutar.Vi har café med sittplatser både inomhus och utomhus. Njut av vårt veganska och glutenfria sortiment med gott samvete.…",
     "email": "kontakt@greenpraline.se",
-    "city": "Stockholm",
+    "mobile_primary": "0793404772",
+    "domain": "https://greenpraline.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0793404772"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gullfeldt & Co",
-    "domain": "guco.se",
-    "description": "UpptÃ¤ck handplockade italienska hantverksviner hos Gullfeldt & Co. Vi importerar unika viner frÃ¥n Franciacorta och andra regioner till Systembolagets bestÃ¤llningssortiment. Se vÃ¥rt sortiment och bestÃ¤ll online hÃ¤r!",
     "booth": "C05:48",
+    "description": "UpptÃ¤ck handplockade italienska hantverksviner hos Gullfeldt & Co. Vi importerar unika viner frÃ¥n Franciacorta och andra regioner till Systembolagets bestÃ¤llningssortiment. Se vÃ¥rt sortiment och bestÃ¤ll online hÃ¤r!",
     "email": "info@guco.se",
-    "city": "Stockholm",
+    "mobile_primary": "+46%20761%20400%20063",
+    "domain": "https://guco.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46%20761%20400%20063"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gånsviks Choklad",
-    "domain": "gansvikschoklad.se",
-    "description": "This is the homepage of the website",
     "booth": "C04:50",
+    "description": "This is the homepage of the website",
     "email": "info@gansvikschoklad.se",
-    "city": "Stockholm",
+    "mobile_primary": "0611-354360",
+    "domain": "https://gansvikschoklad.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0611-354360"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hantverksbryggeriet",
-    "domain": "hantverksbryggeriet.se",
-    "description": "",
     "booth": "C15:48",
+    "description": "",
     "email": "info@hantverksbryggeriet.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://hantverksbryggeriet.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Happy foodtruck",
-    "domain": "fjardhundraland.se",
-    "description": "",
     "booth": "C15:79",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://fjardhundraland.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "High Coast Wine",
-    "domain": "highcoastwine.se",
-    "description": "High Coast Wine",
     "booth": "C09:30",
+    "description": "High Coast Wine",
     "email": "info@highcoastwine.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://highcoastwine.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hyttvillan Interiör",
-    "domain": "hyttvillan.se",
-    "description": "Vi tillverkar snickerier och möbler du inte hittar i butikerna. Naturmaterial. Vi försöker se det du behöver för att få fram rätt resultat med tätt material.",
     "booth": "C03:42",
+    "description": "Vi tillverkar snickerier och möbler du inte hittar i butikerna. Naturmaterial. Vi försöker se det du behöver för att få fram rätt resultat med tätt material.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "559197-3069",
+    "domain": "https://hyttvillan.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "559197-3069"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Icha Bucha",
-    "domain": "icha.se",
-    "description": "Order raw, organic kombucha online. Fresh-pressed Swedish ingredients and live cultures. Free delivery in Stockholm on orders over 499 SEK.",
     "booth": "C03:40",
+    "description": "Order raw, organic kombucha online. Fresh-pressed Swedish ingredients and live cultures. Free delivery in Stockholm on orders over 499 SEK.",
     "email": "info@icha.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://icha.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "IQOS",
-    "domain": "iqos.se",
-    "description": "Upptäck de nya IQOS-enheterna från vårt sortiment av rökfria produkter, för vuxna användare som vill ha ett modernt alternativ. Läs mer och handla online idag.",
     "booth": "C07:20",
+    "description": "Upptäck de nya IQOS-enheterna från vårt sortiment av rökfria produkter, för vuxna användare som vill ha ett modernt alternativ. Läs mer och handla online idag.",
     "email": "contact.se@iqos.com",
-    "city": "Stockholm",
+    "mobile_primary": "020251010",
+    "domain": "https://iqos.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "020251010"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Irvin’s BBQ",
-    "domain": "irvinsbbq.se",
-    "description": "",
     "booth": "C15:71",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://irvinsbbq.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Italgotti",
-    "domain": "italgotti.se",
-    "description": "Italgotti är din lokala matleverantör av italienska delikatesser",
     "booth": "C10:21",
+    "description": "Italgotti är din lokala matleverantör av italienska delikatesser",
     "email": "info@italgotti.se",
-    "city": "Stockholm",
+    "mobile_primary": "46 (0)702 342 733",
+    "domain": "https://italgotti.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 (0)702 342 733"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Just Booch",
-    "domain": "justbooch.com",
-    "description": "Discover Just Booch organic hard kombucha. Low-sugar, gluten-free, and naturally fermented. Refreshing and a better option than beer. The new alternative to low-alcoholic beverages",
     "booth": "C06:41",
+    "description": "Discover Just Booch organic hard kombucha. Low-sugar, gluten-free, and naturally fermented. Refreshing and a better option than beer. The new alternative to low-alcoholic beverages",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://justbooch.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kalm Taste of Öland",
-    "domain": "kalmtaste.se",
-    "description": "Kalm Taste i Kastlösa på Öland skapar mathantverk med smak – örter, oljor, vinäger, socker, honung & sirap, odlade utan bekämpningsmedel eller tillsatser.",
     "booth": "C07:58",
+    "description": "Kalm Taste i Kastlösa på Öland skapar mathantverk med smak – örter, oljor, vinäger, socker, honung & sirap, odlade utan bekämpningsmedel eller tillsatser.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://kalmtaste.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Karoon Ris",
-    "domain": "karoon.se",
-    "description": "Karoon erbjuder högkvalitativt långkornigt basmatiris för alla dina matlagningsbehov. Naturligt gott, glutenfritt och med lågt GI.",
     "booth": "C06:34",
+    "description": "Karoon erbjuder högkvalitativt långkornigt basmatiris för alla dina matlagningsbehov. Naturligt gott, glutenfritt och med lågt GI.",
     "email": "info@karoon.se",
-    "city": "Stockholm",
+    "mobile_primary": "0317800200",
+    "domain": "https://karoon.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0317800200"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "KASHUBI",
-    "domain": "kashubi.com",
-    "description": "Organic herbs and flowers for smoking. Kashubi offers handcrafted blends of organic herbs and flowers to smoke, completely free from tobacco and nicotine.",
     "booth": "C05:20",
+    "description": "Organic herbs and flowers for smoking. Kashubi offers handcrafted blends of organic herbs and flowers to smoke, completely free from tobacco and nicotine.",
     "email": "hello@kashubi.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://kashubi.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Korveriet",
-    "domain": "forslovsocken.se",
-    "description": "",
     "booth": "C11:20",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://forslovsocken.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kosterhed Konditori",
-    "domain": "kosterhedskonditori.bagerikonditori.se",
-    "description": "",
     "booth": "C09:20",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://kosterhedskonditori.bagerikonditori.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "LA Organic",
-    "domain": "laorganic.se",
-    "description": "",
     "booth": "C08:49",
+    "description": "",
     "email": "%20jonas@cloudmarketing.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://laorganic.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "LANDALUZ",
-    "domain": "landaluz.es",
-    "description": "LANDALUZ, Asociación Empresarial Alimentos de Andalucía, es la entidad referente del sector agroalimentario de Andalucía.",
     "booth": "C05:61",
+    "description": "LANDALUZ, Asociación Empresarial Alimentos de Andalucía, es la entidad referente del sector agroalimentario de Andalucía.",
     "email": "info@landaluz.es",
-    "city": "Stockholm",
+    "mobile_primary": "0034954234849",
+    "domain": "https://landaluz.es",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0034954234849"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lapland Berries",
-    "domain": "laplandberries.se",
-    "description": "",
     "booth": "C02:38",
+    "description": "",
     "email": "info@laplandberries.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://laplandberries.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Laxtösen",
-    "domain": "kulturfestivalen.stockholm.se",
-    "description": "",
     "booth": "C16:31",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://kulturfestivalen.stockholm.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leila’s General Store",
-    "domain": "leilasgeneralstore.com",
-    "description": "Leila Lindholms (känd som Leila Bakar) fantastiska baktillbehör till bakningen och smarta köksredskap, vackra kalasdekorationer och partytillbehör.",
     "booth": "C06:31",
+    "description": "Leila Lindholms (känd som Leila Bakar) fantastiska baktillbehör till bakningen och smarta köksredskap, vackra kalasdekorationer och partytillbehör.",
     "email": "kundtjanst@leilasgeneralstore.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://leilasgeneralstore.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Liege Wine Sweden",
-    "domain": "",
-    "description": "",
     "booth": "C02:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lufttorkade delikatesser",
-    "domain": "hemgardenchark.se",
-    "description": "",
     "booth": "C02:30",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://hemgardenchark.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Löddrig Häst",
-    "domain": "loddrighast.com",
-    "description": "",
     "booth": "Mat & Deli",
+    "description": "",
     "email": "linus.lonnroth@loddrighast.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://loddrighast.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "L’épicerie fine",
-    "domain": "lepiceriefine.se",
-    "description": "Lepiceriefine.se Vare sig du vill bjuda på något gott inför en hemmakväll, ge bort en gåva, eller njuta för dig själv har vi de godaste och mest berömda delikatesserna från Frankrike och Europa. Ostar så som Gruyere, Parmesan mm. lufttorkade korvar, oliver och mycket annat. Välkommen till Lepiceriefine!",
     "booth": "C03:31",
+    "description": "Lepiceriefine.se Vare sig du vill bjuda på något gott inför en hemmakväll, ge bort en gåva, eller njuta för dig själv har vi de godaste och mest berömda delikatesserna från Frankrike och Europa. Ostar så som Gruyere, Parmesan mm. lufttorkade korvar, oliver och mycket annat. Välkommen till Lepiceriefine!",
     "email": "Campagnedefrance@gmail.com",
-    "city": "Stockholm",
+    "mobile_primary": "070-5755133",
+    "domain": "https://lepiceriefine.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "070-5755133"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mackverket",
-    "domain": "mackverket.se",
-    "description": "Matiga surdegsmackor i Stockholm. Besök våra restauranger, food trucks eller boka catering för lunch, middag, event och företag.",
     "booth": "C16:50",
+    "description": "Matiga surdegsmackor i Stockholm. Besök våra restauranger, food trucks eller boka catering för lunch, middag, event och företag.",
     "email": "jobb@mackverket.se",
-    "city": "Stockholm",
+    "mobile_primary": "+076-025%2040%2044",
+    "domain": "https://mackverket.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+076-025%2040%2044"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Maggmma Beans",
-    "domain": "joinmaggmma.se",
-    "description": "Another boring coffee roastery. Roasted in beautifully uneventful Västerås. We treat each coffee origin different, and our roasting philosophy it's diffferent for each lot, but there's one thing in common, we will always deliver bangers.",
     "booth": "C13:58",
+    "description": "Another boring coffee roastery. Roasted in beautifully uneventful Västerås. We treat each coffee origin different, and our roasting philosophy it's diffferent for each lot, but there's one thing in common, we will always deliver bangers.",
     "email": "wholebeans@joinmaggmma.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://joinmaggmma.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "MAISON LOMBARD",
-    "domain": "en.planetofhotels.com",
-    "description": "",
     "booth": "C07:46",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://en.planetofhotels.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mat & Dryck från Jämtland",
-    "domain": "hushallningssallskapet.se",
-    "description": "Vi ger Bidragsrådgivning för jordbrukare i Jämtland – Hushållningssällskapet Jämtland. Få hjälp att hitta och söka de stöd som passar just ditt lantbruk.",
     "booth": "C07:49",
+    "description": "Vi ger Bidragsrådgivning för jordbrukare i Jämtland – Hushållningssällskapet Jämtland. Få hjälp att hitta och söka de stöd som passar just ditt lantbruk.",
     "email": "hush.z@hushallningssallskapet.se",
-    "city": "Stockholm",
+    "mobile_primary": "063-15 52 00",
+    "domain": "https://hushallningssallskapet.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "063-15 52 00"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "MatLust Utvecklingsnod",
-    "domain": "matlust.eu",
-    "description": "",
     "booth": "Övrig dryck",
+    "description": "",
     "email": "matlust@sodertalje.se",
-    "city": "Stockholm",
+    "mobile_primary": "08-523 048 05",
+    "domain": "https://matlust.eu",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-523 048 05"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Millbrooks World Wine & Spirits",
-    "domain": "mbwines.se",
-    "description": "",
     "booth": "Övrig dryck",
+    "description": "",
     "email": "drink@mbwines.se",
-    "city": "Stockholm",
+    "mobile_primary": "0123456789;",
+    "domain": "https://mbwines.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0123456789;"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mormors Pastabageri",
-    "domain": "mormorspasta.se",
-    "description": "Frukost",
     "booth": "C03:30",
+    "description": "Frukost",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "46 08-518 000 05",
+    "domain": "https://mormorspasta.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 08-518 000 05"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "MrMango",
-    "domain": "mrmangostreetfood.com",
-    "description": "[object Object]",
     "booth": "C15:48",
+    "description": "[object Object]",
     "email": "HEJ@MRMANGOSTREETFOOD.COM",
-    "city": "Stockholm",
+    "mobile_primary": "021330100",
+    "domain": "https://mrmangostreetfood.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "021330100"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mässrestauranger",
-    "domain": "massrestauranger.se",
-    "description": "Vi skapar mat och dryck för alla tillfällen, små som stora. Vår filosofi bygger på svenska smaker och hållbara råvaror. Med omsorg om både smaker och …",
     "booth": "C17:69",
+    "description": "Vi skapar mat och dryck för alla tillfällen, små som stora. Vår filosofi bygger på svenska smaker och hållbara råvaror. Med omsorg om både smaker och …",
     "email": "info@massrestauranger.se",
-    "city": "Stockholm",
+    "mobile_primary": "087277200",
+    "domain": "https://massrestauranger.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "087277200"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mässrestauranger Foodtruck",
-    "domain": "massrestauranger.se",
-    "description": "Vi skapar mat och dryck för alla tillfällen, små som stora. Vår filosofi bygger på svenska smaker och hållbara råvaror. Med omsorg om både smaker och …",
     "booth": "C17:61",
+    "description": "Vi skapar mat och dryck för alla tillfällen, små som stora. Vår filosofi bygger på svenska smaker och hållbara råvaror. Med omsorg om både smaker och …",
     "email": "info@massrestauranger.se",
-    "city": "Stockholm",
+    "mobile_primary": "087277200",
+    "domain": "https://massrestauranger.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "087277200"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mörsjö Deli",
-    "domain": "morsjo.se",
-    "description": "",
     "booth": "C09:39",
+    "description": "",
     "email": "info@morsjo.se",
-    "city": "Stockholm",
+    "mobile_primary": "46 63 10 12 60",
+    "domain": "https://morsjo.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 63 10 12 60"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nalta Norrland",
-    "domain": "expofinder.com",
-    "description": "",
     "booth": "C06:30",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://expofinder.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "New Nordic Beverage",
-    "domain": "idunnwine.se",
-    "description": "Utforska allt om vinets värld. Lär dig om olika druvsorter, vinregioner och hur du matchar vin med mat. Perfekt för nybörjare och vinälskare!",
     "booth": "C04:49",
+    "description": "Utforska allt om vinets värld. Lär dig om olika druvsorter, vinregioner och hur du matchar vin med mat. Perfekt för nybörjare och vinälskare!",
     "email": "webmaster@idunnwine.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://idunnwine.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nigab",
-    "domain": "nigab.se",
-    "description": "",
     "booth": "C11:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://nigab.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Norrlands Kombucha",
-    "domain": "norrlandskombucha.se",
-    "description": "",
     "booth": "C06:30",
+    "description": "",
     "email": "info@norrlandskombucha.se",
-    "city": "Stockholm",
+    "mobile_primary": "07%2033%20144%20009",
+    "domain": "https://norrlandskombucha.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "07%2033%20144%20009"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "North Parade",
-    "domain": "northparade.se",
-    "description": "",
     "booth": "C09:51",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://northparade.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Northern Chili",
-    "domain": "northernchili.se",
-    "description": "Chilisåser, chilimarmelader, inläggningar, kakor & sötsaker med chili produceras hantverksmässigt i begränsad upplaga med smakerna & råvarorna i fokus. Vi odlar själva, köper lokalproducerat & svenskt i första hand & gärna ekologiskt. Företaget finns i Umeå, Västerbotten & drivs av en kvinnlig företagare.",
     "booth": "C06:30",
+    "description": "Chilisåser, chilimarmelader, inläggningar, kakor & sötsaker med chili produceras hantverksmässigt i begränsad upplaga med smakerna & råvarorna i fokus. Vi odlar själva, köper lokalproducerat & svenskt i första hand & gärna ekologiskt. Företaget finns i Umeå, Västerbotten & drivs av en kvinnlig företagare.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://northernchili.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Olivgården & Co",
-    "domain": "olivgården.se",
-    "description": "Noggrant utvalda oliver från Grekland och Italien, marinerade med våra egna recept och mycket kärlek.",
     "booth": "C05:50",
+    "description": "Noggrant utvalda oliver från Grekland och Italien, marinerade med våra egna recept och mycket kärlek.",
     "email": "ap@olivgarden-co.se",
-    "city": "Stockholm",
+    "mobile_primary": "0769162768",
+    "domain": "https://olivgården.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0769162768"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Olja & Oliv",
-    "domain": "olja-oliv.se",
-    "description": "",
     "booth": "C09:50",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://olja-oliv.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ost & Delibaren",
-    "domain": "odbaren.se",
-    "description": "",
     "booth": "C09:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://odbaren.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Papa Piada",
-    "domain": "papapiada.se",
-    "description": "",
     "booth": "C12:79",
+    "description": "",
     "email": "info@papapiada.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://papapiada.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pernod Richard",
-    "domain": "pernod-ricard-sweden.com",
-    "description": "För grossister, leverantörer och kunder. Här hittar du kontaktuppgifter till våra säljare och kontor.",
     "booth": "C10:50",
+    "description": "För grossister, leverantörer och kunder. Här hittar du kontaktuppgifter till våra säljare och kontor.",
     "email": "jennifer.brun@pernod-ricard.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://pernod-ricard-sweden.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Planteray Rum",
-    "domain": "planterayrum.com",
-    "description": "Celebrate the great terroirs of rum with Planteray RumPlanteray : the great terroirs of rum. Explore our diverse range of exceptional rums, crafted from our unique terroirs and heritage expertise.",
     "booth": "C11:60",
+    "description": "Celebrate the great terroirs of rum with Planteray RumPlanteray : the great terroirs of rum. Explore our diverse range of exceptional rums, crafted from our unique terroirs and heritage expertise.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://planterayrum.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "PralinHuset – Choklad Nötter & Lakrits",
-    "domain": "pralinhuset.se",
-    "description": "Högkvalitativ chokladkakor, praliner, presenter och gåvor för alla tillfällen. Besök vår webbplats i dag.",
     "booth": "C04:40",
+    "description": "Högkvalitativ chokladkakor, praliner, presenter och gåvor för alla tillfällen. Besök vår webbplats i dag.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "08-31 59 30",
+    "domain": "https://pralinhuset.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-31 59 30"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Prodani Vin",
-    "domain": "prodani.com",
-    "description": "Svensk distributÃ¶r av produkter inom sport, nÃ¶je och hÃ¤lsa, med en hel del frÃ¥n Spanska marknaden",
     "booth": "C14:30",
+    "description": "Svensk distributÃ¶r av produkter inom sport, nÃ¶je och hÃ¤lsa, med en hel del frÃ¥n Spanska marknaden",
     "email": "prokontakt@prodani.com",
-    "city": "Stockholm",
+    "mobile_primary": "+46%2070%20311%2076%2036",
+    "domain": "https://prodani.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46%2070%20311%2076%2036"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Prosecco Sweden",
-    "domain": "proseccosweden.se",
-    "description": "Utforska den rika smaken av högkvalitativ 🍾 Prosecco. Upplev unika bubbelprovningar & lär dig mer om DOCG & Cartizze kvalitet. Besök oss! →",
     "booth": "C08:48",
+    "description": "Utforska den rika smaken av högkvalitativ 🍾 Prosecco. Upplev unika bubbelprovningar & lär dig mer om DOCG & Cartizze kvalitet. Besök oss! →",
     "email": "christian@proseccosweden.se",
-    "city": "Stockholm",
+    "mobile_primary": "070%20-%20846%2016%2049",
+    "domain": "https://proseccosweden.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "070%20-%20846%2016%2049"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "PuNS",
-    "domain": "puns.dk",
-    "description": "PUNS.dk forhandler Ultra - varm øl med flødeskum, økologisk gin, genever, likører og belgiske specialiteter. Kvalitet, håndværk og smag i fokus. Webshop med eksklusive produkter.",
     "booth": "C10:49",
+    "description": "PUNS.dk forhandler Ultra - varm øl med flødeskum, økologisk gin, genever, likører og belgiske specialiteter. Kvalitet, håndværk og smag i fokus. Webshop med eksklusive produkter.",
     "email": "steffen@puns.dk",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://puns.dk",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Reco Exports -Grekisk Paviljong",
-    "domain": "seve.gr",
-    "description": "",
     "booth": "Mat & Deli",
+    "description": "",
     "email": "info@reco-exports.gr",
-    "city": "Stockholm",
+    "mobile_primary": "231 231 5310",
+    "domain": "https://seve.gr",
     "full_address": "1 Morihovou Square P.C. 546 25, THESSALONIKI",
-    "mobile_primary": "231 231 5310"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ridente Vinimport",
-    "domain": "ridente.se",
-    "description": "Välkommen till Ridente Vinimport en liten importör i norra Sverige som fokuserar på små till medelstora producenter i Europa.",
     "booth": "C06:44",
+    "description": "Välkommen till Ridente Vinimport en liten importör i norra Sverige som fokuserar på små till medelstora producenter i Europa.",
     "email": "Johannes.karlsson@ridente.se",
-    "city": "Stockholm",
+    "mobile_primary": "076-827 76 85",
+    "domain": "https://ridente.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "076-827 76 85"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rolfs Flyg & Buss",
-    "domain": "rolfsbuss.se",
-    "description": "Rolfs Flyg & Bussresor - Sveriges största gruppresearrangör. Över 450 resmål till hela världen på 3 500 avgångar.",
     "booth": "C10:58",
+    "description": "Rolfs Flyg & Bussresor - Sveriges största gruppresearrangör. Över 450 resmål till hela världen på 3 500 avgångar.",
     "email": "info@rolfsbuss.se",
-    "city": "Stockholm",
+    "mobile_primary": "0771-150000",
+    "domain": "https://rolfsbuss.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0771-150000"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Råhygge",
-    "domain": "rahygge.com",
-    "description": "For people who love coffee with less acidity and no jitters. We offer a low-acid mushroom coffee that combines craft roasted organic coffee with organic fungi extract. Our extract is double extracted for higher nutritional value — a more conscious, healthy, happy, and “hygge” way to drink your favorite drinks.",
     "booth": "C08:50",
+    "description": "For people who love coffee with less acidity and no jitters. We offer a low-acid mushroom coffee that combines craft roasted organic coffee with organic fungi extract. Our extract is double extracted for higher nutritional value — a more conscious, healthy, happy, and “hygge” way to drink your favorite drinks.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://rahygge.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sabalan",
-    "domain": "pmc.ncbi.nlm.nih.gov",
-    "description": "",
     "booth": "C13:60",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://pmc.ncbi.nlm.nih.gov",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Saltsmak",
-    "domain": "saltsmak.se",
-    "description": "",
     "booth": "C08:61",
+    "description": "",
     "email": "fredrik@saltsmak.se",
-    "city": "Stockholm",
+    "mobile_primary": "25 453 50",
+    "domain": "https://saltsmak.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "25 453 50"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Saturnus",
-    "domain": "saturnus.se",
-    "description": "Saturnus grundades år 1893 på Stortorget i Malmö. I portföljen hittar du en bredd av drycker, med allt från glögg till snaps och Prosecco. Saturnus är Sveriges äldsta och största glöggproducent. Vi är även den största producenten av kryddat brännvin i Sverige och vi använder oss i möjligaste mån av lokalt odlade råvaror.",
     "booth": "Destillat",
+    "description": "Saturnus grundades år 1893 på Stortorget i Malmö. I portföljen hittar du en bredd av drycker, med allt från glögg till snaps och Prosecco. Saturnus är Sveriges äldsta och största glöggproducent. Vi är även den största producenten av kryddat brännvin i Sverige och vi använder oss i möjligaste mån av lokalt odlade råvaror.",
     "email": "info@saturnus.se",
-    "city": "Stockholm",
+    "mobile_primary": "+46406711900",
+    "domain": "https://saturnus.se",
     "full_address": "Saturnus AB Bronsyxegatan 11 213 75 Malmö Telefon: +46 40 671 19 00 info@saturnus.se",
-    "mobile_primary": "+46406711900"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Seawine & Event",
-    "domain": "seawineevent.se",
-    "description": "Viner vinprovningar.",
     "booth": "C04:45",
+    "description": "Viner vinprovningar.",
     "email": "info@seawineevent.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://seawineevent.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Seems Like New Spirits",
-    "domain": "seemslikenewspirits.se",
-    "description": "",
     "booth": "C05:45",
+    "description": "",
     "email": "johan@seemslikenewspirits.se",
-    "city": "Stockholm",
+    "mobile_primary": "073-506 31 47",
+    "domain": "https://seemslikenewspirits.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "073-506 31 47"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Solivez",
-    "domain": "solivez.se",
-    "description": "Single-origin extra virgin olivolja från Jaén i södra Spanien. Kallpressad, aldrig blandad, i en PET flaska. Straight-up goodness.",
     "booth": "C03:40",
+    "description": "Single-origin extra virgin olivolja från Jaén i södra Spanien. Kallpressad, aldrig blandad, i en PET flaska. Straight-up goodness.",
     "email": "hello@solivez.se",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://solivez.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spivi",
-    "domain": "spivi.se",
-    "description": "",
     "booth": "Övrig dryck",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://spivi.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stockholms Bränneri",
-    "domain": "stockholmsbranneri.com",
-    "description": "",
     "booth": "C12:58",
+    "description": "",
     "email": "hello@stockholmsbranneri.com",
-    "city": "Stockholm",
+    "mobile_primary": "08-121-115-02",
+    "domain": "https://stockholmsbranneri.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-121-115-02"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Svenska Lantchips",
-    "domain": "lantchips.se",
-    "description": "Naturliga, smakrika och småskaligt tillverkade chips.",
     "booth": "C07:31",
+    "description": "Naturliga, smakrika och småskaligt tillverkade chips.",
     "email": "info@lantchips.se",
-    "city": "Stockholm",
+    "mobile_primary": "08-88 00 59",
+    "domain": "https://lantchips.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08-88 00 59"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Svenska Sprit",
-    "domain": "svenskasprit.se",
-    "description": "SKÅL! AB SVENSKA SPRIT ANTI EVERYTHING SPECIAL etiketter AB Svenska Sprit tillverkar hantverksmässig sprit med fokus på kvalitet, naturliga råvaror och svensk tradition. Sortimentet omfattar allt från klassiska spritsorter till unika, innovativa smaker. AB SVENSKA SPRIT. AB Svenska Sprit tillverkar hantverksmässig sprit med fokus på kvalitet, naturliga råvaror och svensk tradition. Sortimentet omfattar allt från",
     "booth": "C08:51",
+    "description": "SKÅL! AB SVENSKA SPRIT ANTI EVERYTHING SPECIAL etiketter AB Svenska Sprit tillverkar hantverksmässig sprit med fokus på kvalitet, naturliga råvaror och svensk tradition. Sortimentet omfattar allt från klassiska spritsorter till unika, innovativa smaker. AB SVENSKA SPRIT. AB Svenska Sprit tillverkar hantverksmässig sprit med fokus på kvalitet, naturliga råvaror och svensk tradition. Sortimentet omfattar allt från",
     "email": "hej@svenskasprit.se",
-    "city": "Stockholm",
+    "mobile_primary": "415-509-6998",
+    "domain": "https://svenskasprit.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "415-509-6998"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Teddys Sibyllegatan",
-    "domain": "teddyssibyllegatan.se",
-    "description": "Välkommen till Teddys Sibyllegatan. Kom på lunch, middag eller för ett glas vin och passa på att köpa med dig goda råvaror hem från vår deli. Boka bord idag!",
     "booth": "C05:42",
+    "description": "Välkommen till Teddys Sibyllegatan. Kom på lunch, middag eller för ett glas vin och passa på att köpa med dig goda råvaror hem från vår deli. Boka bord idag!",
     "email": "catering@teddyssibyllegatan.se",
-    "city": "Stockholm",
+    "mobile_primary": "0737681995",
+    "domain": "https://teddyssibyllegatan.se",
     "full_address": "Sibyllegatan 43 114 42 Östermalm Stockholm",
-    "mobile_primary": "0737681995"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Testamenty Winery",
-    "domain": "testament-winery.com",
-    "description": "Dalmacija i Å ibenik s okolicom puni su prirodnih ljepota koje oduzimaju dah, poput brojnih i slikovitih vinograda koji krase osunÄane obronke. Vino se ovdje radi veÄ dvije tisuÄe godina, o Äemu svjedoÄe testamenti iz davnih vremena, neki Äak i iz doba starog Rima.",
     "booth": "C09:31",
+    "description": "Dalmacija i Å ibenik s okolicom puni su prirodnih ljepota koje oduzimaju dah, poput brojnih i slikovitih vinograda koji krase osunÄane obronke. Vino se ovdje radi veÄ dvije tisuÄe godina, o Äemu svjedoÄe testamenti iz davnih vremena, neki Äak i iz doba starog Rima.",
     "email": "fas1.pierre@gmail.com",
-    "city": "Stockholm",
+    "mobile_primary": "00385989212889",
+    "domain": "https://testament-winery.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "00385989212889"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Pepper Quest",
-    "domain": "thepepperquest.com",
-    "description": "Upptäck världens mest unika och smakrika kryddor. Handplockade, soltorkade och noggrant sorterade av odlare vi känner och litar på. Högsta kvalitet och ursprung i fokus – för smak som gör skillnad i varje rätt. Välkommen till The Pepper Quest.",
     "booth": "C03:48",
+    "description": "Upptäck världens mest unika och smakrika kryddor. Handplockade, soltorkade och noggrant sorterade av odlare vi känner och litar på. Högsta kvalitet och ursprung i fokus – för smak som gör skillnad i varje rätt. Välkommen till The Pepper Quest.",
     "email": "hello@thepepperquest.com",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://thepepperquest.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tomp Beer & Spirits",
-    "domain": "tomp.se",
-    "description": "TOMP Beer, Wine & Spirits importerar öl, cider, vin & sprit i Sverige. Vi levererar till Systembolaget, restauranger, hotell & grossister.",
     "booth": "Destillat",
+    "description": "TOMP Beer, Wine & Spirits importerar öl, cider, vin & sprit i Sverige. Vi levererar till Systembolaget, restauranger, hotell & grossister.",
     "email": "order@tomp.se",
-    "city": "Stockholm",
+    "mobile_primary": "//+46196114880",
+    "domain": "https://tomp.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "//+46196114880"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tullamore Dew",
-    "domain": "nigab.se",
-    "description": "",
     "booth": "C11:40",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://nigab.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Uncorked Wines",
-    "domain": "uncorkedwines.se",
-    "description": "Med näsa för goda viner. Goda grannar som upptäckte ett gemensamt intresse för mat och dryck och som nu förverkligar en dröm.",
     "booth": "C09:31",
+    "description": "Med näsa för goda viner. Goda grannar som upptäckte ett gemensamt intresse för mat och dryck och som nu förverkligar en dröm.",
     "email": "info@uncorkedwines.se",
-    "city": "Stockholm",
+    "mobile_primary": "46 722 33 58 87",
+    "domain": "https://uncorkedwines.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "46 722 33 58 87"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Under Current",
-    "domain": "undercurrentdrinks.se",
-    "description": "",
     "booth": "C03:48",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://undercurrentdrinks.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "VaniljOnline",
-    "domain": "vaniljonline.se",
-    "description": "Vi brinner för äkta råvaror och hög kvalitet – och vi är stolta över att få förmedla en liten bit av Madagaskar till svenska kök.",
     "booth": "C05:28",
+    "description": "Vi brinner för äkta råvaror och hög kvalitet – och vi är stolta över att få förmedla en liten bit av Madagaskar till svenska kök.",
     "email": "info@vaniljonline.se",
-    "city": "Stockholm",
+    "mobile_primary": "+46700605342",
+    "domain": "https://vaniljonline.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "+46700605342"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Viltverket",
-    "domain": "viltverket.se",
-    "description": "",
     "booth": "C03:20",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://viltverket.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vinarkivet",
-    "domain": "vinarkivet.com",
-    "description": "Vinarkivet är en vinimportör i Göteborg som importerar hantverksmässiga italienska viner direkt från familjeproducenter i Italien till restauranger och vinälskare.",
     "booth": "C13:50",
+    "description": "Vinarkivet är en vinimportör i Göteborg som importerar hantverksmässiga italienska viner direkt från familjeproducenter i Italien till restauranger och vinälskare.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://vinarkivet.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vinaromi",
-    "domain": "svenskadryckesmassor.se",
-    "description": "",
     "booth": "C07:48",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://svenskadryckesmassor.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vingården Bacina",
-    "domain": "smakaochnjut.se",
-    "description": "",
     "booth": "C13:25",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://smakaochnjut.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vinkällan Dryckesutbildningar",
-    "domain": "vinkallan.se",
-    "description": "Vill du bli diplomerad sommelier? Vinkällan Dryckesutbildningar erbjuder utbildning i bla Stockholm, Göteborg, Malmö. Anmäl dig nu och boosta din karriär inom dryckesindustrin. Vi erbjuder även digitala utbildningar, från grundkurs till mer avance...",
     "booth": "C02:50",
+    "description": "Vill du bli diplomerad sommelier? Vinkällan Dryckesutbildningar erbjuder utbildning i bla Stockholm, Göteborg, Malmö. Anmäl dig nu och boosta din karriär inom dryckesindustrin. Vi erbjuder även digitala utbildningar, från grundkurs till mer avance...",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://vinkallan.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vägga Rökeri",
-    "domain": "vaggarokeri.se",
-    "description": "Vägga Rökeri levererar lax och andra fiskprodukter till grossister, restauranger och butiker. Vi är EU-anpassade och har en egen tillverkning.",
     "booth": "C02:59",
+    "description": "Vägga Rökeri levererar lax och andra fiskprodukter till grossister, restauranger och butiker. Vi är EU-anpassade och har en egen tillverkning.",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "0454-19007",
+    "domain": "https://vaggarokeri.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0454-19007"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Washington Wines",
-    "domain": "thewinehub.se",
-    "description": "Vinutbildning på The Wine Hub. Sommelierutbildning, WSET och vinkurser med ledande vinutbildare i Stockholm, Göteborg och Malmö.",
     "booth": "C13:38",
+    "description": "Vinutbildning på The Wine Hub. Sommelierutbildning, WSET och vinkurser med ledande vinutbildare i Stockholm, Göteborg och Malmö.",
     "email": "hello@thewinehub.se",
-    "city": "Stockholm",
+    "mobile_primary": "08 867 161",
+    "domain": "https://thewinehub.se",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "08 867 161"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Werners Gourmetservice",
-    "domain": "wgs.se",
-    "description": "Werners Gourmetservice",
     "booth": "C12:40",
+    "description": "Werners Gourmetservice",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "0511-177 99",
+    "domain": "https://wgs.se",
     "full_address": "Werners Gourmetservice huvudkontor Kämpagatan 3 532 37 Skara",
-    "mobile_primary": "0511-177 99"
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wines & CO",
-    "domain": "winesandco.eu",
-    "description": "",
     "booth": "C13:31",
+    "description": "",
     "email": "",
-    "city": "Stockholm",
+    "mobile_primary": "",
+    "domain": "https://winesandco.eu",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": ""
+    "city": "Stockholm",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zigges BBQ",
-    "domain": "ziggesbbq.com",
-    "description": "Hantverkskryddor utan tillsatser, glutenfria, laktosfria & veganska",
     "booth": "C07:38",
+    "description": "Hantverkskryddor utan tillsatser, glutenfria, laktosfria & veganska",
     "email": "info@ziggesbbq.com.com",
-    "city": "Stockholm",
+    "mobile_primary": "0703816140",
+    "domain": "https://ziggesbbq.com",
     "full_address": "Stockholm, Stockholm County, Sweden",
-    "mobile_primary": "0703816140"
+    "city": "Stockholm",
+    "linkedin_url": ""
   }
 ]

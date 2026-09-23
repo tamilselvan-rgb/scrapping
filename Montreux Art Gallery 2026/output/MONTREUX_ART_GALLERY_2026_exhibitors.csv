@@ -1,11 +1,11 @@
-﻿company_name,domain,description,booth,email,city,full_address,mobile_primary
-Art &t Design Galerie,,,,,,,
-Artiloft,artiloft.ch,,,info@artiloft.ch,CH,"8 Chemin de Montelly, 1007, Lausanne, VD, CH",0788348154
-EXPO 101,expo101.ch,,,,,,+41 27 456 49 62
-Galerie De Burier,galeriedeburier.com,,,,,,+41 (0)79 310 58 58
-Galerie Prestige,,,,,,,
-GGGallery,gggallery.ch,,,info@gggallery.ch,,,079 212 41 80
-HAPP ART,fernandgreco.weebly.com,,,,,,
-Pizza Tequilla & Chocolate,elegance-eternelle.ch,,,,,,
-Sevent.Art,sevent.art,,,imagine@sevent.art,,,
-W-ARTS,w-arts.ch,,,,,,079 789 06 72
+﻿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+Art &t Design Galerie,,,,,,,,
+Artiloft,,,info@artiloft.ch,0788348154,https://artiloft.ch,"8 Chemin de Montelly, 1007, Lausanne, VD, CH",CH,
+EXPO 101,,,,+41 27 456 49 62,https://expo101.ch,,,
+Galerie De Burier,,,,+41 (0)79 310 58 58,https://galeriedeburier.com,,,
+Galerie Prestige,,,,,,,,
+GGGallery,,,info@gggallery.ch,079 212 41 80,https://gggallery.ch,,,
+HAPP ART,,,,,https://fernandgreco.weebly.com,,,
+Pizza Tequilla & Chocolate,,,,,https://elegance-eternelle.ch,,,
+Sevent.Art,,,imagine@sevent.art,,https://sevent.art,,,
+W-ARTS,,,,079 789 06 72,https://w-arts.ch,,,

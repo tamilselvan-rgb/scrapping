@@ -1,1172 +1,1289 @@
 [
   {
     "company_name": "A. W. Faber-Castell Austria GmbH",
-    "domain": "faber-castell.at",
-    "description": "Brands and description: Faber-Castell. Product areas: LE",
     "booth": "",
+    "description": "Brands and description: Faber-Castell. Product areas: LE",
     "email": "info@faber-castell.de",
-    "city": "",
+    "mobile_primary": "+49 (0) 911 9965-0",
+    "domain": "https://faber-castell.at",
     "full_address": "",
-    "mobile_primary": "+49 (0) 911 9965-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "AiKita - Kindergartenpädagogik. Smart gedacht",
-    "domain": "aikita.at",
-    "description": "AiKita",
     "booth": "",
+    "description": "AiKita",
     "email": "office@aikita.at",
-    "city": "",
+    "mobile_primary": "09.21.1840",
+    "domain": "https://aikita.at",
     "full_address": "",
-    "mobile_primary": "09.21.1840"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ASTRUP Group",
-    "domain": "astrupgroup.com",
-    "description": "by Astrup Group, Mamamemo",
     "booth": "",
+    "description": "by Astrup Group, Mamamemo",
     "email": "contact@astrupgroup.com",
-    "city": "",
+    "mobile_primary": "+45 97371020",
+    "domain": "https://astrupgroup.com",
     "full_address": "",
-    "mobile_primary": "+45 97371020"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aurednik GmbH",
-    "domain": "aurednik.de",
-    "description": "Brands and description: Möbel - Firma Ehring. Product areas: BI, EI",
     "booth": "",
+    "description": "Brands and description: Möbel - Firma Ehring. Product areas: BI, EI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aurednik.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "AWS - Arbeitsgemeinschaft Wirtschaft und Schule",
-    "domain": "aws.ibw.at",
-    "description": "BI, ME",
     "booth": "",
+    "description": "BI, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aws.ibw.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Benediktinerstift Kremsmünster",
-    "domain": "stift-kremsmuenster.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 (0) 75 83 52 75-0",
+    "domain": "https://stift-kremsmuenster.at",
     "full_address": "",
-    "mobile_primary": "+43 (0) 75 83 52 75-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beratungsstelle Legasthenie & Dyskalkulie; Akademie Mototherapie",
-    "domain": "legasthenie-gewusst-wie.at",
-    "description": "BI, IN",
     "booth": "",
+    "description": "BI, IN",
     "email": "legasthenie@gmx.eu",
-    "city": "",
+    "mobile_primary": "0660 / 34 55 006",
+    "domain": "https://legasthenie-gewusst-wie.at",
     "full_address": "",
-    "mobile_primary": "0660 / 34 55 006"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bewegte Schule Österreich",
-    "domain": "bewegteschule.at",
-    "description": "Brands and description: Sport Thieme, Ergomöbel Leitner. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: Sport Thieme, Ergomöbel Leitner. Product areas: BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bewegteschule.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "bildung4alle",
-    "domain": "bildung4alle.at",
-    "description": "BI, ME",
     "booth": "",
+    "description": "BI, ME",
     "email": "info@bildung4alle.at",
-    "city": "",
+    "mobile_primary": "+43 676 56 16 767",
+    "domain": "https://bildung4alle.at",
     "full_address": "",
-    "mobile_primary": "+43 676 56 16 767"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bildungsdirektion für Oberösterreich",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BIO AUSTRIA",
-    "domain": "bio-austria.at",
-    "description": "Brands and description: BIO AUSTRIA. Product areas: BI, FI",
     "booth": "",
+    "description": "Brands and description: BIO AUSTRIA. Product areas: BI, FI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bio-austria.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "bit media education solutions GmbH",
-    "domain": "bitmedia.at",
-    "description": "Brands and description: SOKRATES; Schulanmeldung, Schulverwaltung, Digitales Kassenbuch. Product areas: BI, KI",
     "booth": "",
+    "description": "Brands and description: SOKRATES; Schulanmeldung, Schulverwaltung, Digitales Kassenbuch. Product areas: BI, KI",
     "email": "office@bitmedia.at",
-    "city": "",
+    "mobile_primary": "+43 (0) 316 / 28 66 60",
+    "domain": "https://bitmedia.at",
     "full_address": "",
-    "mobile_primary": "+43 (0) 316 / 28 66 60"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "boesner Künstlerbedarf",
-    "domain": "boesner.at",
-    "description": "KI, ME",
     "booth": "",
+    "description": "KI, ME",
     "email": "marketing@boesner.at",
-    "city": "",
+    "mobile_primary": "+43 1 769 73 76 - 310",
+    "domain": "https://boesner.at",
     "full_address": "",
-    "mobile_primary": "+43 1 769 73 76 - 310"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BOGUEN",
-    "domain": "aonecre.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aonecre.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brain Gym Österreich",
-    "domain": "braingym-oesterreich.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://braingym-oesterreich.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium f. Arbeit, Soziales, Gesundheit, Pflege u. Konsumentenschutz (BMASGPK)",
-    "domain": "bfw.gv.at",
-    "description": "IN, ME",
     "booth": "",
+    "description": "IN, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bfw.gv.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Bildung",
-    "domain": "bmb.gv.at",
-    "description": "Brands and description: Bundesministerium für Bildung Projekte: • Geräteinitiative \"Digitales Lernen\" • Denken lernen, Probleme lösen mit digi.case • Edutube • Bildung für nachhaltige Entwicklung • Politische Bildung und Demokratiebildung • Verkehrs- und Mobilitätsbildung • MINT • Bundesschullandheime & Seminarzentrum Raach • Schulpsychologie • Bildungs- und Berufsorientierung • Bundesweite Fortbildungsplattform • Klasse Job • Weltweit unterrichten • Gleichstellung und Diversität: Equality • Freiraum Schule • COOL Cooperatives Offenes Lernen • ÖSZ Sprachliche Bildung • JEDES KIND STÄRKEN & JUGEND STÄRKEN. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: Bundesministerium für Bildung Projekte: • Geräteinitiative \"Digitales Lernen\" • Denken lernen, Probleme lösen mit digi.case • Edutube • Bildung für nachhaltige Entwicklung • Politische Bildung und Demokratiebildung • Verkehrs- und Mobilitätsbildung • MINT • Bundesschullandheime & Seminarzentrum Raach • Schulpsychologie • Bildungs- und Berufsorientierung • Bundesweite Fortbildungsplattform • Klasse Job • Weltweit unterrichten • Gleichstellung und Diversität: Equality • Freiraum Schule • COOL Cooperatives Offenes Lernen • ÖSZ Sprachliche Bildung • JEDES KIND STÄRKEN & JUGEND STÄRKEN. Product areas: BI",
     "email": "service@bmb.gv.at",
-    "city": "",
+    "mobile_primary": "0800 20 56 76",
+    "domain": "https://bmb.gv.at",
     "full_address": "",
-    "mobile_primary": "0800 20 56 76"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Finanzen",
-    "domain": "bmf.gv.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "sigrid.rosenberger@bmf.gv.at",
-    "city": "",
+    "mobile_primary": "1905 90 30",
+    "domain": "https://bmf.gv.at",
     "full_address": "",
-    "mobile_primary": "1905 90 30"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Frauen, Wissenschaft und Forschung",
-    "domain": "bmfwf.gv.at",
-    "description": "iMoox, Gerecht oder Geschlecht? BMFWF - Bundesinstitut für Erwachsenenbildung, MINT-Regionen Service Hub, Psychologische Studierendenberatung - Studienwahlberatung",
     "booth": "",
+    "description": "iMoox, Gerecht oder Geschlecht? BMFWF - Bundesinstitut für Erwachsenenbildung, MINT-Regionen Service Hub, Psychologische Studierendenberatung - Studienwahlberatung",
     "email": "ifg@bmfwf.gv.at",
-    "city": "",
+    "mobile_primary": "+43 (0) 800 20 20 11",
+    "domain": "https://bmfwf.gv.at",
     "full_address": "",
-    "mobile_primary": "+43 (0) 800 20 20 11"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Inneres",
-    "domain": "kinderpolizei.at",
-    "description": "Brands and description: Cyberkids Kinderpolizei. Product areas: BI, IN",
     "booth": "",
+    "description": "Brands and description: Cyberkids Kinderpolizei. Product areas: BI, IN",
     "email": "post@bmi.gv.at",
-    "city": "",
+    "mobile_primary": "+43-1-53126-0",
+    "domain": "https://kinderpolizei.at",
     "full_address": "",
-    "mobile_primary": "+43-1-53126-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Land- u. Forstwirtschaft, Klima- u. Umweltschutz, Regionen u. Wasserwirtschaft",
-    "domain": "bmluk.gv.at",
-    "description": "Brands and description: Forum Umweltbildung, jugendplattform gen blue, Österreichisches Umweltzeichen, Klimaaktiv,. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: Forum Umweltbildung, jugendplattform gen blue, Österreichisches Umweltzeichen, Klimaaktiv,. Product areas: BI, ME",
     "email": "service@bmluk.gv.at",
-    "city": "",
+    "mobile_primary": "+43 1 711 00",
+    "domain": "https://bmluk.gv.at",
     "full_address": "",
-    "mobile_primary": "+43 1 711 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bundesministerium für Landesverteidigung",
-    "domain": "bmlv.gv.at",
-    "description": "Brands and description: Bundesministerium für Landesverteidigung; Österreichisches Bundesheer. Product areas: IN",
     "booth": "",
+    "description": "Brands and description: Bundesministerium für Landesverteidigung; Österreichisches Bundesheer. Product areas: IN",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bmlv.gv.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Burg Finstergrün",
-    "domain": "burg-finstergruen.at",
-    "description": "BI, RE",
     "booth": "",
+    "description": "BI, RE",
     "email": "info@burg-finstergruen.at",
-    "city": "",
+    "mobile_primary": "+43 699 188 77 074",
+    "domain": "https://burg-finstergruen.at",
     "full_address": "",
-    "mobile_primary": "+43 699 188 77 074"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Calcuso",
-    "domain": "calcuso.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "02173 - 9608884",
+    "domain": "https://calcuso.de",
     "full_address": "",
-    "mobile_primary": "02173 - 9608884"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "celeco GmbH",
-    "domain": "celeco.de",
-    "description": "Brands and description: celeco. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: celeco. Product areas: BI, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://celeco.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Clever on smart",
-    "domain": "cleveronsmart.at",
-    "description": "Brands and description: ADVANTTouch, Break it, Kids, Hover Cam. Product areas: VI, FI, ME, SO",
     "booth": "",
+    "description": "Brands and description: ADVANTTouch, Break it, Kids, Hover Cam. Product areas: VI, FI, ME, SO",
     "email": "office@cleveronsmart.at",
-    "city": "",
+    "mobile_primary": "+43722465077",
+    "domain": "https://cleveronsmart.at",
     "full_address": "",
-    "mobile_primary": "+43722465077"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Destination Waldviertel GmbH",
-    "domain": "waldviertel.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@waldviertel.at",
-    "city": "",
+    "mobile_primary": "+43 2822 54109",
+    "domain": "https://waldviertel.at",
     "full_address": "",
-    "mobile_primary": "+43 2822 54109"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Deutschfuchs Gesellschaft für digitalen Unterricht mbH",
-    "domain": "deutschfuchs.de",
-    "description": "Brands and description: Deutschfuchs. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: Deutschfuchs. Product areas: BI, ME",
     "email": "info@deutschfuchs.de",
-    "city": "",
+    "mobile_primary": "+49(0)221-29249540",
+    "domain": "https://deutschfuchs.de",
     "full_address": "",
-    "mobile_primary": "+49(0)221-29249540"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DieGrundschulkiste GmbH",
-    "domain": "schulkrams.de",
-    "description": "Brands and description: COLOP, DieGrundschulkiste. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: COLOP, DieGrundschulkiste. Product areas: BI",
     "email": "kontakt@schulkrams.de",
-    "city": "",
+    "mobile_primary": "01735108809",
+    "domain": "https://schulkrams.de",
     "full_address": "",
-    "mobile_primary": "01735108809"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DONAU / SKRIBO / PBS AUSTRIA- Schule & Büro",
-    "domain": "pbs-austria.at",
-    "description": "Brands and description: DONAU, SKRIBO. Product areas: EI, KI",
     "booth": "",
+    "description": "Brands and description: DONAU, SKRIBO. Product areas: EI, KI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://pbs-austria.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EdTech Austria",
-    "domain": "innovation-salzburg.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "info@innovation-salzburg.at",
-    "city": "",
+    "mobile_primary": "+43 5 7599 722",
+    "domain": "https://innovation-salzburg.at",
     "full_address": "",
-    "mobile_primary": "+43 5 7599 722"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "elja® Gewichtstiere",
-    "domain": "elja.at",
-    "description": "Brands and description: elja® Gewichtstiere, elja® Lehrmaterial, Beluga Gewichtsweste u. - Decke. Product areas: BI, KI",
     "booth": "",
+    "description": "Brands and description: elja® Gewichtstiere, elja® Lehrmaterial, Beluga Gewichtsweste u. - Decke. Product areas: BI, KI",
     "email": "gewichtstiere@elja.at",
-    "city": "AT",
+    "mobile_primary": "+43 (0)680 144 28 20",
+    "domain": "https://elja.at",
     "full_address": "23 Am Kellerberg, 3451, Streithofen, 3, AT",
-    "mobile_primary": "+43 (0)680 144 28 20"
+    "city": "AT",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enwi Lehrmittel OG",
-    "domain": "enwi.at",
-    "description": "Brands and description: Enwi, Himmelberg, Living puppets, Goki. Product areas: KI, LE",
     "booth": "",
+    "description": "Brands and description: Enwi, Himmelberg, Living puppets, Goki. Product areas: KI, LE",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 2254 20502",
+    "domain": "https://enwi.at",
     "full_address": "",
-    "mobile_primary": "+43 2254 20502"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ergotherapie Austria - Bundesverband der Ergotherapeutinnen und Ergotherapeuten Österreichs",
-    "domain": "ergotherapie.at",
-    "description": "Brands and description: Ergotherapie. Product areas: IN",
     "booth": "",
+    "description": "Brands and description: Ergotherapie. Product areas: IN",
     "email": "office@ergotherapie.at",
-    "city": "",
+    "mobile_primary": "+43 1 895 54 76",
+    "domain": "https://ergotherapie.at",
     "full_address": "",
-    "mobile_primary": "+43 1 895 54 76"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Europäische Union",
-    "domain": "europarl.at",
-    "description": "Europäisches Parlament",
     "booth": "",
+    "description": "Europäisches Parlament",
     "email": "epwien@europarl.europa.eu",
-    "city": "",
+    "mobile_primary": "01/516 17 - 200",
+    "domain": "https://europarl.at",
     "full_address": "",
-    "mobile_primary": "01/516 17 - 200"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Europöische Kommission",
-    "domain": "austria.representation.ec.europa.eu",
-    "description": "Europäische Kommission",
     "booth": "",
+    "description": "Europäische Kommission",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://austria.representation.ec.europa.eu",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Evolutionspädagogik®",
-    "domain": "evoped.com",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://evoped.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Familiengestalterei",
-    "domain": "familiengestalterei.com",
-    "description": "BI, IN",
     "booth": "",
+    "description": "BI, IN",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://familiengestalterei.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Familienzentren der OÖ Kinderfreunde",
-    "domain": "jobs-kinderfreunde.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://jobs-kinderfreunde.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Farbenbaum Mirjam Utano",
-    "domain": "farbenbaum.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://farbenbaum.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Filmed on Location e.U.",
-    "domain": "filmed-on-location.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@filmed-on-location.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://filmed-on-location.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Formati",
-    "domain": "formatwerk.com",
-    "description": "Brands and description: Formati®; Lumart®;® Vivit® ; Papique®. Product areas: ME",
     "booth": "",
+    "description": "Brands and description: Formati®; Lumart®;® Vivit® ; Papique®. Product areas: ME",
     "email": "office@formatwerk.com",
-    "city": "",
+    "mobile_primary": "+43 7246 76610",
+    "domain": "https://formatwerk.com",
     "full_address": "",
-    "mobile_primary": "+43 7246 76610"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Forum Umweltbildung",
-    "domain": "umweltbildung.at",
-    "description": "BI, ME",
     "booth": "",
+    "description": "BI, ME",
     "email": "forum@umweltbildung.at",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://umweltbildung.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Frauenfonds LEA",
-    "domain": "letsempoweraustria.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "office@lea-frauenfonds.at",
-    "city": "",
+    "mobile_primary": "+43 1 395 029 00",
+    "domain": "https://letsempoweraustria.at",
     "full_address": "",
-    "mobile_primary": "+43 1 395 029 00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FrontRead",
-    "domain": "frontread.de",
-    "description": "Brands and description: FrontRead. Product areas: BI, IT",
     "booth": "",
+    "description": "Brands and description: FrontRead. Product areas: BI, IT",
     "email": "info@frontread.de",
-    "city": "",
+    "mobile_primary": "143 22047",
+    "domain": "https://frontread.de",
     "full_address": "",
-    "mobile_primary": "143 22047"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Furthner Schultafeln GmbH",
-    "domain": "schultafeln.at",
-    "description": "Brands and description: Dahua, Promethean, View Sonic. Product areas: BI, EI, ME",
     "booth": "",
+    "description": "Brands and description: Dahua, Promethean, View Sonic. Product areas: BI, EI, ME",
     "email": "bestellung@schultafeln.at",
-    "city": "",
+    "mobile_primary": "07764/8264-0",
+    "domain": "https://schultafeln.at",
     "full_address": "",
-    "mobile_primary": "07764/8264-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gerstäcker Österreich GmbH",
-    "domain": "gerstaecker.at",
-    "description": "Gerstaecker, I love art, Jaxon, Jaxell",
     "booth": "",
+    "description": "Gerstaecker, I love art, Jaxon, Jaxell",
     "email": "info@gerstaecker.at",
-    "city": "",
+    "mobile_primary": "05 02243 999",
+    "domain": "https://gerstaecker.at",
     "full_address": "",
-    "mobile_primary": "05 02243 999"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GMS GOURMET GmbH",
-    "domain": "gourmet-kids.at",
-    "description": "Brands and description: GOURMET Kids. Product areas: FI",
     "booth": "",
+    "description": "Brands and description: GOURMET Kids. Product areas: FI",
     "email": "info@gourmet.at",
-    "city": "Wien",
+    "mobile_primary": "+43 (0) 50/876-0",
+    "domain": "https://gourmet-kids.at",
     "full_address": "Oberlaaer Straße 298, A-1230, Wien, Wien",
-    "mobile_primary": "+43 (0) 50/876-0"
+    "city": "Wien",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hamelin",
-    "domain": "hamelinbrands.com",
-    "description": "Brands and description: Pelikan, Oxford, Herlitz. Product areas: VE",
     "booth": "",
+    "description": "Brands and description: Pelikan, Oxford, Herlitz. Product areas: VE",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://hamelinbrands.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hochschule für Agrar- und Umweltpädagogik",
-    "domain": "haup.ac.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://haup.ac.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Höller Spiel GmbH",
-    "domain": "hoeller-spiel.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "office@hoeller-spiel.at",
-    "city": "",
+    "mobile_primary": "+43 (0)2231 61088",
+    "domain": "https://hoeller-spiel.at",
     "full_address": "",
-    "mobile_primary": "+43 (0)2231 61088"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ILT Education",
-    "domain": "ilteducation.com",
-    "description": "Brands and description: Polylino; Kidie Science. Product areas: BI, SO",
     "booth": "",
+    "description": "Brands and description: Polylino; Kidie Science. Product areas: BI, SO",
     "email": "kundsupport@ilteducation.com",
-    "city": "",
+    "mobile_primary": "08 - 556 115 50",
+    "domain": "https://ilteducation.com",
     "full_address": "",
-    "mobile_primary": "08 - 556 115 50"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INPP Österreich",
-    "domain": "inpp.co.at",
-    "description": "INPP Neuromotorische Entwicklungsförderung",
     "booth": "",
+    "description": "INPP Neuromotorische Entwicklungsförderung",
     "email": "office@inpp.co.at",
-    "city": "",
+    "mobile_primary": "+43 676 814283490",
+    "domain": "https://inpp.co.at",
     "full_address": "",
-    "mobile_primary": "+43 676 814283490"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Invitalis",
-    "domain": "invitalis.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@invitalis-shop.eu",
-    "city": "",
+    "mobile_primary": "25 68 00 965",
+    "domain": "https://invitalis.com",
     "full_address": "",
-    "mobile_primary": "25 68 00 965"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INVO GmbH",
-    "domain": "invo.gmbh",
-    "description": "Brands and description: INVO GmbH. Product areas: IN, SO",
     "booth": "",
+    "description": "Brands and description: INVO GmbH. Product areas: IN, SO",
     "email": "office@invo.gmbh",
-    "city": "AT",
+    "mobile_primary": "0650 58 08 645",
+    "domain": "https://invo.gmbh",
     "full_address": "17 Linzer Straße, 4100, Ottensheim, 4, AT",
-    "mobile_primary": "0650 58 08 645"
+    "city": "AT",
+    "linkedin_url": ""
   },
   {
     "company_name": "IT-Team GmbH",
-    "domain": "itteam.at",
-    "description": "Brands and description: Apple, Microsoft, Digicase, JAMF, Adobe, Synology, HP, HP Enterprise, Fortinet, Aruba, Otterbox. Product areas: EI, IT",
     "booth": "",
+    "description": "Brands and description: Apple, Microsoft, Digicase, JAMF, Adobe, Synology, HP, HP Enterprise, Fortinet, Aruba, Otterbox. Product areas: EI, IT",
     "email": "office@itteam.at",
-    "city": "",
+    "mobile_primary": "+43 512 262500",
+    "domain": "https://itteam.at",
     "full_address": "",
-    "mobile_primary": "+43 512 262500"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "JOLLY - Brevillier Urban & Sachs GmbH & Co KG",
-    "domain": "brevillier.com",
-    "description": "Brands and description: JOLLY. Product areas: KI",
     "booth": "",
+    "description": "Brands and description: JOLLY. Product areas: KI",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43-2687-54245-0",
+    "domain": "https://brevillier.com",
     "full_address": "",
-    "mobile_primary": "+43-2687-54245-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jugendherbergen Österreich",
-    "domain": "jungehotels.at",
-    "description": "RE",
     "booth": "",
+    "description": "RE",
     "email": "office@jungehotels.at",
-    "city": "",
+    "mobile_primary": "+43 1 533 18 33",
+    "domain": "https://jungehotels.at",
     "full_address": "",
-    "mobile_primary": "+43 1 533 18 33"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jungösterreich Bildungsmedienverlag",
-    "domain": "jungoesterreich.at",
-    "description": "Brands and description: Spatzenpost, Mini-Spatzenpost, LUX + join in, ICH + DU, JÖ, TOPIC. Product areas: KI, ME",
     "booth": "",
+    "description": "Brands and description: Spatzenpost, Mini-Spatzenpost, LUX + join in, ICH + DU, JÖ, TOPIC. Product areas: KI, ME",
     "email": "vertrieb@jungoesterreich.at",
-    "city": "",
+    "mobile_primary": "+43 512 587205-33",
+    "domain": "https://jungoesterreich.at",
     "full_address": "",
-    "mobile_primary": "+43 512 587205-33"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Karlingerhaus",
-    "domain": "karlingerhaus.at",
-    "description": "RE",
     "booth": "",
+    "description": "RE",
     "email": "office@karlingerhaus.at",
-    "city": "",
+    "mobile_primary": "+43 7955 63 44",
+    "domain": "https://karlingerhaus.at",
     "full_address": "",
-    "mobile_primary": "+43 7955 63 44"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Katholische Jungschar Österreich",
-    "domain": "jungschar.at",
-    "description": "Brands and description: Kinderarbeit stoppen, Dreikönigsaktion, SustainLabel. Product areas: BI, RE",
     "booth": "",
+    "description": "Brands and description: Kinderarbeit stoppen, Dreikönigsaktion, SustainLabel. Product areas: BI, RE",
     "email": "office@jungschar.at",
-    "city": "",
+    "mobile_primary": "+43-1-4810991",
+    "domain": "https://jungschar.at",
     "full_address": "",
-    "mobile_primary": "+43-1-4810991"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KigaWeb",
-    "domain": "kitaweb.at",
-    "description": "Brands and description: Kiga Web. Product areas: IT, KI",
     "booth": "",
+    "description": "Brands and description: Kiga Web. Product areas: IT, KI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://kitaweb.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kind und Leichtigkeit - Fachbetrieb für Kreative Bildungsmittel",
-    "domain": "",
-    "description": "MU, KI",
     "booth": "",
+    "description": "MU, KI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KINDERHOTEL APPELHOF",
-    "domain": "appelhof.at",
-    "description": "RE",
     "booth": "",
+    "description": "RE",
     "email": "reception@appelhof.at",
-    "city": "",
+    "mobile_primary": "03859 2223",
+    "domain": "https://appelhof.at",
     "full_address": "",
-    "mobile_primary": "03859 2223"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kinderyogaexpertin Sibylle Schöppel",
-    "domain": "kinderyogaexpertin.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "office@kinderyogaexpertin.at",
-    "city": "AT",
+    "mobile_primary": "+43 (0) 664 88398686",
+    "domain": "https://kinderyogaexpertin.at",
     "full_address": "12 Fosselgasse, 8010, Graz, 6, AT",
-    "mobile_primary": "+43 (0) 664 88398686"
+    "city": "AT",
+    "linkedin_url": ""
   },
   {
     "company_name": "Klasse Job",
-    "domain": "klassejob.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 1 53120-0",
+    "domain": "https://klassejob.at",
     "full_address": "",
-    "mobile_primary": "+43 1 53120-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kohl Verlag",
-    "domain": "kohlverlag.de",
-    "description": "BI, ME",
     "booth": "",
+    "description": "BI, ME",
     "email": "info@kohlverlag.de",
-    "city": "",
+    "mobile_primary": "+49 (0) 2275 331610",
+    "domain": "https://kohlverlag.de",
     "full_address": "",
-    "mobile_primary": "+49 (0) 2275 331610"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LERNPLATZ Verlag Koller KG",
-    "domain": "ws-montessori.at",
-    "description": "Brands and description: ws-montessori. Product areas: KI",
     "booth": "",
+    "description": "Brands and description: ws-montessori. Product areas: KI",
     "email": "office@ws-montessori.at",
-    "city": "",
+    "mobile_primary": "31/15 1110",
+    "domain": "https://ws-montessori.at",
     "full_address": "",
-    "mobile_primary": "31/15 1110"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lernwabe",
-    "domain": "lernwabe.at",
-    "description": "Brands and description: Lernwabe. Product areas: EI",
     "booth": "",
+    "description": "Brands and description: Lernwabe. Product areas: EI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://lernwabe.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LOCI Design KG",
-    "domain": "locidesign.at",
-    "description": "Brands and description: LOCI. Product areas: EI, KI",
     "booth": "",
+    "description": "Brands and description: LOCI. Product areas: EI, KI",
     "email": "christina.liess@locidesign.at",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://locidesign.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "LOGISTIXX",
-    "domain": "vnl.at",
-    "description": "Brands and description: LOGISTIXX, Nexxt Generation L. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: LOGISTIXX, Nexxt Generation L. Product areas: BI, ME",
     "email": "office@vnl.at",
-    "city": "",
+    "mobile_primary": "+43 7252 98281-0",
+    "domain": "https://vnl.at",
     "full_address": "",
-    "mobile_primary": "+43 7252 98281-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Löwenmut GmbH",
-    "domain": "team-loewenmut.com",
-    "description": "BI, SO",
     "booth": "",
+    "description": "BI, SO",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://team-loewenmut.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "M&A Lernsoftware GmbH",
-    "domain": "ma-lernsoftware.de",
-    "description": "Brands and description: Sag es auf Deutsch: Buchstaben, Wortschatz, Grammatik; Rechne sicher in Mathematik. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: Sag es auf Deutsch: Buchstaben, Wortschatz, Grammatik; Rechne sicher in Mathematik. Product areas: BI, ME",
     "email": "lukas@ma-lernsoftware.de",
-    "city": "",
+    "mobile_primary": "0 157 / 73 68 88 (3) 14",
+    "domain": "https://ma-lernsoftware.de",
     "full_address": "",
-    "mobile_primary": "0 157 / 73 68 88 (3) 14"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mostviertel Tourismus GmbH",
-    "domain": "mostviertel.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@mostviertel.at",
-    "city": "",
+    "mobile_primary": "+43 7482 20444",
+    "domain": "https://mostviertel.at",
     "full_address": "",
-    "mobile_primary": "+43 7482 20444"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Music@NOW",
-    "domain": "musicatnow.com",
-    "description": "MU, ME",
     "booth": "",
+    "description": "MU, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "1473202344",
+    "domain": "https://musicatnow.com",
     "full_address": "",
-    "mobile_primary": "1473202344"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nationalfonds der Republik Österreich",
-    "domain": "nationalfonds.org",
-    "description": "BI, IN",
     "booth": "",
+    "description": "BI, IN",
     "email": "office@nationalfonds.org",
-    "city": "",
+    "mobile_primary": "+4314081263",
+    "domain": "https://nationalfonds.org",
     "full_address": "",
-    "mobile_primary": "+4314081263"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OeAD - Agentur für Bildung und Internationisierung",
-    "domain": "oead.at",
-    "description": "Brands and description: Ersamus; Wissenschaftsermittlung, Kultuvermittlung. Product areas: BI, IN",
     "booth": "",
+    "description": "Brands and description: Ersamus; Wissenschaftsermittlung, Kultuvermittlung. Product areas: BI, IN",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://oead.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Oesterreichische Nationalbank",
-    "domain": "oenb.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "posteingang@oenb.at",
-    "city": "",
+    "mobile_primary": "+43-1) 404 20-0",
+    "domain": "https://oenb.at",
     "full_address": "",
-    "mobile_primary": "+43-1) 404 20-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "OPITEC Österreich GmbH",
-    "domain": "opitec.at",
-    "description": "KI, BI",
     "booth": "",
+    "description": "KI, BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "0800 005120",
+    "domain": "https://opitec.at",
     "full_address": "",
-    "mobile_primary": "0800 005120"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pentel GmbH",
-    "domain": "pentel.de",
-    "description": "Brands and description: Pentel; Pentel Arts; PLUS Stationary. Product areas: ME, EI",
     "booth": "",
+    "description": "Brands and description: Pentel; Pentel Arts; PLUS Stationary. Product areas: ME, EI",
     "email": "info@pentel.de",
-    "city": "",
+    "mobile_primary": "143 22339",
+    "domain": "https://pentel.de",
     "full_address": "",
-    "mobile_primary": "143 22339"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pilot Pen Deutschland GmbH, NL Österreich",
-    "domain": "pilotpen.de",
-    "description": "Brands and description: PILOT PEN. Product areas: KI, ME",
     "booth": "",
+    "description": "Brands and description: PILOT PEN. Product areas: KI, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://pilotpen.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "projektor.at Präsentationstechnik GmbH",
-    "domain": "projektor.at",
-    "description": "Brands and description: Promethean, SmartBoard, ViewSonic, Barco, Maxhub, NewLine, Optoma, Dahua, Vogel´s, Samsung, Schubu, Lemberger, Yealink. Product areas: EI, IT, SO",
     "booth": "",
+    "description": "Brands and description: Promethean, SmartBoard, ViewSonic, Barco, Maxhub, NewLine, Optoma, Dahua, Vogel´s, Samsung, Schubu, Lemberger, Yealink. Product areas: EI, IT, SO",
     "email": "sales@projektor.at",
-    "city": "",
+    "mobile_primary": "+43 1 617 62 67 - 44",
+    "domain": "https://projektor.at",
     "full_address": "",
-    "mobile_primary": "+43 1 617 62 67 - 44"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SAHAJA YOGA AUSTRIA",
-    "domain": "",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SAVD Videodolmetschen",
-    "domain": "savd.at",
-    "description": "Brands and description: SAVD Videodolmetschen GmbH. Product areas: IT",
     "booth": "",
+    "description": "Brands and description: SAVD Videodolmetschen GmbH. Product areas: IT",
     "email": "office@savd.at",
-    "city": "",
+    "mobile_primary": "+43 1 3761305",
+    "domain": "https://savd.at",
     "full_address": "",
-    "mobile_primary": "+43 1 3761305"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schallaburg Kulturbetriebsges.m.b.H.",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schneider Novus Vertriebs GmbH",
-    "domain": "aristo.at www.snv.de",
+    "booth": "",
     "description": "Brands and description: Schneider Schreibgeräte; ARISTO; Tombow; JOVI. Product areas: BI, KI",
-    "booth": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://aristo.at www.snv.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SchoolFox & KidsFox by Seven Education",
-    "domain": "7education.com",
-    "description": "Brands and description: SchoolFox, KidsFox. Product areas: IT",
     "booth": "",
+    "description": "Brands and description: SchoolFox, KidsFox. Product areas: IT",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://7education.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SchoolFox & KidsFox by Seven Education",
-    "domain": "7education.com",
-    "description": "Brands and description: SchoolFox, KidsFox. Product areas: IT",
     "booth": "",
+    "description": "Brands and description: SchoolFox, KidsFox. Product areas: IT",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://7education.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Schule trifft Bauernhof",
-    "domain": "ktn.lko.at",
-    "description": "Ländliches Fortbildungsinstitut (LFI) Österreich; Schule trifft Bauernhof; Seminarbäuerinnen;",
     "booth": "",
+    "description": "Ländliches Fortbildungsinstitut (LFI) Österreich; Schule trifft Bauernhof; Seminarbäuerinnen;",
     "email": "office@lk-kaernten.at",
-    "city": "",
+    "mobile_primary": "+43 (0) 463 5850",
+    "domain": "https://ktn.lko.at",
     "full_address": "",
-    "mobile_primary": "+43 (0) 463 5850"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Servicestelle Schulsportwochen",
-    "domain": "sportwochen.org",
-    "description": "FI",
     "booth": "",
+    "description": "FI",
     "email": "office@sportwochen.org",
-    "city": "",
+    "mobile_primary": "+43 1 8908859",
+    "domain": "https://sportwochen.org",
     "full_address": "",
-    "mobile_primary": "+43 1 8908859"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SMART Technologies by gemdatnoe",
-    "domain": "",
-    "description": "Brands and description: SMART Technologies, Airtame. Product areas: EI, IT",
     "booth": "",
+    "description": "Brands and description: SMART Technologies, Airtame. Product areas: EI, IT",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Smartmod GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SOP Mobility-Online GmbH",
-    "domain": "sop.co.at",
-    "description": "Prowise - interaktive Tafeln; Die IServ Schulplattform",
     "booth": "",
+    "description": "Prowise - interaktive Tafeln; Die IServ Schulplattform",
     "email": "contact@sop.co.at",
-    "city": "",
+    "mobile_primary": "+43 (0) 505 29",
+    "domain": "https://sop.co.at",
     "full_address": "",
-    "mobile_primary": "+43 (0) 505 29"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stabil im Kopf",
-    "domain": "stabilimkopf.com",
-    "description": "Brands and description: Stabil im Kopf, Stabily. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: Stabil im Kopf, Stabily. Product areas: BI",
     "email": "wirsind@stabilimkopf.com",
-    "city": "",
+    "mobile_primary": "+43 664 7995480",
+    "domain": "https://stabilimkopf.com",
     "full_address": "",
-    "mobile_primary": "+43 664 7995480"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "STABILO International GmbH",
-    "domain": "stabilo.com",
-    "description": "STABILO",
     "booth": "",
+    "description": "STABILO",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://stabilo.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "STAEDTLER Schreib- und Zeichengeräte",
-    "domain": "stadtmauerstaedte.at",
-    "description": "STAEDTLER;FIMO; PRITT",
     "booth": "",
+    "description": "STAEDTLER;FIMO; PRITT",
     "email": "",
-    "city": "",
+    "mobile_primary": "1877472866",
+    "domain": "https://stadtmauerstaedte.at",
     "full_address": "",
-    "mobile_primary": "1877472866"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stiefel Lehrmittel",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Südwind Verein für Entwicklungspolitik und globale Gerechtigkeit",
-    "domain": "suedwind.at",
-    "description": "Brands and description: Südwind, Bildung 2030, Baobab & Fairtrade. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: Südwind, Bildung 2030, Baobab & Fairtrade. Product areas: BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://suedwind.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Technisches Museum Wien",
-    "domain": "technischesmuseum.at",
-    "description": "RE",
     "booth": "",
+    "description": "RE",
     "email": "museumsbox@tmw.at",
-    "city": "",
+    "mobile_primary": "43 1 899 98-0",
+    "domain": "https://technischesmuseum.at",
     "full_address": "",
-    "mobile_primary": "43 1 899 98-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TGW Future Wings",
-    "domain": "tgw-futurewings.org",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "office@tgw-futurewings.org",
-    "city": "",
+    "mobile_primary": "+43 (0)676 87 17 1593",
+    "domain": "https://tgw-futurewings.org",
     "full_address": "",
-    "mobile_primary": "+43 (0)676 87 17 1593"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Theater für alle",
-    "domain": "theaterfueralle.at",
-    "description": "Brands and description: SCHILF, Gewaltpräventionsworkshops z.B. Grenzen setzen, Wirtschaft in 2 Akten. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: SCHILF, Gewaltpräventionsworkshops z.B. Grenzen setzen, Wirtschaft in 2 Akten. Product areas: BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://theaterfueralle.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Three Coins GmbH",
-    "domain": "threecoins.org",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "info@threecoins.org",
-    "city": "",
+    "mobile_primary": "+43 681 811 351 37",
+    "domain": "https://threecoins.org",
     "full_address": "",
-    "mobile_primary": "+43 681 811 351 37"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tierschutz macht Schule",
-    "domain": "tierschutzmachtschule.at",
-    "description": "BI, SO",
     "booth": "",
+    "description": "BI, SO",
     "email": "office@tierschutzmachtschule.at",
-    "city": "",
+    "mobile_primary": "+43 664 92 68 840",
+    "domain": "https://tierschutzmachtschule.at",
     "full_address": "",
-    "mobile_primary": "+43 664 92 68 840"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "TimeTEX",
-    "domain": "timetex.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://timetex.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Trauner Verlag + Buchservice GmbH",
-    "domain": "trauner.at",
-    "description": "Brands and description: Trauner Verlag. Product areas: BI, ME",
     "booth": "",
+    "description": "Brands and description: Trauner Verlag. Product areas: BI, ME",
     "email": "buchservice@trauner.at",
-    "city": "",
+    "mobile_primary": "+43 732 778241",
+    "domain": "https://trauner.at",
     "full_address": "",
-    "mobile_primary": "+43 732 778241"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "UHU AUSTRIA Ges.m.b.H.",
-    "domain": "bolton.com",
-    "description": "Brands and description: UHU. Product areas: EI, ME",
     "booth": "",
+    "description": "Brands and description: UHU. Product areas: EI, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "20.000.000",
+    "domain": "https://bolton.com",
     "full_address": "",
-    "mobile_primary": "20.000.000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Unsere Kinder",
-    "domain": "unserekinder.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 732 7610 2091",
+    "domain": "https://unserekinder.at",
     "full_address": "",
-    "mobile_primary": "+43 732 7610 2091"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Untis GmbH",
-    "domain": "untis.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 2266 62241",
+    "domain": "https://untis.at",
     "full_address": "",
-    "mobile_primary": "+43 2266 62241"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Verein für Franziskanische Bildung",
-    "domain": "vffb.or.at",
-    "description": "BI",
     "booth": "",
+    "description": "BI",
     "email": "office@vffb.or.at",
-    "city": "",
+    "mobile_primary": "0732 77 69 15",
+    "domain": "https://vffb.or.at",
     "full_address": "",
-    "mobile_primary": "0732 77 69 15"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wort & Laut Detektive GmbH",
-    "domain": "wort-und-laut-detektive.com",
-    "description": "Brands and description: Wort & Laut Detektive GmbH. Product areas: BI, KI, ME",
     "booth": "",
+    "description": "Brands and description: Wort & Laut Detektive GmbH. Product areas: BI, KI, ME",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 664 43 15 282",
+    "domain": "https://wort-und-laut-detektive.com",
     "full_address": "",
-    "mobile_primary": "+43 664 43 15 282"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Young Styria Projekttage Steiermark",
-    "domain": "steiermark.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@steiermark.com",
-    "city": "AT",
+    "mobile_primary": "+43 316 4003 0",
+    "domain": "https://steiermark.com",
     "full_address": "St.-Peter-Hauptstraße 243, 8042, Graz, Steiermark, AT",
-    "mobile_primary": "+43 316 4003 0"
+    "city": "AT",
+    "linkedin_url": ""
   },
   {
     "company_name": "ÖBB Personenverkehr AG",
-    "domain": "oebb.at",
-    "description": "Brands and description: ÖBB; ÖBB Railtours. Product areas: RE",
     "booth": "",
+    "description": "Brands and description: ÖBB; ÖBB Railtours. Product areas: RE",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 (0)5 1717",
+    "domain": "https://oebb.at",
     "full_address": "",
-    "mobile_primary": "+43 (0)5 1717"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Österreich begreifen",
-    "domain": "salzburg-begreifen.at",
-    "description": "BI, ME",
     "booth": "",
+    "description": "BI, ME",
     "email": "office@salzburg-begreifen.at",
-    "city": "",
+    "mobile_primary": "3000000247320",
+    "domain": "https://salzburg-begreifen.at",
     "full_address": "",
-    "mobile_primary": "3000000247320"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Österreichische Akademie der Wissenschaften",
-    "domain": "oeaw.ac.at",
-    "description": "Brands and description: Österreichische Akademie der Wissenschaften, New Generation Science. Product areas: BI",
     "booth": "",
+    "description": "Brands and description: Österreichische Akademie der Wissenschaften, New Generation Science. Product areas: BI",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://oeaw.ac.at",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Österreichische Bundesforste AG",
-    "domain": "bundesforste.at",
-    "description": "Brands and description: WILD.LIVE! Naturvermittlung, Wildnisgebiet Nationalpark, Biosphärenpark,. Product areas: BI, IN",
     "booth": "",
+    "description": "Brands and description: WILD.LIVE! Naturvermittlung, Wildnisgebiet Nationalpark, Biosphärenpark,. Product areas: BI, IN",
     "email": "",
-    "city": "",
+    "mobile_primary": "+43 2231 600-0",
+    "domain": "https://bundesforste.at",
     "full_address": "",
-    "mobile_primary": "+43 2231 600-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Österreichische Lehrer*innen Initiative",
-    "domain": "oeli-ooe.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0699-10208202",
+    "domain": "https://oeli-ooe.at",
     "full_address": "",
-    "mobile_primary": "0699-10208202"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ÖSTERREICHISCHER INTEGRATIONSFONDS",
-    "domain": "integrationsfonds.at",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@integration.at",
-    "city": "",
+    "mobile_primary": "050 46 88 25",
+    "domain": "https://integrationsfonds.at",
     "full_address": "",
-    "mobile_primary": "050 46 88 25"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

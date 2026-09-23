@@ -1,102 +1,112 @@
 [
   {
     "company_name": "Art &t Design Galerie",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Artiloft",
-    "domain": "artiloft.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@artiloft.ch",
-    "city": "CH",
+    "mobile_primary": "0788348154",
+    "domain": "https://artiloft.ch",
     "full_address": "8 Chemin de Montelly, 1007, Lausanne, VD, CH",
-    "mobile_primary": "0788348154"
+    "city": "CH",
+    "linkedin_url": ""
   },
   {
     "company_name": "EXPO 101",
-    "domain": "expo101.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41 27 456 49 62",
+    "domain": "https://expo101.ch",
     "full_address": "",
-    "mobile_primary": "+41 27 456 49 62"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Galerie De Burier",
-    "domain": "galeriedeburier.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+41 (0)79 310 58 58",
+    "domain": "https://galeriedeburier.com",
     "full_address": "",
-    "mobile_primary": "+41 (0)79 310 58 58"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Galerie Prestige",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GGGallery",
-    "domain": "gggallery.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@gggallery.ch",
-    "city": "",
+    "mobile_primary": "079 212 41 80",
+    "domain": "https://gggallery.ch",
     "full_address": "",
-    "mobile_primary": "079 212 41 80"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "HAPP ART",
-    "domain": "fernandgreco.weebly.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://fernandgreco.weebly.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pizza Tequilla & Chocolate",
-    "domain": "elegance-eternelle.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://elegance-eternelle.ch",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sevent.Art",
-    "domain": "sevent.art",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "imagine@sevent.art",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://sevent.art",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "W-ARTS",
-    "domain": "w-arts.ch",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "079 789 06 72",
+    "domain": "https://w-arts.ch",
     "full_address": "",
-    "mobile_primary": "079 789 06 72"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

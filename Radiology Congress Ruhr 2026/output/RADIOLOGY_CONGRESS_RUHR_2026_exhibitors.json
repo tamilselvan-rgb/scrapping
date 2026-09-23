@@ -1,512 +1,563 @@
 [
   {
     "company_name": "Alliance Medical GmbH",
-    "domain": "nuclionews.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://nuclionews.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "b.e.imaging GmbH",
-    "domain": "bendergruppe.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@bendergruppe.com",
-    "city": "",
+    "mobile_primary": "+49 7223.9669.0",
+    "domain": "https://bendergruppe.com",
     "full_address": "",
-    "mobile_primary": "+49 7223.9669.0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bayer Vital GmbH",
-    "domain": "bayer.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://bayer.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bracco Imaging Deutschland GmbH",
-    "domain": "bracco.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "39 02 2177.1",
+    "domain": "https://bracco.com",
     "full_address": "",
-    "mobile_primary": "39 02 2177.1"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Canon Medical Systems GmbH",
-    "domain": "de.medical.canon",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "service.de@eu.medical.canon",
-    "city": "",
+    "mobile_primary": "0180 5 24 0 221",
+    "domain": "https://de.medical.canon",
     "full_address": "",
-    "mobile_primary": "0180 5 24 0 221"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coreline Europe GmbH",
-    "domain": "corelinesoft.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://corelinesoft.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Curagita AG",
-    "domain": "curagita.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@curagita.com",
-    "city": "",
+    "mobile_primary": "06221-5025-0",
+    "domain": "https://curagita.com",
     "full_address": "",
-    "mobile_primary": "06221-5025-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dedalus HealthCare GmbH",
-    "domain": "dedalus.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dedalus.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DIW-MTA Akademie GmbH",
-    "domain": "diw-mta.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@diw-mta.de",
-    "city": "",
+    "mobile_primary": "+49 30 338 440 64",
+    "domain": "https://diw-mta.de",
     "full_address": "",
-    "mobile_primary": "+49 30 338 440 64"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dr. Wolf, Beckelmann und Partner mbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DVTA – Dachverband für Technologen/-innen und Analytiker/-innen in der Medizin Deutschland e.V.",
-    "domain": "dvta.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@dvta-ev.de",
-    "city": "",
+    "mobile_primary": "040) 23 51 17 - 0",
+    "domain": "https://dvta.de",
     "full_address": "",
-    "mobile_primary": "040) 23 51 17 - 0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "easy Radiology AG",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EDL Software GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EIZO Europe GmbH",
-    "domain": "eizo.eu",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://eizo.eu",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elsevier GmbH",
-    "domain": "elsevier.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://elsevier.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Evidia GmbH",
-    "domain": "rocketreach.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rocketreach.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EXAMION GmbH und Informatics Systemhaus GmbH & Co. KG",
-    "domain": "examion.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@examion.com",
-    "city": "",
+    "mobile_primary": "+49 711 - 120 002 - 0",
+    "domain": "https://examion.com",
     "full_address": "",
-    "mobile_primary": "+49 711 - 120 002 - 0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "febromed GmbH & Co. KG",
-    "domain": "febromed.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "vertrieb@febromed.de",
-    "city": "",
+    "mobile_primary": "0049 2522.920.19.00",
+    "domain": "https://febromed.de",
     "full_address": "",
-    "mobile_primary": "0049 2522.920.19.00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Floy GmbH",
-    "domain": "floy.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@floy.com",
-    "city": "",
+    "mobile_primary": "+49 89 244136090",
+    "domain": "https://floy.com",
     "full_address": "",
-    "mobile_primary": "+49 89 244136090"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FUJIFILM Healthcare DE GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FUSE-AI",
-    "domain": "ffnews.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ffnews.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gleamer SAS",
-    "domain": "life-sciences-usa.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://life-sciences-usa.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Guerbet GmbH",
-    "domain": "guerbet.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://guerbet.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ICN GmbH + Co. KG",
-    "domain": "talents.studysmarter.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://talents.studysmarter.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INFINITT Europe GmbH",
-    "domain": "infinitteurope.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "08.00-17.00",
+    "domain": "https://infinitteurope.com",
     "full_address": "",
-    "mobile_primary": "08.00-17.00"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Innovative Tomography Products GmbH",
-    "domain": "life-sciences-europe.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://life-sciences-europe.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Konica Minolta Business Solutions Deutschland GmbH",
-    "domain": "konicaminolta.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://konicaminolta.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "medavis GmbH",
-    "domain": "medavis.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://medavis.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "meddix GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MedEcon",
-    "domain": "medecon.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "ustomerservices@medecon.co.uk",
-    "city": "",
+    "mobile_primary": "0203 384 4540",
+    "domain": "https://medecon.co.uk",
     "full_address": "",
-    "mobile_primary": "0203 384 4540"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Medi-ManAge Innovation GmbH",
-    "domain": "northdata.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "1 123 105.276.215 1 32",
+    "domain": "https://northdata.de",
     "full_address": "",
-    "mobile_primary": "1 123 105.276.215 1 32"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Medical Index GmbH",
-    "domain": "rocketreach.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://rocketreach.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mediform GmbH",
-    "domain": "mediform.io",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://mediform.io",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "mediquip Medizintechnik e.K.",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MEDTRON AG",
-    "domain": "medtron.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@medtron.com",
-    "city": "",
+    "mobile_primary": "+49 (0) 681 970 17 - 0",
+    "domain": "https://medtron.com",
     "full_address": "",
-    "mobile_primary": "+49 (0) 681 970 17 - 0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Merit Medical GmbH",
-    "domain": "merit.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+1 801 253 1600",
+    "domain": "https://merit.com",
     "full_address": "",
-    "mobile_primary": "+1 801 253 1600"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MeVis Medical Solutions AG",
-    "domain": "mevis.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+49 421 22495 0",
+    "domain": "https://mevis.de",
     "full_address": "",
-    "mobile_primary": "+49 421 22495 0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mint Medical GmbH",
-    "domain": "mint-medical.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@mint-medical.de",
-    "city": "",
+    "mobile_primary": "+49 6221 321 80 0",
+    "domain": "https://mint-medical.com",
     "full_address": "",
-    "mobile_primary": "+49 6221 321 80 0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "MVZ Uhlenbrock U&P Service GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Philips GmbH Market DACH",
-    "domain": "philips.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://philips.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "RA Radiology Advanced GmbH",
-    "domain": "radiology-advanced.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "office@radiology-advanced.com",
-    "city": "",
+    "mobile_primary": "+49 (0) 30 403 664 660",
+    "domain": "https://radiology-advanced.com",
     "full_address": "",
-    "mobile_primary": "+49 (0) 30 403 664 660"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "RADTOP Dr. Topcu & Kollegen",
-    "domain": "radtop.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "praeventikum@radtop.de",
-    "city": "",
+    "mobile_primary": "0208 7789210",
+    "domain": "https://radtop.de",
     "full_address": "",
-    "mobile_primary": "0208 7789210"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Raya Diagnostics",
-    "domain": "raya-diagnostics.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://raya-diagnostics.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "reif & möller diagnostic-network ag",
-    "domain": "reif-moeller.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "breunig@reif-moeller.de",
-    "city": "",
+    "mobile_primary": "0)6831/69897 22",
+    "domain": "https://reif-moeller.de",
     "full_address": "",
-    "mobile_primary": "0)6831/69897 22"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Saegeling Medizintechnik Service- und Vertriebs GmbH",
-    "domain": "northdata.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "990 1 71.80 53.71 2 13",
+    "domain": "https://northdata.com",
     "full_address": "",
-    "mobile_primary": "990 1 71.80 53.71 2 13"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Siemens Healthineers AG",
-    "domain": "siemens-healthineers.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://siemens-healthineers.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Terumo Deutschland GmbH",
-    "domain": "terumo.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://terumo.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ulrich GmbH & Co. KG",
-    "domain": "ulrichmedical.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@ulrichmedical.com",
-    "city": "",
+    "mobile_primary": "+49 731 9654-0",
+    "domain": "https://ulrichmedical.com",
     "full_address": "",
-    "mobile_primary": "+49 731 9654-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "VISUS Health IT GmbH",
-    "domain": "visus.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "+49 234 93693-0",
+    "domain": "https://visus.com",
     "full_address": "",
-    "mobile_primary": "+49 234 93693-0"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "VITAS GmbH",
-    "domain": "crunchbase.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://crunchbase.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Youtilix GmbH",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   }
 ]

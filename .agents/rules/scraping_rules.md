@@ -14,6 +14,13 @@ Whenever scraping company / exhibitor directories, ALWAYS extract and include th
 | `city` | City Name |
 | `linkedin_url` | Direct LinkedIn Company / Profile URL |
 
+## Export Schema Restriction
+Every CSV and JSON exhibitor export must contain exactly these nine columns and no event metadata or scraper-specific columns:
+
+`company_name, booth, description, email, mobile_primary, domain, full_address, city, linkedin_url`
+
+Use the same order in CSV headers and JSON object keys. Existing aliases such as `exhibitor_name`, `desc`, `booth_no`, `mail`, `contact_number`, `phone`, `address`, and `location` must be mapped to the canonical names above before export.
+
 > [!IMPORTANT]
 > These are the **canonical column names** to use in ALL CSV and JSON exports. Do NOT use old names such as `name`, `desc`, `boothname`, `phone`, `address`, or `exhibitor_name`. Always use the exact names in the table above.
 

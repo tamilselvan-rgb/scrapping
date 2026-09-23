@@ -1,762 +1,838 @@
 [
   {
     "company_name": "AlarmHub",
-    "domain": "alarmhub.it",
-    "description": "Connettiamo l'impossibile!",
     "booth": "",
+    "description": "Connettiamo l'impossibile!",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://alarmhub.it",
     "full_address": "Str. Torrenuova, 1 - 04100 Latina LT",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Airzone",
-    "domain": "airzonecontrol.com",
-    "description": "Benvenuto in Airzone, leader mondiale in soluzioni di controllo HVAC, impianti di riscaldamento, ventilazione e climatizzazione. Scopri i nostri sistemi.",
     "booth": "",
+    "description": "Benvenuto in Airzone, leader mondiale in soluzioni di controllo HVAC, impianti di riscaldamento, ventilazione e climatizzazione. Scopri i nostri sistemi.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://airzonecontrol.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Apave in Italia: Servizi di Ispezione, Formazione e Consulenza Rischi",
-    "domain": "italy.apave.com",
-    "description": "Organismo di certificazione, ispezione e controllo, specializzato nella gestione dei rischi, per accompagnare aziende e comunità nel loro sviluppo futuro ​ Nel 2019 Apave Italia ha festeggiato i 25 anni di attività. È presente in Italia con 3 aziende: Apave Italia CPM ,Apave Certification Italia e Tecno Piemonte, enti accreditati, di terza parte e indipendenti. Fa parte del Gruppo Apave dal 1994 e si è specializzata in 6 settori: ​- Certificazione - Laboratori - Ispezioni tecniche ​- Verifiche periodiche regolamentari - Formazione - Sanificazione ambientale",
     "booth": "",
+    "description": "Organismo di certificazione, ispezione e controllo, specializzato nella gestione dei rischi, per accompagnare aziende e comunità nel loro sviluppo futuro ​ Nel 2019 Apave Italia ha festeggiato i 25 anni di attività. È presente in Italia con 3 aziende: Apave Italia CPM ,Apave Certification Italia e Tecno Piemonte, enti accreditati, di terza parte e indipendenti. Fa parte del Gruppo Apave dal 1994 e si è specializzata in 6 settori: ​- Certificazione - Laboratori - Ispezioni tecniche ​- Verifiche periodiche regolamentari - Formazione - Sanificazione ambientale",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://italy.apave.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Realizzazione impianti di energia rinnovabile",
-    "domain": "astecosrl.com",
-    "description": "ASTECO è in grado di offrire al cliente una vasta gamma di servizi con la massima cura, tecnologia e massima qualità: contattaci per informazioni!",
     "booth": "",
+    "description": "ASTECO è in grado di offrire al cliente una vasta gamma di servizi con la massima cura, tecnologia e massima qualità: contattaci per informazioni!",
     "email": "info@astecosrl.com",
-    "city": "Policoro",
+    "mobile_primary": "+39 0835980232",
+    "domain": "https://astecosrl.com",
     "full_address": "Zona Art.le D/1, 75025, Policoro, MT, IT",
-    "mobile_primary": "+39 0835980232"
+    "city": "Policoro",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bosch in Italia",
-    "domain": "bosch.it",
-    "description": "Tecnologia per la vita: vogliamo che i nostri prodotti suscitino entusiasmo, migliorino la qualitÃ della vita e contribuiscano a preservare le risorse naturali.",
     "booth": "",
+    "description": "Tecnologia per la vita: vogliamo che i nostri prodotti suscitino entusiasmo, migliorino la qualitÃ della vita e contribuiscano a preservare le risorse naturali.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+390236961",
+    "domain": "https://bosch.it",
     "full_address": "",
-    "mobile_primary": "+390236961"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "BIOmat Canapa",
-    "domain": "biomatcanapa.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "04823950722",
+    "domain": "https://biomatcanapa.it",
     "full_address": "",
-    "mobile_primary": "04823950722"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "COFIDI IMPRESE E TERRITORI SOCIETÀ COOPERATIVA DI GARANZIA COLLETTIVA FIDI, Consorzio Cooperativa Artigiani Fidi",
-    "domain": "cofidi.it",
-    "description": "COFIDI IMPRESE E TERRITORI SOCIETÀ COOPERATIVA DI GARANZIA COLLETTIVA FIDI, Consorzio Cooperativa Artigiani Fidi",
     "booth": "",
+    "description": "COFIDI IMPRESE E TERRITORI SOCIETÀ COOPERATIVA DI GARANZIA COLLETTIVA FIDI, Consorzio Cooperativa Artigiani Fidi",
     "email": "relazioniesterne@cofidi.it",
-    "city": "",
+    "mobile_primary": "+390805910911",
+    "domain": "https://cofidi.it",
     "full_address": "",
-    "mobile_primary": "+390805910911"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "distrimat",
-    "domain": "distrimat.net",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://distrimat.net",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Delta Dore: Soluzioni Smart per una Smart Home",
-    "domain": "deltadore.it",
-    "description": "Scoprite tutti i prodotti e le soluzioni smart Delta Dore per i vostri progetti di Smart Home, Riscaldamento, Illuminazione, Allarme, Tapparelle, Cancelli",
     "booth": "",
+    "description": "Scoprite tutti i prodotti e le soluzioni smart Delta Dore per i vostri progetti di Smart Home, Riscaldamento, Illuminazione, Allarme, Tapparelle, Cancelli",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://deltadore.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DistechControls",
-    "domain": "distech-controls.com",
-    "description": "Distech Controls connects people with intelligent building solutions and forward-thinking technologies for smarter, safer, and greener spaces.",
     "booth": "",
+    "description": "Distech Controls connects people with intelligent building solutions and forward-thinking technologies for smarter, safer, and greener spaces.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://distech-controls.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "DNAKE",
-    "domain": "dnake-global.com",
-    "description": "DNAKE Ã¨ un produttore e innovatore leader e affidabile nel settore dei videocitofoni IP e delle relative soluzioni.",
     "booth": "",
+    "description": "DNAKE Ã¨ un produttore e innovatore leader e affidabile nel settore dei videocitofoni IP e delle relative soluzioni.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://dnake-global.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Soluzioni Antincendio",
-    "domain": "soluzioniantincendio.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@soluzioniantincendio.it",
-    "city": "",
+    "mobile_primary": "0804038620",
+    "domain": "https://soluzioniantincendio.it",
     "full_address": "",
-    "mobile_primary": "0804038620"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "eltako1",
-    "domain": "eltako.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://eltako.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Electronic's Time",
-    "domain": "electronicstime.it",
-    "description": "Distributore di sistemi di sicurezza per professionisti da oltre 30 anni: antintrusione, videosorveglianza, accessi, antincendio. 7 filiali, oltre 120 marchi.",
     "booth": "",
+    "description": "Distributore di sistemi di sicurezza per professionisti da oltre 30 anni: antintrusione, videosorveglianza, accessi, antincendio. 7 filiali, oltre 120 marchi.",
     "email": "",
-    "city": "Martina Franca",
+    "mobile_primary": "+390804802711",
+    "domain": "https://electronicstime.it",
     "full_address": "Via Madonna Piccola, 32/Q-R, 74015, Martina Franca, TA, IT",
-    "mobile_primary": "+390804802711"
+    "city": "Martina Franca",
+    "linkedin_url": ""
   },
   {
     "company_name": "Electraline",
-    "domain": "electraline.com",
-    "description": "Scopri i prodotti elettrici Electraline: multiprese, prolunghe, adattatori, soluzioni CEE, illuminazione, domotica, frutti, placche, tubi, canaline e cavi.",
     "booth": "",
+    "description": "Scopri i prodotti elettrici Electraline: multiprese, prolunghe, adattatori, soluzioni CEE, illuminazione, domotica, frutti, placche, tubi, canaline e cavi.",
     "email": "",
-    "city": "",
+    "mobile_primary": "2021/2027",
+    "domain": "https://electraline.com",
     "full_address": "",
-    "mobile_primary": "2021/2027"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Exacomtech: Efficientamento energetico & ecosistemi intelligenti",
-    "domain": "exacomtech.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0832 1523438",
+    "domain": "https://exacomtech.it",
     "full_address": "",
-    "mobile_primary": "0832 1523438"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Enegan, Energy Partner",
-    "domain": "enegan.it",
-    "description": "Enegan, l’azienda che dà energia alle aziende, il tuo Energy Partner. Primi nel green e nel supporto al tuo business. Scopri offerte luce e gas per aziende.",
     "booth": "",
+    "description": "Enegan, l’azienda che dà energia alle aziende, il tuo Energy Partner. Primi nel green e nel supporto al tuo business. Scopri offerte luce e gas per aziende.",
     "email": "",
-    "city": "Firenze",
+    "mobile_primary": "01/04/2025",
+    "domain": "https://enegan.it",
     "full_address": "Viale Spartaco Lavagnini 20, 50129, Firenze, FI, Italia",
-    "mobile_primary": "01/04/2025"
+    "city": "Firenze",
+    "linkedin_url": ""
   },
   {
     "company_name": "Home",
-    "domain": "elettronica-tirrito.it",
-    "description": "Elettronica Tirrito - illuminazione LED, telecontrollo, IoT, smart building e sistemi elettronici.",
     "booth": "",
+    "description": "Elettronica Tirrito - illuminazione LED, telecontrollo, IoT, smart building e sistemi elettronici.",
     "email": "info@elettronica-tirrito.it",
-    "city": "",
+    "mobile_primary": "+39 0935 1865109",
+    "domain": "https://elettronica-tirrito.it",
     "full_address": "",
-    "mobile_primary": "+39 0935 1865109"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ranieri PugliAsfalti",
-    "domain": "grupporanieri.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@grupporanieri.it",
-    "city": "",
+    "mobile_primary": "05356890722",
+    "domain": "https://grupporanieri.it",
     "full_address": "",
-    "mobile_primary": "05356890722"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EXPOFIN enjoy future!",
-    "domain": "expofin.eu",
-    "description": "Expofin propone l'efficienza energetica da fonti rinnovabili, trasformando in chiave green i settori produttivi, le industrie, la mobilità, il residenzial",
     "booth": "",
+    "description": "Expofin propone l'efficienza energetica da fonti rinnovabili, trasformando in chiave green i settori produttivi, le industrie, la mobilità, il residenzial",
     "email": "segreteria@expofin.it",
-    "city": "",
+    "mobile_primary": "05419570287",
+    "domain": "https://expofin.eu",
     "full_address": "",
-    "mobile_primary": "05419570287"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "logo elmax",
-    "domain": "elmaxsrl.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://elmaxsrl.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ELSI",
-    "domain": "elsikr.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "01536710799",
+    "domain": "https://elsikr.it",
     "full_address": "",
-    "mobile_primary": "01536710799"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ettroit",
-    "domain": "ettroit.com",
-    "description": "Descrizione",
     "booth": "",
+    "description": "Descrizione",
     "email": "info@ettroit.com",
-    "city": "",
+    "mobile_primary": "+39 081 0000000",
+    "domain": "https://ettroit.com",
     "full_address": "",
-    "mobile_primary": "+39 081 0000000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Energiasolare100",
-    "domain": "energiasolare100.it",
-    "description": "Benvenuto in Energiasolare100, il tuo punto di riferimento per l'energia solare di qualità. Scopri la vasta selezione di pannelli solari ad alte prestazioni, impianti fotovoltaici all'avanguardia e batterie solari affidabili. Siamo qui per offrirti soluzioni solari innovative che garantiscono risparmio energetico, sostenibilità ed un futuro più eco-friendly. Scegli l'energia pulita con Energiasolare100 e inizia a vivere una vita sostenibile.",
     "booth": "",
+    "description": "Benvenuto in Energiasolare100, il tuo punto di riferimento per l'energia solare di qualità. Scopri la vasta selezione di pannelli solari ad alte prestazioni, impianti fotovoltaici all'avanguardia e batterie solari affidabili. Siamo qui per offrirti soluzioni solari innovative che garantiscono risparmio energetico, sostenibilità ed un futuro più eco-friendly. Scegli l'energia pulita con Energiasolare100 e inizia a vivere una vita sostenibile.",
     "email": "",
-    "city": "Noicattaro",
+    "mobile_primary": "+39 080.4780349",
+    "domain": "https://energiasolare100.it",
     "full_address": "Viale Donato Saponaro,55, 70016, Noicattaro, BA, Italia",
-    "mobile_primary": "+39 080.4780349"
+    "city": "Noicattaro",
+    "linkedin_url": ""
   },
   {
     "company_name": "FRITZ!",
-    "domain": "fritz.com",
-    "description": "Scopri FRITZ! - Informati sulle soluzioni versatili e facili da usare per la tua connessione Internet e la rete locale.",
     "booth": "",
+    "description": "Scopri FRITZ! - Informati sulle soluzioni versatili e facili da usare per la tua connessione Internet e la rete locale.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://fritz.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Finish Village",
-    "domain": "finishvillage.it",
-    "description": "Da oltre 50 anni, Finish Village si dedica alla produzione di profili per cartongesso e alla vendita al dettaglio e all’ingrosso di materiale edile.",
     "booth": "",
+    "description": "Da oltre 50 anni, Finish Village si dedica alla produzione di profili per cartongesso e alla vendita al dettaglio e all’ingrosso di materiale edile.",
     "email": "finishvillage@pec.it",
-    "city": "",
+    "mobile_primary": "0808965928",
+    "domain": "https://finishvillage.it",
     "full_address": "",
-    "mobile_primary": "0808965928"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "FAIT srl",
-    "domain": "fait.it",
-    "description": "FAIT srl - Dal 1953 progettiamo, costruiamo e distribuiamo soluzioni innovative per il tuo impianto TV. Siamo esperti di distribuzione terrestre e satellite, fibra ottica ottica, impianto multiservizio, soluzioni FTTH.",
     "booth": "",
+    "description": "FAIT srl - Dal 1953 progettiamo, costruiamo e distribuiamo soluzioni innovative per il tuo impianto TV. Siamo esperti di distribuzione terrestre e satellite, fibra ottica ottica, impianto multiservizio, soluzioni FTTH.",
     "email": "fait@fait.it",
-    "city": "Roma",
+    "mobile_primary": "39 06 30812203",
+    "domain": "https://fait.it",
     "full_address": "11060 Via Trionfale, 00100, Roma, 62, IT",
-    "mobile_primary": "39 06 30812203"
+    "city": "Roma",
+    "linkedin_url": ""
   },
   {
     "company_name": "Soluzioni energetiche decarbonizzate",
-    "domain": "getec-energyservices.com",
-    "description": "Soluzioni complete di infrastrutture energetiche per l’industria e il real estate ▶ Scopri di più su GETEC!",
     "booth": "",
+    "description": "Soluzioni complete di infrastrutture energetiche per l’industria e il real estate ▶ Scopri di più su GETEC!",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://getec-energyservices.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hopetrek",
-    "domain": "hopetrek.com",
-    "description": "Hopetrek",
     "booth": "",
+    "description": "Hopetrek",
     "email": "",
-    "city": "",
+    "mobile_primary": "2011-2024",
+    "domain": "https://hopetrek.com",
     "full_address": "",
-    "mobile_primary": "2011-2024"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Helty",
-    "domain": "heltyair.com",
-    "description": "Helty offre soluzioni VMC decentralizzate innovative e facili da installare, per vivere in ambienti più sani ✔️ confortevoli ed efficienti ✔️",
     "booth": "",
+    "description": "Helty offre soluzioni VMC decentralizzate innovative e facili da installare, per vivere in ambienti più sani ✔️ confortevoli ed efficienti ✔️",
     "email": "",
-    "city": "",
+    "mobile_primary": "+39 0445 16 70 174",
+    "domain": "https://heltyair.com",
     "full_address": "",
-    "mobile_primary": "+39 0445 16 70 174"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Produzione e Distribuzione Cavi, Cablaggi e Connettori",
-    "domain": "hareca.it",
-    "description": "Produzione cavi, cablaggi, connettori, componenti. Decennale esperienza tecnica e commerciale. HAR&CA opera con sedi in Italia, Cina e Hong Kong.",
     "booth": "",
+    "description": "Produzione cavi, cablaggi, connettori, componenti. Decennale esperienza tecnica e commerciale. HAR&CA opera con sedi in Italia, Cina e Hong Kong.",
     "email": "info@hareca.it",
-    "city": "",
+    "mobile_primary": "+39 0295339880",
+    "domain": "https://hareca.it",
     "full_address": "",
-    "mobile_primary": "+39 0295339880"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Honeywell Technologies: guidare il percorso verso l’autonomia industriale",
-    "domain": "honeywell.com",
-    "description": "Honeywell Technologies guida il passaggio dall’automazione all’autonomia, offrendo soluzioni e software mission-critical che favoriscono la produttività e la crescita.",
     "booth": "",
+    "description": "Honeywell Technologies guida il passaggio dall’automazione all’autonomia, offrendo soluzioni e software mission-critical che favoriscono la produttività e la crescita.",
     "email": "",
-    "city": "Charlotte",
+    "mobile_primary": "",
+    "domain": "https://honeywell.com",
     "full_address": "855 S. Mint Street, 28202, Charlotte, NC, US",
-    "mobile_primary": ""
+    "city": "Charlotte",
+    "linkedin_url": ""
   },
   {
     "company_name": "Irondom",
-    "domain": "irondom.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@irondom.it",
-    "city": "",
+    "mobile_primary": "+390825988950",
+    "domain": "https://irondom.it",
     "full_address": "",
-    "mobile_primary": "+390825988950"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Logo Sistema Costruttivo ISOTEX ITA page 0001",
-    "domain": "blocchiisotex.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://blocchiisotex.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INCOVAR - sistemi performanti per il foro finestra - Castellana Grotte",
-    "domain": "incovar.it",
-    "description": "Produzione monoblocchi prefabbricati, cassonetti coibentati per tapparelle e frangisole, VMC per isolamento termoacustico del foro finestra",
     "booth": "",
+    "description": "Produzione monoblocchi prefabbricati, cassonetti coibentati per tapparelle e frangisole, VMC per isolamento termoacustico del foro finestra",
     "email": "info@incovar.it",
-    "city": "Castellana Grotte",
+    "mobile_primary": "+390804966012",
+    "domain": "https://incovar.it",
     "full_address": "Castellana Grotte, BA, IT",
-    "mobile_primary": "+390804966012"
+    "city": "Castellana Grotte",
+    "linkedin_url": ""
   },
   {
     "company_name": "IessOnline",
-    "domain": "iessonline.com",
-    "description": "IESS è il punto di riferimento per installatori, grossisti, progettisti e privati che cercano soluzioni di sicurezza affidabili e supporto costante",
     "booth": "",
+    "description": "IESS è il punto di riferimento per installatori, grossisti, progettisti e privati che cercano soluzioni di sicurezza affidabili e supporto costante",
     "email": "",
-    "city": "",
+    "mobile_primary": "01738580289",
+    "domain": "https://iessonline.com",
     "full_address": "",
-    "mobile_primary": "01738580289"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "ineltec",
-    "domain": "ineltec.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ineltec.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "KNIPEX",
-    "domain": "knipex.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://knipex.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leviton",
-    "domain": "leviton.com",
-    "description": "Leviton offers a wide range of lighting controls, wiring devices and networking to meet the needs of today’s residential, commercial and industrial customers.",
     "booth": "",
+    "description": "Leviton offers a wide range of lighting controls, wiring devices and networking to meet the needs of today’s residential, commercial and industrial customers.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://leviton.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EasyPTT",
-    "domain": "easyptt.it",
-    "description": "Radio PoC Push-to-Talk su 4G/5G, sistemi DAS e soluzioni mission-critical per aziende, PA ed enti. Distributori Hytera, Tassta, Airbus Agnet. Spedizione 24h, assistenza inclusa. Richiedi una consulenza.",
     "booth": "",
+    "description": "Radio PoC Push-to-Talk su 4G/5G, sistemi DAS e soluzioni mission-critical per aziende, PA ed enti. Distributori Hytera, Tassta, Airbus Agnet. Spedizione 24h, assistenza inclusa. Richiedi una consulenza.",
     "email": "",
-    "city": "Campoli Appennino",
+    "mobile_primary": "+39 07761666305",
+    "domain": "https://easyptt.it",
     "full_address": "Via Colle di Sora al KM 3, 03030, Campoli Appennino, FR, IT",
-    "mobile_primary": "+39 07761666305"
+    "city": "Campoli Appennino",
+    "linkedin_url": ""
   },
   {
     "company_name": "LEM ELETTRONICA",
-    "domain": "lemelettronica.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "info@lemelettronica.it",
-    "city": "",
+    "mobile_primary": "030 965 1571",
+    "domain": "https://lemelettronica.it",
     "full_address": "",
-    "mobile_primary": "030 965 1571"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Midsummer",
-    "domain": "midsummer.se",
-    "description": "Midsummer presenta con orgoglio una nuova generazione di tetti a celle solari prodotti in Svezia, su misura per tutti i tipi di tetto e progettati in modo così discreto che quasi non li vedi. Investi per il futuro con il tetto solare di Midsummer.",
     "booth": "",
+    "description": "Midsummer presenta con orgoglio una nuova generazione di tetti a celle solari prodotti in Svezia, su misura per tutti i tipi di tetto e progettati in modo così discreto che quasi non li vedi. Investi per il futuro con il tetto solare di Midsummer.",
     "email": "info@midsummersolar.it",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://midsummer.se",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leader globale nei citofoni IP e nel controllo degli accessi",
-    "domain": "2n.com",
-    "description": "2N è un'azienda europea leader nello sviluppo e nella produzione di prodotti nel campo dei citofoni IP e del controllo accessi.",
     "booth": "",
+    "description": "2N è un'azienda europea leader nello sviluppo e nella produzione di prodotti nel campo dei citofoni IP e del controllo accessi.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://2n.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Notifier Italia",
-    "domain": "notifier.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "04/08/2026",
+    "domain": "https://notifier.it",
     "full_address": "",
-    "mobile_primary": "04/08/2026"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Novare Sistemi Innovativi S.R.L is under construction",
-    "domain": "novaresistemi.it",
-    "description": "#thefutureenergy",
     "booth": "",
+    "description": "#thefutureenergy",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://novaresistemi.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "NJOY logo positive",
-    "domain": "njoy.global",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://njoy.global",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ohmega Progettazioni",
-    "domain": "ohmegaprogettazioni.com",
-    "description": "Ohmega Progettazioni: progettazione integrata, KNX, BACS/BMS, commissioning e formazione per edifici intelligenti.",
     "booth": "",
+    "description": "Ohmega Progettazioni: progettazione integrata, KNX, BACS/BMS, commissioning e formazione per edifici intelligenti.",
     "email": "info@ohmegaprogettazioni.com",
-    "city": "",
+    "mobile_primary": "+393204210464",
+    "domain": "https://ohmegaprogettazioni.com",
     "full_address": "",
-    "mobile_primary": "+393204210464"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Logo QUBIX rettangolare",
-    "domain": "qubix.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://qubix.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rilo Digital Planning",
-    "domain": "rilodp.com",
-    "description": "Rilo Digital Planning fornisce servizi di ingegneria in ambito edilizio ad alto contenuto tecnologico e innovativo.",
     "booth": "",
+    "description": "Rilo Digital Planning fornisce servizi di ingegneria in ambito edilizio ad alto contenuto tecnologico e innovativo.",
     "email": "info@rilodp.com",
-    "city": "",
+    "mobile_primary": "14940401004",
+    "domain": "https://rilodp.com",
     "full_address": "",
-    "mobile_primary": "14940401004"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Proled Italia",
-    "domain": "proled.it",
-    "description": "PROLED Italia sviluppa soluzioni di illuminazione professionale LED per commercio, hospitality, uffici, abitazioni e spazi pubblici. Il tuo partner per la progettazione della luce.",
     "booth": "",
+    "description": "PROLED Italia sviluppa soluzioni di illuminazione professionale LED per commercio, hospitality, uffici, abitazioni e spazi pubblici. Il tuo partner per la progettazione della luce.",
     "email": "info@proled.it",
-    "city": "",
+    "mobile_primary": "+393204017149",
+    "domain": "https://proled.it",
     "full_address": "",
-    "mobile_primary": "+393204017149"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Soluzioni Smart Home",
-    "domain": "resideo.com",
-    "description": "Controlla i prodotti e le soluzioni per il comfort domestico per l'aria, l'acqua, l'energia e la sicurezza di Resideo IT.",
     "booth": "",
+    "description": "Controlla i prodotti e le soluzioni per il comfort domestico per l'aria, l'acqua, l'energia e la sicurezza di Resideo IT.",
     "email": "",
-    "city": "Austin",
+    "mobile_primary": "",
+    "domain": "https://resideo.com",
     "full_address": "901 E 6th St, 78702, Austin, TX, USA",
-    "mobile_primary": ""
+    "city": "Austin",
+    "linkedin_url": ""
   },
   {
     "company_name": "SELCO ITALIA S.R.L.",
-    "domain": "selcoitalia.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "selcoitalia@selcoitalia.it",
-    "city": "",
+    "mobile_primary": "+39 080 5614540",
+    "domain": "https://selcoitalia.it",
     "full_address": "",
-    "mobile_primary": "+39 080 5614540"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "logo socomec",
-    "domain": "socomec.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://socomec.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "scianatico Laterizi scaled",
-    "domain": "scianaticolaterizi.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://scianaticolaterizi.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Selektra Logo JPEG",
-    "domain": "selektraitalia.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://selektraitalia.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "IT",
-    "domain": "stoitalia.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://stoitalia.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "image002 1",
-    "domain": "saint-gobain.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://saint-gobain.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Smart Buildings Alliance for Smart Cities ETS",
-    "domain": "smartbuildingsalliance.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://smartbuildingsalliance.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "steinel",
-    "domain": "steinel.de",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://steinel.de",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Shelly Europe",
-    "domain": "shelly.com",
-    "description": "Shelly offre soluzioni avanzate di automazione domestica intelligente per un controllo senza interruzioni di illuminazione, temperatura ed energia. Rendi la tua casa più intelligente oggi stesso.",
     "booth": "",
+    "description": "Shelly offre soluzioni avanzate di automazione domestica intelligente per un controllo senza interruzioni di illuminazione, temperatura ed energia. Rendi la tua casa più intelligente oggi stesso.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://shelly.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cable Ties: UV-Resistant, Fire-Retardant",
-    "domain": "surelock.in",
-    "description": "Surelock manufactures high-quality cable ties for automotive, solar, telecom & marine. UV-resistant, fire-retardant & stainless steel. Custom solutions.",
     "booth": "",
+    "description": "Surelock manufactures high-quality cable ties for automotive, solar, telecom & marine. UV-resistant, fire-retardant & stainless steel. Custom solutions.",
     "email": "",
-    "city": "",
+    "mobile_primary": "9001-2000",
+    "domain": "https://surelock.in",
     "full_address": "",
-    "mobile_primary": "9001-2000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "SCK Finestre Store -",
-    "domain": "sckfinestrestore.it",
-    "description": "Gli SCK Finestre Store sono gli showroom in cui trovare i prodotti e i servizi dell’intero mondo infissi e serramenti. Scopri i nostri Store in tutta Italia",
     "booth": "",
+    "description": "Gli SCK Finestre Store sono gli showroom in cui trovare i prodotti e i servizi dell’intero mondo infissi e serramenti. Scopri i nostri Store in tutta Italia",
     "email": "maikoarchitecture@gmail.com",
-    "city": "",
+    "mobile_primary": "+8120-360-4027",
+    "domain": "https://sckfinestrestore.it",
     "full_address": "",
-    "mobile_primary": "+8120-360-4027"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Telmes",
-    "domain": "telmes-automation.com",
-    "description": "Telmes di Modugno si occupa da anni di realizzazione di Impianti di Domotica e Quadri Elettrici per aziende. Chiamaci per informazioni sui nostri servizi.",
     "booth": "",
+    "description": "Telmes di Modugno si occupa da anni di realizzazione di Impianti di Domotica e Quadri Elettrici per aziende. Chiamaci per informazioni sui nostri servizi.",
     "email": "info@telmes.it",
-    "city": "",
+    "mobile_primary": "+39 080 5324669",
+    "domain": "https://telmes-automation.com",
     "full_address": "",
-    "mobile_primary": "+39 080 5324669"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tera srl",
-    "domain": "terasrl.it",
-    "description": "Soluzioni IoT basate su Edge Computers che abilitano servizi digitali data-driven per applicazioni Smart Building, Energy, I5.0.",
     "booth": "",
+    "description": "Soluzioni IoT basate su Edge Computers che abilitano servizi digitali data-driven per applicazioni Smart Building, Energy, I5.0.",
     "email": "info@terasrl.it",
-    "city": "",
+    "mobile_primary": "+390802147775",
+    "domain": "https://terasrl.it",
     "full_address": "",
-    "mobile_primary": "+390802147775"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tecnoswitch",
-    "domain": "tecnoswitch.com",
-    "description": "Siamo un'azienda italiana che si occupa della progettazione e produzione di materiale per la termoregolazione, automatismi ed emergenza.",
     "booth": "",
+    "description": "Siamo un'azienda italiana che si occupa della progettazione e produzione di materiale per la termoregolazione, automatismi ed emergenza.",
     "email": "info@tecnoswitch.com",
-    "city": "",
+    "mobile_primary": "99 - 105 76123",
+    "domain": "https://tecnoswitch.com",
     "full_address": "",
-    "mobile_primary": "99 - 105 76123"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Shenzhen TVT Digital Technology Co., Ltd",
-    "domain": "tvt.net.cn",
-    "description": "TVT has a long history of working towards technology research and development and application, owning integrated product lines including HD IP camera, HD coaxial camera, HD NVR, HD DVR and so on, providing system storing and controlling solutions, which has been widely applied to industries such as safe city, transportation finance, real estate, education, commercial chain, park etc.",
     "booth": "",
+    "description": "TVT has a long history of working towards technology research and development and application, owning integrated product lines including HD IP camera, HD coaxial camera, HD NVR, HD DVR and so on, providing system storing and controlling solutions, which has been widely applied to industries such as safe city, transportation finance, real estate, education, commercial chain, park etc.",
     "email": "",
-    "city": "",
+    "mobile_primary": "4008-613959",
+    "domain": "https://tvt.net.cn",
     "full_address": "",
-    "mobile_primary": "4008-613959"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "tecnofiber logo",
-    "domain": "tck-lan.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://tck-lan.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "UNV",
-    "domain": "uniview.com",
-    "description": "Uniview is a leading global manufacturer of professional IP video surveillance devices and solutions,which endeavors to build a safer world.Â",
     "booth": "",
+    "description": "Uniview is a leading global manufacturer of professional IP video surveillance devices and solutions,which endeavors to build a safer world.Â",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://uniview.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "v tac",
-    "domain": "led-italia.it",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://led-italia.it",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vultech",
-    "domain": "vultech.it",
-    "description": "VulTech è un brand italiano che produce e distribuisce prodotti hi-tech e accessori informatici",
     "booth": "",
+    "description": "VulTech è un brand italiano che produce e distribuisce prodotti hi-tech e accessori informatici",
     "email": "support@vultech.it",
-    "city": "",
+    "mobile_primary": "07237261214",
+    "domain": "https://vultech.it",
     "full_address": "",
-    "mobile_primary": "07237261214"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vivaldi",
-    "domain": "vivaldigroup.it",
-    "description": "Produzione di tecnologie audio video multimediali integrate, Home & Building multimedia automation, Public address & professional audio, EN54 voice evacuation alarm system",
     "booth": "",
+    "description": "Produzione di tecnologie audio video multimediali integrate, Home & Building multimedia automation, Public address & professional audio, EN54 voice evacuation alarm system",
     "email": "info@vivaldigroup.it",
-    "city": "",
+    "mobile_primary": "+39 0421 307825",
+    "domain": "https://vivaldigroup.it",
     "full_address": "",
-    "mobile_primary": "+39 0421 307825"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Winger",
-    "domain": "wingersrl.com",
-    "description": "Winger S.R.L. realizza infrastrutture elettriche e IT scalabili per aziende, ambienti industriali, reti, cablaggio, rack, smart building e automazione.",
     "booth": "",
+    "description": "Winger S.R.L. realizza infrastrutture elettriche e IT scalabili per aziende, ambienti industriali, reti, cablaggio, rack, smart building e automazione.",
     "email": "info@wingersrl.com",
-    "city": "",
+    "mobile_primary": "+390656566639",
+    "domain": "https://wingersrl.com",
     "full_address": "",
-    "mobile_primary": "+390656566639"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Smart Systems Distribution Sàrl",
-    "domain": "smartsd.ch",
-    "description": "Smart Systems Distribution Sàrl is a Swiss-based company distributing smart home and smart building devices based on Z-Wave, Zigbee, KNX and Modbus technologies. Distributed brands: Heltun and Z-Wave.Me",
     "booth": "",
+    "description": "Smart Systems Distribution Sàrl is a Swiss-based company distributing smart home and smart building devices based on Z-Wave, Zigbee, KNX and Modbus technologies. Distributed brands: Heltun and Z-Wave.Me",
     "email": "sales@smartsd.ch",
-    "city": "",
+    "mobile_primary": "+41797876213",
+    "domain": "https://smartsd.ch",
     "full_address": "",
-    "mobile_primary": "+41797876213"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zennio",
-    "domain": "zennio.com",
-    "description": "Technology with a soul of design. KNX smart home solutions by Zennio for hotels, residential and commercial buildings: touch panels, actuators, sensors.",
     "booth": "",
+    "description": "Technology with a soul of design. KNX smart home solutions by Zennio for hotels, residential and commercial buildings: touch panels, actuators, sensors.",
     "email": "info@zennio.com",
-    "city": "",
+    "mobile_primary": "+34925232002",
+    "domain": "https://zennio.com",
     "full_address": "",
-    "mobile_primary": "+34925232002"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zeliatech-IT",
-    "domain": "zeliatech.eu",
-    "description": "Unisciti a Zeliatech nella costruzione di un futuro energetico sostenibile con soluzioni all'avanguardia in fotovoltaico, e-mobility, smart building e green data center.",
     "booth": "",
+    "description": "Unisciti a Zeliatech nella costruzione di un futuro energetico sostenibile con soluzioni all'avanguardia in fotovoltaico, e-mobility, smart building e green data center.",
     "email": "",
-    "city": "",
+    "mobile_primary": "07/01/2026",
+    "domain": "https://zeliatech.eu",
     "full_address": "",
-    "mobile_primary": "07/01/2026"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zippo - Materiale Elettrico",
-    "domain": "zippoweb.com",
-    "description": "La Zippo è un’azienda di produzione di materiale elettrico ed elettronico sorta nel 1971 grazie all’intuizione vincente del suo fondatore che ha capito, con netto anticipo rispetto alla concorrenza, come emergere nella logica del mercato globale : specializzarsi.",
     "booth": "",
+    "description": "La Zippo è un’azienda di produzione di materiale elettrico ed elettronico sorta nel 1971 grazie all’intuizione vincente del suo fondatore che ha capito, con netto anticipo rispetto alla concorrenza, come emergere nella logica del mercato globale : specializzarsi.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+39) 0883 557 484",
+    "domain": "https://zippoweb.com",
     "full_address": "",
-    "mobile_primary": "+39) 0883 557 484"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

@@ -1,322 +1,354 @@
 [
   {
     "company_name": "Amber Employment Services",
-    "domain": "staffera.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://staffera.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ashfield Accountancy",
-    "domain": "find-and-update.company-information.service.gov.uk",
-    "description": "Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
     "booth": "",
+    "description": "Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://find-and-update.company-information.service.gov.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Business Hub Central",
-    "domain": "wokingchamber.org.uk",
-    "description": "At the Woking Chamber of Commerce, we connect businesses across the borough, create meaningful opportunities, and work alongside local government to unlock growth - for your business and our community.",
     "booth": "",
+    "description": "At the Woking Chamber of Commerce, we connect businesses across the borough, create meaningful opportunities, and work alongside local government to unlock growth - for your business and our community.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "01483 363057",
+    "domain": "https://wokingchamber.org.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "01483 363057"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Business Surrey",
-    "domain": "businesssurrey.co.uk",
-    "description": "Contact Business Surrey today to find out how we can help your business grow and succeed wherever you are in your business journey.",
     "booth": "",
+    "description": "Contact Business Surrey today to find out how we can help your business grow and succeed wherever you are in your business journey.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://businesssurrey.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Capital Service Solutions",
-    "domain": "uk.indeed.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://uk.indeed.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Clockwork Recruitment",
-    "domain": "tracxn.com",
-    "description": "Join 850+ Venture Capitalists, Private Equity Firms, Investment Banks and Corporates who leverage Tracxn to track the world's most innovative companies and emerging sectors.",
     "booth": "",
+    "description": "Join 850+ Venture Capitalists, Private Equity Firms, Investment Banks and Corporates who leverage Tracxn to track the world's most innovative companies and emerging sectors.",
     "email": "hi@tracxn.com",
-    "city": "Woking",
+    "mobile_primary": "+91-9x3x0x0x1x",
+    "domain": "https://tracxn.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "+91-9x3x0x0x1x"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Comus",
-    "domain": "comus.io",
-    "description": "Organize, manage, and sell tickets with the UK's all-in-one platform. Get transparent, low fees, dedicated British support, and full customer data ownership. Start selling today!",
     "booth": "",
+    "description": "Organize, manage, and sell tickets with the UK's all-in-one platform. Get transparent, low fees, dedicated British support, and full customer data ownership. Start selling today!",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://comus.io",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Conquest Social Media",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Costco",
-    "domain": "costco.com",
-    "description": "Shop Costco.com for electronics, computers, furniture, outdoor living, appliances, jewelry and more. Enjoy low warehouse prices on name-brands products delivered to your door",
     "booth": "",
+    "description": "Shop Costco.com for electronics, computers, furniture, outdoor living, appliances, jewelry and more. Enjoy low warehouse prices on name-brands products delivered to your door",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://costco.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Curchod & Co",
-    "domain": "s3-eu-west-1.amazonaws.com",
-    "description": "Amazon S3 is cloud object storage with industry-leading scalability, data availability, security, and performance. S3 is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics.",
     "booth": "",
+    "description": "Amazon S3 is cloud object storage with industry-leading scalability, data availability, security, and performance. S3 is ideal for data lakes, mobile applications, backup and restore, archival, IoT devices, ML, AI, and analytics.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://s3-eu-west-1.amazonaws.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "CYS Financial",
-    "domain": "register.fca.org.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://register.fca.org.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dukes Consulting",
-    "domain": "dukesconsulting.co.uk",
-    "description": "Specialists in Legionella control, water hygiene and treatment consultancy, and practical training for compliance and safety.",
     "booth": "",
+    "description": "Specialists in Legionella control, water hygiene and treatment consultancy, and practical training for compliance and safety.",
     "email": "info@dukesconsulting.co.uk",
-    "city": "Woking",
+    "mobile_primary": "02033722832",
+    "domain": "https://dukesconsulting.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "02033722832"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dutton Gregory",
-    "domain": "duttongregory.co.uk",
-    "description": "Dutton Gregory Solicitors, with offices across Hampshire, Dorset, Surrey & Merseyside, meeting the needs of companies & individuals in the UK",
     "booth": "",
+    "description": "Dutton Gregory Solicitors, with offices across Hampshire, Dorset, Surrey & Merseyside, meeting the needs of companies & individuals in the UK",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "01202 315005",
+    "domain": "https://duttongregory.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "01202 315005"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fiery Bird/Phoenix Cultural Centre",
-    "domain": "musicvenuetrust.com",
-    "description": "Music Venue Trust is a UK registered charity which acts to protect, secure and improve Grassroots Music Venues.",
     "booth": "",
+    "description": "Music Venue Trust is a UK registered charity which acts to protect, secure and improve Grassroots Music Venues.",
     "email": "info@musicvenuetrust-com.stackstaging.com",
-    "city": "Woking",
+    "mobile_primary": "0203-930-8279",
+    "domain": "https://musicvenuetrust.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "0203-930-8279"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "FSB and members",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Garnet Finance",
-    "domain": "garnetfinance.co.uk",
-    "description": "Garnet Finance arranges finance for developers of new build projects. These can vary from a single unit to a multi-unit development in residential, commercial or mixed use. We work with an exhaustive list of lenders which make it possible to find suitable finance options for most developments.",
     "booth": "",
+    "description": "Garnet Finance arranges finance for developers of new build projects. These can vary from a single unit to a multi-unit development in residential, commercial or mixed use. We work with an exhaustive list of lenders which make it possible to find suitable finance options for most developments.",
     "email": "Kevin@garnetfinance.co.uk",
-    "city": "Woking",
+    "mobile_primary": "44 (0)788 9259 761",
+    "domain": "https://garnetfinance.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "44 (0)788 9259 761"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Geek Chic",
-    "domain": "geekchicevents.co.uk",
-    "description": "Discover unforgettable entertainment and event production for weddings, corporate events, and celebrations. Geek Chic Events creates experiences that inspire.",
     "booth": "",
+    "description": "Discover unforgettable entertainment and event production for weddings, corporate events, and celebrations. Geek Chic Events creates experiences that inspire.",
     "email": "hello@geekchic.events",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://geekchicevents.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hampton Digital",
-    "domain": "hamptondigitalservices.com",
-    "description": "Hampton Digital Services : We are a Woking based digital marketing & web design agency specialising in wordpress for service based businesses.",
     "booth": "",
+    "description": "Hampton Digital Services : We are a Woking based digital marketing & web design agency specialising in wordpress for service based businesses.",
     "email": "tracy@hamptondigitalservices.com",
-    "city": "Woking",
+    "mobile_primary": "07785798324",
+    "domain": "https://hamptondigitalservices.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "07785798324"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hilton Woking",
-    "domain": "hilton.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://hilton.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "HR Dept",
-    "domain": "hrdept.co.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://hrdept.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lansbury Business Estate",
-    "domain": "lansbury.co.uk",
-    "description": "Move your business to a unique heritage estate in Knaphill, Woking. Free parking & green spaces. Near to M3, A3, M25, Heathrow & Gatwick. Enquire now.",
     "booth": "",
+    "description": "Move your business to a unique heritage estate in Knaphill, Woking. Free parking & green spaces. Near to M3, A3, M25, Heathrow & Gatwick. Enquire now.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "01483 387 305",
+    "domain": "https://lansbury.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "01483 387 305"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Linkable",
-    "domain": "linkable.org.uk",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://linkable.org.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Omni Village",
-    "domain": "",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Porky Whites",
-    "domain": "porkywhites.co.uk",
-    "description": "Porky Whites: premium sausages makers. Buy Traditionals, Premium Sausages/Sausage meat, Surrey Chipolatas/Sausages, Porky Lights & Chicken Sausages",
     "booth": "",
+    "description": "Porky Whites: premium sausages makers. Buy Traditionals, Premium Sausages/Sausage meat, Surrey Chipolatas/Sausages, Porky Lights & Chicken Sausages",
     "email": "customerenquiry@porkywhites.co.uk",
-    "city": "Woking",
+    "mobile_primary": "+441483727000",
+    "domain": "https://porkywhites.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "+441483727000"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "RHL",
-    "domain": "woking.gov.uk",
-    "description": "How to get in touch if you have a question about our services.",
     "booth": "",
+    "description": "How to get in touch if you have a question about our services.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://woking.gov.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "STC Mobile",
-    "domain": "worldradiohistory.com",
-    "description": "WorldRadioHistory: Thousands of Radio Music Electronics Publications ALL FREE",
     "booth": "",
+    "description": "WorldRadioHistory: Thousands of Radio Music Electronics Publications ALL FREE",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "2003-2009",
+    "domain": "https://worldradiohistory.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "2003-2009"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "TaxAssist",
-    "domain": "taxassist.co.uk",
-    "description": "TaxAssist Accountants provide tax accountancy services and advice for small, medium, and growing businesses. Contact us for year-end accounts, bookkeeping, tax return services, VAT and payroll services on 0800 0523 555",
     "booth": "",
+    "description": "TaxAssist Accountants provide tax accountancy services and advice for small, medium, and growing businesses. Contact us for year-end accounts, bookkeeping, tax return services, VAT and payroll services on 0800 0523 555",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "08000523555",
+    "domain": "https://taxassist.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "08000523555"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Village Hotels",
-    "domain": "village-hotels.co.uk",
-    "description": "Village Hotels are the hotels with everything under one roof. We're located across the UK with comfy rooms, Pub & Grill, gym, pool, meeting rooms and more!",
     "booth": "",
+    "description": "Village Hotels are the hotels with everything under one roof. We're located across the UK with comfy rooms, Pub & Grill, gym, pool, meeting rooms and more!",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://village-hotels.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Walfinch",
-    "domain": "walfinch.com",
-    "description": "Make now your Time to Thrive. Walfinch home care is the only service to champion an active lifetyle",
     "booth": "",
+    "description": "Make now your Time to Thrive. Walfinch home care is the only service to champion an active lifetyle",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "01235634893",
+    "domain": "https://walfinch.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "01235634893"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Woking Chamber of Commerce",
-    "domain": "wokingchamber.org.uk",
-    "description": "At the Woking Chamber of Commerce, we connect businesses across the borough, create meaningful opportunities, and work alongside local government to unlock growth - for your business and our community.",
     "booth": "",
+    "description": "At the Woking Chamber of Commerce, we connect businesses across the borough, create meaningful opportunities, and work alongside local government to unlock growth - for your business and our community.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "01483 363057",
+    "domain": "https://wokingchamber.org.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": "01483 363057"
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Woking Gymnastics",
-    "domain": "wokinggymnastics.co.uk",
-    "description": "One of the UK's biggest gymnastics clubs, with 1,500+ members. Classes for all ages, from toddlers to competitive teens, in Woking, Surrey.",
     "booth": "",
+    "description": "One of the UK's biggest gymnastics clubs, with 1,500+ members. Classes for all ages, from toddlers to competitive teens, in Woking, Surrey.",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://wokinggymnastics.co.uk",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   },
   {
     "company_name": "Woking News & Mail",
-    "domain": "britishnewspaperarchive.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Woking",
+    "mobile_primary": "",
+    "domain": "https://britishnewspaperarchive.com",
     "full_address": "Woking, Surrey, United Kingdom",
-    "mobile_primary": ""
+    "city": "Woking",
+    "linkedin_url": ""
   }
 ]

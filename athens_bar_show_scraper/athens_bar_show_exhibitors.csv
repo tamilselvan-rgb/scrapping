@@ -1,23 +1,23 @@
-exhibitor_name,domain,contact_number,mail,location,,address,country
-Athens Bar Show Gift Shop,baracademy.gr,+30 210 6400540,info@baracademy.gr,"Larissis 18 & Pavlou Mela, 115 24 Athens",,"Larissis 18 & Pavlou Mela, 115 24 Athens",Greece
-Bacardi Greece,bacardi.com,+30 210 6889700,consumer-relations@bacardi.com,"28th Oktovriou 3, 152 32 Chalandri, Athens",,"28th Oktovriou 3, 152 32 Chalandri, Athens",Greece
-Bar Academy,baracademy.gr,+30 210 6400540,info@baracademy.gr,"Larissis 18 & Pavlou Mela, 115 24 Athens",,"Larissis 18 & Pavlou Mela, 115 24 Athens",Greece
-Coca-Cola 3E,gr.coca-colahellenic.com,+30 210 6381700,consumer.relations@cchellenic.com,"Fragkokklisias 9, 151 25 Marousi, Athens",,"Fragkokklisias 9, 151 25 Marousi, Athens",Greece
-Coffee & Bar Experts,coffeebarexperts.gr,+30 26950 42105,infoeshop@coffeebarexperts.gr,"Ethnikis Antistaseos 48, 291 00 Zakynthos",,"Ethnikis Antistaseos 48, 291 00 Zakynthos",Greece
-Concepts,concepts.gr,+30 2310 477140,info@concepts.gr,"10th km Thessaloniki - Moudania, 570 01 Thermi, Thessaloniki",,"10th km Thessaloniki - Moudania, 570 01 Thermi, Thessaloniki",Greece
-Jägermeister,gr.jagermeister.com,+49 5331 81-0,info@jaegermeister.de,"Mast-Jägermeister SE, Jägermeisterstraße 7-15, 38296 Wolfenbüttel",,"Mast-Jägermeister SE, Jägermeisterstraße 7-15, 38296 Wolfenbüttel",Germany
-Jeroboam,jeroboam.gr,+30 210 2715000,info@jeroboam.gr,"Marinou Antypa 62-66, 141 21 Neo Iraklio, Athens",,"Marinou Antypa 62-66, 141 21 Neo Iraklio, Athens",Greece
-Knut Hansen Dry Gin,hamburgdistilling.com,+49 40 3346 8390,info@knuthansengin.de,"Hamburg Distilling Company HDC GmbH, Friedensallee 273, 22763 Hamburg",,"Hamburg Distilling Company HDC GmbH, Friedensallee 273, 22763 Hamburg",Germany
-Pro Drinks,prodrinks.gr,+30 210 6628290,info@prodrinks.gr,"2nd km Koropi - Markopoulo Ave, 194 00 Koropi, Athens",,"2nd km Koropi - Markopoulo Ave, 194 00 Koropi, Athens",Greece
-Pukka,pukka.gr,+30 210 3410500,info@pukka.gr,"Iera Odos 12, 104 35 Athens",,"Iera Odos 12, 104 35 Athens",Greece
-Rezos Brands,baredition.rezosbrands.com,+30 2610 647000,info@rezosbrands.com,"Industrial Area of Patras, Block 44, 250 18 Patras",,"Industrial Area of Patras, Block 44, 250 18 Patras",Greece
-Taf Coffee,cafetaf.gr,+30 210 3800014,info@cafetaf.gr,"Benaki 7, 106 78 Athens",,"Benaki 7, 106 78 Athens",Greece
-The Spirit of Italy,thespiritofitaly.com,+39 02 4801 0256,info@thespiritofitaly.com,"Via Monte Rosa 91, 20149 Milan",,"Via Monte Rosa 91, 20149 Milan",Italy
-Vikos Premium Mixers,vikos.com,+30 26510 61000,info@vikos.com,"Kalpaki, 440 04 Ioannina",,"Kalpaki, 440 04 Ioannina",Greece
-W.S. KAROULIAS,karoulias.gr,+30 210 8193600,contact@karoulias.gr,"23rd km N.R. Athens - Lamia, 145 65 Agios Stefanos, Athens",,"23rd km N.R. Athens - Lamia, 145 65 Agios Stefanos, Athens",Greece
-Cenote,tequilacenote.com,+52 374 742 0929,info@tequilacenote.com,"Fabrica de Tequilas Finos, Heroe de Nacozari 5, 46400 Tequila, Jalisco",,"Fabrica de Tequilas Finos, Heroe de Nacozari 5, 46400 Tequila, Jalisco",Mexico
-Ocho,ochotequila.com,+52 348 784 5555,info@ochotequila.com,"C. Zaragoza 21, 47180 Arandas, Jalisco",,"C. Zaragoza 21, 47180 Arandas, Jalisco",Mexico
-Nektar Bar Co.,nektarbarco.com,+30 210 8945000,info@nektarbarco.com,"Leoforos Vouliagmenis 102, 166 74 Glyfada, Athens",,"Leoforos Vouliagmenis 102, 166 74 Glyfada, Athens",Greece
-THE BITTER TRUTH,the-bitter-truth.com,+49 89 201 8060,info@the-bitter-truth.com,"Wolfratshauser Str. 21b, 82049 Pullach",,"Wolfratshauser Str. 21b, 82049 Pullach",Germany
-TIKI LOVERS Rum & Spirits,tiki-lovers.com,+49 89 201 8060,info@tiki-lovers.com,"Wolfratshauser Str. 21b, 82049 Pullach",,"Wolfratshauser Str. 21b, 82049 Pullach",Germany
-Coquo,go.coquo.gr,+30 210 6100800,hello@coquo.gr,"Agiou Konstantinou 40, 151 24 Marousi, Athens",,"Agiou Konstantinou 40, 151 24 Marousi, Athens",Greece
+ï»¿company_name,booth,description,email,mobile_primary,domain,full_address,city,linkedin_url
+Athens Bar Show Gift Shop,,,info@baracademy.gr,+30 210 6400540,https://baracademy.gr,"Larissis 18 & Pavlou Mela, 115 24 Athens",,
+Bacardi Greece,,,consumer-relations@bacardi.com,+30 210 6889700,https://bacardi.com,"28th Oktovriou 3, 152 32 Chalandri, Athens",,
+Bar Academy,,,info@baracademy.gr,+30 210 6400540,https://baracademy.gr,"Larissis 18 & Pavlou Mela, 115 24 Athens",,
+Coca-Cola 3E,,,consumer.relations@cchellenic.com,+30 210 6381700,https://gr.coca-colahellenic.com,"Fragkokklisias 9, 151 25 Marousi, Athens",,
+Coffee & Bar Experts,,,infoeshop@coffeebarexperts.gr,+30 26950 42105,https://coffeebarexperts.gr,"Ethnikis Antistaseos 48, 291 00 Zakynthos",,
+Concepts,,,info@concepts.gr,+30 2310 477140,https://concepts.gr,"10th km Thessaloniki - Moudania, 570 01 Thermi, Thessaloniki",,
+JÃ¤germeister,,,info@jaegermeister.de,+49 5331 81-0,https://gr.jagermeister.com,"Mast-JÃ¤germeister SE, JÃ¤germeisterstraÃŸe 7-15, 38296 WolfenbÃ¼ttel",,
+Jeroboam,,,info@jeroboam.gr,+30 210 2715000,https://jeroboam.gr,"Marinou Antypa 62-66, 141 21 Neo Iraklio, Athens",,
+Knut Hansen Dry Gin,,,info@knuthansengin.de,+49 40 3346 8390,https://hamburgdistilling.com,"Hamburg Distilling Company HDC GmbH, Friedensallee 273, 22763 Hamburg",,
+Pro Drinks,,,info@prodrinks.gr,+30 210 6628290,https://prodrinks.gr,"2nd km Koropi - Markopoulo Ave, 194 00 Koropi, Athens",,
+Pukka,,,info@pukka.gr,+30 210 3410500,https://pukka.gr,"Iera Odos 12, 104 35 Athens",,
+Rezos Brands,,,info@rezosbrands.com,+30 2610 647000,https://baredition.rezosbrands.com,"Industrial Area of Patras, Block 44, 250 18 Patras",,
+Taf Coffee,,,info@cafetaf.gr,+30 210 3800014,https://cafetaf.gr,"Benaki 7, 106 78 Athens",,
+The Spirit of Italy,,,info@thespiritofitaly.com,+39 02 4801 0256,https://thespiritofitaly.com,"Via Monte Rosa 91, 20149 Milan",,
+Vikos Premium Mixers,,,info@vikos.com,+30 26510 61000,https://vikos.com,"Kalpaki, 440 04 Ioannina",,
+W.S. KAROULIAS,,,contact@karoulias.gr,+30 210 8193600,https://karoulias.gr,"23rd km N.R. Athens - Lamia, 145 65 Agios Stefanos, Athens",,
+Cenote,,,info@tequilacenote.com,+52 374 742 0929,https://tequilacenote.com,"Fabrica de Tequilas Finos, Heroe de Nacozari 5, 46400 Tequila, Jalisco",,
+Ocho,,,info@ochotequila.com,+52 348 784 5555,https://ochotequila.com,"C. Zaragoza 21, 47180 Arandas, Jalisco",,
+Nektar Bar Co.,,,info@nektarbarco.com,+30 210 8945000,https://nektarbarco.com,"Leoforos Vouliagmenis 102, 166 74 Glyfada, Athens",,
+THE BITTER TRUTH,,,info@the-bitter-truth.com,+49 89 201 8060,https://the-bitter-truth.com,"Wolfratshauser Str. 21b, 82049 Pullach",,
+TIKI LOVERS Rum & Spirits,,,info@tiki-lovers.com,+49 89 201 8060,https://tiki-lovers.com,"Wolfratshauser Str. 21b, 82049 Pullach",,
+Coquo,,,hello@coquo.gr,+30 210 6100800,https://go.coquo.gr,"Agiou Konstantinou 40, 151 24 Marousi, Athens",,

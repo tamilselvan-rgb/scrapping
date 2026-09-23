@@ -1,332 +1,365 @@
 [
   {
     "company_name": "'DA GRASSO' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "tracxn.com",
-    "description": "",
     "booth": "Hala B / E20",
+    "description": "",
     "email": "",
-    "city": "ŁÓDŹ",
+    "mobile_primary": "",
+    "domain": "https://tracxn.com",
     "full_address": "POMORSKA 106, 91-402, ŁÓDŹ, Poland",
-    "mobile_primary": ""
+    "city": "ŁÓDŹ",
+    "linkedin_url": ""
   },
   {
     "company_name": "DATECS-POLSKA Sp. z o. o.",
-    "domain": "datecs-polska.pl",
-    "description": "DATECS jest wiodącym producentem w Europie i znaczącym na świecie rozwiązań ECR oraz POS. Naszym celem jest, zmienić przyszłość POS poprzez oferowanie najnowocześniejszych produktów stworzonych przez nasz doświadczony zespół ekspertów i produkowanych w jak najwyższej jakości, czego potwierdzeniem jest wprowadzony system zarządzania jakością ISO/IEC 9001:2008 oraz ISO/IEC 27001:2013. Z pasji do innowacji technologicznych i satysfakcji klientów zdobyliśmy serca wielu klientów na całym świecie.",
     "booth": "Hala B / F29",
+    "description": "DATECS jest wiodącym producentem w Europie i znaczącym na świecie rozwiązań ECR oraz POS. Naszym celem jest, zmienić przyszłość POS poprzez oferowanie najnowocześniejszych produktów stworzonych przez nasz doświadczony zespół ekspertów i produkowanych w jak najwyższej jakości, czego potwierdzeniem jest wprowadzony system zarządzania jakością ISO/IEC 9001:2008 oraz ISO/IEC 27001:2013. Z pasji do innowacji technologicznych i satysfakcji klientów zdobyliśmy serca wielu klientów na całym świecie.",
     "email": "",
-    "city": "JAWOROWA",
+    "mobile_primary": "",
+    "domain": "https://datecs-polska.pl",
     "full_address": "DRUKARSKA 1, 05-090, JAWOROWA, Poland",
-    "mobile_primary": ""
+    "city": "JAWOROWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dotykačka",
-    "domain": "dotykacka.pl",
-    "description": "Dotykačka jest dostawcą innowacyjnego systemu POS nowej generacji, cieszącego się zaufaniem tysięcy klientów – małych i średnich firm gastronomicznych, handlowych i usługowych. Użytkownicy systemu Dotykačka otrzymują kompletne rozwiązanie kasowe, zintegrowane z wiodącymi na rynku technologiami, takimi jak serwisy do obsługi zamówień z dostawą, rozwiązania w zakresie płatności bezgotówkowych czy platformy e-commerce. Grupa biznesowa Dotykačka obsługuje każdego dnia dziesiątki tysięcy komercyjnych użytkowników w Europie.",
     "booth": "Hala B / D7",
+    "description": "Dotykačka jest dostawcą innowacyjnego systemu POS nowej generacji, cieszącego się zaufaniem tysięcy klientów – małych i średnich firm gastronomicznych, handlowych i usługowych. Użytkownicy systemu Dotykačka otrzymują kompletne rozwiązanie kasowe, zintegrowane z wiodącymi na rynku technologiami, takimi jak serwisy do obsługi zamówień z dostawą, rozwiązania w zakresie płatności bezgotówkowych czy platformy e-commerce. Grupa biznesowa Dotykačka obsługuje każdego dnia dziesiątki tysięcy komercyjnych użytkowników w Europie.",
     "email": "info@dotykacka.pl",
-    "city": "WARSZAWA",
+    "mobile_primary": "+48 22 307 85 88",
+    "domain": "https://dotykacka.pl",
     "full_address": "SIENNA 64, 00-825, WARSZAWA, Poland",
-    "mobile_primary": "+48 22 307 85 88"
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "EDATA POLSKA Sp. z o.o.",
-    "domain": "edatapolska.pl",
-    "description": "Firma EDATA POLSKA Sp. z o.o. (wcześniej jako Farimex Polska Sp. z o.o.) od kilkunastu już lat prowadzi sprzedaż i serwis kas oraz drukarek fiskalnych marek Telestar, Elemis i Farex.",
     "booth": "Hala B / D4.16",
+    "description": "Firma EDATA POLSKA Sp. z o.o. (wcześniej jako Farimex Polska Sp. z o.o.) od kilkunastu już lat prowadzi sprzedaż i serwis kas oraz drukarek fiskalnych marek Telestar, Elemis i Farex.",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://edatapolska.pl",
     "full_address": "PUŁAWSKA 481, 02-844, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Espiga",
-    "domain": "espiga.pl",
-    "description": "Espiga to polska firma specjalizująca się w produkcji pieczywa rzemieślniczego oraz mąki specjalistycznej, oferując szeroki wybór chlebów, bułek i wypieków o tradycyjnym smaku i naturalnym składzie, często przygotowywanych z zakwasem i bez dodatku konserwantów. Jej oferta obejmuje produkty zarówno do codziennego spożycia, jak i do gastronomii, piekarni oraz klientów detalicznych, którzy cenią wysoką jakość pieczywa. Espiga stawia na starannie dobrane surowce, lokalne składniki i procesy wypieku inspirowane tradycją piekarską, co przekłada się na bogaty smak i aromat produktów. Firma promuje zdrowe i naturalne produkty zbożowe oraz wspiera rozwój kultury pieczenia chleba w Polsce.",
     "booth": "Hala D / D3.15",
+    "description": "Espiga to polska firma specjalizująca się w produkcji pieczywa rzemieślniczego oraz mąki specjalistycznej, oferując szeroki wybór chlebów, bułek i wypieków o tradycyjnym smaku i naturalnym składzie, często przygotowywanych z zakwasem i bez dodatku konserwantów. Jej oferta obejmuje produkty zarówno do codziennego spożycia, jak i do gastronomii, piekarni oraz klientów detalicznych, którzy cenią wysoką jakość pieczywa. Espiga stawia na starannie dobrane surowce, lokalne składniki i procesy wypieku inspirowane tradycją piekarską, co przekłada się na bogaty smak i aromat produktów. Firma promuje zdrowe i naturalne produkty zbożowe oraz wspiera rozwój kultury pieczenia chleba w Polsce.",
     "email": "",
-    "city": "RASZYN",
+    "mobile_primary": "",
+    "domain": "https://espiga.pl",
     "full_address": "LOTNICZA 51, 05-090, RASZYN, Poland",
-    "mobile_primary": ""
+    "city": "RASZYN",
+    "linkedin_url": ""
   },
   {
     "company_name": "GASTRODIGITAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "",
-    "description": "",
     "booth": "Hala B / E17",
+    "description": "",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "ALEJA BOHATERÓW WRZEŚNIA 18/42A, 02-389, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Grafen Europe sp. z o.o.",
-    "domain": "grafen.com",
-    "description": "Grafen Europe – Twój zaufany partner w profesjonalnej gastronomii Grafen Europe to marka, która od lat wspiera branżę gastronomiczną, dostarczając innowacyjne, funkcjonalne i niezawodne rozwiązania. Jej celem jest tworzenie przestrzeni kuchennych, które nie tylko inspirują, ale przede wszystkim wspierają codzienną pracę szefów kuchni i ich zespołów. Dzięki ich urządzeniom kreatywność spotyka się z najwyższą jakością i efektywnością.",
     "booth": "Hala B / D2",
+    "description": "Grafen Europe – Twój zaufany partner w profesjonalnej gastronomii Grafen Europe to marka, która od lat wspiera branżę gastronomiczną, dostarczając innowacyjne, funkcjonalne i niezawodne rozwiązania. Jej celem jest tworzenie przestrzeni kuchennych, które nie tylko inspirują, ale przede wszystkim wspierają codzienną pracę szefów kuchni i ich zespołów. Dzięki ich urządzeniom kreatywność spotyka się z najwyższą jakością i efektywnością.",
     "email": "",
-    "city": "ROBAKOWO",
+    "mobile_primary": "",
+    "domain": "https://grafen.com",
     "full_address": "FIRMOWA 12, 62-023, ROBAKOWO, Poland",
-    "mobile_primary": ""
+    "city": "ROBAKOWO",
+    "linkedin_url": ""
   },
   {
     "company_name": "HOME BRANDS Sp. z o.o",
-    "domain": "hb24.pl",
-    "description": "Home Brands Sp. z o.o. działa na polskim rynku od około roku 2015 i prowadzi sklep internetowy HB24.pl, który oferuje szeroki wybór wysokiej klasy artykułów kuchennych i domowych – od akcesoriów kuchennych, naczyń, narzędzi, po sprzęt wyposażenia wnętrz. Firma obsługuje zarówno klientów detalicznych, jak i segment B2B (hurt, wyposażenie gastronomii/HoReCa), zapewniając sprzedaż online, katalogi, promocje i logistykę.",
     "booth": "Hala B / C2",
+    "description": "Home Brands Sp. z o.o. działa na polskim rynku od około roku 2015 i prowadzi sklep internetowy HB24.pl, który oferuje szeroki wybór wysokiej klasy artykułów kuchennych i domowych – od akcesoriów kuchennych, naczyń, narzędzi, po sprzęt wyposażenia wnętrz. Firma obsługuje zarówno klientów detalicznych, jak i segment B2B (hurt, wyposażenie gastronomii/HoReCa), zapewniając sprzedaż online, katalogi, promocje i logistykę.",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://hb24.pl",
     "full_address": "JÓZEFA MEHOFFERA 86, 03-118, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "IBICON",
-    "domain": "ibicon.pl",
-    "description": "IBICON – Twój zaufany partner w automatyzacji obrotu gotówkowego dla sektora HoReCa Od ponad 20 lat IBICON dostarcza na polski rynek zaawansowane, niezawodne i sprawdzone rozwiązania technologiczne do obsługi gotówki. Jako eksperti w optymalizacji procesów finansowych w handlu, usługach i hotelarstwie, wiemy, jak ważna jest płynność, bezpieczeństwo oraz precyzja w każdym punkcie styku z klientem. Podczas targów Hotel Equipment zapraszamy do zapoznania się z naszą kompleksową ofertą dedykowaną branży hotelarskiej i gastronomicznej. Oferujemy: Automaty płatnicze (recyklery gotówki): Nowoczesne urządzenia, które w pełni zamykają obieg gotówki w hotelu, restauracji czy strefie SPA. Gwarantują natychmiastowe wydawanie reszty, eliminują ryzyko pomyłek i mank kasowych oraz podnoszą standard higieny. Profesjonalne liczarki i sortery banknotów oraz bilonu: Sprzęt marek światowych oraz autoryzowane urządzenia marki SELECTIC, które błyskawicznie weryfikują autentyczność pieniędzy i usprawniają codzienne zamknięcia dnia. Akcesoria i systemy wspierające: Rozwiązania ułatwiające bezpieczne przechowywanie i pakowanie gotówki w obiekcie. Dlaczego warto nam zaufać? IBICON to nie tylko dystrybutor najwyższej klasy sprzętu. Naszą największą siłą jest doświadczony zespół ekspertów, który zapewnia pełne doradztwo, profesjonalny montaż, szkolenia oraz niezawodne wsparcie serwisowe. Wiemy, jak przeprowadzić wdrożenie w hotelu bez przestojów i zakłócania pracy personelu, który dzięki naszym rozwiązaniom może w 100% skupić się na tym, co w branży HoReCa najważniejsze – na komforcie i obsłudze gości. Odwiedź stoisko IBICON i sprawdź, jak możemy usprawnić zarządzanie gotówką w Twoim obiekcie!",
     "booth": "Hala B / C9",
+    "description": "IBICON – Twój zaufany partner w automatyzacji obrotu gotówkowego dla sektora HoReCa Od ponad 20 lat IBICON dostarcza na polski rynek zaawansowane, niezawodne i sprawdzone rozwiązania technologiczne do obsługi gotówki. Jako eksperti w optymalizacji procesów finansowych w handlu, usługach i hotelarstwie, wiemy, jak ważna jest płynność, bezpieczeństwo oraz precyzja w każdym punkcie styku z klientem. Podczas targów Hotel Equipment zapraszamy do zapoznania się z naszą kompleksową ofertą dedykowaną branży hotelarskiej i gastronomicznej. Oferujemy: Automaty płatnicze (recyklery gotówki): Nowoczesne urządzenia, które w pełni zamykają obieg gotówki w hotelu, restauracji czy strefie SPA. Gwarantują natychmiastowe wydawanie reszty, eliminują ryzyko pomyłek i mank kasowych oraz podnoszą standard higieny. Profesjonalne liczarki i sortery banknotów oraz bilonu: Sprzęt marek światowych oraz autoryzowane urządzenia marki SELECTIC, które błyskawicznie weryfikują autentyczność pieniędzy i usprawniają codzienne zamknięcia dnia. Akcesoria i systemy wspierające: Rozwiązania ułatwiające bezpieczne przechowywanie i pakowanie gotówki w obiekcie. Dlaczego warto nam zaufać? IBICON to nie tylko dystrybutor najwyższej klasy sprzętu. Naszą największą siłą jest doświadczony zespół ekspertów, który zapewnia pełne doradztwo, profesjonalny montaż, szkolenia oraz niezawodne wsparcie serwisowe. Wiemy, jak przeprowadzić wdrożenie w hotelu bez przestojów i zakłócania pracy personelu, który dzięki naszym rozwiązaniom może w 100% skupić się na tym, co w branży HoReCa najważniejsze – na komforcie i obsłudze gości. Odwiedź stoisko IBICON i sprawdź, jak możemy usprawnić zarządzanie gotówką w Twoim obiekcie!",
     "email": "handlowy@ibicon.pl",
-    "city": "WARSZAWA",
+    "mobile_primary": "664 423 004",
+    "domain": "https://ibicon.pl",
     "full_address": "AL. ALEJE JEROZOLIMSKIE 89/43, 02-001, WARSZAWA, Poland",
-    "mobile_primary": "664 423 004"
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "IRON STAR Sp. z o.o.",
-    "domain": "ironstar.pl",
-    "description": "Jesteśmy pasjonatami rzemiosła, dla których stal to nie tylko materiał, ale płótno do tworzenia trwałych i funkcjonalnych rozwiązań. W IRON STAR łączymy tradycję z innowacją, oferując Państwu zarówno mistrzowsko wykonane grill-wędzarnie, które staną się sercem każdego spotkania na świeżym powietrzu, jak i solidne konstrukcje stalowe, projektowane z myślą o najwyższej jakości i niezawodności.",
     "booth": "Hala A / E36",
+    "description": "Jesteśmy pasjonatami rzemiosła, dla których stal to nie tylko materiał, ale płótno do tworzenia trwałych i funkcjonalnych rozwiązań. W IRON STAR łączymy tradycję z innowacją, oferując Państwu zarówno mistrzowsko wykonane grill-wędzarnie, które staną się sercem każdego spotkania na świeżym powietrzu, jak i solidne konstrukcje stalowe, projektowane z myślą o najwyższej jakości i niezawodności.",
     "email": "",
-    "city": "KOBIERZYCE",
+    "mobile_primary": "",
+    "domain": "https://ironstar.pl",
     "full_address": "ROBOTNICZA 13, 55-040, KOBIERZYCE, Poland",
-    "mobile_primary": ""
+    "city": "KOBIERZYCE",
+    "linkedin_url": ""
   },
   {
     "company_name": "KAUCJA.PL - KRAJOWY SYSTEM KAUCYJNY SPÓŁKA AKCYJNA",
-    "domain": "rejestr.io",
-    "description": "",
     "booth": "Hala B / D42b",
+    "description": "",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://rejestr.io",
     "full_address": "BUKOWIŃSKA 21, 02-703, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "ML GROUP INVEST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "imsig.pl",
-    "description": "",
     "booth": "Hala B / C42a",
+    "description": "",
     "email": "",
-    "city": "GŁUBCZYCE",
+    "mobile_primary": "",
+    "domain": "https://imsig.pl",
     "full_address": "ADAMA MICKIEWICZA 83, 48-100, GŁUBCZYCE, Poland",
-    "mobile_primary": ""
+    "city": "GŁUBCZYCE",
+    "linkedin_url": ""
   },
   {
     "company_name": "MONIKA KITOWSKA",
-    "domain": "znanylekarz.pl",
-    "description": "",
     "booth": "Hala B / D42a",
+    "description": "",
     "email": "",
-    "city": "JÓZEFÓW",
+    "mobile_primary": "",
+    "domain": "https://znanylekarz.pl",
     "full_address": "JAGODOWA 14, 05-420, JÓZEFÓW, Poland",
-    "mobile_primary": ""
+    "city": "JÓZEFÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "mysite.ai",
-    "domain": "mysite.ai",
-    "description": "Mysite.ai to automatyczne narzędzie do prowadzenia mediów społecznościowych dla właścicieli restauracji. Platforma została stworzona przez specjalistów, którzy wcześniej pomogli osiągnąć ponad 50 mln USD zysku dla branży gastronomicznej.",
     "booth": "Hala B / E7",
+    "description": "Mysite.ai to automatyczne narzędzie do prowadzenia mediów społecznościowych dla właścicieli restauracji. Platforma została stworzona przez specjalistów, którzy wcześniej pomogli osiągnąć ponad 50 mln USD zysku dla branży gastronomicznej.",
     "email": "marek@mysite.ai",
-    "city": "STALOWA WOLA",
+    "mobile_primary": "+48 577 113 680",
+    "domain": "https://mysite.ai",
     "full_address": "EUGENIUSZA KWIATKOWSKIEGO 9, 37-450, STALOWA WOLA, Poland",
-    "mobile_primary": "+48 577 113 680"
+    "city": "STALOWA WOLA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Natural Poultry Foods",
-    "domain": "",
-    "description": "",
     "booth": "Hala B / D11",
+    "description": "",
     "email": "",
-    "city": "Tohana",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Main Bhatia Nagar Road 55, 125120, Tohana, Poland",
-    "mobile_primary": ""
+    "city": "Tohana",
+    "linkedin_url": ""
   },
   {
     "company_name": "PASSION MK MICHAL KATUŠ",
-    "domain": "gowork.pl",
-    "description": "Firma w Polsce zajmuje się sprzedażą detaliczną produktów, głównie żywności i napojów, bez stacjonarnego sklepu – np. na targach branżowych, festiwalach żywności, eventach gastronomicznych.",
     "booth": "Hala B / C17",
+    "description": "Firma w Polsce zajmuje się sprzedażą detaliczną produktów, głównie żywności i napojów, bez stacjonarnego sklepu – np. na targach branżowych, festiwalach żywności, eventach gastronomicznych.",
     "email": "",
-    "city": "DZIAŁOSZYCE",
+    "mobile_primary": "",
+    "domain": "https://gowork.pl",
     "full_address": "KRAKOWSKA 46, 28-440, DZIAŁOSZYCE, Poland",
-    "mobile_primary": ""
+    "city": "DZIAŁOSZYCE",
+    "linkedin_url": ""
   },
   {
     "company_name": "PIEKARNIA SOPLICOWO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "imsig.pl",
-    "description": "",
     "booth": "Hala B / C20",
+    "description": "",
     "email": "",
-    "city": "OTWOCK",
+    "mobile_primary": "",
+    "domain": "https://imsig.pl",
     "full_address": "Zosi 17, 05-400, OTWOCK, Poland",
-    "mobile_primary": ""
+    "city": "OTWOCK",
+    "linkedin_url": ""
   },
   {
     "company_name": "PIERROT PK",
-    "domain": "wodapierrot.pl",
-    "description": "Pierrot to firma produkcyjno-handlowa dostarczająca wodę źródlaną, napoje gazowane i niegazowane oraz soki — produkowane z własnego ujęcia wody. Realizuje dostawy bezpośrednio do domów, biur i firm, korzystając z własnej floty pojazdów, co pozwala klientom zamówić wodę lub napoje i otrzymać je „pod drzwi”. Firma działa też w modelu franczyzowym — lokale dystrybucyjne mogą być prowadzone przez partnerów-franczyzobiorców, rozszerzając zasięg dostaw w całej Polsce.",
     "booth": "Hala B / D24",
+    "description": "Pierrot to firma produkcyjno-handlowa dostarczająca wodę źródlaną, napoje gazowane i niegazowane oraz soki — produkowane z własnego ujęcia wody. Realizuje dostawy bezpośrednio do domów, biur i firm, korzystając z własnej floty pojazdów, co pozwala klientom zamówić wodę lub napoje i otrzymać je „pod drzwi”. Firma działa też w modelu franczyzowym — lokale dystrybucyjne mogą być prowadzone przez partnerów-franczyzobiorców, rozszerzając zasięg dostaw w całej Polsce.",
     "email": "",
-    "city": "WAWRZYSZÓW",
+    "mobile_primary": "",
+    "domain": "https://wodapierrot.pl",
     "full_address": "WAWRZYSZÓW 9, 26-625, WAWRZYSZÓW, Poland",
-    "mobile_primary": ""
+    "city": "WAWRZYSZÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "PROJEKT KEBAB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "projekt-kebab.pl",
-    "description": "Projekt Kebab to nowoczesna marka gastronomiczna specjalizująca się w produkcji i sprzedaży wysokiej jakości kebabu oraz produktów dedykowanych branży HoReCa. Fundamentem konceptu jest autorska receptura mięsa, standaryzacja procesów oraz powtarzalność smaku w każdym lokalu. Firma rozwija model B2B, obejmujący: • dystrybucję produktów do lokali gastronomicznych, • szkolenia zawodowe dla branży kebab i fast food, • rozwój modelu franczyzowego.",
     "booth": "Hala B / C34",
+    "description": "Projekt Kebab to nowoczesna marka gastronomiczna specjalizująca się w produkcji i sprzedaży wysokiej jakości kebabu oraz produktów dedykowanych branży HoReCa. Fundamentem konceptu jest autorska receptura mięsa, standaryzacja procesów oraz powtarzalność smaku w każdym lokalu. Firma rozwija model B2B, obejmujący: • dystrybucję produktów do lokali gastronomicznych, • szkolenia zawodowe dla branży kebab i fast food, • rozwój modelu franczyzowego.",
     "email": "dominik@projekt-kebab.pl",
-    "city": "DĄBRÓWKA",
+    "mobile_primary": "793118618",
+    "domain": "https://projekt-kebab.pl",
     "full_address": "WIDOK 11, 60-185, DĄBRÓWKA, Poland",
-    "mobile_primary": "793118618"
+    "city": "DĄBRÓWKA",
+    "linkedin_url": ""
   },
   {
     "company_name": "RANDOB JANUSZ BODNAR",
-    "domain": "bip.katowice.eu",
-    "description": "",
     "booth": "Hala B / D12",
+    "description": "",
     "email": "",
-    "city": "KATOWICE",
+    "mobile_primary": "",
+    "domain": "https://bip.katowice.eu",
     "full_address": "KOMBAJNISTÓW 53, 40-804, KATOWICE, Poland",
-    "mobile_primary": ""
+    "city": "KATOWICE",
+    "linkedin_url": ""
   },
   {
     "company_name": "RAW ENERGY SP. Z O.O.",
-    "domain": "slodki-grek.pl",
-    "description": "Firmę prowadzą bracia Rafał i Marek. Marka Słodki Grek to firma z bogatą tradycją, specjalizująca się w sprzedaży autentycznych, greckich wyrobów cukierniczych, które od 1927 roku są przygotowywane ręcznie według starannie wypracowanych receptur. Nasze produkty to nie tylko słodkości, ale także wyraz pasji do greckiej kultury i kulinariów, przekazywany z pokolenia na pokolenie. W naszej ofercie znajdą Państwo szeroki wachlarz produktów, starannie dopasowanych do różnych potrzeb i stylów życia. Oferujemy wyroby dla wegan, cukrzyków oraz sportowców, co oznacza, że każdy znajdzie u nas coś dla siebie. Posiadamy także szeroki wybór produktów bezglutenowych, bez laktozy, bez GMO, bez dodatku cukru oraz certyfikowanych produktów ekologicznych (BIO). Nasze słodkości nie tylko smakują wyśmienicie, ale są także odpowiedzialnym wyborem dla osób dbających o zdrowie i środowisko. Dzięki wysokiej jakości i unikalnej recepturze, nasze wyroby cieszą się uznaniem nie tylko klientów indywidualnych, ale także ekspertów branżowych. O naszych produktach można przeczytać w prestiżowym magazynie branżowym „Mistrz Branży”, co potwierdza ich wysoką jakość i wyjątkowość.",
     "booth": "Hala B / C42b",
+    "description": "Firmę prowadzą bracia Rafał i Marek. Marka Słodki Grek to firma z bogatą tradycją, specjalizująca się w sprzedaży autentycznych, greckich wyrobów cukierniczych, które od 1927 roku są przygotowywane ręcznie według starannie wypracowanych receptur. Nasze produkty to nie tylko słodkości, ale także wyraz pasji do greckiej kultury i kulinariów, przekazywany z pokolenia na pokolenie. W naszej ofercie znajdą Państwo szeroki wachlarz produktów, starannie dopasowanych do różnych potrzeb i stylów życia. Oferujemy wyroby dla wegan, cukrzyków oraz sportowców, co oznacza, że każdy znajdzie u nas coś dla siebie. Posiadamy także szeroki wybór produktów bezglutenowych, bez laktozy, bez GMO, bez dodatku cukru oraz certyfikowanych produktów ekologicznych (BIO). Nasze słodkości nie tylko smakują wyśmienicie, ale są także odpowiedzialnym wyborem dla osób dbających o zdrowie i środowisko. Dzięki wysokiej jakości i unikalnej recepturze, nasze wyroby cieszą się uznaniem nie tylko klientów indywidualnych, ale także ekspertów branżowych. O naszych produktach można przeczytać w prestiżowym magazynie branżowym „Mistrz Branży”, co potwierdza ich wysoką jakość i wyjątkowość.",
     "email": "kontakt@slodki-grek.pl",
-    "city": "WARSZAWA",
+    "mobile_primary": "(+48) 885 251 924",
+    "domain": "https://slodki-grek.pl",
     "full_address": "NADDNIEPRZAŃSKA 6/2, 04-205, WARSZAWA, Poland",
-    "mobile_primary": "(+48) 885 251 924"
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Saltrino",
-    "domain": "saltrino.com",
-    "description": "Saltrino to polski producent przyczep i kontenerów gastronomicznych, który łączy własne zaplecze produkcyjne, inżynierskie know-how i indywidualne podejście do każdego projektu. Tworzymy rozwiązania dopasowane do konkretnego konceptu gastronomicznego – od konstrukcji i instalacji po ergonomiczny układ oraz dobór profesjonalnego wyposażenia, projektowane wspólnie z doświadczonym technologiem gastronomii. Dzięki temu klient otrzymuje nie tylko efektowną przyczepę, ale przede wszystkim funkcjonalne miejsce pracy, gotowe do prowadzenia biznesu.",
     "booth": "Hala B / F23",
+    "description": "Saltrino to polski producent przyczep i kontenerów gastronomicznych, który łączy własne zaplecze produkcyjne, inżynierskie know-how i indywidualne podejście do każdego projektu. Tworzymy rozwiązania dopasowane do konkretnego konceptu gastronomicznego – od konstrukcji i instalacji po ergonomiczny układ oraz dobór profesjonalnego wyposażenia, projektowane wspólnie z doświadczonym technologiem gastronomii. Dzięki temu klient otrzymuje nie tylko efektowną przyczepę, ale przede wszystkim funkcjonalne miejsce pracy, gotowe do prowadzenia biznesu.",
     "email": "Hello@saltrino.com",
-    "city": "INOWROCŁAW",
+    "mobile_primary": "48 734 003 008",
+    "domain": "https://saltrino.com",
     "full_address": "TOWAROWA 1, 88-100, INOWROCŁAW, Poland",
-    "mobile_primary": "48 734 003 008"
+    "city": "INOWROCŁAW",
+    "linkedin_url": ""
   },
   {
     "company_name": "SATOA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "gowork.pl",
-    "description": "",
     "booth": "Hala B / D23",
+    "description": "",
     "email": "",
-    "city": "JABŁONOWO",
+    "mobile_primary": "",
+    "domain": "https://gowork.pl",
     "full_address": "NADRZECZNA 3B A 16B, 05-552, JABŁONOWO, Poland",
-    "mobile_primary": ""
+    "city": "JABŁONOWO",
+    "linkedin_url": ""
   },
   {
     "company_name": "serwisPOS",
-    "domain": "serwispos.pl",
-    "description": "SerwisPOS to polska firma specjalizująca się w wdrażaniu, serwisowaniu i wsparciu systemów sprzedaży typu POS, kas fiskalnych oraz urządzeń IT dla branży HoReCa i handlu. Działa na terenie całej Polski i oferuje pomoc zarówno zdalnie, jak i u klienta, dostępna 24 h/7 dni w tygodniu",
     "booth": "Hala B / C7",
+    "description": "SerwisPOS to polska firma specjalizująca się w wdrażaniu, serwisowaniu i wsparciu systemów sprzedaży typu POS, kas fiskalnych oraz urządzeń IT dla branży HoReCa i handlu. Działa na terenie całej Polski i oferuje pomoc zarówno zdalnie, jak i u klienta, dostępna 24 h/7 dni w tygodniu",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://serwispos.pl",
     "full_address": "CZŁUCHOWSKA 8/1, 01-100, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "SHARPI - Noże i Ostrzałki",
-    "domain": "sharpi.pl",
-    "description": "Polska marka wyspecjalizowana w ostrzałkach, znajdziesz u nas ostrzałki do noży (diamentowe, elektryczne, kamienie wodne i Splash & Go, systemy ostrzące, ostrzałki terenowe) oraz starannie dobrane noże kuchenne do domu i gastronomii, z przyjemnością nawiążemy współprace ze sklepami B2B",
     "booth": "Hala B / E11",
+    "description": "Polska marka wyspecjalizowana w ostrzałkach, znajdziesz u nas ostrzałki do noży (diamentowe, elektryczne, kamienie wodne i Splash & Go, systemy ostrzące, ostrzałki terenowe) oraz starannie dobrane noże kuchenne do domu i gastronomii, z przyjemnością nawiążemy współprace ze sklepami B2B",
     "email": "kontakt@sharpi.pl",
-    "city": "SULEJÓWEK",
+    "mobile_primary": "571 244 954",
+    "domain": "https://sharpi.pl",
     "full_address": "SKŁODOWSKIEJ CURIE 4A, 05-070, SULEJÓWEK, Poland",
-    "mobile_primary": "571 244 954"
+    "city": "SULEJÓWEK",
+    "linkedin_url": ""
   },
   {
     "company_name": "SM-NEXA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "table-mind.com",
-    "description": "",
     "booth": "Hala B / E42a",
+    "description": "",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://table-mind.com",
     "full_address": "KOLEJOWA 9/121, 01-217, WARSZAWA, Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "STOWARZYSZENIE KRAJOWA RADA GASTRONOMII I CATERINGU",
-    "domain": "krgic.pl",
-    "description": "Podtrzymujemy bogatą tradycję polskiej gastronomii oraz bronimy wspólnych interesów w branży. We wrześniu 2018 roku w Łodzi ukonstytuowały się nowe władze Krajowej Rady Gastronomii i Cateringu. Rada ta jest nowoczesną organizacją, która skupia swoje działania na promocji polskich produktów za pośrednictwem polskiej gastronomii i cateringu.",
     "booth": "Hala B / B2",
+    "description": "Podtrzymujemy bogatą tradycję polskiej gastronomii oraz bronimy wspólnych interesów w branży. We wrześniu 2018 roku w Łodzi ukonstytuowały się nowe władze Krajowej Rady Gastronomii i Cateringu. Rada ta jest nowoczesną organizacją, która skupia swoje działania na promocji polskich produktów za pośrednictwem polskiej gastronomii i cateringu.",
     "email": "",
-    "city": "Poznań",
+    "mobile_primary": "",
+    "domain": "https://krgic.pl",
     "full_address": "Popiela 6, 61-615, Poznań, Poland",
-    "mobile_primary": ""
+    "city": "Poznań",
+    "linkedin_url": ""
   },
   {
     "company_name": "TRADERS GLOBAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "tracxn.com",
-    "description": "",
     "booth": "Hala B / B42b",
+    "description": "",
     "email": "",
-    "city": "ŁÓDŹ",
+    "mobile_primary": "",
+    "domain": "https://tracxn.com",
     "full_address": "PIOTRKOWSKA 173/111, 90-447, ŁÓDŹ, Poland",
-    "mobile_primary": ""
+    "city": "ŁÓDŹ",
+    "linkedin_url": ""
   },
   {
     "company_name": "UAB Maisto myletojai",
-    "domain": "apps.apple.com",
-    "description": "",
     "booth": "Hala C / E17",
+    "description": "",
     "email": "",
-    "city": "Kowno",
+    "mobile_primary": "",
+    "domain": "https://apps.apple.com",
     "full_address": "Savanoriy pr 276 394, LT-50200, Kowno, Poland",
-    "mobile_primary": ""
+    "city": "Kowno",
+    "linkedin_url": ""
   },
   {
     "company_name": "WARK GROUP Sp. z o. o.",
-    "domain": "warkgroup.com",
-    "description": "W WARKu wierzymy, że każda marka zasługuje na to, by błyszczeć. Ale nie każda wie, jak robić to dobrze. Jesteśmy twórcami z Wielkopolski, zaangażowanymi w tworzenie najpiękniejszych przyczep handlowych i gastronomicznych w Europie, które z dumą nazywamy biżuterią dla biznesu. Prosto z Polski.",
     "booth": "Hala B / E2",
+    "description": "W WARKu wierzymy, że każda marka zasługuje na to, by błyszczeć. Ale nie każda wie, jak robić to dobrze. Jesteśmy twórcami z Wielkopolski, zaangażowanymi w tworzenie najpiękniejszych przyczep handlowych i gastronomicznych w Europie, które z dumą nazywamy biżuterią dla biznesu. Prosto z Polski.",
     "email": "",
-    "city": "JELONEK",
+    "mobile_primary": "",
+    "domain": "https://warkgroup.com",
     "full_address": "TOPOLOWA 1, 62-002, JELONEK, Poland",
-    "mobile_primary": ""
+    "city": "JELONEK",
+    "linkedin_url": ""
   },
   {
     "company_name": "zapiekankiGOLD.pl",
-    "domain": "zapiekankigold.pl",
-    "description": "zapiekankiGOLD.pl to marka, która produkuje zapiekanki klasy PREMIUM, bez kompromisów, z dbałością o szczegóły, produkowanych ręcznie z wyselekcjonowanych składników. Zapraszamy do współpracy... Nasza dystrybucja obejmuje cały kraj",
     "booth": "Hala B / E18",
+    "description": "zapiekankiGOLD.pl to marka, która produkuje zapiekanki klasy PREMIUM, bez kompromisów, z dbałością o szczegóły, produkowanych ręcznie z wyselekcjonowanych składników. Zapraszamy do współpracy... Nasza dystrybucja obejmuje cały kraj",
     "email": "",
-    "city": "OKOLE",
+    "mobile_primary": "733-406-644",
+    "domain": "https://zapiekankigold.pl",
     "full_address": "OKOLE 1, 86-010, OKOLE, Poland",
-    "mobile_primary": "733-406-644"
+    "city": "OKOLE",
+    "linkedin_url": ""
   },
   {
     "company_name": "ZBUDUJPRZYCZEPE.PL Sp. z o.o",
-    "domain": "zbudujprzyczepe.pl",
-    "description": "W ZBUDUJPRZYCZEPE.PL specjalizujemy się w tworzeniu funkcjonalnych i dopracowanych przyczep mobilnych, które realnie wspierają rozwój biznesów. Do produkcji przyczep wykorzystujemy wieloletnią, specjalistyczną wiedzę z obszaru ergonomii, projektowania i efektywnego planowania budżetu. Zapewniamy pełne doradztwo – od koncepcji i projektu, po finansowanie i odbiór gotowej przyczepy. Cały proces – od pomysłu po gotowy produkt – prowadzimy w jednym miejscu. Pracujemy w trzech nowoczesnych halach produkcyjnych o łącznej powierzchni 5000 m², wyposażonych w własny park maszynowy i precyzyjne urządzenia CNC. Nasze biuro (1000 m²) to przestrzeń, w której działają m.in. działy: graficzny, zamówień, marketingu, jakości, finansów, logistyki, produkcji, transportu oraz opieki posprzedażowej. Wierzymy, że dobrze zaprojektowana przyczepa to nie tylko narzędzie pracy, ale także wizytówka firmy, która buduje jej wizerunek i przyciąga klientów.",
     "booth": "Hala B / D20",
+    "description": "W ZBUDUJPRZYCZEPE.PL specjalizujemy się w tworzeniu funkcjonalnych i dopracowanych przyczep mobilnych, które realnie wspierają rozwój biznesów. Do produkcji przyczep wykorzystujemy wieloletnią, specjalistyczną wiedzę z obszaru ergonomii, projektowania i efektywnego planowania budżetu. Zapewniamy pełne doradztwo – od koncepcji i projektu, po finansowanie i odbiór gotowej przyczepy. Cały proces – od pomysłu po gotowy produkt – prowadzimy w jednym miejscu. Pracujemy w trzech nowoczesnych halach produkcyjnych o łącznej powierzchni 5000 m², wyposażonych w własny park maszynowy i precyzyjne urządzenia CNC. Nasze biuro (1000 m²) to przestrzeń, w której działają m.in. działy: graficzny, zamówień, marketingu, jakości, finansów, logistyki, produkcji, transportu oraz opieki posprzedażowej. Wierzymy, że dobrze zaprojektowana przyczepa to nie tylko narzędzie pracy, ale także wizytówka firmy, która buduje jej wizerunek i przyciąga klientów.",
     "email": "zapytania@zbudujprzyczepe.pl",
-    "city": "SZAMOTY",
+    "mobile_primary": "+48 690 512 414",
+    "domain": "https://zbudujprzyczepe.pl",
     "full_address": "NAD UTRATĄ 12, 05-830, SZAMOTY, Poland",
-    "mobile_primary": "+48 690 512 414"
+    "city": "SZAMOTY",
+    "linkedin_url": ""
   },
   {
     "company_name": "ŻARWOK",
-    "domain": "zarwok.pl",
-    "description": "Twoja kuchnia może zarabiać więcej. Jeśli masz: – działający lokal – zespół na zmianie – 15 000 zł netto na start Możesz uruchomić ŻarWOK jako drugi koncept i zwiększyć obrót bez zwiększania czynszu. To nie nowa restauracja. To dodatkowy strumień przychodu w kanale delivery",
     "booth": "Hala B / C42c",
+    "description": "Twoja kuchnia może zarabiać więcej. Jeśli masz: – działający lokal – zespół na zmianie – 15 000 zł netto na start Możesz uruchomić ŻarWOK jako drugi koncept i zwiększyć obrót bez zwiększania czynszu. To nie nowa restauracja. To dodatkowy strumień przychodu w kanale delivery",
     "email": "tomek@nypdpizza.pl",
-    "city": "KRAKÓW",
+    "mobile_primary": "531206600",
+    "domain": "https://zarwok.pl",
     "full_address": "DR. JANA PILTZA 19/LU1, 30-392, KRAKÓW, Poland",
-    "mobile_primary": "531206600"
+    "city": "KRAKÓW",
+    "linkedin_url": ""
   }
 ]

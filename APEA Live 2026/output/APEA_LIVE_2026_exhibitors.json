@@ -1,392 +1,431 @@
 [
   {
     "company_name": "AC Cable Solutions",
-    "domain": "accablesolutions.com",
-    "description": "",
     "booth": "Stand A9",
+    "description": "",
     "email": "mailto:info@accablesolutions.com",
-    "city": "",
+    "mobile_primary": "+44 (0)161 874 1480",
+    "domain": "https://accablesolutions.com",
     "full_address": "",
-    "mobile_primary": "+44 (0)161 874 1480"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Adler and Allan",
-    "domain": "adlerandallan.co.uk",
-    "description": "",
     "booth": "Stand A1",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "0800 592 827",
+    "domain": "https://adlerandallan.co.uk",
     "full_address": "",
-    "mobile_primary": "0800 592 827"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Adriateh",
-    "domain": "ns-services.co.uk",
-    "description": "N&S Services provides outstanding support in self-service car wash solutions, specialising in installation, maintenance, and aftercare. As the sole UK supplier of Adriateh equipment, we deliver high-performance systems backed by the best service in the business. Quality powered by service.",
     "booth": "Stand D14",
+    "description": "N&S Services provides outstanding support in self-service car wash solutions, specialising in installation, maintenance, and aftercare. As the sole UK supplier of Adriateh equipment, we deliver high-performance systems backed by the best service in the business. Quality powered by service.",
     "email": "info@ns-services.co.uk",
-    "city": "",
+    "mobile_primary": "07795830937",
+    "domain": "https://ns-services.co.uk",
     "full_address": "Neil Pitman Adriateh Unit 20 Liberty close Woolsbridge Ind Est Wimborne BH21 6SY",
-    "mobile_primary": "07795830937"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "AIR-serv",
-    "domain": "air-serv.co.uk",
-    "description": "AIR-serv manufactures and fully manages high-quality British-made air, vac and jet-wash equipment for UK & Europe forecourt operators big and small. We deliver regular, reliable revenue and maximum machine uptime - with no capital investment required, and zero operational burden.",
     "booth": "Stand D4",
+    "description": "AIR-serv manufactures and fully manages high-quality British-made air, vac and jet-wash equipment for UK & Europe forecourt operators big and small. We deliver regular, reliable revenue and maximum machine uptime - with no capital investment required, and zero operational burden.",
     "email": "sales@air-serv.co.uk",
-    "city": "",
+    "mobile_primary": "01942 722333",
+    "domain": "https://air-serv.co.uk",
     "full_address": "AIR-serv Redgate Rd, Ashton-in-Makerfield, Wigan, WN4 8DT",
-    "mobile_primary": "01942 722333"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ancorra Environmental Services",
-    "domain": "ancorra.ie",
-    "description": "",
     "booth": "Stand A20",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://ancorra.ie",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "APEA",
-    "domain": "apea.org.uk",
-    "description": "The APEA is a UK based organisation, drawing membership from all quarters of the Petroleum Industry, including Regulators from National and Local Government Authorities, Oil Companies, Equipment Manufacturers and Suppliers, Service and Installation Organisations, Training Establishments and many others.",
     "booth": "Stand A23",
+    "description": "The APEA is a UK based organisation, drawing membership from all quarters of the Petroleum Industry, including Regulators from National and Local Government Authorities, Oil Companies, Equipment Manufacturers and Suppliers, Service and Installation Organisations, Training Establishments and many others.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44 345 603 5507",
+    "domain": "https://apea.org.uk",
     "full_address": "Natalie Rice APEA Peershaws, Berewyk Hall Court, White Colne Essex, CO6 2QB",
-    "mobile_primary": "+44 345 603 5507"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Berrys Technologies Limited",
-    "domain": "berrys.com",
-    "description": "",
     "booth": "Stand D2",
+    "description": "",
     "email": "enquiries@berrys.com",
-    "city": "",
+    "mobile_primary": "0121 558 4411",
+    "domain": "https://berrys.com",
     "full_address": "",
-    "mobile_primary": "0121 558 4411"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brivo",
-    "domain": "yelp.com",
-    "description": "Brivo is the global leader in cloud-native AI-driven physical security, with more than 2 million devices deployed across 100,000+ locations in 80 countries. Headquartered in Bethesda, Md., and Austin, Texas, Brivo has additional offices in Lehi, Utah; Amsterdam; Bangalore; London; and Tokyo. Learn more at brivo.com.",
     "booth": "Stand A21",
+    "description": "Brivo is the global leader in cloud-native AI-driven physical security, with more than 2 million devices deployed across 100,000+ locations in 80 countries. Headquartered in Bethesda, Md., and Austin, Texas, Brivo has additional offices in Lehi, Utah; Amsterdam; Bangalore; London; and Tokyo. Learn more at brivo.com.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://yelp.com",
     "full_address": "Contact us via Email »",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Easefix Ltd",
-    "domain": "find-and-update.company-information.service.gov.uk",
-    "description": "",
     "booth": "Stand D7",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://find-and-update.company-information.service.gov.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elaflex",
-    "domain": "elaflex.de",
-    "description": "",
     "booth": "Stand D6",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "121 22525",
+    "domain": "https://elaflex.de",
     "full_address": "",
-    "mobile_primary": "121 22525"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Euro Ekol Carwash",
-    "domain": "euro-ekol.com.pl",
-    "description": "Euro-Ekol is an innovative manufacturer of advanced touchless car washes. With over 30 years of industry experience, we have developed, patent-pending technologies that improve efficiency, reliability and customer experience. Our own production facility and comprehensive service enable us to deliver customised solutions for investors across Europe.",
     "booth": "Stand B8",
+    "description": "Euro-Ekol is an innovative manufacturer of advanced touchless car washes. With over 30 years of industry experience, we have developed, patent-pending technologies that improve efficiency, reliability and customer experience. Our own production facility and comprehensive service enable us to deliver customised solutions for investors across Europe.",
     "email": "",
-    "city": "",
+    "mobile_primary": "501048952",
+    "domain": "https://euro-ekol.com.pl",
     "full_address": "Lucas Skonka Euro-Ekol sp. z o.o. sp. k. Rokicinska 186D, 92-412 Lodz, Poland",
-    "mobile_primary": "501048952"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "EV-EXBOX",
-    "domain": "ev-exbox.com",
-    "description": "EV-EXBOX provide the UK's leading EV charging risk assessment service across petrol filling stations, EV hubs, parking structures, fleet & bus depots. As a result of their outstanding EV charging risk awareness training, EV-EXBOX have been commissioned to write the UK's first industry code of best practice for EV charging.",
     "booth": "Stand B9",
+    "description": "EV-EXBOX provide the UK's leading EV charging risk assessment service across petrol filling stations, EV hubs, parking structures, fleet & bus depots. As a result of their outstanding EV charging risk awareness training, EV-EXBOX have been commissioned to write the UK's first industry code of best practice for EV charging.",
     "email": "info@gwenvironmentalconsulting.com",
-    "city": "",
+    "mobile_primary": "+44 (0) 7766107088",
+    "domain": "https://ev-exbox.com",
     "full_address": "Graeme Warnell EV-EXBOX 28 Braywick Road, Maidenhead, Berkshire, SL6 1DA, UK",
-    "mobile_primary": "+44 (0) 7766107088"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Evolve",
-    "domain": "evolvebg.co.uk",
-    "description": "Evolve delivers always-on managed network solutions for multi-site brands across forecourt, retail, hospitality, and QSR environments. With in-house expertise and a focus on shopfront operations, Evolve provides 24/7, 365-day remote monitoring and support, including multilingual service, ensuring reliable connectivity, performance, and seamless customer experiences across every location.",
     "booth": "Stand A22",
+    "description": "Evolve delivers always-on managed network solutions for multi-site brands across forecourt, retail, hospitality, and QSR environments. With in-house expertise and a focus on shopfront operations, Evolve provides 24/7, 365-day remote monitoring and support, including multilingual service, ensuring reliable connectivity, performance, and seamless customer experiences across every location.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://evolvebg.co.uk",
     "full_address": "Neil Muttock Evolve 1 Smithy Court, Smithy Brook Road, WN3 6PS",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Forecourt Solutions Ltd",
-    "domain": "forecourtsolutionsltd.com",
-    "description": "",
     "booth": "Stand D8",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "1500-800-800",
+    "domain": "https://forecourtsolutionsltd.com",
     "full_address": "",
-    "mobile_primary": "1500-800-800"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fuelco",
-    "domain": "fuelco.com",
-    "description": "",
     "booth": "Stand D12",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://fuelco.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Geberit",
-    "domain": "geberit.com",
-    "description": "",
     "booth": "Stand B10",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://geberit.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gilbarco Veeder-Root",
-    "domain": "gilbarco.com",
-    "description": "One partner, every possibility: Gilbarco Veeder-Root connects fuelling, payments, retail convenience, site control and EV charging into a single connected forecourt for forecourt operators across Europe, backed by more than 150 years of expertise, helping operators run smarter and more profitable sites as the forecourt of the future takes shape.",
     "booth": "Stand D3",
+    "description": "One partner, every possibility: Gilbarco Veeder-Root connects fuelling, payments, retail convenience, site control and EV charging into a single connected forecourt for forecourt operators across Europe, backed by more than 150 years of expertise, helping operators run smarter and more profitable sites as the forecourt of the future takes shape.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+39 348 376 1889",
+    "domain": "https://gilbarco.com",
     "full_address": "Domiziana Fiorucci Gilbarco Veeder-Root Gilbert Barker House, Burnt Mills Rd Burnt Mills Industrial Estate Basildon, Essex SS13 1DT United Kingdom",
-    "mobile_primary": "+39 348 376 1889"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Global-MSI",
-    "domain": "global-msi.com",
-    "description": "",
     "booth": "Stand B1",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://global-msi.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Green Spark",
-    "domain": "getgreenspark.com",
-    "description": "",
     "booth": "Stand D1",
+    "description": "",
     "email": "hello@getgreenspark.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://getgreenspark.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "GripHero",
-    "domain": "griphero.com",
-    "description": "",
     "booth": "Stand A7",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "401 2342 63",
+    "domain": "https://griphero.com",
     "full_address": "",
-    "mobile_primary": "401 2342 63"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Henderson Technology Ltd",
-    "domain": "henderson.technology",
-    "description": "EDGEPoS is an EPoS system built on real retail experience by Henderson Technology. EDGEPoS modernises forecourts with pump integration, real-time analytics, self-checkout, electronic shelf edge labels, digital media screens, fuel finder integration and mobile pay. Our scalable platform boosts efficiency, enhances customer experience and helps retailers future-proof their business.",
     "booth": "Stand A16",
+    "description": "EDGEPoS is an EPoS system built on real retail experience by Henderson Technology. EDGEPoS modernises forecourts with pump integration, real-time analytics, self-checkout, electronic shelf edge labels, digital media screens, fuel finder integration and mobile pay. Our scalable platform boosts efficiency, enhances customer experience and helps retailers future-proof their business.",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://henderson.technology",
     "full_address": "Henderson Technology 745 Antrim Road, Templepatrick, Northern Ireland BT39 0AP",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "INNOVO",
-    "domain": "innovo-medical.com",
-    "description": "",
     "booth": "Stand D9",
+    "description": "",
     "email": "cs@innovogroups.com",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://innovo-medical.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "JPE Electrical Services Ltd",
-    "domain": "powellelectrical.co.uk",
-    "description": "Powell Electrical Services is a trusted electrical contractor providing professional, reliable electrical solutions for domestic, commercial and industrial customers. With a commitment to quality workmanship, safety and customer satisfaction, our experienced team delivers a comprehensive range of electrical services tailored to meet each client’s needs.",
     "booth": "Stand A14",
+    "description": "Powell Electrical Services is a trusted electrical contractor providing professional, reliable electrical solutions for domestic, commercial and industrial customers. With a commitment to quality workmanship, safety and customer satisfaction, our experienced team delivers a comprehensive range of electrical services tailored to meet each client’s needs.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+447493314926",
+    "domain": "https://powellelectrical.co.uk",
     "full_address": "Ben Cheema JPE Electrical Services Address: Crestacre Farm, Barracks Ln, Walsall Wood, Walsall WS9 9DL",
-    "mobile_primary": "+447493314926"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "K-FORM",
-    "domain": "kform.co.uk",
-    "description": "K-FORM Screed Rails K-FORM UPVC Screed Railing provides the construction industry with an economical, efficient and environmentally friendly alternative to steel and timber formwork.",
     "booth": "Stand B5",
+    "description": "K-FORM Screed Rails K-FORM UPVC Screed Railing provides the construction industry with an economical, efficient and environmentally friendly alternative to steel and timber formwork.",
     "email": "",
-    "city": "",
+    "mobile_primary": "07393251949",
+    "domain": "https://kform.co.uk",
     "full_address": "Neil Bowman Bridgend Extrusion (K-Form) 26 Morley Drive",
-    "mobile_primary": "07393251949"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kings Secure Technologies",
-    "domain": "kingsltd.co.uk",
-    "description": "Kings Secure Technologies (KST) and Brivo are joining forces to demonstrate how intelligent, cloud-based security can protect forecourt and fuel installations while delivering value far beyond traditional security. Today’s CCTV, sensors, analytics, access control, cloud platforms and remote monitoring systems can do much more than safeguard people and assets.",
     "booth": "Stand A21",
+    "description": "Kings Secure Technologies (KST) and Brivo are joining forces to demonstrate how intelligent, cloud-based security can protect forecourt and fuel installations while delivering value far beyond traditional security. Today’s CCTV, sensors, analytics, access control, cloud platforms and remote monitoring systems can do much more than safeguard people and assets.",
     "email": "",
-    "city": "",
+    "mobile_primary": "0330 678 0635",
+    "domain": "https://kingsltd.co.uk",
     "full_address": "Kings Security Systems Ltd T/A Kings Secure Technologies 4 St. Dunstans Technology Park Bradford BD4 7HH",
-    "mobile_primary": "0330 678 0635"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ledbury Welding Ltd",
-    "domain": "fuelstoragesolutions.co.uk",
-    "description": "",
     "booth": "Stand B6",
+    "description": "",
     "email": "sales@fuelstoragesolutions.co.uk",
-    "city": "",
+    "mobile_primary": "01274 813 003",
+    "domain": "https://fuelstoragesolutions.co.uk",
     "full_address": "",
-    "mobile_primary": "01274 813 003"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nayax (UK) Ltd",
-    "domain": "nayax.com",
-    "description": "Nayax is a global commerce enablement and payment platform designed to help merchants scale their business. Our mission is to improve our customers’ revenue potential and operational efficiency.",
     "booth": "Stand B3",
+    "description": "Nayax is a global commerce enablement and payment platform designed to help merchants scale their business. Our mission is to improve our customers’ revenue potential and operational efficiency.",
     "email": "",
-    "city": "",
+    "mobile_primary": "+44 203 4554800",
+    "domain": "https://nayax.com",
     "full_address": "Nayax UK",
-    "mobile_primary": "+44 203 4554800"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Omega Flex Ltd",
-    "domain": "doubletrac.net",
-    "description": "OmegaFlex Ltd manufacturer of DoubleTrac which us a dual containment pipe for diesel fuels, 2 hour fire rating, UL Standard for below and above ground. Full UK Support with training and site visits from our Head Office in Banbury",
     "booth": "Stand B7",
+    "description": "OmegaFlex Ltd manufacturer of DoubleTrac which us a dual containment pipe for diesel fuels, 2 hour fire rating, UL Standard for below and above ground. Full UK Support with training and site visits from our Head Office in Banbury",
     "email": "",
-    "city": "",
+    "mobile_primary": "07584994884",
+    "domain": "https://doubletrac.net",
     "full_address": "John P Cowan OmegaFlex Ltd 22 Wildmere Road Kildare House Banbury OX16 3JU",
-    "mobile_primary": "07584994884"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Petroassist UK Limited",
-    "domain": "find-and-update.company-information.service.gov.uk",
-    "description": "",
     "booth": "Stand D5",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://find-and-update.company-information.service.gov.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "PFS Fueltec Ltd",
-    "domain": "pfsfueltec.com",
-    "description": "",
     "booth": "Stand A4",
+    "description": "",
     "email": "pfssales@pfsfueltec.com",
-    "city": "",
+    "mobile_primary": "01376 535260",
+    "domain": "https://pfsfueltec.com",
     "full_address": "",
-    "mobile_primary": "01376 535260"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Premier Service Ltd",
-    "domain": "premierserviceltd.co.uk",
-    "description": "",
     "booth": "Stand B2",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://premierserviceltd.co.uk",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ready 2 Wash",
-    "domain": "ready2wash.com",
-    "description": "Ready2Wash is a technology company providing digital infrastructure for unattended and self-service environments. Its integrated platform combines payment terminals, mobile applications, management software, and remote monitoring into one ecosystem. Supporting loyalty, white-label, and fiscalisation-ready solutions, Ready2Wash simplifies operations and improves business efficiency.",
     "booth": "Stand A17",
+    "description": "Ready2Wash is a technology company providing digital infrastructure for unattended and self-service environments. Its integrated platform combines payment terminals, mobile applications, management software, and remote monitoring into one ecosystem. Supporting loyalty, white-label, and fiscalisation-ready solutions, Ready2Wash simplifies operations and improves business efficiency.",
     "email": "",
-    "city": "",
+    "mobile_primary": "07795830937",
+    "domain": "https://ready2wash.com",
     "full_address": "Becca Pitman Ready2Wash Unit 20, Liberty close, Woolsbridge Industrial Estate, Wimborne, BH21 6SY",
-    "mobile_primary": "07795830937"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Risbridger Ltd",
-    "domain": "risbridger.com",
-    "description": "",
     "booth": "Stand A6",
+    "description": "",
     "email": "info@risbridger.com",
-    "city": "",
+    "mobile_primary": "+44 (0) 1737 372 680",
+    "domain": "https://risbridger.com",
     "full_address": "",
-    "mobile_primary": "+44 (0) 1737 372 680"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Jordon Group",
-    "domain": "jordon.co.uk",
-    "description": "The Jordon Group, part of Bellrock Group, is a nationwide specialist in forecourt and convenience retail environments. We design, build and maintain high-performing sites, delivering fit-out, refrigeration and HVAC through an integrated in-house model, supporting operators to improve performance, efficiency and reliability across their estate.",
     "booth": "Stand B4",
+    "description": "The Jordon Group, part of Bellrock Group, is a nationwide specialist in forecourt and convenience retail environments. We design, build and maintain high-performing sites, delivering fit-out, refrigeration and HVAC through an integrated in-house model, supporting operators to improve performance, efficiency and reliability across their estate.",
     "email": "",
-    "city": "",
+    "mobile_primary": "0800 716 523",
+    "domain": "https://jordon.co.uk",
     "full_address": "Lucy Jordon The Jordon Group Quebec Street, Oldham, OL9 6QL",
-    "mobile_primary": "0800 716 523"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "VARS Technology",
-    "domain": "varstechnology.co.uk",
-    "description": "VARS Technology is a leading provider of forecourt security systems. Solutions include a market-leading ANPR system to warn forecourt staff about problem vehicles before they have a chance to steal fuel, as well as a fuel debt recovery service, parking management, and facial recognition for in-store protection.",
     "booth": "Stand A15",
+    "description": "VARS Technology is a leading provider of forecourt security systems. Solutions include a market-leading ANPR system to warn forecourt staff about problem vehicles before they have a chance to steal fuel, as well as a fuel debt recovery service, parking management, and facial recognition for in-store protection.",
     "email": "",
-    "city": "",
+    "mobile_primary": "12245104. 1-2",
+    "domain": "https://varstechnology.co.uk",
     "full_address": "John McVan VARS Technology 1-2 Calder Court Amy Johnson Way Blackpool FY4 2RH",
-    "mobile_primary": "12245104. 1-2"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Visive Group",
-    "domain": "visivegroup.com",
-    "description": "",
     "booth": "Stand C1",
+    "description": "",
     "email": "",
-    "city": "",
+    "mobile_primary": "",
+    "domain": "https://visivegroup.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "WashTec UK Ltd",
-    "domain": "washtec-uk.com",
-    "description": "WashTec UK is a market leading provider of vehicle wash solutions, delivering innovative technology and expert support nationwide. Our experienced team provides end to end service, from design and installation to preventative maintenance, helping customers maximise uptime, achieve reliable performance, and deliver an outstanding wash experience.",
     "booth": "Stand C2",
+    "description": "WashTec UK is a market leading provider of vehicle wash solutions, delivering innovative technology and expert support nationwide. Our experienced team provides end to end service, from design and installation to preventative maintenance, helping customers maximise uptime, achieve reliable performance, and deliver an outstanding wash experience.",
     "email": "",
-    "city": "",
+    "mobile_primary": "01371 878801",
+    "domain": "https://washtec-uk.com",
     "full_address": "Lara Dean WashTec UK Ltd 14a Oak Industrial Park Great Dunmow Essex CM6 1XN",
-    "mobile_primary": "01371 878801"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wefco",
-    "domain": "wefco.co.uk",
-    "description": "Wefco is the UK’s leading supplier of double skin tanks to oil companies, supermarket retailers, independent / dealer operated sites and motorway petrol filling stations.",
     "booth": "Stand A19",
+    "description": "Wefco is the UK’s leading supplier of double skin tanks to oil companies, supermarket retailers, independent / dealer operated sites and motorway petrol filling stations.",
     "email": "sales@wefco.co.uk",
-    "city": "",
+    "mobile_primary": "01427 611000",
+    "domain": "https://wefco.co.uk",
     "full_address": "Glenn Black Wefco (Gainsborough) Ltd Britannia Works, Station Approach, Gainsborough DN21 2AU",
-    "mobile_primary": "01427 611000"
+    "city": "",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wilcomatic Systems",
-    "domain": "wilcomatic.co.uk",
-    "description": "Wilcomatic Limited is a leading UK provider of vehicle wash solutions, specialising in car wash, commercial vehicle wash, and self-service washing systems. The company designs, supplies, installs, and maintains innovative, high-performance equipment, helping operators maximise efficiency, enhance customer experience, and deliver reliable, environmentally responsible vehicle cleaning solutions.",
     "booth": "Stand A10",
+    "description": "Wilcomatic Limited is a leading UK provider of vehicle wash solutions, specialising in car wash, commercial vehicle wash, and self-service washing systems. The company designs, supplies, installs, and maintains innovative, high-performance equipment, helping operators maximise efficiency, enhance customer experience, and deliver reliable, environmentally responsible vehicle cleaning solutions.",
     "email": "",
-    "city": "",
+    "mobile_primary": "02086495760",
+    "domain": "https://wilcomatic.co.uk",
     "full_address": "Alex Dryburgh Wilcomatic Limited Unit 5 Commerce Park 19 Commerce Way Croydon CR0 4YL",
-    "mobile_primary": "02086495760"
+    "city": "",
+    "linkedin_url": ""
   }
 ]

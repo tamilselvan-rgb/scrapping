@@ -1,1922 +1,2114 @@
 [
   {
     "company_name": "6TEEN",
-    "domain": "6teen.me",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Dubai",
+    "mobile_primary": "",
+    "domain": "https://6teen.me",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Dubai",
+    "linkedin_url": ""
   },
   {
     "company_name": "82°E",
-    "domain": "82e.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://82e.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "999Tee",
-    "domain": "999tee.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gujarat",
+    "mobile_primary": "",
+    "domain": "https://999tee.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gujarat",
+    "linkedin_url": ""
   },
   {
     "company_name": "A Little Extra",
-    "domain": "alittleextra.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://alittleextra.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aachho",
-    "domain": "aachho.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://aachho.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Albon Cosmetics",
-    "domain": "alboncosmetics.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://alboncosmetics.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aldeno",
-    "domain": "houseofaldeno.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://houseofaldeno.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Alicia Souza",
-    "domain": "aliciasouza.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://aliciasouza.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Almost Hippie",
-    "domain": "almosthippie.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://almosthippie.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Amala Earth",
-    "domain": "amala.earth",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://amala.earth",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Anveya Living",
-    "domain": "anveya.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bangalore",
+    "mobile_primary": "",
+    "domain": "https://anveya.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bangalore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Arata",
-    "domain": "arata.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi-NCR",
+    "mobile_primary": "",
+    "domain": "https://arata.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi-NCR",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aromology",
-    "domain": "aromology.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://aromology.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Auli",
-    "domain": "aulilifestyle.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://aulilifestyle.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Aurum Crafts",
-    "domain": "aurumcrafts.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://aurumcrafts.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Barker’s Dozen",
-    "domain": "barkersdozen.dog",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://barkersdozen.dog",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beco",
-    "domain": "letsbeco.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://letsbeco.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bewakoof",
-    "domain": "bewakoof.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://bewakoof.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Beyond Water",
-    "domain": "drinkbeyond.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://drinkbeyond.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "BeYoung",
-    "domain": "beyoung.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Udaipur, Rajasthan, India",
+    "mobile_primary": "",
+    "domain": "https://beyoung.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Udaipur, Rajasthan, India",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bimba",
-    "domain": "thebimba.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://thebimba.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blissclub",
-    "domain": "blissclub.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://blissclub.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Blue Tea",
-    "domain": "bluetea.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://bluetea.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "BlumeLife",
-    "domain": "blumelife.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://blumelife.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "boAt",
-    "domain": "boat-lifestyle.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai, Maharashtra, India",
+    "mobile_primary": "",
+    "domain": "https://boat-lifestyle.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai, Maharashtra, India",
+    "linkedin_url": ""
   },
   {
     "company_name": "Boingg",
-    "domain": "boingg.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://boingg.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Boldfit",
-    "domain": "boldfit.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://boldfit.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bombay Shaving Company",
-    "domain": "bombayshavingcompany.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://bombayshavingcompany.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bombay Shirt Company",
-    "domain": "bombayshirts.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Chennai",
+    "mobile_primary": "",
+    "domain": "https://bombayshirts.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Chennai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bonvie",
-    "domain": "bonviesnacks.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://bonviesnacks.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Brown Bear",
-    "domain": "brownbear.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://brownbear.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Bumby",
-    "domain": "bumbybaby.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Pune",
+    "mobile_primary": "",
+    "domain": "https://bumbybaby.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Pune",
+    "linkedin_url": ""
   },
   {
     "company_name": "Calenvie",
-    "domain": "calenvie.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://calenvie.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Chappers",
-    "domain": "chappers.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Pune",
+    "mobile_primary": "",
+    "domain": "https://chappers.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Pune",
+    "linkedin_url": ""
   },
   {
     "company_name": "CHNKS",
-    "domain": "chnks.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://chnks.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Chocolate and white",
-    "domain": "chocolateandwhite.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://chocolateandwhite.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Chumbak",
-    "domain": "chumbak.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://chumbak.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Coolberg",
-    "domain": "coolberg.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://coolberg.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Craft & Glory",
-    "domain": "craftandglory.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://craftandglory.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "Creatures Of Habit",
-    "domain": "creaturesofhabit.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Noida",
+    "mobile_primary": "",
+    "domain": "https://creaturesofhabit.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Noida",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cult Sport",
-    "domain": "cultstore.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://cultstore.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Cup Ji",
-    "domain": "cupji.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://cupji.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Curefoods",
-    "domain": "curefoods.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://curefoods.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "DaMENSCH",
-    "domain": "damensch.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://damensch.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Desi Soota",
-    "domain": "desisoota.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://desisoota.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Do Taara",
-    "domain": "dotaara.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jammu and Kashmir",
+    "mobile_primary": "",
+    "domain": "https://dotaara.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jammu and Kashmir",
+    "linkedin_url": ""
   },
   {
     "company_name": "Dorje Teas",
-    "domain": "dorjeteas.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://dorjeteas.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Eda baby & child",
-    "domain": "edababycare.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://edababycare.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Elemen",
-    "domain": "elemen.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://elemen.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Epigamia",
-    "domain": "epigamiastore.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://epigamiastore.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Everpret",
-    "domain": "everpret.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://everpret.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "FableStreet",
-    "domain": "fablestreet.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://fablestreet.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "FarmtoCups",
-    "domain": "farmtocups.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mysore",
+    "mobile_primary": "",
+    "domain": "https://farmtocups.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mysore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fedus",
-    "domain": "fedus.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://fedus.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Flexnest",
-    "domain": "theflexnest.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://theflexnest.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Frankly Wearing",
-    "domain": "franklywearing.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://franklywearing.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Freeze Fusion Foods",
-    "domain": "freezefusionfoods.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://freezefusionfoods.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "FreshToHome",
-    "domain": "freshtohome.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://freshtohome.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Fully Filmy",
-    "domain": "fullyfilmy.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Chennai",
+    "mobile_primary": "",
+    "domain": "https://fullyfilmy.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Chennai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gappu",
-    "domain": "gappu.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://gappu.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "GeekOTee",
-    "domain": "geekotee.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://geekotee.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "GlowBareSkin",
-    "domain": "glowbareskin.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad",
+    "mobile_primary": "",
+    "domain": "https://glowbareskin.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gubbachhi",
-    "domain": "gubbachhi.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://gubbachhi.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Gulbonda",
-    "domain": "gulbonda.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thrissur",
+    "mobile_primary": "",
+    "domain": "https://gulbonda.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thrissur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Habbits",
-    "domain": "habbits.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://habbits.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "Happilo",
-    "domain": "happilo.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://happilo.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Heka Bites",
-    "domain": "hekabites.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Noida",
+    "mobile_primary": "",
+    "domain": "https://hekabites.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Noida",
+    "linkedin_url": ""
   },
   {
     "company_name": "Hexstar Universe",
-    "domain": "hexstaruniverse.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://hexstaruniverse.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "House of Anit",
-    "domain": "houseofanit.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://houseofanit.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "House of EM5",
-    "domain": "houseofem5.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Indore",
+    "mobile_primary": "",
+    "domain": "https://houseofem5.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Indore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Huts and Looms",
-    "domain": "hutsandlooms.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "kolkata",
+    "mobile_primary": "",
+    "domain": "https://hutsandlooms.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "InnoQor",
-    "domain": "innoqortech.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://innoqortech.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "iNTELLYJELLY",
-    "domain": "intellyjelly.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://intellyjelly.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Invogue Shop",
-    "domain": "invogue.shop",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://invogue.shop",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "ISCHO",
-    "domain": "ischo.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Odisha",
+    "mobile_primary": "",
+    "domain": "https://ischo.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Odisha",
+    "linkedin_url": ""
   },
   {
     "company_name": "Janya's Closet",
-    "domain": "janyascloset.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://janyascloset.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Jimmy’s Cocktails",
-    "domain": "drinkjimmys.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://drinkjimmys.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kalla",
-    "domain": "kalla.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Surat",
+    "mobile_primary": "",
+    "domain": "https://kalla.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Surat",
+    "linkedin_url": ""
   },
   {
     "company_name": "Karagiri",
-    "domain": "karagiri.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Pune",
+    "mobile_primary": "",
+    "domain": "https://karagiri.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Pune",
+    "linkedin_url": ""
   },
   {
     "company_name": "Karaki Origins",
-    "domain": "karakiorigins.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Ahmedabad",
+    "mobile_primary": "",
+    "domain": "https://karakiorigins.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Ahmedabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Karma Kettle",
-    "domain": "karmakettle.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://karmakettle.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kicky and Perky",
-    "domain": "kickyandperky.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://kickyandperky.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kimti",
-    "domain": "kimti.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://kimti.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kisah",
-    "domain": "kisah.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://kisah.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "KIWI Kisan Window",
-    "domain": "kiwikisanwindow.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Dehradun",
+    "mobile_primary": "",
+    "domain": "https://kiwikisanwindow.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Dehradun",
+    "linkedin_url": ""
   },
   {
     "company_name": "Klean Gypsy",
-    "domain": "kleangypsy.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bangalore",
+    "mobile_primary": "",
+    "domain": "https://kleangypsy.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bangalore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kozynap",
-    "domain": "kozynap.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://kozynap.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leaf Studios",
-    "domain": "leafstudios.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://leafstudios.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leafy Affair",
-    "domain": "leafyaffair.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://leafyaffair.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Leezu's",
-    "domain": "leezus.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://leezus.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lenskart",
-    "domain": "lenskart.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://lenskart.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "LetsDressUp",
-    "domain": "letsdressup.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://letsdressup.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "Libas",
-    "domain": "libas.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Noida",
+    "mobile_primary": "",
+    "domain": "https://libas.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Noida",
+    "linkedin_url": ""
   },
   {
     "company_name": "Love Thy Nature",
-    "domain": "lovethynature.net",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://lovethynature.net",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Lukse",
-    "domain": "lukse.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://lukse.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mamaearth",
-    "domain": "mamaearth.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://mamaearth.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Man Matters",
-    "domain": "manmatters.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://manmatters.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "mCaffeine",
-    "domain": "mcaffeine.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://mcaffeine.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Melorra",
-    "domain": "melorra.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bangalore",
+    "mobile_primary": "",
+    "domain": "https://melorra.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bangalore",
+    "linkedin_url": ""
   },
   {
     "company_name": "MiniBay",
-    "domain": "minibay.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://minibay.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mishmash Naturals",
-    "domain": "mishmashnaturals.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Raipur",
+    "mobile_primary": "",
+    "domain": "https://mishmashnaturals.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Raipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Miss Chase",
-    "domain": "chasehaul.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://chasehaul.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mosaic Wellness",
-    "domain": "mosaicwellness.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://mosaicwellness.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Mr Vastra",
-    "domain": "mrvastra.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Vadodara",
+    "mobile_primary": "",
+    "domain": "https://mrvastra.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Vadodara",
+    "linkedin_url": ""
   },
   {
     "company_name": "MRJewels",
-    "domain": "mrjewels.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://mrjewels.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "MuscleBlaze",
-    "domain": "muscleblaze.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://muscleblaze.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "My Pahadi Dukan",
-    "domain": "mypahadidukan.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Roorkee",
+    "mobile_primary": "",
+    "domain": "https://mypahadidukan.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Roorkee",
+    "linkedin_url": ""
   },
   {
     "company_name": "MYDESIGNATION",
-    "domain": "mydesignation.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thiruvananthapuram",
+    "mobile_primary": "",
+    "domain": "https://mydesignation.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thiruvananthapuram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Naario",
-    "domain": "naario.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://naario.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Neeman’s",
-    "domain": "neemans.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad, Telangana, India",
+    "mobile_primary": "",
+    "domain": "https://neemans.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad, Telangana, India",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nesta Toys",
-    "domain": "nestatoys.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad",
+    "mobile_primary": "",
+    "domain": "https://nestatoys.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nestasia",
-    "domain": "nestasia.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://nestasia.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nobero",
-    "domain": "nobero.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad",
+    "mobile_primary": "",
+    "domain": "https://nobero.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nua",
-    "domain": "nuawoman.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://nuawoman.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nustep Fitness",
-    "domain": "nustepfitnessindia.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Ghaziabad",
+    "mobile_primary": "",
+    "domain": "https://nustepfitnessindia.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Ghaziabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Nutrica Foods",
-    "domain": "nutricafoods.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://nutricafoods.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Odd Beans",
-    "domain": "oddbeans.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Balasore",
+    "mobile_primary": "",
+    "domain": "https://oddbeans.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Balasore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Open Secret",
-    "domain": "opensecret.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://opensecret.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Orae",
-    "domain": "orae.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://orae.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Orionz",
-    "domain": "orionzjewels.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://orionzjewels.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Oshea Herbals",
-    "domain": "osheaherbals.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://osheaherbals.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Palm Era",
-    "domain": "thepalmera.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thoothukkudi, Tamil Nadu",
+    "mobile_primary": "",
+    "domain": "https://thepalmera.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thoothukkudi, Tamil Nadu",
+    "linkedin_url": ""
   },
   {
     "company_name": "PARFAIT PLUSS",
-    "domain": "parfaitpluss.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://parfaitpluss.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pawpeye",
-    "domain": "pawpeye.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Indore",
+    "mobile_primary": "",
+    "domain": "https://pawpeye.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Indore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pawsindia",
-    "domain": "pawsindia.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://pawsindia.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Pee Safe",
-    "domain": "peesafe.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://peesafe.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "Plum Goodness",
-    "domain": "plumgoodness.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thane",
+    "mobile_primary": "",
+    "domain": "https://plumgoodness.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thane",
+    "linkedin_url": ""
   },
   {
     "company_name": "Plush For Her",
-    "domain": "plushforher.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Chennai",
+    "mobile_primary": "",
+    "domain": "https://plushforher.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Chennai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Powersutra",
-    "domain": "powersutra.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://powersutra.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "Punjabi Adda",
-    "domain": "punjabiadda.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Karnal",
+    "mobile_primary": "",
+    "domain": "https://punjabiadda.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Karnal",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rage Coffee",
-    "domain": "ragecoffee.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://ragecoffee.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rare Planet",
-    "domain": "rareplanet.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://rareplanet.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Ray Wellness",
-    "domain": "raywellness.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Indore",
+    "mobile_primary": "",
+    "domain": "https://raywellness.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Indore",
+    "linkedin_url": ""
   },
   {
     "company_name": "Recode Studios",
-    "domain": "shop.recodestudios.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Punjab",
+    "mobile_primary": "",
+    "domain": "https://shop.recodestudios.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Punjab",
+    "linkedin_url": ""
   },
   {
     "company_name": "Renaisa",
-    "domain": "renaisa.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://renaisa.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rene",
-    "domain": "reneindia.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://reneindia.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "RENÉE Cosmetics",
-    "domain": "reneecosmetics.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Ahmedabad",
+    "mobile_primary": "",
+    "domain": "https://reneecosmetics.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Ahmedabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Rose & Rabbit",
-    "domain": "roseandrabbit.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Ahmedabad",
+    "mobile_primary": "",
+    "domain": "https://roseandrabbit.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Ahmedabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sacred Secrets",
-    "domain": "sacredsecrets.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Pune",
+    "mobile_primary": "",
+    "domain": "https://sacredsecrets.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Pune",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sage Living",
-    "domain": "sageliving.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad",
+    "mobile_primary": "",
+    "domain": "https://sageliving.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Salts: Future Of Wellness",
-    "domain": "drnksalts.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://drnksalts.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sawsee",
-    "domain": "feelingsawsee.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Chennai",
+    "mobile_primary": "",
+    "domain": "https://feelingsawsee.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Chennai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Scooboo",
-    "domain": "scooboo.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Chndigarh",
+    "mobile_primary": "",
+    "domain": "https://scooboo.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Chndigarh",
+    "linkedin_url": ""
   },
   {
     "company_name": "Septemberish",
-    "domain": "septemberish.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://septemberish.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Shhe Food",
-    "domain": "shhefood.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Darbhanga",
+    "mobile_primary": "",
+    "domain": "https://shhefood.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Darbhanga",
+    "linkedin_url": ""
   },
   {
     "company_name": "Skippi",
-    "domain": "skippi.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Hyderabad",
+    "mobile_primary": "",
+    "domain": "https://skippi.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Hyderabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Slate Hash",
-    "domain": "slatehash.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Vadodara",
+    "mobile_primary": "",
+    "domain": "https://slatehash.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Vadodara",
+    "linkedin_url": ""
   },
   {
     "company_name": "Sleepy Head",
-    "domain": "mysleepyhead.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bangalore",
+    "mobile_primary": "",
+    "domain": "https://mysleepyhead.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bangalore",
+    "linkedin_url": ""
   },
   {
     "company_name": "SleepyCat",
-    "domain": "sleepycat.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://sleepycat.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "Snackible",
-    "domain": "snackible.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://snackible.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "SNITCH",
-    "domain": "snitch.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://snitch.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Snuggly Monkey",
-    "domain": "snugglymonkey.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://snugglymonkey.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spice Up Foods",
-    "domain": "spiceupfood.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://spiceupfood.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Spread Homes",
-    "domain": "spreadhome.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://spreadhome.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Stroom",
-    "domain": "stroom.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Ahmedabad",
+    "mobile_primary": "",
+    "domain": "https://stroom.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Ahmedabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "Studio Artemist",
-    "domain": "studioartemist.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://studioartemist.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Styched",
-    "domain": "styched.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://styched.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "SuperBottoms",
-    "domain": "superbottoms.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thane",
+    "mobile_primary": "",
+    "domain": "https://superbottoms.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thane",
+    "linkedin_url": ""
   },
   {
     "company_name": "Suta",
-    "domain": "suta.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://suta.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "TANN TRIM",
-    "domain": "tanntrim.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://tanntrim.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tash Hair",
-    "domain": "tashhair.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://tashhair.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "TeaFit",
-    "domain": "tea.fit",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://tea.fit",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Bear House",
-    "domain": "thebearhouse.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://thebearhouse.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Collection",
-    "domain": "thecollectionindia.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Maharashtra",
+    "mobile_primary": "",
+    "domain": "https://thecollectionindia.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Maharashtra",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Decor Remedy",
-    "domain": "thedecorremedy.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Faridabad",
+    "mobile_primary": "",
+    "domain": "https://thedecorremedy.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Faridabad",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Form Art",
-    "domain": "theformart.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://theformart.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "The future green",
-    "domain": "thefuture.green",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://thefuture.green",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Healthy Binge",
-    "domain": "healthybinge.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Pune",
+    "mobile_primary": "",
+    "domain": "https://healthybinge.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Pune",
+    "linkedin_url": ""
   },
   {
     "company_name": "The June Shop",
-    "domain": "thejuneshop.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://thejuneshop.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Man Company",
-    "domain": "themancompany.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://themancompany.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Moms Co",
-    "domain": "themomsco.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurgaon",
+    "mobile_primary": "",
+    "domain": "https://themomsco.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurgaon",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Pant Project",
-    "domain": "pantproject.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://pantproject.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Tea Shelf",
-    "domain": "theteashelf.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://theteashelf.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "The Tiny Secret",
-    "domain": "thetinysecret.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://thetinysecret.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Travulls",
-    "domain": "travulls.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "New Delhi",
+    "mobile_primary": "",
+    "domain": "https://travulls.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "New Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "TRESNOVA",
-    "domain": "tresnova.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://tresnova.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tulayraa",
-    "domain": "tulayraa.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://tulayraa.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Tulua",
-    "domain": "tulua.shop",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Mumbai",
+    "mobile_primary": "",
+    "domain": "https://tulua.shop",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Mumbai",
+    "linkedin_url": ""
   },
   {
     "company_name": "Uptownie",
-    "domain": "uptownie.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://uptownie.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "VedaOils",
-    "domain": "vedaoils.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Gurugram",
+    "mobile_primary": "",
+    "domain": "https://vedaoils.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Gurugram",
+    "linkedin_url": ""
   },
   {
     "company_name": "VegNonVeg",
-    "domain": "vegnonveg.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://vegnonveg.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vergo India",
-    "domain": "vergo.online",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bhiwandi",
+    "mobile_primary": "",
+    "domain": "https://vergo.online",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bhiwandi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vinzberry",
-    "domain": "vinzberry.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://vinzberry.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Vishnu Delight",
-    "domain": "vishnudelight.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://vishnudelight.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wakefit",
-    "domain": "wakefit.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://wakefit.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wish Care",
-    "domain": "mywishcare.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Kolkata",
+    "mobile_primary": "",
+    "domain": "https://mywishcare.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wooden Street",
-    "domain": "woodenstreet.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Jaipur",
+    "mobile_primary": "",
+    "domain": "https://woodenstreet.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Jaipur",
+    "linkedin_url": ""
   },
   {
     "company_name": "WrapGame",
-    "domain": "wrapgame.co",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "kolkata",
+    "mobile_primary": "",
+    "domain": "https://wrapgame.co",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "kolkata",
+    "linkedin_url": ""
   },
   {
     "company_name": "Wrogn",
-    "domain": "wrogn.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://wrogn.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   },
   {
     "company_name": "Yesterday",
-    "domain": "yesterdayskincare.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Delhi",
+    "mobile_primary": "",
+    "domain": "https://yesterdayskincare.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Delhi",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zouk",
-    "domain": "zouk.co.in",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Thane",
+    "mobile_primary": "",
+    "domain": "https://zouk.co.in",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Thane",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zymrat",
-    "domain": "zymrat.com",
-    "description": "",
     "booth": "",
+    "description": "",
     "email": "",
-    "city": "Bengaluru",
+    "mobile_primary": "",
+    "domain": "https://zymrat.com",
     "full_address": "",
-    "mobile_primary": ""
+    "city": "Bengaluru",
+    "linkedin_url": ""
   }
 ]

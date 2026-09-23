@@ -1,282 +1,310 @@
 [
   {
     "company_name": "7Nutrition",
-    "domain": "7-nutrition.com",
-    "description": "7NUTRITION jest polskim producentem suplementów diety i odżywek przeznaczonych dla sportowców oraz osób aktywnych fizycznie. Firma prowadzi własny zakład produkcyjny, oferuje m.in. witaminy, białka, aminokwasy, spalacze tłuszczu i produkty wspierające regenerację organizmu.",
     "booth": "Hala C / D12",
+    "description": "7NUTRITION jest polskim producentem suplementów diety i odżywek przeznaczonych dla sportowców oraz osób aktywnych fizycznie. Firma prowadzi własny zakład produkcyjny, oferuje m.in. witaminy, białka, aminokwasy, spalacze tłuszczu i produkty wspierające regenerację organizmu.",
     "email": "bartek.dojwa@7-nutrition.com",
-    "city": "STANOWICE",
+    "mobile_primary": "+48 790 760 716",
+    "domain": "https://7-nutrition.com",
     "full_address": "STANOWICE 82A 55-200 STANOWICE Poland",
-    "mobile_primary": "+48 790 760 716"
+    "city": "STANOWICE",
+    "linkedin_url": ""
   },
   {
     "company_name": "CARGOPACK POLSKA Sp. z o.o.",
-    "domain": "ekoliva.pl",
-    "description": "EKOLIVA to opowieść o miłości do natury, przekazywana z pokolenia na pokolenie. To historia ludzi, którzy zakochali się w oliwkach i postanowili podzielić się tym uczuciem ze światem. Od pokoleń pielęgnujemy tradycje, by móc zaoferować Ci najlepszą, naturalną oliwę. Słuchając natury, z miłością i szacunkiem tworzymy wyjątkową, ekologiczną oliwę z pierwszego tłoczenia. Wyobraź sobie smak słońca, zapach wiatru i dotyk ziemi w każdej kropli naszej oliwy. To właśnie w niej zamknięte są tajemnice natury, które chcemy Ci odkryć.",
     "booth": "Hala C / B18",
+    "description": "EKOLIVA to opowieść o miłości do natury, przekazywana z pokolenia na pokolenie. To historia ludzi, którzy zakochali się w oliwkach i postanowili podzielić się tym uczuciem ze światem. Od pokoleń pielęgnujemy tradycje, by móc zaoferować Ci najlepszą, naturalną oliwę. Słuchając natury, z miłością i szacunkiem tworzymy wyjątkową, ekologiczną oliwę z pierwszego tłoczenia. Wyobraź sobie smak słońca, zapach wiatru i dotyk ziemi w każdej kropli naszej oliwy. To właśnie w niej zamknięte są tajemnice natury, które chcemy Ci odkryć.",
     "email": "office@ekoliva.pl",
-    "city": "POZNAŃ",
+    "mobile_primary": "+48 573 199 164",
+    "domain": "https://ekoliva.pl",
     "full_address": "AUGUSTYNA SZAMARZEWSKIEGO 21/2 60-514 POZNAŃ Poland",
-    "mobile_primary": "+48 573 199 164"
+    "city": "POZNAŃ",
+    "linkedin_url": ""
   },
   {
     "company_name": "CECH RZEMIOSŁ SPOŻYWCZYCH W WARSZAWIE",
-    "domain": "crs.waw.pl",
-    "description": "Cech Rzemiosł Spożywczych w Warszawie to samorządowa organizacja rzemieślnicza zrzeszająca przedsiębiorców i rzemieślników z branży spożywczej – cukierników, piekarzy, lodziarzy, gastronomów. Prowadzi własną hurtownię zaopatrującą zakłady branży spożywczej w surowce, opakowania i materiały oraz wspiera rozwój rzemiosła i jakości w sektorze spożywczym.",
     "booth": "Hala C / C56",
+    "description": "Cech Rzemiosł Spożywczych w Warszawie to samorządowa organizacja rzemieślnicza zrzeszająca przedsiębiorców i rzemieślników z branży spożywczej – cukierników, piekarzy, lodziarzy, gastronomów. Prowadzi własną hurtownię zaopatrującą zakłady branży spożywczej w surowce, opakowania i materiały oraz wspiera rozwój rzemiosła i jakości w sektorze spożywczym.",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://crs.waw.pl",
     "full_address": "LECHICKA 14A 02-156 WARSZAWA Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "DAGOYA Sp. z o.o.",
-    "domain": "dagoya.com",
-    "description": "Dagoya to polska winiarnia i producent naturalnych win z jagody kamczackiej, powstała na plantacji tego unikatowego owocu, założonej w 2014 r., z której pozyskiwane są surowce do produkcji wina o wyjątkowym smaku i aromacie. Firma korzysta z ekologicznych metod uprawy jagody kamczackiej, stosując wyłącznie nawozy dopuszczone do upraw ekologicznych, co wpływa na jakość i charakter jej produktów. Na stronie www.Dagoya.com prezentujemy swoje wina oraz zachęcamy do kontaktu w sprawie zamówień detalicznych a także zestawów na imprezy i wydarzenia. Marka łączy lokalne rolnictwo z rzemieślniczą produkcją napojów alkoholowych, promując autorskie wina owocowe.",
     "booth": "Hala C / C67",
+    "description": "Dagoya to polska winiarnia i producent naturalnych win z jagody kamczackiej, powstała na plantacji tego unikatowego owocu, założonej w 2014 r., z której pozyskiwane są surowce do produkcji wina o wyjątkowym smaku i aromacie. Firma korzysta z ekologicznych metod uprawy jagody kamczackiej, stosując wyłącznie nawozy dopuszczone do upraw ekologicznych, co wpływa na jakość i charakter jej produktów. Na stronie www.Dagoya.com prezentujemy swoje wina oraz zachęcamy do kontaktu w sprawie zamówień detalicznych a także zestawów na imprezy i wydarzenia. Marka łączy lokalne rolnictwo z rzemieślniczą produkcją napojów alkoholowych, promując autorskie wina owocowe.",
     "email": "kontakt@dagoya.com",
-    "city": "KASKI",
+    "mobile_primary": "+48 532 882 597",
+    "domain": "https://dagoya.com",
     "full_address": "TOPOLOWA 3 96-314 KASKI Poland",
-    "mobile_primary": "+48 532 882 597"
+    "city": "KASKI",
+    "linkedin_url": ""
   },
   {
     "company_name": "DAMECO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "natureat.pl",
-    "description": "Importer i dystrybutor zdrowej żywności, w tym organicznej. Zaopatrujemy sklepy stacjonarne i duże sieci handlowe. Nasze tradycyjnie wytwarzane produkty posiadają wysokie walory smakowe i jakościowe. Marki własne: IORGOS, PHIELOS, Specjały Św.Antoniego co roku docierają do coraz większej grupy klientów. Jesteśmy rzetelnym partnerem biznesowym, który dopasowuje swoją ofertę indywidualnie i elastycznie do klienta.",
     "booth": "Hala C / B2",
+    "description": "Importer i dystrybutor zdrowej żywności, w tym organicznej. Zaopatrujemy sklepy stacjonarne i duże sieci handlowe. Nasze tradycyjnie wytwarzane produkty posiadają wysokie walory smakowe i jakościowe. Marki własne: IORGOS, PHIELOS, Specjały Św.Antoniego co roku docierają do coraz większej grupy klientów. Jesteśmy rzetelnym partnerem biznesowym, który dopasowuje swoją ofertę indywidualnie i elastycznie do klienta.",
     "email": "biuro@dameco.pl",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://natureat.pl",
     "full_address": "GROCHOWSKA 207/106 04-077 WARSZAWA Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "DOBRE Z LASU Sp. z o.o",
-    "domain": "dobrezlasu.pl",
-    "description": "Dobre z Lasu oferuje dziczyznę oraz przetwory mięsne pochodzące z polskich lasów, a także miody, grzyby, herbaty i zioła oraz inne płody runa leśnego. Firma działa w Warszawie, prowadzi sprzedaż detaliczną (sklep internetowy i/lub stacjonarny) oraz współpracuje z lokalnymi dostawcami leśnych produktów.",
     "booth": "Hala C / D8",
+    "description": "Dobre z Lasu oferuje dziczyznę oraz przetwory mięsne pochodzące z polskich lasów, a także miody, grzyby, herbaty i zioła oraz inne płody runa leśnego. Firma działa w Warszawie, prowadzi sprzedaż detaliczną (sklep internetowy i/lub stacjonarny) oraz współpracuje z lokalnymi dostawcami leśnych produktów.",
     "email": "agnieszka.wierzbicka@dobrezlasu.pl",
-    "city": "WARSZAWA",
+    "mobile_primary": "696 889 579",
+    "domain": "https://dobrezlasu.pl",
     "full_address": "WACŁAWA SIERPIŃSKIEGO 1/B 02-122 WARSZAWA Poland",
-    "mobile_primary": "696 889 579"
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Domowe Sanatorium Zimnoch",
-    "domain": "kuvings.net.pl",
-    "description": "Kuvings to południowokoreańska marka specjalizująca się w urządzeniach kuchennych, która jest szczególnie ceniona za swoje wyciskarki wolnoobrotowe. Kuvings oferuje szereg modeli wyciskarek wolnoobrotowych, które są chwalone za wydajność, trwałość i jakość otrzymywanych soków.",
     "booth": "Hala C / F15",
+    "description": "Kuvings to południowokoreańska marka specjalizująca się w urządzeniach kuchennych, która jest szczególnie ceniona za swoje wyciskarki wolnoobrotowe. Kuvings oferuje szereg modeli wyciskarek wolnoobrotowych, które są chwalone za wydajność, trwałość i jakość otrzymywanych soków.",
     "email": "",
-    "city": "WASILKÓW",
+    "mobile_primary": "",
+    "domain": "https://kuvings.net.pl",
     "full_address": "BIAŁOSTOCKA 50 16-010 WASILKÓW Poland",
-    "mobile_primary": ""
+    "city": "WASILKÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "DORADZTWO ROLNICZE EUGENIUSZ KOCZOROWSKI",
-    "domain": "zakonnysekret.pl",
-    "description": "Firma Bio-Cannabis, we współpracy z Doradztwem Rolniczym Eugeniusz Koczorowski, stworzyła wysokiej jakości czarny czosnek. Połączenie innowacyjnych technologii przetwórstwa z ekspercką wiedzą agronomiczną zaowocowało produktem o wyjątkowym smaku, aromacie i właściwościach prozdrowotnych, wpisującym się w trend naturalnej, funkcjonalnej żywności. Doradztwo Rolnicze Eugeniusz Koczorowski-wspiera rolników w pozyskiwaniu dotacji – Przygotowuje dokumentację i pomaga przejść cały proces. Łączy kompetencje z wielu obszarów, zapewniając profesjonalne, wszechstronne wsparcie dla nowoczesnego rolnictwa. Bio-Cannabis Sp. z o.o.-Producent czarnego czosnku. Właściciele firmy od lat specjalizują się w produkcji rolniczej, dzięki czemu doskonale rozumieją zarówno wymagania roślin, jak i oczekiwania rynku. Ich kompetencje obejmują cały proces – od uprawy surowca, starannie kontrolowaną fermentację, aż po uzyskanie finalnego produktu o wyjątkowych walorach smakowych i prozdrowotnych.",
     "booth": "Hala C / C15",
+    "description": "Firma Bio-Cannabis, we współpracy z Doradztwem Rolniczym Eugeniusz Koczorowski, stworzyła wysokiej jakości czarny czosnek. Połączenie innowacyjnych technologii przetwórstwa z ekspercką wiedzą agronomiczną zaowocowało produktem o wyjątkowym smaku, aromacie i właściwościach prozdrowotnych, wpisującym się w trend naturalnej, funkcjonalnej żywności. Doradztwo Rolnicze Eugeniusz Koczorowski-wspiera rolników w pozyskiwaniu dotacji – Przygotowuje dokumentację i pomaga przejść cały proces. Łączy kompetencje z wielu obszarów, zapewniając profesjonalne, wszechstronne wsparcie dla nowoczesnego rolnictwa. Bio-Cannabis Sp. z o.o.-Producent czarnego czosnku. Właściciele firmy od lat specjalizują się w produkcji rolniczej, dzięki czemu doskonale rozumieją zarówno wymagania roślin, jak i oczekiwania rynku. Ich kompetencje obejmują cały proces – od uprawy surowca, starannie kontrolowaną fermentację, aż po uzyskanie finalnego produktu o wyjątkowych walorach smakowych i prozdrowotnych.",
     "email": "",
-    "city": "BUDZYŃ",
+    "mobile_primary": "601711743, 607183190",
+    "domain": "https://zakonnysekret.pl",
     "full_address": "ROGOZIŃSKA 58 64-840 BUDZYŃ Poland",
-    "mobile_primary": "601711743, 607183190"
+    "city": "BUDZYŃ",
+    "linkedin_url": ""
   },
   {
     "company_name": "Empire Holdings Limited",
-    "domain": "",
-    "description": "",
     "booth": "Hala C / D49",
+    "description": "",
     "email": "",
-    "city": "Zolotonosha Cherkaska obl",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "Shevchenka 235a 19700 Zolotonosha Cherkaska obl Poland",
-    "mobile_primary": ""
+    "city": "Zolotonosha Cherkaska obl",
+    "linkedin_url": ""
   },
   {
     "company_name": "Eximia Helia? Masseria Lo Schiavetto",
-    "domain": "masserialoschiavetto.it",
-    "description": "🇵🇱 Polski Eximia Helia oferuje starannie wyselekcjonowane produkty premium z Grecji i Włoch, pozyskiwane bezpośrednio od małych producentów i rodzinnych gospodarstw. Z Grecji prezentujemy najwyższej jakości oliwę z oliwek extra virgin, naturalne soki i przetwory owocowe, greckie makarony bogate w witaminy i żelazo, oliwki oraz inne autentyczne specjały. Z Włoch przedstawiamy ekskluzywną selekcję produktów z Masseria Lo Schiavetto w Apulii: oliwę z oliwek extra virgin klasy premium, tradycyjne antipasti, rzemieślnicze makarony, konfitury oraz wyjątkowe wina czerwone i rosé. Nasza filozofia jest prosta: autentyczne pochodzenie, najwyższa jakość oraz produkty, za którymi stoją prawdziwi ludzie, rodziny i ich historie. 🇬🇧 English Eximia Helia offers a carefully selected range of premium products from Greece and Italy, sourced directly from small producers and family farms. From Greece, we present premium extra virgin olive oil, natural juices and fruit preserves, Greek pasta rich in vitamins and iron, olives, and other authentic specialties. From Italy, we present an exclusive selection from Masseria Lo Schiavetto in Puglia: premium extra virgin olive oil, traditional antipasti, artisanal pasta, fruit preserves, and exceptional red and rosé wines. Our philosophy is simple: authentic origin, outstanding quality, and products with real people, families, and stories behind them. Products: Masseria Lo Schiavetto – Niefiltrowana oliwa z oliwek extra virgin, RIZANA – Grecka ekologiczna oliwa z oliwek extra virgin, Masseria Lo Schiavetto – Włoski makaron rzemieślniczy BIO, Masseria Lo Schiavetto – Autentyczne wina z Apulii, Masseria Lo Schiavetto – Tradycyjne warzywa w oleju z Apulii",
     "booth": "Hala C / F51",
+    "description": "🇵🇱 Polski Eximia Helia oferuje starannie wyselekcjonowane produkty premium z Grecji i Włoch, pozyskiwane bezpośrednio od małych producentów i rodzinnych gospodarstw. Z Grecji prezentujemy najwyższej jakości oliwę z oliwek extra virgin, naturalne soki i przetwory owocowe, greckie makarony bogate w witaminy i żelazo, oliwki oraz inne autentyczne specjały. Z Włoch przedstawiamy ekskluzywną selekcję produktów z Masseria Lo Schiavetto w Apulii: oliwę z oliwek extra virgin klasy premium, tradycyjne antipasti, rzemieślnicze makarony, konfitury oraz wyjątkowe wina czerwone i rosé. Nasza filozofia jest prosta: autentyczne pochodzenie, najwyższa jakość oraz produkty, za którymi stoją prawdziwi ludzie, rodziny i ich historie. 🇬🇧 English Eximia Helia offers a carefully selected range of premium products from Greece and Italy, sourced directly from small producers and family farms. From Greece, we present premium extra virgin olive oil, natural juices and fruit preserves, Greek pasta rich in vitamins and iron, olives, and other authentic specialties. From Italy, we present an exclusive selection from Masseria Lo Schiavetto in Puglia: premium extra virgin olive oil, traditional antipasti, artisanal pasta, fruit preserves, and exceptional red and rosé wines. Our philosophy is simple: authentic origin, outstanding quality, and products with real people, families, and stories behind them. Products: Masseria Lo Schiavetto – Niefiltrowana oliwa z oliwek extra virgin, RIZANA – Grecka ekologiczna oliwa z oliwek extra virgin, Masseria Lo Schiavetto – Włoski makaron rzemieślniczy BIO, Masseria Lo Schiavetto – Autentyczne wina z Apulii, Masseria Lo Schiavetto – Tradycyjne warzywa w oleju z Apulii",
     "email": "cristian.toth@eximiahelia.com :info@masserialoschiavetto.it.",
-    "city": "Pietling Germany",
+    "mobile_primary": "Cristian Toth",
+    "domain": "https://masserialoschiavetto.it",
     "full_address": "HauptstraBe 35 83413 Pietling Germany Poland",
-    "mobile_primary": "Cristian Toth"
+    "city": "Pietling Germany",
+    "linkedin_url": ""
   },
   {
     "company_name": "GREEN NANO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "",
-    "description": "",
     "booth": "Hala C / B82a",
+    "description": "",
     "email": "",
-    "city": "ŻELECHÓW",
+    "mobile_primary": "",
+    "domain": "",
     "full_address": "CHEŁMOŃSKIEGO 67 96-321 ŻELECHÓW Poland",
-    "mobile_primary": ""
+    "city": "ŻELECHÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "Harmonica",
-    "domain": "harmonica.bg",
-    "description": "Harmonica to bułgarska marka założona w roku 2006, która produkuje i dystrybuuje w pełni certyfikowane produkty organiczne — z misją „real food”- „prawdziwej żywności” przygotowanej z troską o glebę, wodę i bioróżnorodność”. Oferta obejmuje m.in. wafle, przekąski, musli, dżemy, produkty bez dodatku cukru, napoje, a także produkty mleczne (w początkach) — linia stale się rozwija, a marka obecna jest w ponad 20 krajach. Firma posiada m.in. certyfikat B Corp oraz nagrody „Great Taste”, co świadczy o zaangażowaniu nie tylko w jakość produktu, ale także w zrównoważone praktyki.",
     "booth": "Hala C / D11",
+    "description": "Harmonica to bułgarska marka założona w roku 2006, która produkuje i dystrybuuje w pełni certyfikowane produkty organiczne — z misją „real food”- „prawdziwej żywności” przygotowanej z troską o glebę, wodę i bioróżnorodność”. Oferta obejmuje m.in. wafle, przekąski, musli, dżemy, produkty bez dodatku cukru, napoje, a także produkty mleczne (w początkach) — linia stale się rozwija, a marka obecna jest w ponad 20 krajach. Firma posiada m.in. certyfikat B Corp oraz nagrody „Great Taste”, co świadczy o zaangażowaniu nie tylko w jakość produktu, ale także w zrównoważone praktyki.",
     "email": "",
-    "city": "Sofia",
+    "mobile_primary": "",
+    "domain": "https://harmonica.bg",
     "full_address": "East Entrance Floor 3 00-0 Sofia Poland",
-    "mobile_primary": ""
+    "city": "Sofia",
+    "linkedin_url": ""
   },
   {
     "company_name": "INSTYTUT OGRODNICTWA - PAŃSTWOWY INSTYTUT BADAWCZY",
-    "domain": "inhort.pl",
-    "description": "Instytut Ogrodnictwa – PIB w Skierniewicach to jednostka naukowa, która od ponad 70 lat wspiera rozwój polskiego ogrodnictwa, sadownictwa i warzywnictwa poprzez badania naukowe, hodowlę nowych odmian, przetwórstwo oraz transfer technologii. Instytut posiada m.in. nowoczesne centra badawczo-rozwojowe, akredytowane laboratoria, a także oferuje usługi wdrożeniowe, projektowanie technologii przetwórczych (np. soki NFC, smoothie, dżemy) na bazie surowców ogrodniczych oraz licencjonowanie nowych odmian roślin.",
     "booth": "Hala C / B56",
+    "description": "Instytut Ogrodnictwa – PIB w Skierniewicach to jednostka naukowa, która od ponad 70 lat wspiera rozwój polskiego ogrodnictwa, sadownictwa i warzywnictwa poprzez badania naukowe, hodowlę nowych odmian, przetwórstwo oraz transfer technologii. Instytut posiada m.in. nowoczesne centra badawczo-rozwojowe, akredytowane laboratoria, a także oferuje usługi wdrożeniowe, projektowanie technologii przetwórczych (np. soki NFC, smoothie, dżemy) na bazie surowców ogrodniczych oraz licencjonowanie nowych odmian roślin.",
     "email": "",
-    "city": "SKIERNIEWICE",
+    "mobile_primary": "",
+    "domain": "https://inhort.pl",
     "full_address": "KONSTYTUCJI 3 MAJA 1/3 96-100 SKIERNIEWICE Poland",
-    "mobile_primary": ""
+    "city": "SKIERNIEWICE",
+    "linkedin_url": ""
   },
   {
     "company_name": "KATARZYNA SICZEK Raypath International",
-    "domain": "kasiasiczek.raypath.info",
-    "description": "",
     "booth": "Hala C / D48",
+    "description": "",
     "email": "kasiasiczek77@gmail.com",
-    "city": "DOŁHOBYCZÓW",
+    "mobile_primary": "504-944-335",
+    "domain": "https://kasiasiczek.raypath.info",
     "full_address": "HRUBIESZOWSKA 20A 22-540 DOŁHOBYCZÓW Poland",
-    "mobile_primary": "504-944-335"
+    "city": "DOŁHOBYCZÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kombucha by Laurent / Rocoto",
-    "domain": "kombuchabylaurent.pl",
-    "description": "Firma Rocoto Spółka z ograniczoną odpowiedzialnością Spółka komandytowa zajmuje się produkcją oraz dystrybucją napojów, specjalizując się w wytwarzaniu kombuchy pod marką \"Kombucha by Laurent\".",
     "booth": "Hala C / B13",
+    "description": "Firma Rocoto Spółka z ograniczoną odpowiedzialnością Spółka komandytowa zajmuje się produkcją oraz dystrybucją napojów, specjalizując się w wytwarzaniu kombuchy pod marką \"Kombucha by Laurent\".",
     "email": "",
-    "city": "WARSZAWA",
+    "mobile_primary": "",
+    "domain": "https://kombuchabylaurent.pl",
     "full_address": "POWSIŃSKA 69/71 02-903 WARSZAWA Poland",
-    "mobile_primary": ""
+    "city": "WARSZAWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "Kozyra Stanisław przedsiębiorstwo wielobranżowe \"eska\"",
-    "domain": "eskaagro.pl",
-    "description": "Nasza firma zajmuje się przetwórstwem wszelkich gatunków zbóż. Znaczną część naszych odbiorców stanowią zakłady mięsne, które używają naszej kaszy do swoich wyrobów, hurtownie (artykuły konfekcjonowane), jak też około 20% to eksport. Wytwarzamy 3 rodzaje kaszy gryczanej: kasza gryczana prażona, kasza gryczana prażona Extra (ciemna) i kasza gryczana nieprażona oraz mąka gryczana, a także produkty uboczne, takie jak: kasza łamana oraz łuska gryczana. Nasze wyroby oferujemy luzem, tzn. w workach po 25 kg, oraz już konfekcjonowane (0,4 kg, 0,5 kg, 1 kg lub 4 x 100 g). Innymi naszymi produktami są: kasze jęczmienne, grochy, ryż, fasole, kasza jaglana, kasza manna, mak, orzechy, pestki dyni, słonecznik.",
     "booth": "Hala C / F86",
+    "description": "Nasza firma zajmuje się przetwórstwem wszelkich gatunków zbóż. Znaczną część naszych odbiorców stanowią zakłady mięsne, które używają naszej kaszy do swoich wyrobów, hurtownie (artykuły konfekcjonowane), jak też około 20% to eksport. Wytwarzamy 3 rodzaje kaszy gryczanej: kasza gryczana prażona, kasza gryczana prażona Extra (ciemna) i kasza gryczana nieprażona oraz mąka gryczana, a także produkty uboczne, takie jak: kasza łamana oraz łuska gryczana. Nasze wyroby oferujemy luzem, tzn. w workach po 25 kg, oraz już konfekcjonowane (0,4 kg, 0,5 kg, 1 kg lub 4 x 100 g). Innymi naszymi produktami są: kasze jęczmienne, grochy, ryż, fasole, kasza jaglana, kasza manna, mak, orzechy, pestki dyni, słonecznik.",
     "email": "",
-    "city": "NOWA OSADA",
+    "mobile_primary": "",
+    "domain": "https://eskaagro.pl",
     "full_address": "NOWA OSADA 50 23-302 NOWA OSADA Poland",
-    "mobile_primary": ""
+    "city": "NOWA OSADA",
+    "linkedin_url": ""
   },
   {
     "company_name": "LIFEWELLNESS Sp. z o.o.",
-    "domain": "lifewellness.pl",
-    "description": "Zadowolenie naszych Klientów jest dla nas sprawą najważniejszą, dlatego też dokładamy wszelkich starań, aby zamówienia były realizowane błyskawicznie, a oferowany towar był najwyższej jakości. Dzięki zaangażowaniu naszych pracowników, którzy chętnie udzielają porad, zakupy w naszym sklepie internetowym stają się czystą przyjemnością.",
     "booth": "Hala C / B30",
+    "description": "Zadowolenie naszych Klientów jest dla nas sprawą najważniejszą, dlatego też dokładamy wszelkich starań, aby zamówienia były realizowane błyskawicznie, a oferowany towar był najwyższej jakości. Dzięki zaangażowaniu naszych pracowników, którzy chętnie udzielają porad, zakupy w naszym sklepie internetowym stają się czystą przyjemnością.",
     "email": "",
-    "city": "BYTOM",
+    "mobile_primary": "",
+    "domain": "https://lifewellness.pl",
     "full_address": "SIEMIANOWICKA 99 41-902 BYTOM Poland",
-    "mobile_primary": ""
+    "city": "BYTOM",
+    "linkedin_url": ""
   },
   {
     "company_name": "LYO2GO",
-    "domain": "lyo2go.pl",
-    "description": "LYO2GO to polska marka, która tworzy liofilizowane owoce i naturalne przekąski dla dzieci oraz dorosłych Stawiamy na prosty skład, wygodną formę i smak, który pochodzi wyłącznie z owoców i warzyw. Nasze produkty powstają z myślą o osobach, które szukają alternatywy dla klasycznych słodyczy i chcą wybierać przekąski bez dodatku cukru, bez konserwantów i bez zbędnych składników. Naturalne przekąski, które naprawdę mają prosty skład W LYO2GO wierzymy, że dobra przekąska nie potrzebuje długiej listy składników. Dlatego nasze liofilizowane owoce i warzywa zawierają dokładnie to, co powinny – naturalny surowiec, bez sztucznych barwników, konserwantów i aromatów. Smak naszych produktów wynika z jakości owoców i warzyw oraz z procesu liofilizacji, który pozwala zachować ich aromat, chrupkość i lekkość. Na obecnej stronie podkreślacie właśnie brak dodatku cukru, konserwantów i sztucznych składników oraz to, że smak pochodzi z owoców. Nasz autorski produkt: bezCukierki Szczególne miejsce w ofercie LYO2GO zajmują bezCukierki – nasz autorski produkt stworzony od podstaw. To liofilizowany mus z owoców i warzyw zamknięty w lekkiej, chrupiącej formie. Od pomysłu i receptury po proces produkcji rozwijamy ten produkt jako własną kategorię naturalnych przekąsek bez dodatku cukru. To ważny wyróżnik marki, bo na obecnej stronie bezCukierki opisane są jako Wasz flagowy i autorski produkt. Products: Berry Mix (truskawka, malina, borówka, banan) 20g, Green Mix (mango, jabłko, szpinak, pomarańcza) 20g, Vital Mix (banan, jabłko, cytryna, spirulina) 20g, Sunny Mix (marchew, jabłko, banan, cytryna) 20g, Fresh Mix (gruszka, jabłko, mięta, cytryna) 12g, Apple Pie Mix (jabłko, marchew, banan, cytryna, cynamon) 12g",
     "booth": "Hala C / E15",
+    "description": "LYO2GO to polska marka, która tworzy liofilizowane owoce i naturalne przekąski dla dzieci oraz dorosłych Stawiamy na prosty skład, wygodną formę i smak, który pochodzi wyłącznie z owoców i warzyw. Nasze produkty powstają z myślą o osobach, które szukają alternatywy dla klasycznych słodyczy i chcą wybierać przekąski bez dodatku cukru, bez konserwantów i bez zbędnych składników. Naturalne przekąski, które naprawdę mają prosty skład W LYO2GO wierzymy, że dobra przekąska nie potrzebuje długiej listy składników. Dlatego nasze liofilizowane owoce i warzywa zawierają dokładnie to, co powinny – naturalny surowiec, bez sztucznych barwników, konserwantów i aromatów. Smak naszych produktów wynika z jakości owoców i warzyw oraz z procesu liofilizacji, który pozwala zachować ich aromat, chrupkość i lekkość. Na obecnej stronie podkreślacie właśnie brak dodatku cukru, konserwantów i sztucznych składników oraz to, że smak pochodzi z owoców. Nasz autorski produkt: bezCukierki Szczególne miejsce w ofercie LYO2GO zajmują bezCukierki – nasz autorski produkt stworzony od podstaw. To liofilizowany mus z owoców i warzyw zamknięty w lekkiej, chrupiącej formie. Od pomysłu i receptury po proces produkcji rozwijamy ten produkt jako własną kategorię naturalnych przekąsek bez dodatku cukru. To ważny wyróżnik marki, bo na obecnej stronie bezCukierki opisane są jako Wasz flagowy i autorski produkt. Products: Berry Mix (truskawka, malina, borówka, banan) 20g, Green Mix (mango, jabłko, szpinak, pomarańcza) 20g, Vital Mix (banan, jabłko, cytryna, spirulina) 20g, Sunny Mix (marchew, jabłko, banan, cytryna) 20g, Fresh Mix (gruszka, jabłko, mięta, cytryna) 12g, Apple Pie Mix (jabłko, marchew, banan, cytryna, cynamon) 12g",
     "email": "",
-    "city": "JEŻÓW",
+    "mobile_primary": "",
+    "domain": "https://lyo2go.pl",
     "full_address": "ŁOWICKA 3 95-047 JEŻÓW Poland",
-    "mobile_primary": ""
+    "city": "JEŻÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "Onkomed",
-    "domain": "onkomed.pl",
-    "description": "Producent oliw ozonowanych OZONELLA ® .",
     "booth": "Hala C / D52",
+    "description": "Producent oliw ozonowanych OZONELLA ® .",
     "email": "",
-    "city": "URZUT",
+    "mobile_primary": "",
+    "domain": "https://onkomed.pl",
     "full_address": "PROMYKA 75A 05-830 URZUT Poland",
-    "mobile_primary": ""
+    "city": "URZUT",
+    "linkedin_url": ""
   },
   {
     "company_name": "Para Food s.r.o",
-    "domain": "para-food.com",
-    "description": "Para Food connects the world with the rich biodiversity of the Amazon. We specialize in sourcing and exporting premium natural organic products: Royal Quinoa, Freeze Dries Acai, Brazil Nut Oil, Gluten Free Flours from Royal Quinoa and Brazil nut, Dragon's Blood Resin (Croton Lechleri), Tocosh Powder in bulk and retail. Our mission is to bring authentic, traceable, and high-quality ingredients from the Amazon to conscious consumers and responsible brands worldwide. By working directly with producers, we ensure fair trade practices, transparency, and the preservation of traditional knowledge and ecosystems. At Para Food, we believe that great taste and sustainability go hand in hand — every product tells a story of nature, people, and purpose. Para Food - Your partner in premium ingredients",
     "booth": "Hala C / F17",
+    "description": "Para Food connects the world with the rich biodiversity of the Amazon. We specialize in sourcing and exporting premium natural organic products: Royal Quinoa, Freeze Dries Acai, Brazil Nut Oil, Gluten Free Flours from Royal Quinoa and Brazil nut, Dragon's Blood Resin (Croton Lechleri), Tocosh Powder in bulk and retail. Our mission is to bring authentic, traceable, and high-quality ingredients from the Amazon to conscious consumers and responsible brands worldwide. By working directly with producers, we ensure fair trade practices, transparency, and the preservation of traditional knowledge and ecosystems. At Para Food, we believe that great taste and sustainability go hand in hand — every product tells a story of nature, people, and purpose. Para Food - Your partner in premium ingredients",
     "email": "info@para-food.com",
-    "city": "PRAHA",
+    "mobile_primary": "+420774409646",
+    "domain": "https://para-food.com",
     "full_address": "Revolupni 1083 10 110 00 PRAHA Poland",
-    "mobile_primary": "+420774409646"
+    "city": "PRAHA",
+    "linkedin_url": ""
   },
   {
     "company_name": "POLBIOECO POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-    "domain": "polbioeco.pl",
-    "description": "POLBIOECO Polska Sp. z o.o. to polska firma zajmująca się produkcją, dystrybucją i sprzedażą żywności ekologicznej i naturalnej. Firma oferuje produkty oparte na surowcach z certyfikowanych upraw, które można kupić w internetowym sklepie ekologicznym, przeznaczonym zarówno dla klientów indywidualnych, jak i hurtowni. Misją firmy jest dostarczanie wysokiej jakości produktów ekologicznych, tworzonych z myślą o zdrowiu i ochronie środowiska.",
     "booth": "Hala C / B2",
+    "description": "POLBIOECO Polska Sp. z o.o. to polska firma zajmująca się produkcją, dystrybucją i sprzedażą żywności ekologicznej i naturalnej. Firma oferuje produkty oparte na surowcach z certyfikowanych upraw, które można kupić w internetowym sklepie ekologicznym, przeznaczonym zarówno dla klientów indywidualnych, jak i hurtowni. Misją firmy jest dostarczanie wysokiej jakości produktów ekologicznych, tworzonych z myślą o zdrowiu i ochronie środowiska.",
     "email": "",
-    "city": "LUBLIN",
+    "mobile_primary": "",
+    "domain": "https://polbioeco.pl",
     "full_address": "DO DYSA 5 20-149 LUBLIN Poland",
-    "mobile_primary": ""
+    "city": "LUBLIN",
+    "linkedin_url": ""
   },
   {
     "company_name": "SUN VITA",
-    "domain": "wyciskarki-info.pl",
-    "description": "Firma SUN-VITA powstała z myślą o propagowaniu zdrowego trybu życia oraz promowaniu naturalnych metod leczenia, a także dla osób które chcą poprawić stan swojego zdrowia, a nie wiedzą jak i czym tego dokonać. W ofercie naszej firmy znajdują się również urządzenia do wyciskania soku, wspomagające leczenie chorób cywilizacyjnych oraz profilaktykę zdrowotną. Obecnie jesteśmy wyłącznym importerem na Polskę wyciskarek wolnoobrotowych marek WINSTAR, NORTON oraz DISCOVERY. Dla państwa komfortu i wygody, uruchomiliśmy stronę internetową, www.sokidlazdrowia.pl umożliwiającą Państwu stały dostęp do naszych produktów jak i możliwość dokładnego zapoznania się z nimi oraz korzystanie z naszych promocji. Zapraszamy również na międzynarodowe targi i kiermasze organizowane w całej Polsce, gdzie jest również możliwość nabycia niektórych z tych produktów.",
     "booth": "Hala C / B59",
+    "description": "Firma SUN-VITA powstała z myślą o propagowaniu zdrowego trybu życia oraz promowaniu naturalnych metod leczenia, a także dla osób które chcą poprawić stan swojego zdrowia, a nie wiedzą jak i czym tego dokonać. W ofercie naszej firmy znajdują się również urządzenia do wyciskania soku, wspomagające leczenie chorób cywilizacyjnych oraz profilaktykę zdrowotną. Obecnie jesteśmy wyłącznym importerem na Polskę wyciskarek wolnoobrotowych marek WINSTAR, NORTON oraz DISCOVERY. Dla państwa komfortu i wygody, uruchomiliśmy stronę internetową, www.sokidlazdrowia.pl umożliwiającą Państwu stały dostęp do naszych produktów jak i możliwość dokładnego zapoznania się z nimi oraz korzystanie z naszych promocji. Zapraszamy również na międzynarodowe targi i kiermasze organizowane w całej Polsce, gdzie jest również możliwość nabycia niektórych z tych produktów.",
     "email": "",
-    "city": "GLIWICE",
+    "mobile_primary": "",
+    "domain": "https://wyciskarki-info.pl",
     "full_address": "PIASTOWSKA 7/II 44-122 GLIWICE Poland",
-    "mobile_primary": ""
+    "city": "GLIWICE",
+    "linkedin_url": ""
   },
   {
     "company_name": "TempeHu",
-    "domain": "tempehu.cz",
-    "description": "TempeHu to marka innowacyjnej czeskiej firmy produkującej tempeh. Zobowiązujemy się do dostarczania zdrowej alternatywy dla mięsa z produktów bez soi i glutenu. Chcemy ponownie wprowadzić na talerz zarówno tradycyjne, jak i nietypowe rośliny strączkowe. Produkujemy tempeh w najbardziej ekologiczny sposób, jaki znamy. Zrezygnowaliśmy z plastikowych worków do fermentacji i zamiast tego używamy blachy wielokrotnego użytku z kratkami ze stali nierdzewnej. Wszystkie używane przez nas składniki są w jakości BIO i większość z nich pochodzi z kraju lub Europy.",
     "booth": "Hala C / C47",
+    "description": "TempeHu to marka innowacyjnej czeskiej firmy produkującej tempeh. Zobowiązujemy się do dostarczania zdrowej alternatywy dla mięsa z produktów bez soi i glutenu. Chcemy ponownie wprowadzić na talerz zarówno tradycyjne, jak i nietypowe rośliny strączkowe. Produkujemy tempeh w najbardziej ekologiczny sposób, jaki znamy. Zrezygnowaliśmy z plastikowych worków do fermentacji i zamiast tego używamy blachy wielokrotnego użytku z kratkami ze stali nierdzewnej. Wszystkie używane przez nas składniki są w jakości BIO i większość z nich pochodzi z kraju lub Europy.",
     "email": "info@tempehu.cz",
-    "city": "BRNKY",
+    "mobile_primary": "+420 606 244 873",
+    "domain": "https://tempehu.cz",
     "full_address": "Slepa 44 ZDIBY 250 66 BRNKY Poland",
-    "mobile_primary": "+420 606 244 873"
+    "city": "BRNKY",
+    "linkedin_url": ""
   },
   {
     "company_name": "WARSZAWSKI ROLNO-SPOŻYWCZY RYNEK HURTOWY",
-    "domain": "bronisze.com.pl",
-    "description": "Warszawski Rolno-Spożywczy Rynek Hurtowy S.A. jest największym rynkiem hurtowej sprzedaży owoców, warzyw, artykułów spożywczych i kwiatów w Polsce oraz jednym z największych centrów hurtowych w Europie. Spółka powstała w roku 1995. W roku 1999 ukończono prace budowlane i Rynek Hurtowy został otwarty.",
     "booth": "Hala C / B2",
+    "description": "Warszawski Rolno-Spożywczy Rynek Hurtowy S.A. jest największym rynkiem hurtowej sprzedaży owoców, warzyw, artykułów spożywczych i kwiatów w Polsce oraz jednym z największych centrów hurtowych w Europie. Spółka powstała w roku 1995. W roku 1999 ukończono prace budowlane i Rynek Hurtowy został otwarty.",
     "email": "maciek.kmera@bronisze.com.pl",
-    "city": "BRONISZE",
+    "mobile_primary": "607651729",
+    "domain": "https://bronisze.com.pl",
     "full_address": "POZNAŃSKA 98 05-850 BRONISZE Poland",
-    "mobile_primary": "607651729"
+    "city": "BRONISZE",
+    "linkedin_url": ""
   },
   {
     "company_name": "YU MATCHA",
-    "domain": "yumatcha.com",
-    "description": "Odkryj prawdziwą matchę z Uji w Japonii Yu Matcha dostarcza autentyczną japońską matchę firmom w Polsce, opierając się na bezpośrednich relacjach z wielopokoleniowymi producentami herbaty z Uji. Importujemy bez pośredników, a nasza matcha jest pakowana w Japonii, posiada certyfikaty ekologiczne zgodne ze standardami UE i JAS oraz jest przechowywana w warunkach chłodniczych, aby jak najlepiej zachować jej naturalny kolor, aromat i smak. Nasza oferta obejmuje Ceremonial, Premium i Codzienna Matcha w opakowaniach detalicznych oraz formatach profesjonalnych, przeznaczonych do różnych zastosowań — od tradycyjnego przygotowania i matcha latte po sprzedaż detaliczną i produkcję żywności. Produkty są również badane pod kątem bezpieczeństwa żywności, w tym pozostałości pestycydów, metali ciężkich i promieniowania. Współpracujemy z: kawiarniami, restauracjami, hotelami i cukierniami, które tworzą wyróżniające się menu z matchą; sklepami, sklepami ekologicznymi, hurtowniami i dystrybutorami poszukującymi sprawdzonej japońskiej matchy; producentami żywności i napojów, tworzącymi lody, czekoladę, ciastka, wypieki, słodycze i napoje. Yu Matcha powstała z ponad 17-letniego doświadczenia założycielki z matchą oraz z jasnej ambicji, aby prawdziwa japońska matcha stała się częścią nowoczesnego, codziennego życia. Products: Yu Matcha Ceremonialna, Yu Matcha Premium, Yu Matcha Codzienna, Yu Matcha Premium 1 kg – HoReCa, Yu Matcha Codzienna 1 kg – HoReCa",
     "booth": "Hala C / E8",
+    "description": "Odkryj prawdziwą matchę z Uji w Japonii Yu Matcha dostarcza autentyczną japońską matchę firmom w Polsce, opierając się na bezpośrednich relacjach z wielopokoleniowymi producentami herbaty z Uji. Importujemy bez pośredników, a nasza matcha jest pakowana w Japonii, posiada certyfikaty ekologiczne zgodne ze standardami UE i JAS oraz jest przechowywana w warunkach chłodniczych, aby jak najlepiej zachować jej naturalny kolor, aromat i smak. Nasza oferta obejmuje Ceremonial, Premium i Codzienna Matcha w opakowaniach detalicznych oraz formatach profesjonalnych, przeznaczonych do różnych zastosowań — od tradycyjnego przygotowania i matcha latte po sprzedaż detaliczną i produkcję żywności. Produkty są również badane pod kątem bezpieczeństwa żywności, w tym pozostałości pestycydów, metali ciężkich i promieniowania. Współpracujemy z: kawiarniami, restauracjami, hotelami i cukierniami, które tworzą wyróżniające się menu z matchą; sklepami, sklepami ekologicznymi, hurtowniami i dystrybutorami poszukującymi sprawdzonej japońskiej matchy; producentami żywności i napojów, tworzącymi lody, czekoladę, ciastka, wypieki, słodycze i napoje. Yu Matcha powstała z ponad 17-letniego doświadczenia założycielki z matchą oraz z jasnej ambicji, aby prawdziwa japońska matcha stała się częścią nowoczesnego, codziennego życia. Products: Yu Matcha Ceremonialna, Yu Matcha Premium, Yu Matcha Codzienna, Yu Matcha Premium 1 kg – HoReCa, Yu Matcha Codzienna 1 kg – HoReCa",
     "email": "alicja@yumatcha.com",
-    "city": "KARGOWA",
+    "mobile_primary": "+48 787 499 531",
+    "domain": "https://yumatcha.com",
     "full_address": "KOLEJOWA 14 66-120 KARGOWA Poland",
-    "mobile_primary": "+48 787 499 531"
+    "city": "KARGOWA",
+    "linkedin_url": ""
   },
   {
     "company_name": "ZAKŁAD MIĘSNY WASĄG SPÓŁKA JAWNA",
-    "domain": "wasag.pl",
-    "description": "ZM Wasąg to firma rodzinna, zlokalizowana wśród pół i lasów Roztocza na Lubelszczyźnie. Od ponad 29 lat działamy w branży mięsnej i wędliniarskiej, a już prawie 19 lat od momentu, gdy otrzymaliśmy nasz pierwszy certyfikat ekologiczny, dzięki któremu staliśmy się pionierem w produkcji ekologicznej w Polsce.",
     "booth": "Hala C / B2",
+    "description": "ZM Wasąg to firma rodzinna, zlokalizowana wśród pół i lasów Roztocza na Lubelszczyźnie. Od ponad 29 lat działamy w branży mięsnej i wędliniarskiej, a już prawie 19 lat od momentu, gdy otrzymaliśmy nasz pierwszy certyfikat ekologiczny, dzięki któremu staliśmy się pionierem w produkcji ekologicznej w Polsce.",
     "email": "",
-    "city": "HEDWIŻYN",
+    "mobile_primary": "",
+    "domain": "https://wasag.pl",
     "full_address": "HEDWIŻYN 118 23-400 HEDWIŻYN Poland",
-    "mobile_primary": ""
+    "city": "HEDWIŻYN",
+    "linkedin_url": ""
   },
   {
     "company_name": "Zielony Sad Pasquale &Majki",
-    "domain": "",
-    "description": "Zielony sad Pasquale & Majki to ekologiczne gospodarstwo położone w sercu Wielkopolski. W zgodzie z rytmem natury dojrzewają tu czereśnie, śliwki, morele, zioła , warzywa. W ekologicznym sadzie pośród drzew spacerują wolne kury. Tworzymy naturalne przetwory według własnych receptur:soki, syropy,konfitury, suszymy owoce i zioła - wszystko z sercem, uważnością i certyfikatem EKO. Pasquale kontynuuje wielopokoleniową, włoską tradycję sadowniczą. Od 2005 roku pielęgnuje polską ziemię i dzieli się wiedzą o rolnictwie ekologicznym.",
     "booth": "Hala C / F9",
+    "description": "Zielony sad Pasquale & Majki to ekologiczne gospodarstwo położone w sercu Wielkopolski. W zgodzie z rytmem natury dojrzewają tu czereśnie, śliwki, morele, zioła , warzywa. W ekologicznym sadzie pośród drzew spacerują wolne kury. Tworzymy naturalne przetwory według własnych receptur:soki, syropy,konfitury, suszymy owoce i zioła - wszystko z sercem, uważnością i certyfikatem EKO. Pasquale kontynuuje wielopokoleniową, włoską tradycję sadowniczą. Od 2005 roku pielęgnuje polską ziemię i dzieli się wiedzą o rolnictwie ekologicznym.",
     "email": "zielonysad.pm@gmail.com",
-    "city": "PRZYBYŁÓW",
+    "mobile_primary": "+48 600 274 209",
+    "domain": "",
     "full_address": "PRZYBYŁÓW 6 62-600 PRZYBYŁÓW Poland",
-    "mobile_primary": "+48 600 274 209"
+    "city": "PRZYBYŁÓW",
+    "linkedin_url": ""
   },
   {
     "company_name": "ZMIANY ZMIANY Sp. z o.o.",
-    "domain": "zmianyzmiany.pl",
-    "description": "Jesteśmy prekursorem produkcji zdrowych batonów w Polsce. Od 2014 roku produkujemy we własnym zakładzie produkcyjnym zdrowe przekąski – energetyczne, wegańskie, wysokojakościowe batony bez dodanego cukru, bez konserwantów, aromatów, wzmacniaczy smaków czy spulchniaczy.",
     "booth": "Hala C / B2",
+    "description": "Jesteśmy prekursorem produkcji zdrowych batonów w Polsce. Od 2014 roku produkujemy we własnym zakładzie produkcyjnym zdrowe przekąski – energetyczne, wegańskie, wysokojakościowe batony bez dodanego cukru, bez konserwantów, aromatów, wzmacniaczy smaków czy spulchniaczy.",
     "email": "",
-    "city": "CZESKA WIEŚ",
+    "mobile_primary": "",
+    "domain": "https://zmianyzmiany.pl",
     "full_address": "CZESKA WIEŚ 54 49-332 CZESKA WIEŚ Poland",
-    "mobile_primary": ""
+    "city": "CZESKA WIEŚ",
+    "linkedin_url": ""
   }
 ]
