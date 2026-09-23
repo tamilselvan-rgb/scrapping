@@ -1,0 +1,1 @@
+self.__next_f.push([1,"15:I[43976,[\"5648\",\"static/chunks/5648-47c4e25efb88c0b0.js\",\"2779\",\"static/chunks/2779-c41384965d61fa09.js\",\"1831\",\"static/chunks/app/(frontend)/sites/%5Bfair%5D/%5Blocale%5D/%5B...path%5D/page-02d1c7930e455787.js\"],\"RegistrationWizard\"]\n"])

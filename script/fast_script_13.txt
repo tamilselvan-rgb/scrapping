@@ -1,0 +1,1 @@
+self.__next_f.push([1,"f:{\"metadata\":[[\"$\",\"title\",\"0\",{\"children\":\"PTAK Platform\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Platforma stron targowych PTAK\"}]],\"error\":null,\"digest\":\"$undefined\"}\n14:\"$f:metadata\"\n"])

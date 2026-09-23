@@ -1,0 +1,27 @@
+ldjson 5
+--- 0 1206 ---
+{"@context":"https://schema.org","@type":"Event","name":"InnoTrans 2026","startDate":"2026-09-22T00:00:00","url":"https://expomap.ru/expo/innotrans","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Выставка InnoTrans 2026 проводится c 22 по 25 сентября в городе Берлин, Германия.\r\n\r\nОсновные тематические направления мероприятия:&nbsp;Автобусы, Общественный транспорт, Пассажирские перевозки, Ж/Д транспорт, Логистика, Железнодорожный транспорт, Транспорт.\r\n\r\nС перечнем экспонатов и разделов выставки можно ознакомиться в блоке &laquo;Дополнительная информация&raquo;. Деловая программа обычно публикуется ближе к дате начала события.\r\n\r\nУчастие в выcтавке InnoTrans 2026\r\n\r\nСтоимость и условия уч","endDate":"2026-09-25T23:59:59.999999","image":"https://expomap.ru/media/exposition/logo/vystavka-innotrans-2022-logo.2.png","location":{"@type":"Place","name":"Messe Berlin","address":{"@type":"PostalAddress","streetAddress":"Messedamm 22, Messe Berlin GmbH, 14055 Berlin, Germany","addressLocality":"Берлин","addressCountry":"Германия"}},"organizer":{"@type":"Organization","name":"Messe Berlin GmbH"}}
+--- 1 574 ---
+{"@context":"https://schema.org","@type":"Event","name":"NextTruck 2026","startDate":"2026-11-11T00:00:00","url":"https://expomap.ru/expo/nexttruck","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Выставка грузоперевозок и логистики","endDate":"2026-11-12T23:59:59.999999","image":"https://expomap.ru/media/exposition/logoeventlogo-70-1737298777.jpg","location":{"@type":"Place","name":"Берлин","address":{"@type":"PostalAddress","addressLocality":"Берлин","addressCountry":"Германия"}}}
+--- 2 630 ---
+{"@context":"https://schema.org","@type":"Event","name":"Fruit Logistica 2027","startDate":"2027-02-03T00:00:00","url":"https://expomap.ru/expo/fruit-logistica","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Выставка плодоовощной отрасли, логистики и технологий хранения свежей продукции","endDate":"2027-02-05T23:59:59.999999","image":"https://expomap.ru/media/exposition/logo/fruit-logistica-1099-1.gif","location":{"@type":"Place","name":"Берлин","address":{"@type":"PostalAddress","addressLocality":"Берлин","addressCountry":"Германия"}}}
+--- 3 604 ---
+{"@context":"https://schema.org","@type":"Event","name":"Railway Forum Berlin 2027","startDate":"2027-08-31T00:00:00","url":"https://expomap.ru/conference/railway-forum-berlin","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"железнодорожный отраслевой форум","endDate":"2027-09-02T23:59:59.999999","image":"https://expomap.ru/media/conference/logorailway-forum-berlin-22305-1.gif","location":{"@type":"Place","name":"Берлин","address":{"@type":"PostalAddress","addressLocality":"Берлин","addressCountry":"Германия"}}}
+--- 4 567 ---
+{"@context":"https://schema.org","@type":"Event","name":"Bus2Bus 2028","startDate":"2028-04-04T00:00:00","url":"https://expomap.ru/expo/bus2bus","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Специализированная выставка автобусов","endDate":"2028-04-06T23:59:59.999999","location":{"@type":"Place","name":"Берлин","address":{"@type":"PostalAddress","streetAddress":"Messedamm 22, Messe Berlin GmbH, 14055 Berlin, Germany","addressLocality":"Берлин","addressCountry":"Германия"}}}
+EXTERNAL
+https://expolead.ru/info-partner | Создать событие
+https://expolead.ru/info-partner | 
+http://mrqz.me/6a54f08bc9d9ae0019963cd9 | квиз
+http://www.innotrans.com | Перейти на официальный сайт
+https://expolead.ru/instrucia | Добавить мероприятие
+https://expotv.online | Видеопродакшн
+https://rutube.ru/channel/45750669/ | 
+TEXT SNIPPETS
+needle Instagram at -1
+needle instagram at -1
+needle Website at -1
+needle Hall at -1
+needle Pavilion at -1
+needle Venue at -1
+needle Organizer at -1

@@ -1,0 +1,68 @@
+instagram: 0
+Instagram: 0
+facebook: 0
+vk.com: 1
+q=75 2x" src="/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FtgIcon.ce326c4f.svg&amp;w=48&amp;q=75"/></a><a href="http://vk.com/expomap" target="_blank" rel="noopener noreferrer" class="flex size-11 items-center justify-center rounded-lg bg-white group hover:bg-accent-warm transition-all"><img alt="v
+---
+telegram: 29
+="round"></path></svg></button><a href="https://t.me/expomap" target="_blank" rel="noopener noreferrer" aria-label="Наш Telegram" class="rounded-[0.625rem] bg-[#037FE4] p-3.5 transition-all hover:bg-[#006EC8]" data-state="closed" data-slot="tooltip-trigger"><img alt="" aria-hidden="true" loading="la
+---
+ght="22" decoding="async" data-nimg="1" style="color:transparent" srcSet="/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FtelegramIcon.554b5557.svg&amp;w=32&amp;q=75 1x, /_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FtelegramIcon.554b5557.svg&amp;w=64&amp;q=75 2x" src="/_next/image/?url=%2F_next%2Fstat
+---
+F_next%2Fstatic%2Fmedia%2FtelegramIcon.554b5557.svg&amp;w=32&amp;q=75 1x, /_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FtelegramIcon.554b5557.svg&amp;w=64&amp;q=75 2x" src="/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2FtelegramIcon.554b5557.svg&amp;w=64&amp;q=75"/></a></div></div></div><div class="m
+---
+hall: 6
+ставочная площадь\",\"statOpenArea\":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plu
+---
+tPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plural, one {# зал} few {# зала} many {# залов} other {# зала}}\",\"statCapacityValue\":\"{count, plural, one {# человек} few {# человека} many {# человек} o
+---
+r\":\"Количество мероприятий в год\",\"statFoundationYear\":\"Год основания\",\"statCapacity\":\"Вместимость\",\"statExpHallArea\":\"Выставочная площадь\",\"addressHeading\":\"Адрес\",\"servicesHeading\":\"Технические характеристики площадки\",\"servicesColName\":\"Наименование\",\"servicesColAvaila
+---
+Hall: 6
+ставочная площадь\",\"statOpenArea\":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plu
+---
+tPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plural, one {# зал} few {# зала} many {# залов} other {# зала}}\",\"statCapacityValue\":\"{count, plural, one {# человек} few {# человека} many {# человек} o
+---
+r\":\"Количество мероприятий в год\",\"statFoundationYear\":\"Год основания\",\"statCapacity\":\"Вместимость\",\"statExpHallArea\":\"Выставочная площадь\",\"addressHeading\":\"Адрес\",\"servicesHeading\":\"Технические характеристики площадки\",\"servicesColName\":\"Наименование\",\"servicesColAvaila
+---
+pavilion: 2
+я площадь\",\"statClosedArea\":\"Закрытая выставочная площадь\",\"statOpenArea\":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# па
+---
+":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plural, one {# зал} few {# зала} many 
+---
+Pavilion: 2
+я площадь\",\"statClosedArea\":\"Закрытая выставочная площадь\",\"statOpenArea\":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# па
+---
+":\"Открытая выставочная площадь\",\"statPavilions\":\"Количество павильонов\",\"statHalls\":\"Количество залов\",\"statPavilionsValue\":\"{count, plural, one {# павильон} few {# павильона} many {# павильонов} other {# павильона}}\",\"statHallsValue\":\"{count, plural, one {# зал} few {# зала} many 
+---
+innotrans.com: 2
+ify-start text-stone-500 text-base font-normal font-[&#x27;Fira_Sans&#x27;]">Официальный сайт:</div><a href="http://www.innotrans.com" target="_blank" rel="nofollow noopener noreferrer" class="justify-start text-[#2e2e2e] text-base font-normal font-[&#x27;Fira_Sans&#x27;] underline">Перейти на офици
+---
+\"Annually\",\"foundation_year\":1996,\"link\":null,\"canceled\":false,\"paid_info\":null,\"web_page_url\":\"http://www.innotrans.com\",\"program_url\":null,\"business_program\":[],\"photos\":[],\"price\":[{\"currency\":\"eur\",\"value\":3},{\"currency\":\"rub\",\"value\":270}],\"organizers\":{\"mai
+---
+official: 3
+ickyCtaOffer\":\"Пройдите регистрацию на событие\",\"stickyCtaOfferParticipation\":\"Забронируйте стенд на выставке\",\"officialSite\":\"Официальный сайт\",\"participate\":\"Участвовать\",\"participateWithStand\":\"Участвовать со стендом\",\"when\":\"Когда: {dateRange}\",\"toEventSite\":\"На сайт со
+---
+атора\",\"venue\":\"Место проведения {title}\",\"aboutVenue\":\"О площадке\",\"eventHistory\":\"История проведения:\",\"officialSiteLabel\":\"Официальный сайт:\",\"goToOfficialSite\":\"Перейти на официальный сайт\",\"ticketPrice\":\"Стоимость билета:\",\"priceFrom\":\"от {price} руб.\",\"workingHour
+---
+"aboutVenue\":\"О площадке\",\"eventHistory\":\"История проведения:\",\"officialSiteLabel\":\"Официальный сайт:\",\"goToOfficialSite\":\"Перейти на официальный сайт\",\"ticketPrice\":\"Стоимость билета:\",\"priceFrom\":\"от {price} руб.\",\"workingHours\":\"Время работы:\",\"advertisement\":\"Реклам
+---
+website: 13
+ontent="https://expomap.ru/media/exposition/logo/vystavka-innotrans-2022-logo.2.png"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="InnoTrans 2026 - выставки на  Expomap"/><meta name="twitter:description" cont
+---
+ToCalendar\":\"Добавить в календарь\",\"aboutOrganizer\":\"Об организаторе:\",\"organizer\":\"Организатор:\",\"organizerWebsite\":\"Сайт организатора\",\"venue\":\"Место проведения {title}\",\"aboutVenue\":\"О площадке\",\"eventHistory\":\"История проведения:\",\"officialSiteLabel\":\"Официальный са
+---
+вание события\",\"shortDescription\":\"Краткое описание\",\"facts\":\"Факты о событии\",\"organizer\":\"Организатор\",\"website\":\"Сайт события\",\"startDate\":\"Начало\",\"endDate\":\"Конец\",\"startTime\":\"Начало\",\"endTime\":\"Конец\",\"exhibitorsCount\":\"Кол-во экспонентов\",\"visitorsCount\
+---
+Messe Berlin: 19
+mage":"https://expomap.ru/media/exposition/logo/vystavka-innotrans-2022-logo.2.png","location":{"@type":"Place","name":"Messe Berlin","address":{"@type":"PostalAddress","streetAddress":"Messedamm 22, Messe Berlin GmbH, 14055 Berlin, Germany","addressLocality":"Берлин","addressCountry":"Германия"}},"
+---
+ng","location":{"@type":"Place","name":"Messe Berlin","address":{"@type":"PostalAddress","streetAddress":"Messedamm 22, Messe Berlin GmbH, 14055 Berlin, Germany","addressLocality":"Берлин","addressCountry":"Германия"}},"organizer":{"@type":"Organization","name":"Messe Berlin GmbH"}}</script><div cla
+---
+5 Berlin, Germany","addressLocality":"Берлин","addressCountry":"Германия"}},"organizer":{"@type":"Organization","name":"Messe Berlin GmbH"}}</script><div class="md:hidden"><div></div></div><div class="mb-8 lg:mb-8"><header class="hidden flex-col gap-3 lg:flex"><div class="relative h-full w-full"><di
+---
+social: 2
+авки в Турции\"}},\"footer\":{\"infoNavAria\":\"Информация и контакты\",\"catalogNavAria\":\"Каталог мероприятий\",\"ourSocials\":\"наши соцсети\",\"subscribeToNewsletter\":\"Подпишитесь на рассылку\",\"subscribeToEventSubtitle\":\"Подпишитесь и получайте информацию о событии {eventTitle}\",\"userAg
+---
+":\"Загрузка событий...\",\"personalInfo\":\"Личная информация\",\"professionalInfo\":\"Профессиональная информация\",\"socialNetworks\":\"Социальные сети\",\"photo\":\"Фото\",\"changePhoto\":\"Изменить фото\",\"addPhoto\":\"Добавить фото\",\"clearPhoto\":\"Удалить фото\",\"selectDate\":\"Выберите д
+---

@@ -1,0 +1,36 @@
+ldjson count 12
+--- script 0 len 532 ---
+{"@context":"https://schema.org","@type":"Event","name":"area30 – design. kitchen. technics 2026","startDate":"2026-09-19T00:00:00","url":"https://expomap.ru/expo/area30-design-kitchen-technics","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Выставка кухонных технологий","endDate":"2026-09-24T23:59:59.999999","location":{"@type":"Place","name":"Lohne","address":{"@type":"PostalAddress","addressLocality":"Lohne","addressCountry":"Germany"}}}
+--- script 1 len 633 ---
+{"@context":"https://schema.org","@type":"Event","name":"LivingKitchen 2026","startDate":"2026-09-20T00:00:00","url":"https://expomap.ru/expo/livingkitchen","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Международная выставка кухонь","endDate":"2026-09-23T23:59:59.999999","image":"https://expomap.ru/media/exposition/logo/livingkitchen-10842-1.6.gif","location":{"@type":"Place","name":"Cologne","address":{"@type":"PostalAddress","streetAddress":"Messeplatz 1, 50679 Cologne, Germany","addressLocality":"Cologne","addressCountry":"Germany"}}}
+--- script 2 len 674 ---
+{"@context":"https://schema.org","@type":"Event","name":"InnoTrans 2026","startDate":"2026-09-22T00:00:00","url":"https://expomap.ru/expo/innotrans","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"Международная выставка транспортной техники и логистики","endDate":"2026-09-25T23:59:59.999999","image":"https://expomap.ru/media/exposition/logo/vystavka-innotrans-2022-logo.2.png","location":{"@type":"Place","name":"Berlin","address":{"@type":"PostalAddress","streetAddress":"Messedamm 22, Messe Berlin GmbH, 14055 Berlin, Germany","addressLocality":"Berlin","addressCountry":"Germany"}}}
+--- script 3 len 609 ---
+{"@context":"https://schema.org","@type":"Event","name":"Euro Defence Expo 2026","startDate":"2026-09-22T00:00:00","url":"https://expomap.ru/expo/euro-defence-expo","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","description":"выставка оборонных и систем безопасности технологий","endDate":"2026-09-25T23:59:59.999999","image":"https://expomap.ru/media/exposition/logologoeuro-defence-expo-32976-1.gif","location":{"@type":"Place","name":"Essen","address":{"@type":"PostalAddress","addressLocality":"Essen","addressCountry":"Germany"}}}
+PAGES
+/en/expo/country/germany/?page=2
+/en/expo/country/germany/?page=3
+/en/expo/country/germany/?page=4
+/en/expo/country/germany/?page=57
+event-like links 93 unique 76
+/en/expo/ | Exhibitions
+/en/expo/area30-design-kitchen-technics/ | area30 – design. kitchen. technics 2026
+/en/expo/tag/furniture/ | # Мебель
+/en/expo/tag/kitchen/ | # Кухни
+/en/expo/tag/components-and-accessories/ | # Комплектующие и фурнитура
+/en/expo/tag/home-and-life/ | # Товары для дома и быта
+/en/expo/area30-design-kitchen-technics/ | Details
+/en/expo/livingkitchen/ | LivingKitchen 2026
+/en/expo/tag/building-design/ | # Строительный дизайн
+/en/expo/tag/mebel-inter-er-dekor-decor/ | # Предметы декора
+/en/expo/tag/mebel-inter-er-dekor-interior-design/ | # Дизайн интерьера
+/en/expo/tag/home-and-life/ | # Товары для дома и быта
+/en/expo/tag/soft-goods/ | # Текстильные изделия
+/en/expo/livingkitchen/ | Details
+/en/expo/innotrans/ | InnoTrans 2026
+/en/expo/tag/buses/ | # Автобусы
+/en/expo/tag/public-transport/ | # Общественный транспорт
+/en/expo/tag/passenger-transportation/ | # Пассажирские перевозки
+/en/expo/tag/f-d-transport/ | # Ж/Д транспорт
+/en/expo/tag/logistics/ | # Логистика
+NO COUNTRY INDEX YET

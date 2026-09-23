@@ -1,0 +1,12 @@
+(function(){try{
+var P=['utm_source','utm_medium','utm_campaign','utm_term','utm_content','gclid','gbraid','wbraid','fbclid','ttclid'];
+var q=new URLSearchParams(location.search),d={},sig=false;
+for(var i=0;i<P.length;i++){var v=q.get(P[i]);if(v){d[P[i]]=v.slice(0,200);sig=true;}}
+var r=document.referrer;
+if(r){var h=new URL(r).hostname;if(h&&h!==location.hostname){d.ref=h;sig=true;}}
+d.l=location.pathname.slice(0,200);d.ts=new Date().toISOString();
+var c=encodeURIComponent(JSON.stringify(d));if(c.length>1900)return;
+function set(n){document.cookie=n+'='+c+';path=/;max-age=34560000;SameSite=Lax';}
+if(document.cookie.indexOf('pk_ft=')===-1)set('pk_ft');
+if(sig)set('pk_lt');
+}catch(e){}})();
