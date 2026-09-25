@@ -117,6 +117,8 @@ def detail_record(record):
             record["linkedin_url"] = linkedin["href"]
     except requests.RequestException as exc:
         print(f"Detail failed: {record['company_name']}: {exc}")
+    if not re.match(r"^[^@\s]+@[^@\s]+\.[A-Za-z]{2,}$", record["email"]):
+        record["email"] = ""
     for key in ("detail_url", "country"):
         record.pop(key, None)
     return record
