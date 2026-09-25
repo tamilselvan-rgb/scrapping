@@ -38,7 +38,7 @@
     "description": "Young Professionals – Treffpunkt für Austausch und Inspiration Unsere AG ist die Anlaufstelle für Neueinsteiger jeden Alters. Wir unterstützen Dich beim Ankommen im Berufsfeld, beim Entdecken der vielfältigen Möglichkeiten und beim Engagement in der tekom. Gemeinsam gestalten wir die Zukunft der Technischen Kommunikation – und zeigen, wie spannend und vielfältig sie ist. Am Stand bieten wir Raum für Fragen, Gespräche und neue Perspektiven – für Neulinge ebenso wie für erfahrene Fachleute. Hier kannst Du Dich vernetzen, Ideen teilen und Impulse mitnehmen. Und an unserer Buttonmaschine wird ein von Dir selbst gestalteter Button zum Statement für Deine Verbindung zur TK. Komm vorbei - wir freuen uns auf den Austausch mit Dir!",
     "email": "b.hufnagel@tekom.org",
     "mobile_primary": "0179/1044532",
-    "domain": "https://jungeverlagsmenschen.de",
+    "domain": "",
     "full_address": "Heilbronner Straße 86, 70191 Stuttgart (Germany)",
     "city": "70191 Stuttgart",
     "linkedin_url": ""
@@ -159,7 +159,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://technical-communication.org",
+    "domain": "",
     "full_address": ", ()",
     "city": "",
     "linkedin_url": ""
@@ -203,7 +203,7 @@
     "description": "Der DTT e.V. ist ein Forum für alle, die sich mit Terminologie und Terminologiearbeit beschäftigen. Er hat sich zum Ziel gesetzt, durch Beratung und Koordination sowie durch die Veranstaltung von Symposien, Seminaren, Webinaren und Workshops zur Lösung fachlicher Kommunikationsprobleme beizutragen. Alle zwei Jahre verleiht der DTT e.V. den DTT-Förderpreis für herausragende Leistungen auf dem Gebiet der Terminologiewissenschaft und Terminologiearbeit. Zweimal jährlich erscheint die Fachzeitschrift des Verbands, edition, die auch kostenfrei auf der Verbandswebsite gelesen werden kann.",
     "email": "geschaeftsstelle@dttev.org",
     "mobile_primary": "+49 221 8275 3048",
-    "domain": "https://dttev.org",
+    "domain": "",
     "full_address": "c/o TH Köln, ITMK, Claudiusstraße 1, 50768 Köln (Germany)",
     "city": "50768 Köln",
     "linkedin_url": ""
@@ -390,7 +390,7 @@
     "description": "\"Kommunikation und Medienmanagement\" so der Name des erst jüngst umbenannten Bachelor- und Masterstudiengangs an der Hochschule Karlsruhe. Aber auch für die berufsbegleitende Weiterbildung ist gesorgt. Das einsemestrige Kontaktstudium Technische Dokumentation wird auch häufig zur Vorbereitung auf die tekom-Zertifizierungsprüfung besucht.",
     "email": "sekretariat.kmm.imm@h-ka.de",
     "mobile_primary": "+49 (0)721 925-1124",
-    "domain": "https://h-ka.de",
+    "domain": "",
     "full_address": "Postfach 24 40, 76012 Karlsruhe (Germany)",
     "city": "76012 Karlsruhe",
     "linkedin_url": ""
@@ -401,7 +401,7 @@
     "description": "Die Hochschule Magdeburg-Stendal nimmt seit vielen Jahren an der tekom-Tagung teil. Hier vertreten wir den Bachelor-Studiengang Language and Communication in Organizations. Die Studierenden suchen Unternehmen für Praktika und Abschlussarbeiten in Bereichen wie Terminologiearbeit, technischer Dokumentation und Fachübersetzen.",
     "email": "info@h2.de",
     "mobile_primary": "(0391) 886-30",
-    "domain": "https://h2.de",
+    "domain": "",
     "full_address": "Postfach 36 55, 39011 Magdeburg (Germany)",
     "city": "39011 Magdeburg",
     "linkedin_url": ""
@@ -610,7 +610,7 @@
     "description": "PANTOPIX stands for intelligent solutions in technical communication. With comprehensive expertise and advanced technological know-how, we support companies in optimising their information processes. By using semantic information models, knowledge graphs and language models, we build information ecosystems, enable intelligent information provision and ensure maximum added value from digital product data. Our comprehensive range of services extends from consulting to complex implementation and product development: we support our customers in close dialogue during the analysis of existing processes, the development of new concepts and the implementation, migration and integration of new systems and solutions. Find out more about us at www.pantopix.com and www.pantopixsphere.com",
     "email": "maraike.heim@pantopix.com",
     "mobile_primary": "07520 ‍956 28 03",
-    "domain": "https://wima-tage.de",
+    "domain": "",
     "full_address": "Josephine-Hirner-Straße 2, 88131 Lindau (Germany)",
     "city": "88131 Lindau",
     "linkedin_url": ""
@@ -665,7 +665,7 @@
     "description": "adoc Studio ist die ideale Schreibumgebung für Mac und iPad zur technischen Dokumentation. Stellen Sie sich eine IDE für Texte vor: Unsere Software nutzt das AsciiDoc-Markup, um Texte zu organisieren, zu schreiben und zu teilen. Mit benutzerdefinierten Bedingungen blenden Sie gezielt Textpassagen ein oder aus und exportieren spezifische Dokumente für unterschiedliche Zielgruppen. Abschließend lässt sich Ihr Projekt in Formate wie HTML und PDF mit CSS-Stilen exportieren.",
     "email": "office@projectwizards.net",
     "mobile_primary": "05422-959208",
-    "domain": "https://adoc-studio.app",
+    "domain": "",
     "full_address": "Lichtenrader Str. 11, 49324 Melle (Germany)",
     "city": "49324 Melle",
     "linkedin_url": ""
@@ -709,7 +709,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://clutch.co",
+    "domain": "",
     "full_address": "Menara Citibank, 165 Jalan Ampang, 50450 Kuala Lumpur (Malaysia)",
     "city": "50450 Kuala Lumpur",
     "linkedin_url": ""
@@ -731,7 +731,7 @@
     "description": "Am Anfang steht die Idee – dann die Frage, wie kann der Verwender die Idee nutzen! Das ist die Stunde der Technischen Dokumentation, die Stunde der SL innovativ GmbH! Wir sind in unserem Element, wenn aus Ideen Informationen werden, aus Texten und langjähriger Erfahrung Produktnutzen entsteht und wir Sie auch in die virtuelle Welt (VR/AR/MR) begleiten. Auf die Sprache des Verwenders gehen wir zielgruppenbezogen ein – so schlagen wir die Brücke vom Produkt hin zum Nutzer – und das macht uns auch noch Spaß!",
     "email": "info@sl-i.de",
     "mobile_primary": "09851-58 258 0",
-    "domain": "https://sl-i.de",
+    "domain": "",
     "full_address": "Innovativ-Ring 1, Waldeck, 91550 Dinkelsbühl (Germany)",
     "city": "91550 Dinkelsbühl",
     "linkedin_url": ""
@@ -786,7 +786,7 @@
     "description": "TCTrainNet is an English-language international online training and certification program for technical communication. The curriculum and training materials were developed by leading professionals and experts from both industry and academia in accordance with the tekom Competene Framework. TCTrainNet offers two course types on a different course level: The TCTrain Professional Course and the TCTrain Expert Course. Both prepare you for international certification as \"Technical Communicator (tekom)\". Your advantages: Expand your skills, prepare for new job opportunities or train your employees.",
     "email": "info@tc-train.net",
     "mobile_primary": "+49 711 65704-0",
-    "domain": "https://technical-writing-training-and-certification.com",
+    "domain": "",
     "full_address": "Heilbronner Str. 86, 70191 Stuttgart (Germany)",
     "city": "70191 Stuttgart",
     "linkedin_url": ""
@@ -797,7 +797,7 @@
     "description": "Die Technische Hochschule Aschaffenburg ist eine aufstrebende und familiengerechte Hochschule. Seit ihrer Gründung 1995 entwickelt sich die Hochschule rasch und verzeichnet mittlerweile fast 4.000 Studierende. Sie versteht sich als Innovationszentrum in der Metropolregion Frankfurt-Rhein-Main mit dem Campus in Aschaffenburg, dem Zentrum für wissenschaftliche Services in Obernburg und dem Lernort Miltenberg. Auf der diesjährigen tekom-Tagung stellt die TH-Aschaffenburg den Studiengang „Multimediale Kommunikation und Dokumentation“ und den Master \"Wirtschaftsingenieurwesen\" vor. Praktikern werden auf der tekom-Tagung mögliche Kooperationsprojekte mit der Hochschule aufgezeigt.",
     "email": "info@th-ab.de",
     "mobile_primary": "+49 06021 4206 0",
-    "domain": "https://th-ab.de",
+    "domain": "",
     "full_address": "Würzburger Str. 45, 63743 Aschaffenburg (Germany)",
     "city": "63743 Aschaffenburg",
     "linkedin_url": ""
@@ -808,7 +808,7 @@
     "description": "Der Masterstudiengang 'Technische Redaktion und multimediale Dokumentation' M.A. (kurz: trmd) behandelt die professionelle Arbeit mit Licht, Video, Audio und Bild sowie die zielgruppen- und medienadäquate Textproduktion. Trmd-Studierende erlernen in vier Semestern den Umgang mit den gängigen Video-, Bildverarbeitungs- und Audioschnittprogrammen sowie die Arbeit mit DTP- und Redaktionssystemen. Der Studiengang verfügt über entsprechende Studios.",
     "email": "info@thm.de",
     "mobile_primary": "+49 641 309-2472",
-    "domain": "https://thm.de",
+    "domain": "",
     "full_address": "Wiesenstraße 14, 35390 Gießen (Germany)",
     "city": "35390 Gießen",
     "linkedin_url": ""

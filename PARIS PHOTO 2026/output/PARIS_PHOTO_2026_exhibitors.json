@@ -269,7 +269,7 @@
     "description": "Principal & projets Prismes",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://bsandcgallery.com",
+    "domain": "",
     "full_address": "New York",
     "city": "New York",
     "linkedin_url": ""
@@ -533,7 +533,7 @@
     "description": "Principal & projets Prismes",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://cobgallery.com",
+    "domain": "",
     "full_address": "Londres",
     "city": "Londres",
     "linkedin_url": ""
@@ -731,7 +731,7 @@
     "description": "Galerie Esther Woerdehoff, based in Paris and Geneva, showcases established and mid-career photographers, as well as artists who push the boundaries of photography through video, drawing, and other fine art media. The Geneva space also champions emerging Swiss talent deserving wider recognition.",
     "email": "galerie@ewgalerie.com",
     "mobile_primary": "+33 6 8050 3186",
-    "domain": "https://ewgalerie.com",
+    "domain": "",
     "full_address": "Paris",
     "city": "Paris",
     "linkedin_url": ""
@@ -753,7 +753,7 @@
     "description": "Welcome to Gallery FIFTY ONE, a gallery based in Antwerp, Belgium, specialized in photography and works on paper.",
     "email": "info@gallery51.com",
     "mobile_primary": "+32(0)3 289 84 58",
-    "domain": "https://gallery51.com",
+    "domain": "",
     "full_address": "Anvers",
     "city": "Anvers",
     "linkedin_url": ""
@@ -995,7 +995,7 @@
     "description": "Hans P. Kraus Jr. Inc. is a dealer in 19th and early 20th century photographs since 1984.",
     "email": "info@sunpictures.com",
     "mobile_primary": "1865-1866",
-    "domain": "https://sunpictures.com",
+    "domain": "",
     "full_address": "New York",
     "city": "New York",
     "linkedin_url": ""
@@ -1094,7 +1094,7 @@
     "description": "Principal & projets Prismes",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://in-dependancegallery.com",
+    "domain": "",
     "full_address": "Anvers",
     "city": "Anvers",
     "linkedin_url": ""
@@ -1446,7 +1446,7 @@
     "description": "Editions",
     "email": "contact@becair.com",
     "mobile_primary": "",
-    "domain": "https://becair.com",
+    "domain": "",
     "full_address": "Marseille",
     "city": "Marseille",
     "linkedin_url": ""
@@ -1578,7 +1578,7 @@
     "description": "Opened in 2014 with the purpose to make room for new ideas in Milan’s contemporary art scene. Offering its 1000 sqm space as a platform for dialogue and a place for ambitious projects.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://m77gallery.com",
+    "domain": "",
     "full_address": "Milan",
     "city": "Milan",
     "linkedin_url": ""
@@ -1622,7 +1622,7 @@
     "description": "International contemporary art gallery, established 1987, based in Zurich. Mai 36 Galerie focuses on trading and presenting international contemporary art (painting, drawing, sculpture, photography, video, film and installation).",
     "email": "mail@mai36.com",
     "mobile_primary": "+41 (0)44 261 68 80",
-    "domain": "https://mai36.com",
+    "domain": "",
     "full_address": "Zurich",
     "city": "Zurich",
     "linkedin_url": ""
@@ -1655,7 +1655,7 @@
     "description": "Matèria proposes an exhibition programme that touches upon all aspects of Contemporary Art, focusing on the role and use of the photographic medium.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://materiagallery.com",
+    "domain": "",
     "full_address": "Rome",
     "city": "Rome",
     "linkedin_url": ""
@@ -1765,7 +1765,7 @@
     "description": "Mörel publishes books with a focus on photography Thomas Ruff, Boris Mikhailov, Stephen Shore, Robert Mapplethorpe, Lucas Blalock, Patti Smith, David Armstrong, Marie Angeletti, Alix Marie, Asger Carlsen, Chris Shaw, Roger Ballen, Corinne Day, Romain Mader, Sam Falls, Rene Ricard, Jindrich Styrsky, Nick Waplington",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://morelbooks.com",
+    "domain": "",
     "full_address": "Paris",
     "city": "Paris",
     "linkedin_url": ""
@@ -2128,7 +2128,7 @@
     "description": "Editions",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://editorialrm.com",
+    "domain": "",
     "full_address": "Barcelone",
     "city": "Barcelone",
     "linkedin_url": ""
@@ -2568,7 +2568,7 @@
     "description": "絕版影像館成立於2009年，是台灣首間專注於影像媒材的指標性藝廊。位於新竹的空間橫跨三層樓，總面積達600平方公尺，提供一個適合沉浸式觀看攝影與動態影像作品的環境。藝廊曾率先在台灣引介攝影版次的概念，並持續推動攝影作為藝術媒介的觀念性與當代性發展。英文名稱「UP」象徵其核心精神：獨特性與向上發展。憑藉對文化的貢獻，絕版影像館獲文化部評定為「百大文化基地」。",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://uniquephoto.com.tw",
+    "domain": "",
     "full_address": "Hsinchu",
     "city": "Hsinchu",
     "linkedin_url": ""
@@ -2667,7 +2667,7 @@
     "description": "Principal & projets Prismes",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://ycassociates.co.jp",
+    "domain": "",
     "full_address": "Tokyo",
     "city": "Tokyo",
     "linkedin_url": ""
@@ -2711,7 +2711,7 @@
     "description": "La galerie et librairie écho 119 a été fondée en 2016. Spécialisée dans l'art contemporain et en partie dans la photographie japonaise, la galerie présente le travail d'artistes reconnu.es comme celui d'émergent.es, originaires de tous pays. Un accent particulier est cependant mis sur les artistes japonais.",
     "email": "contact@galerieecho119.com",
     "mobile_primary": "+33 7 44 88 33 25",
-    "domain": "https://galerieecho119.com",
+    "domain": "",
     "full_address": "Paris",
     "city": "Paris",
     "linkedin_url": ""

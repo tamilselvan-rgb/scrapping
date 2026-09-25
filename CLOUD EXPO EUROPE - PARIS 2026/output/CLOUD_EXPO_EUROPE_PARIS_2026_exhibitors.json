@@ -16,7 +16,7 @@
     "description": "",
     "email": "WeAssist@trm.eu.com",
     "mobile_primary": "+33159040720",
-    "domain": "https://thermgmt.com",
+    "domain": "",
     "full_address": "5 RUE DE L'INDUSTRIE, SAINT OUEN L'AUMONE, ILE DE FRANCE, 95310, France",
     "city": "SAINT OUEN L'AUMONE",
     "linkedin_url": ""
@@ -27,7 +27,7 @@
     "description": "Schneider Electric is your partner in energy technology. We electrify, automate, and digitize industries, businesses, and homes. Our mission: to advance energy technologies for a sustainable future. Change is accelerating, radically transforming the way we live and work. Three major trends are profoundly reshaping our world: • The new energy landscape. • Digital & AI • Multipolarity. To seize the opportunities presented by these changes, we must build a world where: • Buildings and homes produce more energy than they consume • Data centers are ubiquitous yet sustainable and power AI to solve today’s challenges • Industry is smart, autonomous, and capable of adapting instantly to change • Infrastructure is resilient and interconnected, enabling smarter and more sustainable cities and communities. Because mastering energy technologies means giving ourselves the means to move forward. Without ever stopping.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://se.com",
+    "domain": "",
     "full_address": "35 rue Joseph Monnier, Rueil-Malmaison, HAUTS-DE-SEINE, 92506, France",
     "city": "Rueil-Malmaison",
     "linkedin_url": ""
@@ -247,7 +247,7 @@
     "description": "2G Energie is the French subsidiary of 2G Energy GmbH, whose plant in Heek manufactures cogeneration and heat pump solutions. Our business involves harnessing energy resources: biogas, syngas, gas derived from waste or industrial processes, as well as natural gas from the grid. When these energy sources are intelligently recovered and converted, they enable the simultaneous production of electricity, heat, cooling, and/or steam, while significantly improving the energy efficiency of facilities and reducing their carbon footprint. 2G Energie offers turnkey solutions tailored to customers' needs and responsive after-sales service throughout France.",
     "email": "info@2-g.fr",
     "mobile_primary": "+33 2 23 27 86 66",
-    "domain": "https://2-g.com",
+    "domain": "",
     "full_address": "2G Energy, 9 Jean Mermoz Street, Sainte-Luce-sur-Loire, 44980, France",
     "city": "9 Jean Mermoz Street",
     "linkedin_url": ""
@@ -269,7 +269,7 @@
     "description": "3M's Electrical Division provides solutions tailored to the specific electrical connection needs of data centers.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://mmm.com",
+    "domain": "",
     "full_address": "1 Innovation Plaza, Cergy, 95000, France",
     "city": "Cergy",
     "linkedin_url": ""
@@ -313,7 +313,7 @@
     "description": "ADALTRA, your one-stop shop, brings together in a single offering all the solutions and expertise you need for your cabling and connectivity projects. For data center infrastructure, we offer integrated solutions—including high- and ultra-high-density fiber optics, copper cabling, racks, custom pre-terminated cables, and intelligent power management—designed to ensure performance, reliability, scalability, and ease of deployment.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://cae.com",
+    "domain": "",
     "full_address": "14 Mail from Commander Cousteau - The Brio, Massy, 91300, France",
     "city": "Massy",
     "linkedin_url": ""
@@ -511,7 +511,7 @@
     "description": "ASRock Rack Inc., established in 2013, specializes in cloud computing server hardware. Building on ASRock’s design principles—“Creativity, Consideration, Cost-effectiveness”—the company is dedicated to bringing out-of-the-box thinking to the server industry, driven by a passion for innovation. Leveraging ASRock’s growing momentum and distribution channels, this young and vibrant company is targeting the booming cloud computing market and is committed to serving it with user-friendly and eco-friendly DIY server hardware, featuring flexible and reliable products.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://acethemarketing.com",
+    "domain": "",
     "full_address": "4F, No. 37, Sec. 2, Jhongyang S. Rd., Beitou District, Taipei City 112, Taiwan (R.O.C.), Taipei, Taiwan, Taiwan",
     "city": "Taipei",
     "linkedin_url": ""
@@ -533,7 +533,7 @@
     "description": "",
     "email": "vergokanexport@atkore.com",
     "mobile_primary": "3255318335",
-    "domain": "https://vergokan.com",
+    "domain": "",
     "full_address": "Meeresbloem Melden 16, Oudenaarde, 9700, Belgium",
     "city": "Oudenaarde",
     "linkedin_url": ""
@@ -632,7 +632,7 @@
     "description": "AYVAZ",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://ayvoz.com",
+    "domain": "",
     "full_address": "Mustafa Inan, Istanbul, 34555, Türkiye",
     "city": "Istanbul",
     "linkedin_url": ""
@@ -654,7 +654,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "23/09/2026",
-    "domain": "https://baltimoreaircoil.eu",
+    "domain": "",
     "full_address": "Industriepark Zone A1, Heist op den berg, 2220, Belgium",
     "city": "Heist op den berg",
     "linkedin_url": ""
@@ -764,7 +764,7 @@
     "description": "Bytestock is a UK-based provider of refurbished and recertified enterprise IT hardware, helping businesses build, upgrade, and maintain reliable IT infrastructure at exceptional value. As part of LA Micro Group, we combine more than 20 years of industry experience with expert refurbishment, configuration, and technical support. Our extensive product line includes servers, storage, networking equipment, workstations, GPUs, and components from leading manufacturers such as Dell, HP, NVIDIA, and Intel. We offer customized configure-to-order solutions, flexible purchasing options, global supply capabilities, and select hardware with warranties of up to five years. Bytestock is committed to extending the lifespan of IT equipment, reducing electronic waste, and providing practical, cost-effective technology solutions for businesses around the world.",
     "email": "sales@lamicro.co.uk",
     "mobile_primary": "01753 625 111",
-    "domain": "https://lamicro.co.uk",
+    "domain": "",
     "full_address": "LA Micro Hardware Solutions, Enniskerry, Co. Wicklow, A98PC80, Ireland",
     "city": "Enniskerry, Co. Wicklow",
     "linkedin_url": ""
@@ -808,7 +808,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://linkedin.com",
+    "domain": "",
     "full_address": "COLLABORATION BETTERS THE WORLD 34 RUE LAFFITTE, PARIS, 75009, France",
     "city": "PARIS",
     "linkedin_url": ""
@@ -863,7 +863,7 @@
     "description": "CET Electric Technology Inc. (CET) was founded in 1993. It has established itself as a leader both domestically and internationally in R&D, manufacturing, system integration, on-site service, and the marketing and sales of smart power monitoring devices and energy management solutions. We have 12 agents worldwide and provide products and services in more than 76 countries and regions. Driven by demand from power grids, industries, commercial buildings, municipal facilities, data centers, transportation infrastructure, water resources and water supplies, distribution channels and partners, design institutes, telecommunications operators, and value-added resellers, CET leverages the Fourth Industrial Revolution to advance secondary electrical technology. With its expertise in electrical and electronic designs using microprocessor-based and wireless technology, as well as its extensive knowledge of computer applications—including, but not limited to, distributed architecture, cloud computing, big data, and the Internet of Things—CET has been developing innovative digital power panel meters, power quality monitors, protective relays, controllers, communication processors, and software packages. CET is able to meet its customers’ power management requirements for safety, reliability, environmental protection, and energy conservation, thereby promoting the integration of primary and secondary equipment in energy interconnection.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://acemarketing.co.kr",
+    "domain": "",
     "full_address": "Building 5, Honghui Industrial Park, 2nd Liuxian Road, Baoan District, Shenzhen, China",
     "city": "Baoan District",
     "linkedin_url": ""
@@ -951,7 +951,7 @@
     "description": "At Cloudéo, we believe that a trusted cloud is built on three key commitments: Ensure the confidentiality of your data and protect it from laws regarding extraterritoriality; To support you with expert, accessible, and local teams; Align our actions with a sustainable approach (Certified as \"Responsible Digital\" by LUCIE). Drawing on teams with recognized expertise and structured and transformative approaches—including ISO 27001 and HDS certifications—we strive to provide our customers with secure and high-performance cloud solutions. We are currently in the process of SecnumCloud certification for some of our offers. Cloudéo's expertise in managed private cloud is complete: IaaS/PaaS Hosting (green energy and choice of new or upgraded hardware); DevOps & Cloud Native; Data Protection; data; AI; conversational; Object Storage; Recovery and continuity; Web Hosting; Environments and a sovereign collaboration suite. Cloudéo combines the power of a cloud provider with the drivings force of a major IT services company: the OCI Group. The OCI Group is a major French player with over 30 local offices and more than 1,500 employees dedicated to delivering the technical excellence that sets us apart. Feel free to schedule an appointment with one of our experts who will be at the 2026 Tech Show Paris!",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://oci.fr",
+    "domain": "",
     "full_address": "2 rue Ampère,, Mundolsheim, BAS-RHIN, 67450, France",
     "city": "Mundolsheim",
     "linkedin_url": ""
@@ -1094,7 +1094,7 @@
     "description": "",
     "email": "contact@datacenter-magazine.fr",
     "mobile_primary": "879 471 548 00013",
-    "domain": "https://hbt-france.fr",
+    "domain": "",
     "full_address": "Human, Business & Technology 5 Charles Maillier Street, Dreux, EURE-ET-LOIR, 28100, France",
     "city": "Dreux",
     "linkedin_url": ""
@@ -1149,7 +1149,7 @@
     "description": "About Delta As a global leader in power and thermal management technologies, Delta fulfills its mission—\"To provide innovative, clean, and energy-efficient solutions for a better tomorrow\"—by advancing smart, energy-saving solutions.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://eltek.com",
+    "domain": "",
     "full_address": "Zandsteen 15, Hoofddorp, Hoofddorp, 2132 MZ, Netherlands",
     "city": "Hoofddorp",
     "linkedin_url": ""
@@ -1259,7 +1259,7 @@
     "description": "Économie d’Énergie, a subsidiary of La Poste and an expert in Energy Savings Certificates (CEE), supports data center operators in optimizing and financing their energy efficiency projects to reduce their costs and carbon footprint.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://economiedenergie.fr",
+    "domain": "",
     "full_address": "6 Rue Fructidor, Saint Ouen sur Seine, SEINE-SAINT-DENIS, 93400, France",
     "city": "Saint Ouen sur Seine",
     "linkedin_url": ""
@@ -1270,7 +1270,7 @@
     "description": "EET is Europe's leading distributor and positions itself as the premier specialist partner in networking, cybersecurity, video surveillance, IT spare parts, audiovisual equipment, and point-of-sale solutions. Come meet our partners: BELDEN, POWERWALKER BLUEWALKER, UBIQUITI, LANVIEW EET distributes more than 1,100 brands and serves more than 30,000 B2B customers across Europe, with more than 450 product experts. As a value-added distributor , we combine: distribution of the leading brands in-depth product expertise product availability state-of-the-art logistics technical and sales support high-performance and innovative digital tools",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://eetgroup.com",
+    "domain": "",
     "full_address": "38 Rue Mozart, Clichy, HAUTS-DE-SEINE, 92110, France",
     "city": "Clichy",
     "linkedin_url": ""
@@ -1314,7 +1314,7 @@
     "description": "Our expertise: covers for water and sewer systems, stormwater collection, telecommunications, and other utility networks. As a specialist in network covers and safety solutions, EJ can offer you the most suitable solutions using the most appropriate materials: cast iron, steel, or composite.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://ejco.com",
+    "domain": "",
     "full_address": "45 Edouard Herriot Street, CHAPONNAY, AUVERGNE RHONE ALPES, 69970, France",
     "city": "CHAPONNAY",
     "linkedin_url": ""
@@ -1446,7 +1446,7 @@
     "description": "ETT is a French manufacturer of air conditioning, heating, ventilation, and dehumidification systems. It works with data center designers to provide innovative, highly efficient systems.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://energie-transfert-thermique.fr",
+    "domain": "",
     "full_address": "56 Route de Brest – P.O. Box 26, Ploudalmezeau, FINISTERE, 29830, France",
     "city": "Ploudalmezeau",
     "linkedin_url": ""
@@ -1457,7 +1457,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://linkedin.com",
+    "domain": "",
     "full_address": "Unit 2508, DFC, Huli District, Xiamen, Fujian, 361000, China",
     "city": "Xiamen",
     "linkedin_url": ""
@@ -1523,7 +1523,7 @@
     "description": "Fauché is a French independent company specializing in energy solutions and services (electricity, automation, maintenance, and energy efficiency) - CFO/CFA/CVC",
     "email": "20contact@fauche.com",
     "mobile_primary": "+33563200883",
-    "domain": "https://fauche.com",
+    "domain": "",
     "full_address": "3 Avenue des Frères Lumière, Villiers-sur-Marne, 94350, France",
     "city": "Villiers-sur-Marne",
     "linkedin_url": ""
@@ -1534,7 +1534,7 @@
     "description": "For more than 20 years, FCS has been a major player in the structured cabling market in France. FCS has developed extensive expertise in copper, fiber-optic, VDI, network , and offers a range of standard and custom services and products to meet your needs. Our activities are organized around four key areas: Custom manufacturing in France : Custom solutions , copper cable, fiber-optic patch cords, cable clamps, trunk cables, power distribution units, labeling, laser engraving, marking, pre-termination, and pre-assembly of drawers/racks, prototypes. SERVICE: Technical Assistance & On-Site Support : Connection of fiber-optic and copper ports / Audit, measurement, and corrective measures for fiber-optic and copper networks. DISTRIBUTION of VDI products : With over 3,000 m² of warehouse space, FCS offers more than 10,000 product SKUs: fiber-optic and copper systems, 19-inch racks and accessories, and other VDI solutions (broadcast, test equipment). Copper / Fiber-Optic / VDI / Networking Solutions: cabling, connectors, racks, and enclosures. Customized LOGISTICS : dedicated inventory, multi-site deliveries, or on-site deliveries. We support your most ambitious projects: . Smart Cities : Connected infrastructure for the cities of tomorrow. . Data Centers: Optimization and reliability of investments. . Factory of the Future: High-performance interconnections for Industry 4.0. . Smart Buildings : Deployment of low-voltage networks. . 4G/5G : Expansion and densification of mobile networks. . FTTH : Maintenance and improvement of the fiber-optic network. . Broadcast : Robust solutions for media and entertainment. www.fcsgroup.fr",
     "email": "",
     "mobile_primary": "01 30 79 94 20",
-    "domain": "https://fcsgroup.fr",
+    "domain": "",
     "full_address": "Fiber Cabling Services (FCS), 8 Rue Abel Gance, ZAC de la Croix Bonnet, Bois d'Arcy, YVELINES, 78390, France",
     "city": "8 Rue Abel Gance, ZAC de la Croix Bonnet",
     "linkedin_url": ""
@@ -1545,7 +1545,7 @@
     "description": "Prescription Manager",
     "email": "",
     "mobile_primary": "+33251616969",
-    "domain": "https://lineguard-access.com",
+    "domain": "",
     "full_address": "110 Rue Pierre Gilles de Gennes, Cholet, 49300, France",
     "city": "Cholet",
     "linkedin_url": ""
@@ -1644,7 +1644,7 @@
     "description": "Gamma Technologies (GT) develops and licenses GT-SUITE, a leading multiphysics simulation platform that helps engineers design, optimize, and make the critical systems future-proof Powering modern data centers. By integrating thermal management, power distribution, energy storage, and control systems into a single simulation environment, GT-SUITE enables teams to understand complex system interactions before making costly real-world decisions. Engineers can evaluate how changes in cooling strategies affect power consumption, assess the impact of battery aging on reliability, and identify performance bottlenecks early in the design process. For data center applications, GT-SUITE provides end-to-end system modeling, from facility-level airflow and thermal performance down to individual racks and components. Teams can compare air, liquid, and two-phase cooling architectures, evaluate UPS and battery energy storage system (BESS) performance under dynamic operating conditions, and optimize energy efficiency while maintaining reliability. The platform also supports the modeling of advanced power architectures and microgrids, including on-site generation, renewable energy integration, hydrogen storage, and grid interactions, helping operators improve resilience while reducing PUE. AI and machine learning further enhance the workflow by enabling predictive digital twins that detect potential issues early, forecast maintenance requirements, and reduce the risk of unexpected downtime. Backed by more than 30 years of simulation expertise and proven across more than 20 industries, GT-SUITE empowers data center engineers to validate and optimize designs virtually, reducing risk, accelerating innovation, and ensuring that every decision is tested in simulation before becoming a hardware investment.",
     "email": "",
     "mobile_primary": "+16303255848",
-    "domain": "https://gtisoft.com",
+    "domain": "",
     "full_address": "37 Danneckerstraße, Stuttgart, BW, 70182, Germany",
     "city": "Stuttgart",
     "linkedin_url": ""
@@ -1655,7 +1655,7 @@
     "description": "GBE S.p.A. is an Italian company and a market leader in the manufacture of cast-reel, VPI, and liquid-immersed transformers and reactors for a wide range of applications, including standard, special, and custom solutions. Our comprehensive product line includes: Cast-resin transformers ranging from 100 kVA to 30 MVA (46 kV) VPI transformers ranging from 50 kVA to 30 MVA (46 kV) liquid-immersed transformers ranging from 50 kVA to 50 MVA (145 kV-BIL650) Molded resin, VPI, and liquid-filled reactors up to 5,000 A / 46 kV The company is based in Orgiano (Vicenza) and boasts 40 years of experience and technical expertise. It has experienced steady growth, expanding from its original factory—which still houses its headquarters—to its four current facilities, all fully equipped with testing labs and offices, where manufacturing takes place. The entire production process is conducted in accordance with ISO 9001:2015, ISO 14001, and ISO 45001 standards. GBE also has a presence in the United Kingdom and Australia, with two permanent facilities. Both sites are equipped with an office and a workshop, where local sales, technical support, and after-sales service are provided, as well as the assembly of additional components such as RMUs, medium-voltage switchgear, low-voltage switchgear, etc. GBE S.p.A. has been successfully exporting its products worldwide for decades. All country-specific technical guidelines are strictly adhered to in order to ensure that GBE products are safe, reliable, and tailored to customer needs. Our well-trained, flexible, and dedicated team plays an extremely important role and is an integral part of the company’s success. GBE S.p.A. offers high-quality products manufactured using state-of-the-art technology, competitive quotes, flexible delivery terms, and technical support that guides its customers in always choosing the best standard or custom solution available. For more information, please visit our website at www.gbeonline.com",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://gbeonline.com",
+    "domain": "",
     "full_address": "via Teoghio 44, Orgiano (Vi), Italy, 36040, Italy",
     "city": "Italy",
     "linkedin_url": ""
@@ -1688,7 +1688,7 @@
     "description": "GF is the leading provider of flow solutions for industry and infrastructure, enabling the safe and sustainable transport of fluids. The division ensures process quality with industry-leading, leak-free, easy-to-install, and easy-to-maintain flow solutions and engineering services for numerous demanding end-market segments. At GF Industry and Infrastructure Flow Solutions, we specialize in mission-critical flow solutions that ensure safe, efficient, and scalable cooling performance across your entire data center infrastructure—from Condenser Water Systems (CWS) to Facility Water Systems (FWS) to Technology Cooling Systems (TCS)—supporting advanced Direct Liquid Cooling (DLC) systems. With over 30 years of experience in high-purity semiconductor manufacturing and as a Silver Member of the Open Compute Project (OCP), we develop innovative solutions to meet the industry’s highest expectations for cooling performance, uptime, and energy efficiency.",
     "email": "",
     "mobile_primary": "2025 2024",
-    "domain": "https://gfps.com",
+    "domain": "",
     "full_address": "Rabelais Building, 22 Avenue des Nations, Villepinte, 93420, France",
     "city": "22 Avenue des Nations",
     "linkedin_url": ""
@@ -1776,7 +1776,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "72) 27/07/2026",
-    "domain": "https://gsegroup.com",
+    "domain": "",
     "full_address": "80 Av. des Terroirs de France Ledex-12 Building, Garonne, 75607, France",
     "city": "Garonne",
     "linkedin_url": ""
@@ -1787,7 +1787,7 @@
     "description": "Guangxi Yuchai Marine and Genset Power Co., Ltd. was formerly a subsidiary of Yuchai Co., Ltd. It began operating independently in January 2022 and is a subsidiary of Yuchai Co., Ltd. Our company focuses on the research and development, production, sales, and service of marine power systems, power generation systems, gas power systems, and other products, which are widely used in shipbuilding and marine engineering equipment, power generation, oil drilling, and other fields, and are exported to more than 180 countries and regions in Asia, Europe, the Americas, and Africa. The application market includes ports, data centers, government agencies, and the real estate sector, among others, and we have established long-term partnerships with Huawei, China Mobile, China Telecom, Sinopec, PetroChina, and other companies.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://linkedin.com",
+    "domain": "",
     "full_address": "Unit 2508, DFC, Huli District, Xiamen, Fujian, 361000, China",
     "city": "Xiamen",
     "linkedin_url": ""
@@ -1996,7 +1996,7 @@
     "description": "Specialist in automatic gas and water mist fire suppression systems",
     "email": "courriel@ieagazeteau.fr",
     "mobile_primary": "0669171574",
-    "domain": "https://ieagazeteau.fr",
+    "domain": "",
     "full_address": "60 Rue François I, Paris, 75008, France",
     "city": "Paris",
     "linkedin_url": ""
@@ -2062,7 +2062,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://b2bm.fr",
+    "domain": "",
     "full_address": "7 bis Passage de la Ferme Saint-Lazare, Paris, PARIS, 75010, France",
     "city": "Paris",
     "linkedin_url": ""
@@ -2139,7 +2139,7 @@
     "description": "Joubert Lacour is a French manufacturer specializing in steel structures For over a century, Joubert Lacour has been a French company specializing in metallurgical products for demanding sectors such as the automotive industry, security, defense, and technical infrastructure. Since the 1980s, we have developed unique expertise in the design and manufacture of metal raised access floors, suited to the most demanding environments and the heaviest loads. The KFS - Key Frame System solution Our patented KFS system is specifically designed to meet the needs of data centers, computer rooms, technical rooms, and industrial environments. It is the ideal framework for your heavy-duty floors: sturdy, quick to install, secure, and perfectly suited for dynamic loads. Quick installation: Lockable key system that can be activated with a single tap of a mallet—saving time during installation. Integrated Safety: Self-supporting, earthquake-resistant structure designed to withstand dynamic loads High load-bearing capacity: Certified to NF EN 12 825, our system can withstand loads ranging from 2,000 to 4,000 daN/m² (classes 4 through 6, coefficient 2) Joubert Lacour is a French manufacturer and metalworking expert For over a century, Joubert Lacour has been a French company specializing in metal products for demanding sectors such as the automotive, security, defense, and technical infrastructure industries. Since the 1980s, we have developed unique expertise in the design and manufacture of raised access floor metal structures, tailored for the most demanding environments and heavy-duty loads. The KFS Solution - Key Frame System Our patented KFS system is specially designed to meet the needs of data centers, server rooms, technical facilities, and industrial environments. It is the ideal substructure for your heavy-duty raised floors: sturdy, quick to install, safe, and perfectly suited for dynamic loads. Quick installation: lockable key system, activated with a simple tap of a mallet—significant time savings during installation. Built-in safety: Intelligent, self-supporting, earthquake-resistant frame, designed to withstand dynamic loads. High load resistance: Complies with the NF EN 12 825 standard, classes 4 through 6 with a coefficient of 2—KFS load capacity ranging from 2,000 daN to 4,000 daN/m².",
     "email": "",
     "mobile_primary": "+33 (0)4 73 80 46 11",
-    "domain": "https://kfs-access-floor.com",
+    "domain": "",
     "full_address": "54 allée du Petit Lavoir, Ambert, PUY-DE-DOME, 63 600, France",
     "city": "Ambert",
     "linkedin_url": ""
@@ -2194,7 +2194,7 @@
     "description": "KEYES | Expert in IT resilience and operations. Systems, mainframe, and cloud administration in France.",
     "email": "",
     "mobile_primary": "+33144932150",
-    "domain": "https://trigone.fr",
+    "domain": "",
     "full_address": "3 Aimé Césaire Square, Montreuil, SEINE-SAINT-DENIS, 93100, France",
     "city": "Montreuil",
     "linkedin_url": ""
@@ -2260,7 +2260,7 @@
     "description": "La Barrière Automatique (LBA) is a French designer and manufacturer of solutions dedicated to high-volume traffic management, access control, and high-security perimeter protection. For over 40 years, the group has been developing and manufacturing a comprehensive range of barriers, bollards, gates, turnstiles, and security barriers in France. Recognized for its industrial expertise, innovation, and the reliability of its products, LBA supports infrastructure projects, local governments, and sensitive sites with solutions designed to streamline and secure pedestrian and vehicle access in a sustainable manner.",
     "email": "contact@lbagroup.fr",
     "mobile_primary": "22/06/2026",
-    "domain": "https://grouplba.com",
+    "domain": "",
     "full_address": "The Automatic Gate, 451 Chemin Champivost, LIMONEST, RHONE, 69760, France",
     "city": "451 Chemin Champivost",
     "linkedin_url": ""
@@ -2315,7 +2315,7 @@
     "description": "",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://h3xgroup.com",
+    "domain": "",
     "full_address": "11a Tunnel Street, Carouge, Geneva, 12227, Switzerland",
     "city": "Carouge, Geneva",
     "linkedin_url": ""
@@ -2326,7 +2326,7 @@
     "description": "We are LUVE. We are shaping the future of cooling. We are a leading global player in the HVACR industry. We design and manufacture advanced, high-efficiency cooling solutions for data centers, as well as commercial and industrial applications. With decades of expertise, we are a trusted partner for data center cooling, delivering reliable and energy-efficient solutions such as dry coolers, adiabatic systems, and advanced heat exchangers. Our technologies are designed to support mission-critical infrastructures, optimizing performance, reducing energy consumption, and enabling sustainable growth. Founded in 1986 based on the vision of Iginio Liberali, LUVE has grown into a global leader driven by continuous innovation and measurable performance. Today, we operate in nine countries with 20 manufacturing facilities and 35 sales offices, serving more than 100 countries worldwide. Our portfolio also includes condensers, ventilated units, and glass doors for refrigerated cabinets, serving key sectors such as the cold chain, commercial and industrial refrigeration, power generation, nuclear, and air conditioning. Our strength lies in our team of over 4,000 skilled professionals and our strong commitment to research and development, including collaborations with approximately 30 universities worldwide. We have been listed on the Italian Stock Exchange since 2015.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://lu-ve.com",
+    "domain": "",
     "full_address": "Via Caduti della Liberazione, 53, Uboldo, (VA), 21040, Italy",
     "city": "Uboldo",
     "linkedin_url": ""
@@ -2359,7 +2359,7 @@
     "description": "1",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://acethemarketing.com",
+    "domain": "",
     "full_address": "Room 1701, Block A, Longhua District Digital Innovation Center (Hongruiyuan Beizhan Center), Beizhan Community, Minzhi Subdistrict,, Longhua District, China",
     "city": "Longhua District",
     "linkedin_url": ""
@@ -2381,7 +2381,7 @@
     "description": "Manage Engine",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://zoho.com",
+    "domain": "",
     "full_address": "Beneluxlaan 4B,, Utrecht, 3527, Netherlands",
     "city": "Utrecht",
     "linkedin_url": ""
@@ -2524,7 +2524,7 @@
     "description": "NBS System, a subsidiary of the CELESTE Group, has been applying its cybersecurity expertise to protect your business for over 25 years: penetration testing, vulnerability scanning, and Security Champions coaching—all designed to strengthen your security posture and ensure your compliance with the GDPR, ISO 27001, and NIS2.",
     "email": "marketing@celeste.fr",
     "mobile_primary": "+33170176020",
-    "domain": "https://celeste.fr",
+    "domain": "",
     "full_address": "CLESTE 20 Albert Einstein Street, Champs-sur-Marne, IDF, 77420, France",
     "city": "Champs-sur-Marne",
     "linkedin_url": ""
@@ -2568,7 +2568,7 @@
     "description": "Voltn (formerly NetExplorer) is the expert in enterprise file management. Store, share, co-edit, sign, approve, track, and retrieve: the software covers the entire file lifecycle. For more than fifteen years, it has been meeting this need with two products: Voltn Share for sharing files externally, and Voltn Workspace for consolidating and managing company files. 2,000 organizations and 300,000 daily users entrust their files to it, totaling more than 500 million files to date. The Toulouse-based company hosts these files in France or Luxembourg. It is certified to ISO 9001, ISO 27001, and as a Health Data Host (HDS), and holds the Responsible Digital (NR) certification.",
     "email": "",
     "mobile_primary": "+33582954133",
-    "domain": "https://voltn.eu",
+    "domain": "",
     "full_address": "Voltn, 11 Boulevard Deodat de Sévérac, Colomiers, HAUTE-GARONNE, 31770, France",
     "city": "11 Boulevard Deodat de Sévérac",
     "linkedin_url": ""
@@ -2865,7 +2865,7 @@
     "description": "QRP France Develop your professional skills! For more than 20 years, QRP France has been helping professionals and organizations develop strategic skills and adopt best practices in management. We offer training, certifications, and consulting services in the following key areas: project management, agility, IT governance, change management, PMO, program and portfolio management, information security, and project management with AI. Our strengths: Internationally Recognized Certifications International Expertise Tailored Support Responsiveness and Flexibility QRP, your partner in lifelong learning!",
     "email": "france@qrpinternational.com",
     "mobile_primary": "+3301.82.88.33.49",
-    "domain": "https://qrpinternational.fr",
+    "domain": "",
     "full_address": "60 Avenue Charles De Gaulle, P.O. Box 60016, Neuilly-sur-Seine, 92573, France",
     "city": "Neuilly-sur-Seine",
     "linkedin_url": ""
@@ -2876,7 +2876,7 @@
     "description": "\"Connectivity That Matters\" Reichle & De-Massari AG (R&M) is an independent Swiss family-owned company headquartered in Wetzikon (Zurich). With more than 60 years of expertise in the information and communications technology market, the company develops infrastructure solutions for local area networks (LANs), public networks, and data centers. True to its vision of unlimited communication, R&M provides network infrastructure that connects individuals and businesses around the world. The R&M portfolio includes connectivity and cabling products, patch panels, racks, enclosures, and power distribution solutions, as well as digital infrastructure management systems. R&M integrates complementary solutions from partners, such as uninterruptible power supply (UPS) and cooling systems. The R&M Group operates in more than 40 countries through its own sales organizations. It operates its own factories and centers of expertise and development around the world. In 2025, R&M generated revenue of 260.3 million Swiss francs. Founded in 1964, the company is owned by brothers Martin and Peter Reichle (second generation). Sustainable development is a key component of R&M’s strategy and values, aimed at balancing economic activity with social responsibility. The company is committed to decarbonizing its operations, thereby making a significant contribution to the United Nations’ Sustainable Development Goals. It is implementing its sustainability strategy across four main areas of focus.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://rdm.com",
+    "domain": "",
     "full_address": "R&M, 9 René Clair Street, Parc Méliès III, Building C, Bois-d'Arcy, 78390, France",
     "city": "9 René Clair Street",
     "linkedin_url": ""
@@ -3019,7 +3019,7 @@
     "description": "SCAFE — ACUITO: Precision That Brings Clarity to Your IT Security, costs, performance: Manage your multi-cloud infrastructure from a single screen. ACUITO centralizes what 6 to 10 siloed tools (CNAPP, SIEM, SOAR, WAF, etc.) currently manage separately. Predictive AI detects incidents in real time and recommends actions without manual intervention. Platform-agnostic (AWS, Azure, GCP, OVH, on-premises), compliant with NIS2/DORA/GDPR, and 100% sovereign: developed in France and hosted by OVH. Co-funded by the European Union and the Grand Est Region. For CIOs and CISOs who want to stop flying by the seat of their pants.",
     "email": "",
     "mobile_primary": "+33 (0)1 85 08 22 69",
-    "domain": "https://aodb.com",
+    "domain": "",
     "full_address": "32 Rue de Cambrai, Paris, PARIS, 75019, France",
     "city": "Paris",
     "linkedin_url": ""
@@ -3030,7 +3030,7 @@
     "description": "Sales Director, SEA & FEA Technology",
     "email": "info@sea.fr",
     "mobile_primary": "00 33 3 88 58 72 30",
-    "domain": "https://groupe-tabsys.fr",
+    "domain": "",
     "full_address": "Parc d'Activités des Nations, 5 RUE DE L'EUROPE, BENFELD, BAS-RHIN, 67230, France",
     "city": "BENFELD",
     "linkedin_url": ""
@@ -3206,7 +3206,7 @@
     "description": "Sunwoda Energy Technology Co., Ltd., a subsidiary of Sunwoda Group (SZ300207), is a leading global high-tech enterprise. It focuses on network, residential, utility, and smart energy solutions to meet diverse customer needs, providing integrated solutions—including energy storage and source-grid-load-storage-cloud integration—through a full-lifecycle business model.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://acethemarketing.com",
+    "domain": "",
     "full_address": "Room 1701, Block A, Longhua District Digital Innovation Center (Hongruiyuan Beizhan Center), Beizhan Community, Minzhi Subdistrict,, Longhua District, China, 518132, China",
     "city": "Longhua District",
     "linkedin_url": ""
@@ -3327,7 +3327,7 @@
     "description": "Tesar was the first Italian company to implement the technology for the production of cast-resin transformers. With 40 years of experience in design and manufacturing, Tesar is now able to provide medium-voltage cast-resin transformers with a rated power of up to 25 MVA and a primary voltage of up to 36 kV.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://the-rsgroup.com",
+    "domain": "",
     "full_address": "Loc. Chiaveretto, 37/B, Subbiano, (AR), 52 010, Italy",
     "city": "Subbiano",
     "linkedin_url": ""
@@ -3580,7 +3580,7 @@
     "description": "Your turnkey partner for the entire lifecycle of your data center From design to operation, we support you with integrated, reliable, and high-performance solutions.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://linkedin.com",
+    "domain": "",
     "full_address": "199 Louis Roche Avenue, ZA Péripark, Building D, Gennevilliers Cedex, 92622, France",
     "city": "Gennevilliers Cedex",
     "linkedin_url": ""
@@ -3723,7 +3723,7 @@
     "description": "ATTOM focuses on edge data centers. We design and deliver prefabricated, modular, and standardized micro data center solutions optimized for distributed sites to accelerate connectivity and intelligence at the edge.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://acethemarketing.com",
+    "domain": "",
     "full_address": "Room 1701, Block A, Longhua District Digital Innovation Center (Hongruiyuan Beizhan Center), Beizhan Community, Minzhi Subdistrict,, Longhua District, China",
     "city": "Longhua District",
     "linkedin_url": ""
@@ -3778,7 +3778,7 @@
     "description": "Founded in 2011, Zhejiang Rhi Electric Co., Ltd. is a professional manufacturer and exporter that integrates R&D, customization, and mass production. With over a decade of expertise in new energy electrical connections, we are based in Wenzhou, Zhejiang—serving as a trusted global partner for high-growth industries. Originally focused on new energy vehicles, energy storage, and the high- and low-voltage electrical industries, we have now expanded into the booming AI and data center sectors. Our core product portfolio includes copper and aluminum busbars, as well as specialized data center solutions: Power Busbar for OCP Open Rack, Liquid-Cooled Rack Busbar, and Quick Disconnect Couplings—all customized for modern AI data centers. We hold IATF 16949, ISO 14001, and ISO 45001 certifications, and our products comply with RoHS, REACH, and UL 94 V-0 standards—fully meeting global export requirements. Our strict closed-loop quality control has earned us exemption qualifications from many automotive and energy storage OEMs. Our experienced technical team adheres to the philosophy of \"technology-driven innovation and cooperation for mutually beneficial results,\" providing end-to-end services ranging from design integration to mass production. We welcome customers from around the world to visit our factory for on-site inspections. In the future, Rhi Electric will continue to expand its presence in new energy connection systems and AI data center busbars. We will remain committed to quality and integrity, earning our customers’ trust through our strong manufacturing capabilities and achieving long-term, mutually beneficial growth with our partners.",
     "email": "",
     "mobile_primary": "",
-    "domain": "https://linkedin.com",
+    "domain": "",
     "full_address": "Unit 2508, DFC, Huli District, Xiamen, Fujian, 361000, China",
     "city": "Xiamen",
     "linkedin_url": ""
