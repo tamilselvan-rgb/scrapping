@@ -138,20 +138,20 @@ def main():
     expected, exhibitors = fetch_exhibitors()
     records = [make_record(item) for item in exhibitors]
     records.sort(key=lambda row: row["company_name"].casefold())
-    output = Path(__file__).parent / "output"
-    output.mkdir(exist_ok=True)
-    with (output / "CREW_CONNECT_GLOBAL_2026_exhibitors.csv").open(
+    output = Path(__file__).parents[1] / "Seatrade Maritime Crew Connect Global" / "output"
+    output.mkdir(parents=True, exist_ok=True)
+    with (output / "SEATRADE_MARITIME_CREW_CONNECT_GLOBAL_exhibitors.csv").open(
         "w", encoding="utf-8-sig", newline=""
     ) as stream:
         writer = csv.DictWriter(stream, fieldnames=FIELDS)
         writer.writeheader()
         writer.writerows(records)
-    with (output / "CREW_CONNECT_GLOBAL_2026_exhibitors.json").open(
+    with (output / "SEATRADE_MARITIME_CREW_CONNECT_GLOBAL_exhibitors.json").open(
         "w", encoding="utf-8"
     ) as stream:
         json.dump(records, stream, ensure_ascii=False, indent=2)
 
-    print("=== Verification Report: Crew Connect Global 2026 ===")
+    print("=== Verification Report: Seatrade Maritime Crew Connect Global ===")
     print(f"Total Exhibitors : {len(records)}")
     print("Field Coverage   :")
     for field in FIELDS:
