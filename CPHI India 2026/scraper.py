@@ -23,7 +23,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0", "X-Requested-With": "XMLHttpRequest"}
 VERIFIED_DOMAINS: dict[str, str] = {
     "Zytex Biotech Pvt Ltd": "https://www.zytex.com/",
     "Zim Laboratories Ltd": "https://www.zimlab.in/",
-    "Zeon Pharma Industries (India) Private Limited": "https://zeongroup.com/",
+    "ZEON PHARMA INDUSTRIES (INDIA) PRIVATE LIMITED": "https://zeongroup.com/",
     "Zeon Lifesciences Ltd": "https://zeonlifesciences.com/",
     "Zenzi Pharmaceuticals Ind Ltd": "https://www.zenzi.in/",
     "ACG Associated Capsules Pvt. Ltd.": "https://www.acg-world.com/",
