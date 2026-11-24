@@ -38,32 +38,39 @@ def text(node) -> str:
 def main():
     session = requests.Session()
     session.headers["User-Agent"] = "Mozilla/5.0 (compatible; exhibitor research)"
-    response = session.get(URL, timeout=60)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
     records = []
-    for card in soup.select(".exhibitor-item-column"):
-        name_node = card.select_one(".exhibitor-link")
-        if not name_node:
-            continue
-        booth = ""
-        # The venue label is rendered beside the exhibitor name in the card.
-        card_text = text(card)
-        match = re.search(r"(\d{1,2}\.[A-Z]\d{3,})", card_text)
-        if match:
-            booth = match.group(1)
-        website = card.select_one('a[title="Go to website"][href]')
-        records.append({
-            "company_name": text(name_node),
-            "booth": booth,
-            "description": "",
-            "email": "",
-            "mobile_primary": "",
-            "domain": clean_domain(website.get("href", "") if website else ""),
-            "full_address": "",
-            "city": "",
-            "linkedin_url": "",
-        })
+    for page in range(1, 50):
+        page_url = URL if page == 1 else f"{URL}/page/{page}"
+        response = session.get(page_url, timeout=60)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        cards = soup.select(".exhibitor-item-column")
+        if not cards:
+            break
+        for card in cards:
+            name_node = card.select_one(".exhibitor-link")
+            if not name_node:
+                continue
+            booth = ""
+            # The venue label is rendered beside the exhibitor name in the card.
+            card_text = text(card)
+            match = re.search(r"(\d{1,2}\.[A-Z]\d{3,})", card_text)
+            if match:
+                booth = match.group(1)
+            website = card.select_one('a[title="Go to website"][href]')
+            records.append({
+                "company_name": text(name_node),
+                "booth": booth,
+                "description": "",
+                "email": "",
+                "mobile_primary": "",
+                "domain": clean_domain(website.get("href", "") if website else ""),
+                "full_address": "",
+                "city": "",
+                "linkedin_url": "",
+            })
+        if not soup.select_one(f'[data-page="{page + 1}"]'):
+            break
     # Deduplicate cards while retaining their first official website.
     unique = {}
     for row in records:
